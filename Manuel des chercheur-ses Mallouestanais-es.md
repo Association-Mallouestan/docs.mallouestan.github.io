@@ -9,7 +9,7 @@ La création d’une alternative est un travail de tous les jours. Tendre vers u
 Nous sommes conscient-e-s que beaucoup des valeurs et des objectifs ci-dessous sont difficilement atteignables. De fait, nous les listons humblement en acceptant que chacun-e, sur le lieu, ne peut qu’y tendre. 
 - Créer une résilience/indépendance commune vis-à-vis du capitalisme et de la société de consommation notamment mais non limité à:
 	- L'autonomie en fruits et légumes
-	- L'autonomie en énergie primaires pour le chauffage
+	- L'autonomie vis a vis des energies fossiles
 	- L'autonomie en méthodes et matériaux de construction
 	- Que les espaces d'hébergement dits "personnels" soient totalement déconnectés des réseaux publics
 - D'assurer la perrénité du sanctuaire pour les animaux non-humains ; 
