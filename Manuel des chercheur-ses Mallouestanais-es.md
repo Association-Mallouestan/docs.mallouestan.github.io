@@ -43,7 +43,8 @@ Nous sommes conscient-e-s que chacun-e est déconstruit-e à des niveaux variabl
 > Ces restrictions ne doivent pas être utilisées à quelques fins que ce soit à l'égard d'individus qui ne les respecteraient pas dans leurs espaces personnels. 
 
 > Ces restrictions ne concernent pas les produits nécessaires pour la santé (par exemple : médicament)
-> 
+
+
 ## Gouvernance
 Un équilibre doit être touvé entre les libertés individuelles et celles du collectif. Les situations suivantes, impactant le contexte commun, doivent être précédées par un vote unanime des personnes concernées par la décision: 
 
@@ -68,10 +69,12 @@ Lors d’un conflit:
 
 > L’ultimatum est donné avec des conditions et les conséquences liées au non-respect de l’ultimatum. Ces critères ainsi que les conditions sont décidés entre tou-te-s les membres du collectif en dehors de la personne ciblée par les injonctions potentielles. Cet outil doit rester un dernier recours et sa violence ne doit pas être sous estimée.
 
-### Responsabilités particulières 
+## Ultimatums 
 Plusieurs ultimatums exceptionnels sont de facto définis pour tous-tes les membres du lieu: 
 1. Toute atteinte physique intentionelle, hors légitime défense, sur un individu du lieu peut entraîner une exclusion du lieu si au moins un-e autre membre du lieu le souhaite 
 2. Toute atteinte physique grave (décès, blessures sur le long terme) par un animal non-résident sur un autre individu du lieu entraîne soit l’exclusion de l’animal ou, si le ou les responsables de l’animal le souhaite, un ultimatum les concernant directement
+
+---
 
 ## Vie collective
 ### Communication sur le lieu 
