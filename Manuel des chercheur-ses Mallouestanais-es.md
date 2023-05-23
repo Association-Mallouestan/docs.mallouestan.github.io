@@ -105,7 +105,7 @@ Les divers dons sont ajoutés au pot commun. Lors des réunions, l'argent prése
 
 > Une liste de courses communes est défini précisant les produits que l'on achète avec le budget associé. 
 
-Les fonds suivants sont disponible sur le lieu et sont encadrées par l'annexe "Fonds et mutuelles":
+Les fonds suivants sont disponible sur le lieu et sont encadrés par l'annexe "Fonds et mutuelles":
 1. Fond de solidarité
 2. Mutuelle de subsistance
 3. Fond de secours du sanctuaire
