@@ -1,6 +1,4 @@
 ## Préface
-*Ce document, destiner au visteur-euse, est extrait de "Le Manuel des Cheurcheur-euse Mallouestanais-e".*
-
 La création d’une alternative est un travail de tous les jours. Tendre vers un idéal est complexe. C’est pourquoi nous sommes contraint-e-s d’établir un manuel de vie commune. 
   
 > Ce manuel définit le contexte commun auquel tout le monde choisit d’adhérer en venant sur le lieu ou en participant aux événements extérieurs organisés par le Mallouestan 
