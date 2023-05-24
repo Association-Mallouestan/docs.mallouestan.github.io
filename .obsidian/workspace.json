@@ -4,11 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "86e2e0ece087954f",
+        "id": "d369f95924913231",
         "type": "tabs",
         "children": [
           {
+            "id": "b14ac50893e8c952",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Charte et ressources/Manuel des chercheur-ses Mallouestanais-es.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "73860c434a3caff3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Charte et ressources/Annexes/Animaux non autonomes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e5ca81c532e96e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Charte et ressources/Annexes/Budget.md",
+                "file": "Charte et ressources/Manuel des chercheur-ses Mallouestanais-es.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Charte et ressources/Annexes/Budget.md",
+                "file": "Charte et ressources/Manuel des chercheur-ses Mallouestanais-es.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Charte et ressources/Annexes/Budget.md"
+                "file": "Charte et ressources/Manuel des chercheur-ses Mallouestanais-es.md"
               }
             }
           }
@@ -146,9 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73860c434a3caff3",
+  "active": "b14ac50893e8c952",
   "lastOpenFiles": [
+    "Charte et ressources/Annexes/Animaux non autonomes.md",
     "Charte et ressources/Manuel des chercheur-ses Mallouestanais-es.md",
+    "Charte et ressources/Annexes/Liste de courses.md",
     "Charte et ressources/Annexes/Budget.md",
     "Charte et ressources/Annexes",
     "Charte et ressources/Manuel des visiteur-euse Mallouestanais-es.md",
