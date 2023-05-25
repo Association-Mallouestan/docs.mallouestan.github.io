@@ -156,6 +156,8 @@ Toute personne souhaitant contribuer au projet ou à un axe du projet peut, si e
 - La responsabilité de garantir le respect de la charte et d'intervenir ou solutionner des potentiels problèmes 
 - La responsabilité de contribuer activement à l'avancée du projet dans son ensemble vers les objectifs cités plus haut. 
 - D'être considéré-e comme concerné-e par les changements du contexte commun (et donc de détenir un pouvoir décisionnel) même  en cas d'absence sur le lieu. En cas d'injoignabilité le/la contributeur-ice a deux semaines pour partager sa décision.   
+- De valider ou non les exceptions a la charte meme en cas d'absence du lieu. En cas d'injoignabilité le/la contributeur-ice a deux semaines pour partager sa décision. N'est pas concerner par ce point:
+	- le quota de visiteureuse
 
 Les contributeur-rices ont les mêmes droits que les visiteur-euses ainsi que les suivants: 
 - Le droit de véto et de décision sur le contexte commun, non plafonné dans le temps 
