@@ -11,12 +11,8 @@
             "id": "b14ac50893e8c952",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Philosophie/Readme.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Philosophie/Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Philosophie/Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Philosophie/Readme.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,16 +139,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b14ac50893e8c952",
+  "active": "8edc56c6779ef8ae",
   "lastOpenFiles": [
-    "Philosophie/Readme 1 1.md",
-    "Philosophie/Readme.md",
-    "Ressources visiteureuse/Readme.md",
-    "Philosophie",
-    "Ressources sanctuaires/Readme.md",
-    "Ressources visiteureuse",
+    "Text.txt",
     "Manuel des chercheur-ses Mallouestanais-es.md",
+    "Untitled.md",
+    "Ressources visiteureuse/Readme.md",
+    "Ressources visiteureuse",
+    "Ressources sanctuaires/Readme.md",
     "Ressources sanctuaires",
+    "Philosophie/Readme.md",
+    "Philosophie",
     "Charte et annexes/Annexes/Liste de courses.md",
     "Charte et annexes/Annexes/Budget.md",
     "Charte et annexes/Annexes/Animaux non autonomes.md",
@@ -164,6 +157,7 @@
     "Charte et annexes/Manuel des chercheur-ses Mallouestanais-es.md",
     "Charte et annexes/Annexes",
     "Charte et annexes",
+    "Philosophie/Readme 1 1.md",
     "Charte et ressources/Annexes/Liste de courses.md",
     "Charte et ressources/Annexes/Budget.md",
     "Charte et ressources/Annexes/Animaux non autonomes.md",
