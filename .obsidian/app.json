@@ -1,3 +1,8 @@
 {
-  "showLineNumber": true
+  "showLineNumber": true,
+  "spellcheckLanguages": [
+    "en-US",
+    "fr-FR"
+  ],
+  "spellcheck": true
 }

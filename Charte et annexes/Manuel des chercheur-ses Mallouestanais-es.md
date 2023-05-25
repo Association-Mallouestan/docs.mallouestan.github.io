@@ -12,13 +12,13 @@ Nous sommes conscient-e-s que beaucoup des valeurs et des objectifs ci-dessous s
 	- L'autonomie vis a vis des energies fossiles
 	- L'autonomie en méthodes et matériaux de construction
 	- Que les espaces d'hébergement dits "personnels" soient totalement déconnectés des réseaux publics
-- D'assurer la perrénité du sanctuaire pour les animaux non-humains ; 
+- D'assurer la pérennité du sanctuaire pour les animaux non-humains ; 
 - Diminuer notre impact écologique ainsi que notre impact sur les écosystèmes avoisinants ; 
 - Les santés corporelle et émotionnelle sont, pour nous, essentielles à une vie collective autonome et saine. Nous cherchons donc à développer une conscience de soi profonde pour tendre vers une résilience personnelle quotidienne. Celle-ci a pour but de minimiser les blessures, la fatigue et le mal-être.
 - Tendre, sur le lieu, vers une abolition au sens général du pouvoir d’un individu sur un autre. Dans le cas échéant, de tout faire pour répartir le pouvoir de façon horizontale ; 
-- Déconstruire les comportement systèmique, institutionalisé et oppressif, notamment les comportements issues du patriarcat, du racisme, capacitisme, et agisme
+- Déconstruire les comportement systémique, institutionnalisé et oppressif, notamment les comportements issues du patriarcat, du racisme, capacitisme, et âgisme
 - Minimiser la priorisation des intérêts d’une espèce sur une autre ;
-- Partager nos ressources et privilèges dans une optique de solidarité et d'inclusivité.
+- Partager nos ressources et privilèges dans une optique de solidarité et d'inclusion.
 
 ## Prérequis
 Nous sommes conscient-e-s que chacun-e est déconstruit-e à des niveaux variables et que chacun-e évolue à sa vitesse. Malgré cela, un minimum de déconstruction est nécessaire pour garantir l’avancée de l’ensemble du groupe. Comme pour le reste de cette charte aucun mécanisme, ci-dessous, n'a comme prétention d'être suffisant ou parfait mais représente un point de départ qui semble pertinent pour les explorations du collectif. Nous demandons donc sur le lieu et pendant les événements organisés par le Mallouestan: 
@@ -46,7 +46,7 @@ Nous sommes conscient-e-s que chacun-e est déconstruit-e à des niveaux variabl
 
 
 ## Gouvernance
-Un équilibre doit être touvé entre les libertés individuelles et celles du collectif. Les situations suivantes, impactant le contexte commun, doivent être précédées par un vote unanime des personnes concernées par la décision: 
+Un équilibre doit être trouvé entre les libertés individuelles et celles du collectif. Les situations suivantes, impactant le contexte commun, doivent être précédées par un vote unanime des personnes concernées par la décision: 
 
 - Tout changement de la charte ou ses annexes (Budget, Liste de courses)
 - L'attribution des rôles de contributeur-rice ou de résident-e ainsi que les conditions d'une période d'essai 
