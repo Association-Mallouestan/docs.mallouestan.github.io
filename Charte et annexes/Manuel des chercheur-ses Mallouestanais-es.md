@@ -108,11 +108,12 @@ Les divers dons sont ajoutés au pot commun. Lors des réunions, l'argent prése
 
 > Une liste de courses communes est défini précisant les produits que l'on achète avec le budget associé. 
 
-Les fonds suivants sont disponible sur le lieu et sont encadrés par l'annexe "Fonds et mutuelles":
+Les fonds suivants sont disponible sur le lieu et sont encadrés par l'annexe "Fonds et mutuelles:
 1. Fond de solidarité
 2. Mutuelle de subsistance
 3. Fond de secours du sanctuaire
 4. Fond de libération agraire
+5. Fond pour faune et flore sauvage
 
 ### Investissement
 Tout-e résident-e sur le lieu accepte que les dépenses liées au lieu n’ont aucune garantie d'être restituées. Le terrain et l’immobilier relèvent de sa responsabilité, ainsi, les autres résident-e-s ne peuvent garantir l’achat ou la vente du bien. 
