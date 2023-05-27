@@ -43,8 +43,7 @@ Nous sommes conscient-e-s que chacun-e est déconstruit-e à des niveaux variabl
 > Ces restrictions ne doivent pas être utilisées à quelques fins que ce soit à l'égard d'individus qui ne les respecteraient pas dans leurs espaces personnels. 
 
 > Ces restrictions ne concernent pas les produits nécessaires pour la santé (par exemple : médicament)
-
-
+> 
 ## Gouvernance
 Un équilibre doit être trouvé entre les libertés individuelles et celles du collectif. Les situations suivantes, impactant le contexte commun, doivent être précédées par un vote unanime des personnes concernées par la décision: 
 

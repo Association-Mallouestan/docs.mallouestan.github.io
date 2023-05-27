@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Charte et annexes/Manuel des chercheur-ses Mallouestanais-es.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Charte et annexes/Manuel des chercheur-ses Mallouestanais-es.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Charte et annexes/Manuel des chercheur-ses Mallouestanais-es.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Charte et annexes/Manuel des chercheur-ses Mallouestanais-es.md"
+                "file": "README.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   },
   "active": "b14ac50893e8c952",
   "lastOpenFiles": [
+    "Readme.md",
+    "README.md",
+    "Charte et annexes/Manuel des chercheur-ses Mallouestanais-es.md",
     "Manuel des chercheur-ses Mallouestanais-es.md",
     "Ressources visiteureuse/Readme.md",
     "Ressources visiteureuse",
@@ -160,10 +163,8 @@
     "Charte et annexes/Annexes/Budget.md",
     "Charte et annexes/Annexes/Animaux non autonomes.md",
     "Charte et annexes/Manuel des visiteur-euse Mallouestanais-es.md",
-    "Charte et annexes/Manuel des chercheur-ses Mallouestanais-es.md",
     "Charte et annexes/Annexes",
     "Charte et annexes",
-    "Untitled.md",
     "Text.txt",
     "Philosophie/Readme 1 1.md",
     "Charte et ressources/Annexes/Liste de courses.md",
