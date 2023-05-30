@@ -5,5 +5,8 @@
   ],
   "spellcheck": true,
   "showLineNumber": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true
 }

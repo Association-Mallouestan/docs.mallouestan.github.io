@@ -43,7 +43,7 @@ Nous sommes conscient-e-s que chacun-e est déconstruit-e à des niveaux variabl
 > Ces restrictions ne doivent pas être utilisées à quelques fins que ce soit à l'égard d'individus qui ne les respecteraient pas dans leurs espaces personnels. 
 
 > Ces restrictions ne concernent pas les produits nécessaires pour la santé (par exemple : médicament)
-> 
+
 ## Gouvernance
 Un équilibre doit être trouvé entre les libertés individuelles et celles du collectif. Les situations suivantes, impactant le contexte commun, doivent être précédées par un vote unanime des personnes concernées par la décision: 
 
@@ -157,7 +157,7 @@ Toute personne souhaitant contribuer au projet ou à un axe du projet peut, si e
 - La responsabilité de contribuer activement à l'avancée du projet dans son ensemble vers les objectifs cités plus haut. 
 - D'être considéré-e comme concerné-e par les changements du contexte commun (et donc de détenir un pouvoir décisionnel) même  en cas d'absence sur le lieu. En cas d'injoignabilité le/la contributeur-ice a deux semaines pour partager sa décision.   
 - De valider ou non les exceptions a la charte meme en cas d'absence du lieu. En cas d'injoignabilité le/la contributeur-ice a deux semaines pour partager sa décision. N'est pas concerner par ce point:
-	- le quota de visiteureuse
+	- le quota de visiteur-euse
 
 Les contributeur-rices ont les mêmes droits que les visiteur-euses ainsi que les suivants: 
 - Le droit de véto et de décision sur le contexte commun, non plafonné dans le temps 

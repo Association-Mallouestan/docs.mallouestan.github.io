@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d369f95924913231",
+        "id": "3db24cb9f30bedf5",
         "type": "tabs",
         "children": [
           {
-            "id": "b14ac50893e8c952",
+            "id": "024a06b0f6ad8647",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 363.5026054382324
+    "width": 489.5026054382324
   },
   "right": {
     "id": "f5263008d2cddfa9",
@@ -147,16 +147,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b14ac50893e8c952",
+  "active": "8edc56c6779ef8ae",
   "lastOpenFiles": [
-    "Readme.md",
-    "README.md",
     "Charte et annexes/Manuel des chercheur-ses Mallouestanais-es.md",
-    "Manuel des chercheur-ses Mallouestanais-es.md",
-    "Ressources visiteureuse/Readme.md",
-    "Ressources visiteureuse",
-    "Ressources sanctuaires/Readme.md",
-    "Ressources sanctuaires",
+    "README.md",
+    "Charte et annexes/Manuel des chercheur-ses Mallouestanais-es.md.orig",
+    "Charte et annexes/Manuel des chercheur-ses Mallouestanais-es_REMOTE_15073.md",
+    "Charte et annexes/Manuel des chercheur-ses Mallouestanais-es_LOCAL_15073.md",
+    "Charte et annexes/Manuel des chercheur-ses Mallouestanais-es_BASE_15073.md",
+    "Charte et annexes/Manuel des chercheur-ses Mallouestanais-es_BACKUP_15073.md",
+    "Visiteureuse/Readme.md",
+    "Visiteureuse",
+    "Sanctuaire/Readme.md",
+    "Sanctuaire",
     "Philosophie/Readme.md",
     "Philosophie",
     "Charte et annexes/Annexes/Liste de courses.md",
@@ -165,6 +168,8 @@
     "Charte et annexes/Manuel des visiteur-euse Mallouestanais-es.md",
     "Charte et annexes/Annexes",
     "Charte et annexes",
+    "Readme.md",
+    "Manuel des chercheur-ses Mallouestanais-es.md",
     "Text.txt",
     "Philosophie/Readme 1 1.md",
     "Charte et ressources/Annexes/Liste de courses.md",
