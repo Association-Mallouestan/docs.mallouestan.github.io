@@ -12,6 +12,7 @@ Nous sommes conscient-e-s que beaucoup des valeurs et des objectifs ci-dessous s
 	- L'autonomie vis a vis des energies fossiles
 	- L'autonomie en méthodes et matériaux de construction
 	- Que les espaces d'hébergement dits "personnels" soient totalement déconnectés des réseaux publics
+	- L'autonomie a l'égard de l'agriculture moderne (monoculture, agriculture intensive...)
 - D'assurer la pérennité du sanctuaire pour les animaux non-humains ; 
 - Diminuer notre impact écologique ainsi que notre impact sur les écosystèmes avoisinants ; 
 - Les santés corporelle et émotionnelle sont, pour nous, essentielles à une vie collective autonome et saine. Nous cherchons donc à développer une conscience de soi profonde pour tendre vers une résilience personnelle quotidienne. Celle-ci a pour but de minimiser les blessures, la fatigue et le mal-être.
