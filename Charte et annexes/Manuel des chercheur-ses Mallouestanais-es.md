@@ -20,6 +20,7 @@ Nous sommes conscient-e-s que beaucoup des valeurs et des objectifs ci-dessous s
 - Déconstruire les comportement systémique, institutionnalisé et oppressif, notamment les comportements issues du patriarcat, du racisme, capacitisme, et âgisme
 - Minimiser la priorisation des intérêts d’une espèce sur une autre ;
 - Partager nos ressources et privilèges dans une optique de solidarité et d'inclusion.
+- Créer un nouveau rapport au vivant au travers d'une axiologie (vision de ce que l'on considère comme juste et souhaitable) ancré dans une cosmologie (vision de comment l'univers fonctionne) matérialiste compatible avec la méthode scientifique.  
 
 ## Prérequis
 Nous sommes conscient-e-s que chacun-e est déconstruit-e à des niveaux variables et que chacun-e évolue à sa vitesse. Malgré cela, un minimum de déconstruction est nécessaire pour garantir l’avancée de l’ensemble du groupe. Comme pour le reste de cette charte aucun mécanisme, ci-dessous, n'a comme prétention d'être suffisant ou parfait mais représente un point de départ qui semble pertinent pour les explorations du collectif. Nous demandons donc sur le lieu et pendant les événements organisés par le Mallouestan: 
@@ -30,14 +31,15 @@ Nous sommes conscient-e-s que chacun-e est déconstruit-e à des niveaux variabl
 	- les discours prônant la violence à l'égard d'autres êtres sentients 
 	- le non-respect de la liberté de chacun-e de clore toute situation sociale qu'iel trouve inconfortable.   
 	- toute entrave à l'agentivité (la capacité d'agir et de façon autonome) d'un individu, le non-respect de l'individualité (le fait qu'un individu possède des caractéristiques qui le rend tel qu'il ne puisse être confondu avec un autre être), ou le non respect de l'autonomie corporelle (le droit de prendre ses propres décisions pour son corps et son avenir)
-2. Aucune consommation, achat ou promotion de produits d’origine animale (chair, lait, œufs, miel, cuir, laine...) et aucune promotion d'activités liées à l'exploitation animale (équitation, agility, cirque, traction animale, collaboration animale...). Tout sujet peut évidement être abordé mais doit relever d'avis individuels et non de vérité universelle. 
-3. Le respect des espaces et de leurs signalisations 
-4. Le respect des animaux comme explicité à l'annexe "Animaux non autonomes". 
-5. Un minimum de communication active (initiée par la personne détenant l'information) comme défini à la section "Communication sur le lieu".  
-6. Les aliments provenant du système de catégorie Nova 4 (https://fr.openfoodfacts.org/nova) ne sont pas tolérés au sein des espaces communs et partagés.
-7. Les aliments provenant du système de catégorie Nova 3 et de score nutritionnel au delà de "C" ne sont pas tolérés au sein des espaces communs et partagés.
-8. L'alcool, nicotine, drogues et autres substances non-alimentaires addictives ne sont pas tolérés au sein des espaces communs et partagés.
-9. Tout état d'ébriété ou état sous influence n'est pas toléré lors des événements ponctuels ou les moments partagés du quotidien.
+2. Aucune consommation, achat ou promotion de produits d’origine animale (chair, lait, œufs, miel, cuir, laine...) et aucune promotion d'activités liées à l'exploitation animale (équitation, agility, cirque, traction animale, collaboration animale...). Tout sujet peut évidement être abordé mais doit relever d'avis individuels et non de vérité universelle.
+3. Aucune promotion de religions, de spiritualités ésotérique (soins énergétique, anthroposophie, biodynamie,  astrologie, sorcellerie, shamanisme...). Tout sujet peut évidement être abordé mais doit relever d'avis individuels et non de vérité universelle.
+4. Le respect des espaces et de leurs signalisations 
+5. Le respect des animaux comme explicité à l'annexe "Animaux non autonomes". 
+6. Un minimum de communication active (initiée par la personne détenant l'information) comme défini à la section "Communication sur le lieu".  
+7. Les aliments provenant du système de catégorie Nova 4 (https://fr.openfoodfacts.org/nova) ne sont pas tolérés au sein des espaces communs et partagés.
+8. Les aliments provenant du système de catégorie Nova 3 et de score nutritionnel au delà de "C" ne sont pas tolérés au sein des espaces communs et partagés.
+9. L'alcool, nicotine, drogues et autres substances non-alimentaires addictives ne sont pas tolérés au sein des espaces communs et partagés.
+10. Tout état d'ébriété ou état sous influence n'est pas toléré lors des événements ponctuels ou les moments partagés du quotidien.
 
 > Ces restrictions ne sont pas le reflet de jugements moraux sur des individus qui, en dehors du lieu, ne les respecteraient pas. Ces restrictions sont limitées au contexte que nous créons et n'ont aucune prétention au delà.  
 
