@@ -6,7 +6,7 @@ Creating an alternative is an everyday task. Striving for an ideal is complex. T
 > This manual is by no means a dogmatic or sectarian support, but rather a reference for a place with an anarchist tendency, and as such, it is intended to evolve.
 
 ## Objectives
-We are aware that many of the values and objectives listed below are difficult to achieve. Therefore, we humbly list them, accepting that each person in the community can only strive for them. The objectives are as follows:
+We are aware that many of the values and goals listed below are difficult to achieve. Therefore, we humbly list them, accepting that each person in the community can only strive for them. The goals are as follows:
 
 - Create resilience/independence from capitalism and consumer society, including but not limited to:
   - Autonomy in fruits and vegetables
