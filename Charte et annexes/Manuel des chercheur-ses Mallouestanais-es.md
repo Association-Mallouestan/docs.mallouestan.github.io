@@ -41,6 +41,8 @@ Nous sommes conscient-e-s que chacun-e est déconstruit-e à des niveaux variabl
 9. L'alcool, nicotine, drogues et autres substances non-alimentaires addictives ne sont pas tolérés au sein des espaces communs et partagés.
 10. Tout état d'ébriété ou état sous influence n'est pas toléré lors des événements ponctuels ou les moments partagés du quotidien.
 
+> Les prérequis concernant les espaces communs et partagés s'appliquent également à la zone de camping et au parking. Les véhicules aménagés ne sont pas concernés par ces prérequis tant que la consommation se fait à l'intérieur.
+
 > Ces restrictions ne sont pas le reflet de jugements moraux sur des individus qui, en dehors du lieu, ne les respecteraient pas. Ces restrictions sont limitées au contexte que nous créons et n'ont aucune prétention au delà.  
 
 > Ces restrictions ne doivent pas être utilisées à quelques fins que ce soit à l'égard d'individus qui ne les respecteraient pas dans leurs espaces personnels. 
