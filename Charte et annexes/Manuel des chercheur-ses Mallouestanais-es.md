@@ -59,7 +59,7 @@ Tout autre décision, hors précision contraire dans le manuel, ne nécéssite a
 
 > Toute décision peut être annulée ou opposée par n'importe quelle personne si elle est en contradiction avec le présent manuel. Si un doute existe sur l'interprétation du manuel, confirmé par 60% des personnes présentes sur le lieu, l'ambiguité ne peut être imputée à la prise de décision. 
 
-> Toute exception à la charte peut être mise en place temporairement (la durée doit être précisée) sur vote unanime. L'exception est valable tant que sont présentes sur le lieu seulement les personnes ayant participé à la mise en place de la dite exception. Les exceptions en dehors de ceux qui concernant les quotas humains doivent aussi être validés par les résident.es non présent sur le lieu.
+> Toute exception à la charte peut être mise en place temporairement (la durée doit être précisée) sur vote unanime. L'exception est valable tant que sont présentes sur le lieu uniquement les personnes ayant participé à la mise en place de ladite exception. Les exceptions, y compris celles qui concernent les quotas humains, doivent également être validées par les résident.e.s non présent.e.s sur le lieu.
 
 ## Gestion de conflit
 Nous sommes conscient-e-s que nous sommes des êtres de nature imparfaite. Nous faisons donc toutes et tous des erreurs ou des écarts à nos valeurs et idéaux. Nous nous devons d’être indulgent-e-s, envers nous-mêmes et envers autrui. Mais nous acceptons également que tout écart qui impacte le lieu et ses membres peut être traité si une personne le souhaite. 
