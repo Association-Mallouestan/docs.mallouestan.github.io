@@ -115,7 +115,7 @@ Le lieu est séparé en plusieurs pôles. Ces pôles servent principalement à d
 - CARL (Cercle d'action et de résilience locale)
 - Faune et flore sauvages
 
-Chaque pôle a un.e référent.e technique qui ont comme responsabilité de conseiller et de soutenir le collectif sur les questions relatives au pôle.
+Chaque pôle a un.e référent.e technique qui ont comme responsabilité de conseiller et de soutenir le collectif sur les questions relatives au pôle. Les décisions sont prises collectivement au moment de plannification pour chaque pôle où un budget et des objectifs sont définit pour le trimestre suivant. 
 
 ### Gestion financière
 Certains frais dépendent de la vie commune. Un pot commun est donc mis à disposition pour que chacun-e participe selon ses moyens.
@@ -137,11 +137,6 @@ Les fonds suivants sont disponible sur le lieu et sont encadrés par l'annexe "F
 Tout-e résident-e sur le lieu accepte que les dépenses liées au lieu n’ont aucune garantie d'être restituées. Le terrain et l’immobilier relèvent de sa responsabilité, ainsi, les autres résident-e-s ne peuvent garantir l’achat ou la vente du bien. 
 
 > Chaque résident-e est invité-e, en cas de départ d’un-e membre, d’aider en fonction de ses moyens la personne qui part. 
-
-### Charge mentale, marque-page et pôle
-La charge mentale de toutes les tâches, nécessaires à faire fonctionner le lieu, est considérable. Elle ne peut donc pas se reposer sur une personne ou une minorité au sein du collectif. Au delà de la charge il n'est pas souhaitable de centraliser les responsabilités. Cette charge est donc répartie entre des personnes volontaires qui ont la charge mentale et la responsabilité d'un sous-ensemble de tâches et de mécanismes, appelés "pôle". Ces personnes, nommées "marque-page" ont certes la responsabilité du fonctionnement d'un pôle mais elle n'exclut pas la participation de toute personne présente sur le lieu. Elle est même encouragée afin d'éviter la spécialisation ou tout monopole et favorise une vie collective riche.
-
-Les décisions sont prises collectivement au moment de plannification pour chaque pôle où un budget et des objectifs sont définit pour le trimestre suivant. 
 
 ### Mise a disposition d'espace
 Dans le contexte d'accueil et d'hébergement, en dehors des dortoirs, nous mettons à disposition des espaces qui dans le cas où ils ne sont pas partagés avec d'autres groupes deviennent de facto des espaces personnels. 
