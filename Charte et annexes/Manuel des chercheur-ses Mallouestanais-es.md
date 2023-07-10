@@ -101,6 +101,20 @@ Les tableaux de réservations sont validés, et ainsi deviennent effectifs, à c
 
 Si l'espace n'est pas réservé l'exclusivité est accordée, si elle est souhaitée, au premier.es venu-es.
 
+### Pôles
+Le lieu est séparé en plusieurs pôles. Ces pôles servent principalement à décrire les différentes activités de l'endroit et à pouvoir, si nécessaire, les adresser ou les organiser. À ce jour, les pôles suivants sont définis :
+
+- Culturel
+- Maraîchage
+- Gestion des ressources premières
+- Construction
+- Soins aux animaux non humains
+- Information
+- CARL (Cercle d'action et de résilience locale)
+- Faune et flore sauvages
+
+Chaque pôle a un.e référent.e technique qui ont comme responsabilité de conseiller et de soutenir le collectif sur les questions relatives au pôle.
+
 ### Gestion financière
 Certains frais dépendent de la vie commune. Un pot commun est donc mis à disposition pour que chacun-e participe selon ses moyens.
 
