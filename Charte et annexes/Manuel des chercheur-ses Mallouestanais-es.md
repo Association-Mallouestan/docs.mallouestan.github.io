@@ -80,7 +80,7 @@ Plusieurs ultimatums exceptionnels sont de facto définis pour tous-tes les memb
 
 ## Vie collective
 ### Communication sur le lieu 
-Les évènements ponctuels ou quotidiens qui sont destinés à être collectifs (repas, réunions...) nécessitent une communication claire et fonctionnelle passant par des moyens de communication ubiquitaires (partagés par toustes). L'objectif de cette communication est de permettre à tout le monde de participer ou d'être informé pour que chacun-e soit inclus-e dans la vie collective. 
+Les événements ponctuels ou quotidiens qui sont destinés à être collectifs (repas, réunions...) nécessitent une communication claire et fonctionnelle passant par des moyens de communication ubiquitaires (partagés par toustes). L'objectif de cette communication est de permettre à tout le monde de participer ou d'être informé afin que chacun soit inclus.e dans la vie collective.
 
 > Exemple: Pour les repas, prévenir toutes les personne du lieu
 
