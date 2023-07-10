@@ -31,7 +31,7 @@ Nous sommes conscient-e-s que chacun-e est déconstruit-e à des niveaux variabl
 	- toute entrave à l'agentivité (la capacité d'agir et de façon autonome) d'un individu, le non-respect de l'individualité (le fait qu'un individu possède des caractéristiques qui le rend tel qu'il ne puisse être confondu avec un autre être), ou le non respect de l'autonomie corporelle (le droit de prendre ses propres décisions pour son corps et son avenir)
 2. Aucune consommation, achat ou promotion de produits d’origine animale (chair, lait, œufs, miel, cuir, laine...) et aucune promotion d'activités liées à l'exploitation animale (équitation, agility, cirque, traction animale, collaboration animale...). Tout sujet peut évidement être abordé mais doit relever d'avis individuels et non de vérité universelle. 
 3. Le respect des espaces et de leurs signalisations 
-4. Le respect des animaux comme explicité à l'annexe  [[A3 Animaux non autonomes.4.0.pdf]]. 
+4. Le respect des animaux comme explicité à l'annexe  [Animaux non autonomes](./Annexes/Animaux%20non%20autonomes). 
 5. Un minimum de communication active (initiée par la personne détenant l'information) comme défini à la section "Communication sur le lieu".  
 6. Les aliments provenant du système de catégorie Nova 4 (https://fr.openfoodfacts.org/nova) ne sont pas tolérés au sein des espaces communs et partagés.
 7. Les aliments provenant du système de catégorie Nova 3 et de score nutritionnel au delà de "C" ne sont pas tolérés au sein des espaces communs et partagés.
