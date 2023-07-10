@@ -84,11 +84,12 @@ Les évènements ponctuels ou quotidiens qui sont destinés à être collectifs 
 
 > Exemple: Pour les repas, prévenir toutes les personne du lieu
 
-La communication est de façon inherrante complexe et personnelle. Il est important d'accomoder au mieux ces différences (orale, lettre ...). Malgré cela une communication minimum active (initiée par la personne détenant l'information) est nécessaire en ce qui concerne le contexte commun et la vie quotidienne collective du lieu. Nous demandons donc une communication claire sur les points suivants: 
-	- Sur ce qui dépend des responsabilités des marque-pages
-	- Sur les tâches quotidiennes et hebodamadaires
-	- Sur la présence ou non des personnes hébérgées sur le lieu
-	- Sur tout état de santé entrainant un risque ou un danger
+La communication est intrinsèquement complexe et personnelle. Il est important de s'adapter au mieux à ces différences, que ce soit à l'oral, par écrit ou autrement. Malgré cela, une communication minimale active (initiée par la personne détenant l'information) est nécessaire en ce qui concerne le contexte commun et la vie quotidienne collective du lieu. Nous demandons donc une communication claire sur les points suivants :
+
+- Ce qui relève des responsabilités des marque-pages
+- Les tâches quotidiennes et hebdomadaires
+- La présence ou l'absence des personnes hébergées sur le lieu
+- Tout état de santé entraînant un risque ou un danger
 
 ### Occupation d'espace 
 Les espaces suivants sur le lieu peuvent être réservés pour un usage exclusif.
