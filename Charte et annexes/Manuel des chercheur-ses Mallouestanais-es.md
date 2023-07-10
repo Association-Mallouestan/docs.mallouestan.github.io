@@ -20,7 +20,7 @@ Nous sommes conscient-e-s que beaucoup des valeurs et des objectifs ci-dessous s
 - Déconstruire les comportement systémique, institutionnalisé et oppressif, notamment les comportements issues du patriarcat, du racisme, capacitisme, et âgisme
 - Minimiser la priorisation des intérêts d’une espèce sur une autre ;
 - Partager nos ressources et privilèges dans une optique de solidarité et d'inclusion.
-- Créer un nouveau rapport au vivant au travers d'une axiologie (vision de ce que l'on considère comme juste et souhaitable) ancré dans une cosmologie (vision de comment l'univers fonctionne) matérialiste compatible avec la méthode scientifique.  
+- Créer un nouveau rapport au vivant en développant une axiologie (vision de ce qui est considéré comme juste et souhaitable) ancrée dans une cosmologie (vision de la façon dont l'univers fonctionne) matérialiste compatible avec la méthode scientifique.  
 
 ## Prérequis
 Nous sommes conscient-e-s que chacun-e est déconstruit-e à des niveaux variables et que chacun-e évolue à sa vitesse. Malgré cela, un minimum de déconstruction est nécessaire pour garantir l’avancée de l’ensemble du groupe. Comme pour le reste de cette charte aucun mécanisme, ci-dessous, n'a comme prétention d'être suffisant ou parfait mais représente un point de départ qui semble pertinent pour les explorations du collectif. Nous demandons donc sur le lieu et pendant les événements organisés par le Mallouestan: 
@@ -31,8 +31,8 @@ Nous sommes conscient-e-s que chacun-e est déconstruit-e à des niveaux variabl
 	- les discours prônant la violence à l'égard d'autres êtres sentients 
 	- le non-respect de la liberté de chacun-e de clore toute situation sociale qu'iel trouve inconfortable.   
 	- toute entrave à l'agentivité (la capacité d'agir et de façon autonome) d'un individu, le non-respect de l'individualité (le fait qu'un individu possède des caractéristiques qui le rend tel qu'il ne puisse être confondu avec un autre être), ou le non respect de l'autonomie corporelle (le droit de prendre ses propres décisions pour son corps et son avenir)
-2. Aucune consommation, achat ou promotion de produits d’origine animale (chair, lait, œufs, miel, cuir, laine...) et aucune promotion d'activités liées à l'exploitation animale (équitation, agility, cirque, traction animale, collaboration animale...). Tout sujet peut évidement être abordé mais doit relever d'avis individuels et non de vérité universelle.
-3. Aucune promotion de religions, de spiritualités ésotérique (soins énergétique, anthroposophie, biodynamie,  astrologie, sorcellerie, shamanisme...). Tout sujet peut évidement être abordé mais doit relever d'avis individuels et non de vérité universelle.
+2. Aucune consommation, achat ou promotion de produits d’origine animale (chair, lait, œufs, miel, cuir, laine...) et aucune promotion d'activités liées à l'exploitation animale (équitation, agility, cirque, traction animale, collaboration animale...). Tous les sujets peuvent évidemment être abordés, mais ils doivent être traités en tant qu'avis individuels et non comme des vérités universelles.
+3. Aucune promotion de religions ou de spiritualités ésotériques telles que les soins énergétiques, l'anthroposophie, la biodynamie, l'astrologie, la sorcellerie, le chamanisme, etc. Tous les sujets peuvent évidemment être abordés, mais ils doivent être traités en tant qu'avis individuels et non comme des vérités universelles.
 4. Le respect des espaces et de leurs signalisations 
 5. Le respect des animaux comme explicité à l'annexe "Animaux non autonomes". 
 6. Un minimum de communication active (initiée par la personne détenant l'information) comme défini à la section "Communication sur le lieu".  
