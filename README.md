@@ -1,4 +1,4 @@
-# Ressources collaborative du Mallouestan
+# Ressources collaboratives du Mallouestan
 ## Présentation
 > A completer
 
