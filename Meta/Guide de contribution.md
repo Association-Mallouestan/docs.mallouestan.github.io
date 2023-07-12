@@ -7,7 +7,7 @@ L'outil collaboratif que le Mallouestan a choisi d'utiliser est `Git`, notamment
 - Fusion de versions différentes : Git offre la possibilité de fusionner des versions distinctes, ce qui permet de combiner les travaux réalisés par différentes personnes sur un même projet. Cela facilite la coordination et l'intégration des contributions.
 - Création de tickets pour proposer des changements, ajouts ou corrections : Sur GitHub, les utilisateurs peuvent créer des "issues" (tickets) pour proposer des changements, des ajouts ou des corrections. Cela permet d'organiser les demandes et de faciliter la communication entre les collaborateurs.
 
->Si une autre plateforme offre les mêmes fonctionnalités et semble plus adaptée selon votre avis, n'hésitez pas à nous contacter.
+> Si une autre plateforme offre les mêmes fonctionnalités et semble plus adaptée selon votre avis, n'hésitez pas à nous contacter.
 
 ## Création d'un compte sur GitHub
 Pour commencer, afin de contribuer à ses ressources, il est nécessaire de créer un compte sur [https://github.com/](https://github.com/). Si vous possédez déjà un compte, passez à l'étape suivante.
