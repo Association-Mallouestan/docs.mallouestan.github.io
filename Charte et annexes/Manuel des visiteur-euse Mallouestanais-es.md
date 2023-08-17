@@ -1,10 +1,9 @@
 ## Préface
 La création d’une alternative est un travail de tous les jours. Tendre vers un idéal est complexe. C’est pourquoi nous sommes contraint-e-s d’établir un manuel de vie commune. 
-  
+
+Le Mallouestan est un lieu qui cherche à créer une façon saine de vivre. Nos positions et valeurs ne sont pas dépendantes d'une romantisation du passé ou d'une indépendance absolue. Elles sont le fruit d'un travail critique, basé sur les discussions, les expériences et les connaissances des membres du lieu et des visiteuse-eur. Ce manuel n'est donc pas un support dogmatique ou sectaire, mais un repère pour un collectif anarchiste. Il est destiné à évoluer régulièrement.
+
 > Ce manuel définit le contexte commun auquel tout le monde choisit d’adhérer en venant sur le lieu ou en participant aux événements extérieurs organisés par le Mallouestan 
-
-> Ce manuel n'est en rien un support dogmatique ni sectaire mais un repère pour un lieu à tendance anarchiste, il est donc destiné à évoluer.
-
 ## Objectifs
 Nous sommes conscient-e-s que beaucoup des valeurs et des objectifs ci-dessous sont difficilement atteignables. De fait, nous les listons humblement en acceptant que chacun-e, sur le lieu, ne peut qu’y tendre. 
 - Créer une résilience/indépendance commune vis-à-vis du capitalisme et de la société de consommation notamment mais non limité à:
