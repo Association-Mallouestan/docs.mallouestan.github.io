@@ -12,7 +12,7 @@ Machine à laver:
 
 La machine à laver est le tonneau bleu en face de l'auberge. 
 
-       1. Commence par prendre le linge sale qui est dans le panier violet dans la salle de bain dans l'auberge. 
+1. Commence par prendre le linge sale qui est dans le panier violet dans la salle de bain dans l'auberge. 
 2. Ensuite, branche le tuyau d'arrosage au robinet a droite en rentrant dans le garde manger. Il suffit juste le l'enfoncer, pas d’embout ou de technique particulière à avoir.
 3. Rempli la machine jusqu'à ce que le niveau d'eau atteigne le bas du tambour à l'intérieur ( le plus petit cylindre percé). 
 4. Ajouter de la lessive au lierre ( que tu trouveras soit dans le garde manger à côté du robinet soit dans la salle de bain sous l'évier, c'est un liquide vert clair.)
