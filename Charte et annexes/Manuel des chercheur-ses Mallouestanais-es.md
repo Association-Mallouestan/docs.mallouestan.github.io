@@ -78,9 +78,6 @@ Plusieurs ultimatums exceptionnels sont de facto définis pour tous-tes les memb
 1. Toute atteinte physique intentionelle, hors légitime défense, sur un individu du lieu peut entraîner une exclusion du lieu si au moins un-e autre membre du lieu le souhaite 
 2. Toute atteinte physique grave (décès, blessures sur le long terme) par un animal non-résident sur un autre individu du lieu entraîne soit l’exclusion de l’animal ou, si le ou les responsables de l’animal le souhaite, un ultimatum les concernant directement
 3. Si une personne présentant une volonté d'atteinte grave à elle-même, qu'il s'agisse de blessures potentielles ou d'un risque imminent de mort, nous prendrons la décision **dans le cas où le dialogue est stérile ou impossible**, d'impliquer des forces extérieures. Cela peut inclure, mais n'est pas limité à, l'appel des services d'urgence tels que le SAMU.
-
----
-
 ## Vie collective
 ### Communication sur le lieu 
 Les événements ponctuels ou quotidiens qui sont destinés à être collectifs (repas, réunions...) nécessitent une communication claire et fonctionnelle passant par des moyens de communication ubiquitaires (partagés par toustes). L'objectif de cette communication est de permettre à tout le monde de participer ou d'être informé afin que chacun soit inclus.e dans la vie collective.
@@ -93,7 +90,9 @@ La communication est intrinsèquement complexe et personnelle. Il est important 
 - Les tâches quotidiennes et hebdomadaires
 - La présence ou l'absence des personnes hébergées sur le lieu
 - Tout état de santé entraînant un risque ou un danger
+- Tout élément mettant en danger la santé d'autrui (humains comme non-humaines)
 
+---
 ### Occupation d'espace 
 Les espaces suivants sur le lieu peuvent être réservés pour un usage exclusif.
 - La salle a'tout
