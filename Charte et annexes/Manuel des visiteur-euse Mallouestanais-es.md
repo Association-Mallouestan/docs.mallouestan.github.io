@@ -4,6 +4,7 @@ La création d’une alternative est un travail de tous les jours. Tendre vers u
 Le Mallouestan est un lieu qui cherche à créer une façon saine de vivre. Nos positions et valeurs ne sont pas dépendantes d'une romantisation du passé ou d'une indépendance absolue. Elles sont le fruit d'un travail critique, basé sur les discussions, les expériences et les connaissances des membres du lieu et des visiteuse-eur. Ce manuel n'est donc pas un support dogmatique ou sectaire, mais un repère pour un collectif anarchiste. Il est destiné à évoluer régulièrement.
 
 > Ce manuel définit le contexte commun auquel tout le monde choisit d’adhérer en venant sur le lieu ou en participant aux événements extérieurs organisés par le Mallouestan 
+
 ## Objectifs
 Nous sommes conscient-e-s que beaucoup des valeurs et des objectifs ci-dessous sont difficilement atteignables. De fait, nous les listons humblement en acceptant que chacun-e, sur le lieu, ne peut qu’y tendre. 
 - Créer une résilience/indépendance commune vis-à-vis du capitalisme et de la société de consommation notamment mais non limité à:
@@ -77,3 +78,16 @@ Plusieurs ultimatums exceptionnels sont de facto définis pour tous-tes les memb
 1. Toute atteinte physique intentionelle, hors légitime défense, sur un individu du lieu peut entraîner une exclusion du lieu si au moins un-e autre membre du lieu le souhaite 
 2. Toute atteinte physique grave (décès, blessures sur le long terme) par un animal non-résident sur un autre individu du lieu entraîne soit l’exclusion de l’animal ou, si le ou les responsables de l’animal le souhaite, un ultimatum les concernant directement
 3. Si une personne présentant une volonté d'atteinte grave à elle-même, qu'il s'agisse de blessures potentielles ou d'un risque imminent de mort, nous prendrons la décision **dans le cas où le dialogue est stérile ou impossible**, d'impliquer des forces extérieures. Cela peut inclure, mais n'est pas limité à, l'appel des services d'urgence tels que le SAMU.
+## Vie collective
+### Communication sur le lieu 
+Les événements ponctuels ou quotidiens qui sont destinés à être collectifs (repas, réunions...) nécessitent une communication claire et fonctionnelle passant par des moyens de communication ubiquitaires (partagés par toustes). L'objectif de cette communication est de permettre à tout le monde de participer ou d'être informé afin que chacun soit inclus.e dans la vie collective.
+
+> Exemple: Pour les repas, prévenir toutes les personne du lieu
+
+La communication est intrinsèquement complexe et personnelle. Il est important de s'adapter au mieux à ces différences, que ce soit à l'oral, par écrit ou autrement. Malgré cela, une communication minimale active (initiée par la personne détenant l'information) est nécessaire en ce qui concerne le contexte commun et la vie quotidienne collective du lieu. Nous demandons donc une communication claire sur les points suivants :
+
+- Ce qui relève des responsabilités des marque-pages
+- Les tâches quotidiennes et hebdomadaires
+- La présence ou l'absence des personnes hébergées sur le lieu
+- Tout état de santé entraînant un risque ou un danger
+- Tout élément mettant en danger la santé d'autrui (humains comme non-humaines)
