@@ -1,7 +1,8 @@
 ## Préface
 La création d’une alternative est un travail de tous les jours. Tendre vers un idéal est complexe. C’est pourquoi nous sommes contraint-e-s d’établir un manuel de vie commune. 
 
-Le Mallouestan est un lieu qui cherche à créer une façon saine de vivre. Nos positions et valeurs ne sont pas dépendantes d'une romantisation du passé ou d'une indépendance absolue. Elles sont le fruit d'un travail critique, basé sur les discussions, les expériences et les connaissances des membres du lieu et des visiteuse-eur. Ce manuel n'est donc pas un support dogmatique ou sectaire, mais un repère pour un collectif anarchiste. Il est destiné à évoluer régulièrement.
+Le Mallouestan est un lieu **anarchiste**, **antispéciste**, **anti-capitaliste** et **anti-tech**
+qui cherche à créer une façon saine de vivre. Nos positions et valeurs ne sont pas dépendantes d'un romanticism du passé ou d'une indépendance absolue. Elles sont le fruit d'un travail critique, basé sur les discussions, les expériences et les connaissances des membres du lieu et des visiteuse-eurs. Ce manuel n'est donc pas un support dogmatique ou sectaire, mais un repère pour un collectif anarchiste. Il est destiné à évoluer régulièrement.
 
 > Ce manuel définit le contexte commun auquel tout le monde choisit d’adhérer en venant sur le lieu ou en participant aux événements extérieurs organisés par le Mallouestan 
 
@@ -11,8 +12,9 @@ Nous sommes conscient-e-s que beaucoup des valeurs et des objectifs ci-dessous s
 	- L'autonomie en fruits et légumes
 	- L'autonomie vis a vis des energies fossiles
 	- L'autonomie en méthodes et matériaux de construction
-	- Que les espaces d'hébergement dits "personnels" soient totalement déconnectés des réseaux publics
+	- La déconnexion totale des espaces d'hébergement dits "personnels" des réseaux publics
 	- L'autonomie a l'égard de l'agriculture moderne (monoculture, agriculture intensive...)
+	- Autonomie vis a vis des technologies complexes (TCI 2, TCI 3, TCI 4)
 - D'assurer la pérennité du sanctuaire pour les animaux non-humains ; 
 - Diminuer notre impact écologique ainsi que notre impact sur les écosystèmes avoisinants ; 
 - Les santés corporelle et émotionnelle sont, pour nous, essentielles à une vie collective autonome et saine. Nous cherchons donc à développer une conscience de soi profonde pour tendre vers une résilience personnelle quotidienne. Celle-ci a pour but de minimiser les blessures, la fatigue et le mal-être.
