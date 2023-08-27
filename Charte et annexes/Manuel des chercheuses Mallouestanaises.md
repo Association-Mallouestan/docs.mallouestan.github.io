@@ -1,13 +1,15 @@
 ## Préface
-La création d’une alternative est un travail de tous les jours. Tendre vers un idéal est complexe. C’est pourquoi nous sommes contraint-e-s d’établir un manuel de vie commune. 
+La création d’une alternative est un travail de tous les jours. Tendre vers un idéal est complexe. C’est pourquoi nous sommes contraintes d’établir un manuel de vie commune. 
 
 Le Mallouestan est un lieu **anarchiste**, **antispéciste**, **anti-capitaliste** et **anti-tech**
-qui cherche à créer une façon saine de vivre. Nos positions et valeurs ne sont pas dépendantes d'un romanticism du passé ou d'une indépendance absolue. Elles sont le fruit d'un travail critique, basé sur les discussions, les expériences et les connaissances des membres du lieu et des visiteuse-eurs. Ce manuel n'est donc pas un support dogmatique ou sectaire, mais un repère pour un collectif anarchiste. Il est destiné à évoluer régulièrement.
+qui cherche à créer une façon saine de vivre. Nos positions et valeurs ne sont pas dépendantes d'un romanticism du passé ou d'une indépendance absolue. Elles sont le fruit d'un travail critique, basé sur les discussions, les expériences et les connaissances des membres du lieu et des visiteuses. Ce manuel n'est donc pas un support dogmatique ou sectaire, mais un repère pour un collectif anarchiste. Il est destiné à évoluer régulièrement.
 
 > Ce manuel définit le contexte commun auquel tout le monde choisit d’adhérer en venant sur le lieu ou en participant aux événements extérieurs organisés par le Mallouestan 
 
+> Ce manuel a été féminisé dans le but de neutraliser notre langage. Étant donné que la forme masculine prédomine, nous avons décidé de ne plus l'utiliser, privilégiant ainsi la forme féminine en raison de sa simplicité et de son caractère ubiquitaire (connue de toutes)
+
 ## Objectifs
-Nous sommes conscient-e-s que beaucoup des valeurs et des objectifs ci-dessous sont difficilement atteignables. De fait, nous les listons humblement en acceptant que chacun-e, sur le lieu, ne peut qu’y tendre. 
+Nous sommes conscientes que beaucoup des valeurs et des objectifs ci-dessous sont difficilement atteignables. De fait, nous les listons humblement en acceptant que chacune, sur le lieu, ne peut qu’y tendre. 
 1. Créer une résilience/indépendance commune vis-à-vis du capitalisme et de la société de consommation notamment mais non limité à:
 	- L'autonomie en fruits et légumes
 	- L'autonomie vis a vis des energies fossiles
@@ -15,7 +17,7 @@ Nous sommes conscient-e-s que beaucoup des valeurs et des objectifs ci-dessous s
 	- La déconnexion totale des espaces d'hébergement dits "personnels" des réseaux publics
 	- L'autonomie a l'égard de l'agriculture moderne (monoculture, agriculture intensive...)
 	- Autonomie vis a vis des technologies complexes (TCI 2, TCI 3, TCI 4)
-2. D'assurer la pérennité du sanctuaire pour les animaux non-humains ; 
+2. D'assurer la pérennité du sanctuaire pour les animaux non-humaines ; 
 3. Diminuer notre impact écologique ainsi que notre impact sur les écosystèmes avoisinants ; 
 4. Les santés corporelle et émotionnelle sont, pour nous, essentielles à une vie collective autonome et saine. Nous cherchons donc à développer une conscience de soi profonde pour tendre vers une résilience personnelle quotidienne. Celle-ci a pour but de minimiser les blessures, la fatigue et le mal-être.
 5. Tendre, sur le lieu, vers une abolition au sens général du pouvoir d’un individu sur un autre. Dans le cas échéant, de tout faire pour répartir le pouvoir de façon horizontale ; 
@@ -25,7 +27,7 @@ Nous sommes conscient-e-s que beaucoup des valeurs et des objectifs ci-dessous s
 9.  Créer un nouveau rapport au vivant en développant une axiologie (vision de ce qui est considéré comme juste et souhaitable) ancrée dans une cosmologie (vision de la façon dont l'univers fonctionne) matérialiste compatible avec la méthode scientifique.  
 
 ## Prérequis
-Nous sommes conscient-e-s que chacun-e est déconstruit-e à des niveaux variables et que chacun-e évolue à sa vitesse. Malgré cela, un minimum de déconstruction est nécessaire pour garantir l’avancée de l’ensemble du groupe. Comme pour le reste de cette charte aucun mécanisme, ci-dessous, n'a comme prétention d'être suffisant ou parfait mais représente un point de départ qui semble pertinent pour les explorations du collectif. Nous demandons donc sur le lieu et pendant les événements organisés par le Mallouestan: 
+Nous sommes conscientes que chacune est déconstruite à des niveaux variables et que chacune évolue à sa vitesse. Malgré cela, un minimum de déconstruction est nécessaire pour garantir l’avancée de l’ensemble du groupe. Comme pour le reste de cette charte aucun mécanisme, ci-dessous, n'a comme prétention d'être suffisant ou parfait mais représente un point de départ qui semble pertinent pour les explorations du collectif. Nous demandons donc sur le lieu et pendant les événements organisés par le Mallouestan: 
 
 1. Aucune violence, hors légitime défense, envers un autre individu, ce qui inclut mais n'est pas limité aux violences ou situations suivantes: 
 	- agressions verbale ou physique 
@@ -55,7 +57,7 @@ Nous sommes conscient-e-s que chacun-e est déconstruit-e à des niveaux variabl
 Un équilibre doit être trouvé entre les libertés individuelles et celles du collectif. Les situations suivantes, impactant le contexte commun, doivent être précédées par un vote unanime des personnes concernées par la décision: 
 
 - Tout changement de la charte ou ses annexes (Budget, Liste de courses)
-- L'attribution des rôles de contributeur-rice ou de résident-e ainsi que les conditions d'une période d'essai 
+- L'attribution des rôles de contributrice ou de résidente ainsi que les conditions d'une période d'essai 
 - Les dépenses exceptionnelles ou ponctuelles définies dans l'annexe pour le budget
 - Tout aménagement, par une personne, impactant les espaces communs qui ne peut être défait par cette même personne en une journée
 
@@ -63,22 +65,22 @@ Tout autre décision, hors précision contraire dans le manuel, ne nécéssite a
 
 > Toute décision peut être annulée ou opposée par n'importe quelle personne si elle est en contradiction avec le présent manuel. Si un doute existe sur l'interprétation du manuel, confirmé par 60% des personnes présentes sur le lieu, l'ambiguité ne peut être imputée à la prise de décision. 
 
-> Toute exception à la charte peut être mise en place temporairement (la durée doit être précisée) sur vote unanime. L'exception est valable tant que sont présentes sur le lieu uniquement les personnes ayant participé à la mise en place de ladite exception. Les exceptions, hormis celles qui concernent les quotas humains, doivent également être validées par les résident.e.s non présent.e.s sur le lieu.
+> Toute exception à la charte peut être mise en place temporairement (la durée doit être précisée) sur vote unanime. L'exception est valable tant que sont présentes sur le lieu uniquement les personnes ayant participé à la mise en place de ladite exception. Les exceptions, hormis celles qui concernent les quotas humaines, doivent également être validées par les résidentes non présent.e.s sur le lieu.
 
 ## Gestion de conflit
-Nous sommes conscient-e-s que nous sommes des êtres de nature imparfaite. Nous faisons donc toutes et tous des erreurs ou des écarts à nos valeurs et idéaux. Nous nous devons d’être indulgent-e-s, envers nous-mêmes et envers autrui. Mais nous acceptons également que tout écart qui impacte le lieu et ses membres peut être traité si une personne le souhaite. 
+Nous sommes conscientes que nous sommes des êtres de nature imparfaite. Nous faisons donc toutes et tous des erreurs ou des écarts à nos valeurs et idéaux. Nous nous devons d’être indulgentes, envers nous-mêmes et envers autrui. Mais nous acceptons également que tout écart qui impacte le lieu et ses membres peut être traité si une personne le souhaite. 
 
 Lors d’un conflit: 
 1. Nous essayons de le résoudre entre les parties directement. 
 2. Si le conflit n’arrive pas à être géré entre les parties, une partie neutre est insérée dans la gestion de conflit pour tempérer. 
-3. Si, malgré ces étapes un-e membre se sent oppressé-e par le conflit, un ultimatum peut être défini accordant une chance à l’oppresseur-euse perçu-e. Cet ultimatum devra être justifié par le non-respect de ce manuel. 
+3. Si, malgré ces étapes une membre se sent oppressée par le conflit, un ultimatum peut être défini accordant une chance à l'oppresseuse perçue. Cet ultimatum devra être justifié par le non-respect de ce manuel. 
 
-> L’ultimatum est donné avec des conditions et les conséquences liées au non-respect de l’ultimatum. Ces critères ainsi que les conditions sont décidés entre tou-te-s les membres du collectif en dehors de la personne ciblée par les injonctions potentielles. Cet outil doit rester un dernier recours et sa violence ne doit pas être sous estimée.
+> L’ultimatum est donné avec des conditions et les conséquences liées au non-respect de l’ultimatum. Ces critères ainsi que les conditions sont décidés entre toutes les membres du collectif en dehors de la personne ciblée par les injonctions potentielles. Cet outil doit rester un dernier recours et sa violence ne doit pas être sous estimée.
 
 ## Ultimatums 
-Plusieurs ultimatums exceptionnels sont de facto définis pour tous-tes les membres du lieu: 
-1. Toute atteinte physique intentionelle, hors légitime défense, sur un individu du lieu peut entraîner une exclusion du lieu si au moins un-e autre membre du lieu le souhaite 
-2. Toute atteinte physique grave (décès, blessures sur le long terme) par un animal non-résident sur un autre individu du lieu entraîne soit l’exclusion de l’animal ou, si le ou les responsables de l’animal le souhaite, un ultimatum les concernant directement
+Plusieurs ultimatums exceptionnels sont de facto définis pour toutes les membres du lieu: 
+1. Toute atteinte physique intentionelle, hors légitime défense, sur un individu du lieu peut entraîner une exclusion du lieu si au moins une autre membre du lieu le souhaite 
+2. Toute atteinte physique grave (décès, blessures sur le long terme) par un animal non-résidente sur un autre individu du lieu entraîne soit l’exclusion de l’animal ou, si la ou les responsables de l’animal le souhaite, un ultimatum les concernant directement
 3. Si une personne présentant une volonté d'atteinte grave à elle-même, qu'il s'agisse de blessures potentielles ou d'un risque imminent de mort, nous prendrons la décision **dans le cas où le dialogue est stérile ou impossible**, d'impliquer des forces extérieures. Cela peut inclure, mais n'est pas limité à, l'appel des services d'urgence tels que le SAMU.
 ## Vie collective
 ### Communication sur le lieu 
@@ -88,8 +90,8 @@ Les événements ponctuels ou quotidiens qui sont destinés à être collectifs 
 
 La communication est intrinsèquement complexe et personnelle. Il est important de s'adapter au mieux à ces différences, que ce soit à l'oral, par écrit ou autrement. Malgré cela, une communication minimale active (initiée par la personne détenant l'information) est nécessaire en ce qui concerne le contexte commun et la vie quotidienne collective du lieu. Nous demandons donc une communication claire sur les points suivants :
 
-- Ce qui relève des responsabilités des marque-pages
-- Les tâches quotidiennes et hebdomadaires
+- Ce qui relève des responsabilités des référentes techniques
+- Les tâches quotidiennes, hebdomadaires et les chantiers
 - La présence ou l'absence des personnes hébergées sur le lieu
 - Tout état de santé entraînant un risque ou un danger
 - Tout élément mettant en danger la santé d'autrui (humains comme non-humaines)
@@ -104,7 +106,7 @@ Les espaces suivants sur le lieu peuvent être réservés pour un usage exclusif
 
 Les tableaux de réservations sont validés, et ainsi deviennent effectifs, à chaque réunion. 
 
-Si l'espace n'est pas réservé l'exclusivité est accordée, si elle est souhaitée, au premier.es venu-es.
+Si l'espace n'est pas réservé l'exclusivité est accordée, si elle est souhaitée, au premieres venues.
 
 ### Pôles
 Le lieu est séparé en plusieurs pôles. Ces pôles servent principalement à décrire les différentes activités de l'endroit et à pouvoir, si nécessaire, les adresser ou les organiser. À ce jour, les pôles suivants sont définis :
@@ -121,7 +123,7 @@ Le lieu est séparé en plusieurs pôles. Ces pôles servent principalement à d
 Chaque pôle a un.e référent.e technique qui ont comme responsabilité de conseiller et de soutenir le collectif sur les questions relatives au pôle. Les décisions sont prises collectivement au moment de plannification pour chaque pôle où un budget et des objectifs sont définit pour le trimestre suivant. 
 
 ### Gestion financière
-Certains frais dépendent de la vie commune. Un pot commun est donc mis à disposition pour que chacun-e participe selon ses moyens.
+Certains frais dépendent de la vie commune. Un pot commun est donc mis à disposition pour que chacune participe selon ses moyens.
 
 Les divers dons sont ajoutés au pot commun. Lors des réunions, l'argent présent dans le pot commun est réparti entre les frais liés aux animaux, les frais de l'écolieu ainsi que les frais pour les courses de la semaine à venir. 
 
@@ -137,9 +139,9 @@ Les fonds suivants sont disponible sur le lieu et sont encadrés par l'annexe "F
 5. Fond pour faune et flore sauvage
 
 ### Investissement
-Tout-e résident-e sur le lieu accepte que les dépenses liées au lieu n’ont aucune garantie d'être restituées. Le terrain et l’immobilier relèvent de sa responsabilité, ainsi, les autres résident-e-s ne peuvent garantir l’achat ou la vente du bien. 
+Toute résidente sur le lieu accepte que les dépenses liées au lieu n’ont aucune garantie d'être restituées. Le terrain et l’immobilier relèvent de sa responsabilité, ainsi, les autres résidentes ne peuvent garantir l’achat ou la vente du bien. 
 
-> Chaque résident-e est invité-e, en cas de départ d’un-e membre, d’aider en fonction de ses moyens la personne qui part. 
+> Chaque résidente est invitée, en cas de départ d’une membre, d’aider en fonction de ses moyens la personne qui part. 
 
 ### Mise a disposition d'espace
 Dans le contexte d'accueil et d'hébergement, en dehors des dortoirs, nous mettons à disposition des espaces qui dans le cas où ils ne sont pas partagés avec d'autres groupes deviennent de facto des espaces personnels. 
@@ -148,47 +150,47 @@ Dans le contexte d'accueil et d'hébergement, en dehors des dortoirs, nous metto
 Toute communication au nom du Mallouestan se doit d'être en accord avec cette charte et ne doit qu'exprimer des positions politiques, militantes ou philosophiques présentes dans cette charte (anarchisme, antispécisme...). Toute prise de position personnelle du communicant non-présente dans cette charte ne doit pas être exprimée au nom du Mallouestan.
 
 ## Rôles et responsabilités
-Dans une optique de minimisation de pouvoir sur le lieu, les rôles suivants sont définis pour permettre à chacun-e de mieux appréhender leurs responsabilités et devoirs.
+Dans une optique de minimisation de pouvoir sur le lieu, les rôles suivants sont définis pour permettre à chacune de mieux appréhender leurs responsabilités et devoirs.
 
 ### Toute personne 
 A comme droits: 
 - Le droit de regard sur le fonctionnement de l'association
 
-### Visiteur/visiteuse 
+### Visiteuse 
 Toute personne qui est présente sur le lieu qui s’engage à respecter ce manuel. 
 
-Les visiteurs/visiteuses ont plusieurs responsabilités: 
-- Un visiteur ou une visiteuse est responsable de ses actes et gestes sur le lieu. Il ou elle est maître de son quotidien et responsable de la communication avec l'ensemble du collectif. 
-- Dans le cas d'une visite de plus de 24h sur le lieu un-e visiteur-euse est responsable de l'entretien (nettoyage, changer une ampoule ...) des locaux et de tout équipement qu'il ou elle utilise sur le lieu, dans la limite de ses capacités, dans le cas contraire il ou elle doit notifier l'ensemble du collectif. 
-- De tout faire pour garantir le respect, par tous-tes, de la charte. Pour éviter un contexte de délation, seules les situations interpersonnelles, où le bien-être d'une autre personne du lieu serait en jeu, oblige une intervention ou une notification de l'ensemble du collectif. 
+Les visiteuses ont plusieurs responsabilités: 
+- Une visiteuse est responsable de ses actes et gestes sur le lieu. Elle est maître de son quotidien et responsable de la communication avec l'ensemble du collectif. 
+- Dans le cas d'une visite de plus de 24h sur le lieu une visiteuse est responsable de l'entretien (nettoyage, changer une ampoule ...) des locaux et de tout équipement elle utilise sur le lieu, dans la limite de ses capacités, dans le cas contraire elle doit notifier l'ensemble du collectif. 
+- De tout faire pour garantir le respect, par toutes, de la charte. Pour éviter un contexte de délation, seules les situations interpersonnelles, où le bien-être d'une autre personne du lieu serait en jeu, oblige une intervention ou une notification de l'ensemble du collectif. 
  
-Les visiteurs/visiteuses ont les droits suivants: 
+Les visiteuses ont les droits suivants: 
 - De participer à tous les évènements collectifs de la vie quotidienne et hebdomadaire
 - D'utiliser l'argent du pot commun pour les courses et autres dépenses du lieu hebdomadaires (bouteille de gaz, entretien) 
 - Le droit de véto et de décision sur le contexte commun le temps de leur séjour. Ce pouvoir de décision est, malgré tout, limité à deux mois même dans le cas d'un séjour plus long. 
 - Un droit à une égalité d'opportunité sur le lieu (et non de résultat) vis-à-vis de la participation aux événements, aux activités quotidiennes et toute autre dynamique collective du lieu. 
 
-### Contributrice/contributeur 
+### Contributrice
 Toute personne souhaitant contribuer au projet ou à un axe du projet peut, si elle le souhaite, devenir contributrice et, de fait, accepte les responsabilités suivante: 
 - La responsabilité de garantir le respect de la charte et d'intervenir ou solutionner des potentiels problèmes 
 - La responsabilité de contribuer activement à l'avancée du projet dans son ensemble vers les objectifs cités plus haut. 
-- D'être considéré-e comme concerné-e par les changements du contexte commun (et donc de détenir un pouvoir décisionnel) même  en cas d'absence sur le lieu. En cas d'injoignabilité le/la contributeur-ice a deux semaines pour partager sa décision.   
-- De valider ou non les exceptions a la charte meme en cas d'absence du lieu. En cas d'injoignabilité le/la contributeur-ice a deux semaines pour partager sa décision. N'est pas concerner par ce point:
-	- le quota de visiteur-euse
+- D'être considérée comme concernée par les changements du contexte commun (et donc de détenir un pouvoir décisionnel) même  en cas d'absence sur le lieu. En cas d'injoignabilitée la contributrice a deux semaines pour partager sa décision.   
+- De valider ou non les exceptions a la charte meme en cas d'absence du lieu. En cas d'injoignabilitée la contributrice a deux semaines pour partager sa décision. N'est pas concerner par ce point:
+	- le quota de visiteuse
 
-Les contributeur-rices ont les mêmes droits que les visiteur-euses ainsi que les suivants: 
+Les contributrices ont les mêmes droits que les visiteuses ainsi que les suivants: 
 - Le droit de véto et de décision sur le contexte commun, non plafonné dans le temps 
 - Le droit de décision sur l'argent des pots réservés aux dépenses exceptionnelles 
  
-### Résident-e 
-Les résident-es sont des contributeur-trices mais également des visiteur-euses, iels cummulent donc les droits et devoirs de chaque rôle mais également des droits suivants: 
+### Résidente 
+Les résidentes sont des contributrices mais également des visiteuses, iels cummulent donc les droits et devoirs de chaque rôle mais également des droits suivants: 
 - De jouir d'un espace personnel réservé sans limite de temps pour la personne 
 
 Iels se doivent de respecter les devoirs suivants:
-- De s'assurer au quotidien que les besoins des animaux non-humains sont satisfaits 
-- La responsabilité de fournir aux visiteur-euses les ressources nécessaires, le temps de leur séjour
+- De s'assurer au quotidien que les besoins des animaux non-humaines sont satisfaits 
+- La responsabilité de fournir aux visiteuses les ressources nécessaires, le temps de leur séjour
 
 ## Limites et quotas
 En vue de la taille et des ressources à disposition, certaines limites et certains quotas ont été définis: 
 - Un nombre maximum de 5 espaces personnels est fixé sur le lieu, à ce jour, permettant à 5 couple/famille de vivre sur le lieu. 
-- Un nombre maximum de 16 visiteuses-eurs à la fois est fixé pour passer une nuit sur le lieu
+- Un nombre maximum de 16 visiteuses à la fois est fixé pour passer une nuit sur le lieu
