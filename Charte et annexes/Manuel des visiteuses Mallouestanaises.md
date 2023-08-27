@@ -6,25 +6,26 @@ qui cherche à créer une façon saine de vivre. Nos positions et valeurs ne son
 
 > Ce manuel définit le contexte commun auquel tout le monde choisit d’adhérer en venant sur le lieu ou en participant aux événements extérieurs organisés par le Mallouestan 
 
-> Ce manuel a été féminisé dans le but de neutraliser notre langage. Étant donné que la forme masculine prédomine, nous avons décidé de ne plus l'utiliser, privilégiant ainsi la forme féminine en raison de sa simplicité et de son caractère ubiquitaire (connue de toutes)
+> Ce manuel a été féminisé dans le but de dégenrer notre langage. Étant donné que la forme masculine prédomine, nous avons décidé de ne plus l'utiliser, privilégiant ainsi la forme féminine en raison de sa simplicité et de son caractère ubiquitaire (connue de toutes)
 
 ## Objectifs
 Nous sommes conscientes que beaucoup des valeurs et des objectifs ci-dessous sont difficilement atteignables. De fait, nous les listons humblement en acceptant que chacune, sur le lieu, ne peut qu’y tendre. 
 1. Créer une résilience/indépendance commune vis-à-vis du capitalisme et de la société de consommation notamment mais non limité à:
-	- L'autonomie en fruits et légumes
-	- L'autonomie vis a vis des energies fossiles
-	- L'autonomie en méthodes et matériaux de construction
-	- La déconnexion totale des espaces d'hébergement dits "personnels" des réseaux publics
-	- L'autonomie a l'égard de l'agriculture moderne (monoculture, agriculture intensive...)
-	- Autonomie vis a vis des technologies complexes (TCI 2, TCI 3, TCI 4)
-2. D'assurer la pérennité du sanctuaire pour les animaux non-humaines ; 
-3. Diminuer notre impact écologique ainsi que notre impact sur les écosystèmes avoisinants ; 
-4. Les santés corporelle et émotionnelle sont, pour nous, essentielles à une vie collective autonome et saine. Nous cherchons donc à développer une conscience de soi profonde pour tendre vers une résilience personnelle quotidienne. Celle-ci a pour but de minimiser les blessures, la fatigue et le mal-être.
-5. Tendre, sur le lieu, vers une abolition au sens général du pouvoir d’un individu sur un autre. Dans le cas échéant, de tout faire pour répartir le pouvoir de façon horizontale ; 
-6. Déconstruire les comportement systémique, institutionnalisé et oppressif, notamment les comportements issues du patriarcat, du racisme, capacitisme, et âgisme
-7. Minimiser la priorisation des intérêts d’une espèce sur une autre ;
-8. Partager nos ressources et privilèges dans une optique de solidarité et d'inclusion.
-9.  Créer un nouveau rapport au vivant en développant une axiologie (vision de ce qui est considéré comme juste et souhaitable) ancrée dans une cosmologie (vision de la façon dont l'univers fonctionne) matérialiste compatible avec la méthode scientifique.  
+	- [ ] L'autonomie en fruits et légumes
+	- [ ] L'autonomie vis a vis des energies fossiles
+	- [ ] L'autonomie en méthodes et matériaux de construction
+	- [x] La déconnexion totale des espaces d'hébergement dits "personnels" des réseaux publics
+	- [ ] L'autonomie a l'égard de l'agriculture moderne (monoculture, agriculture intensive...)
+	- [ ] Autonomie vis a vis des technologies complexes (TCI 2, TCI 3, TCI 4)
+1. D'assurer la pérennité du sanctuaire pour les animaux non-humaines ; 
+2. Diminuer notre impact écologique ainsi que notre impact sur les écosystèmes avoisinants ; 
+3. Les santés corporelle et émotionnelle sont, pour nous, essentielles à une vie collective autonome et saine. Nous cherchons donc à développer une conscience de soi profonde pour tendre vers une résilience personnelle quotidienne. Celle-ci a pour but de minimiser les blessures, la fatigue et le mal-être.
+4. Tendre, sur le lieu, vers une abolition au sens général du pouvoir d’un individu sur un autre. Dans le cas échéant, de tout faire pour répartir le pouvoir de façon horizontale ; 
+5. Déconstruire les comportement systémique, institutionnalisé et oppressif, notamment les comportements issues du patriarcat, du racisme, capacitisme, et âgisme
+	- Dans ce contexte, nous souhaitons dégenrer le langage sur le lieu. Ainsi, nous rejetons la forme masculine en faveur de la forme féminine qui, bien qu'elle ne soit pas parfaitement neutre, présente l'avantage d'être familière à toutes.
+6. Minimiser la priorisation des intérêts d’une espèce sur une autre ;
+7. Partager nos ressources et privilèges dans une optique de solidarité et d'inclusion.
+8.  Créer un nouveau rapport au vivant en développant une axiologie (vision de ce qui est considéré comme juste et souhaitable) ancrée dans une cosmologie (vision de la façon dont l'univers fonctionne) matérialiste compatible avec la méthode scientifique.  
 
 ## Prérequis
 Nous sommes conscientes que chacune est déconstruite à des niveaux variables et que chacune évolue à sa vitesse. Malgré cela, un minimum de déconstruction est nécessaire pour garantir l’avancée de l’ensemble du groupe. Comme pour le reste de cette charte aucun mécanisme, ci-dessous, n'a comme prétention d'être suffisant ou parfait mais représente un point de départ qui semble pertinent pour les explorations du collectif. Nous demandons donc sur le lieu et pendant les événements organisés par le Mallouestan: 
