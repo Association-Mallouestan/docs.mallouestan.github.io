@@ -11,12 +11,12 @@ qui cherche à créer une façon saine de vivre. Nos positions et valeurs ne son
 ## Objectifs
 Nous sommes conscientes que beaucoup des valeurs et des objectifs ci-dessous sont difficilement atteignables. De fait, nous les listons humblement en acceptant que chacune, sur le lieu, ne peut qu’y tendre. 
 1. Créer une résilience/indépendance commune vis-à-vis du capitalisme et de la société de consommation notamment mais non limité à:
-	- [ ] L'autonomie en fruits et légumes
-	- [ ] L'autonomie vis a vis des energies fossiles
-	- [ ] L'autonomie en méthodes et matériaux de construction
-	- [x] La déconnexion totale des espaces d'hébergement dits "personnels" des réseaux publics
-	- [ ] L'autonomie a l'égard de l'agriculture moderne (monoculture, agriculture intensive...)
-	- [ ] Autonomie vis a vis des technologies complexes (TCI 2, TCI 3, TCI 4)
+	- L'autonomie en fruits et légumes
+	- L'autonomie vis a vis des energies fossiles
+	- L'autonomie en méthodes et matériaux de construction
+	- La déconnexion totale des espaces d'hébergement dits "personnels" des réseaux publics
+	- L'autonomie a l'égard de l'agriculture moderne (monoculture, agriculture intensive...)
+	- Autonomie vis a vis des technologies complexes (TCI 2, TCI 3, TCI 4)
 1. D'assurer la pérennité du sanctuaire pour les animaux non-humaines ; 
 2. Diminuer notre impact écologique ainsi que notre impact sur les écosystèmes avoisinants ; 
 3. Les santés corporelle et émotionnelle sont, pour nous, essentielles à une vie collective autonome et saine. Nous cherchons donc à développer une conscience de soi profonde pour tendre vers une résilience personnelle quotidienne. Celle-ci a pour but de minimiser les blessures, la fatigue et le mal-être.
@@ -34,7 +34,7 @@ Nous sommes conscientes que chacune est déconstruite à des niveaux variables e
 	- agressions verbale ou physique 
 	- les discours incitant à la haine vis-à-vis d'individus spécifiques 
 	- les discours prônant la violence à l'égard d'autres êtres sentients 
-	- le non-respect de la liberté de chacun-e de clore toute situation sociale qu'iel trouve inconfortable.   
+	- le non-respect de la liberté de chacun-e de clore toute situation sociale qu'elle trouve inconfortable.   
 	- toute entrave à l'agentivité (la capacité d'agir et de façon autonome) d'un individu, le non-respect de l'individualité (le fait qu'un individu possède des caractéristiques qui le rend tel qu'il ne puisse être confondu avec un autre être), ou le non respect de l'autonomie corporelle (le droit de prendre ses propres décisions pour son corps et son avenir)
 2. Aucune consommation, achat ou promotion de produits d’origine animale (chair, lait, œufs, miel, cuir, laine...) et aucune promotion d'activités liées à l'exploitation animale (équitation, agility, cirque, traction animale, collaboration animale...). Tous les sujets peuvent évidemment être abordés, mais ils doivent être traités en tant qu'avis individuels et non comme des vérités universelles.
 3. Aucune promotion de religions ou de spiritualités ésotériques telles que les soins énergétiques, l'anthroposophie, la biodynamie, l'astrologie, la sorcellerie, le chamanisme, etc. Tous les sujets peuvent évidemment être abordés, mais ils doivent être traités en tant qu'avis individuels et non comme des vérités universelles.
@@ -173,7 +173,7 @@ Les visiteuses ont les droits suivants:
 
 ### Contributrice
 Toute personne souhaitant contribuer au projet ou à un axe du projet peut, si elle le souhaite, devenir contributrice et, de fait, accepte les responsabilités suivante: 
-- La responsabilité de garantir le respect de la charte et d'intervenir ou solutionner des potentiels problèmes 
+- La responsabilité de garantir le respect de la charte et d'intervenir ou solutionner des potentelles problèmes 
 - La responsabilité de contribuer activement à l'avancée du projet dans son ensemble vers les objectifs cités plus haut. 
 - D'être considérée comme concernée par les changements du contexte commun (et donc de détenir un pouvoir décisionnel) même  en cas d'absence sur le lieu. En cas d'injoignabilitée la contributrice a deux semaines pour partager sa décision.   
 - De valider ou non les exceptions a la charte meme en cas d'absence du lieu. En cas d'injoignabilitée la contributrice a deux semaines pour partager sa décision. N'est pas concerner par ce point:
@@ -184,10 +184,10 @@ Les contributrices ont les mêmes droits que les visiteuses ainsi que les suivan
 - Le droit de décision sur l'argent des pots réservés aux dépenses exceptionnelles 
  
 ### Résidente 
-Les résidentes sont des contributrices mais également des visiteuses, iels cummulent donc les droits et devoirs de chaque rôle mais également des droits suivants: 
+Les résidentes sont des contributrices mais également des visiteuses, elles cummulent donc les droits et devoirs de chaque rôle mais également des droits suivants: 
 - De jouir d'un espace personnel réservé sans limite de temps pour la personne 
 
-Iels se doivent de respecter les devoirs suivants:
+Elles se doivent de respecter les devoirs suivants:
 - De s'assurer au quotidien que les besoins des animaux non-humaines sont satisfaits 
 - La responsabilité de fournir aux visiteuses les ressources nécessaires, le temps de leur séjour
 
