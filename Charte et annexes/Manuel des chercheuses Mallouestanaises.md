@@ -22,7 +22,6 @@ Nous sommes conscientes que beaucoup des valeurs et des objectifs ci-dessous son
 3. Les santés corporelle et émotionnelle sont, pour nous, essentielles à une vie collective autonome et saine. Nous cherchons donc à développer une conscience de soi profonde pour tendre vers une résilience personnelle quotidienne. Celle-ci a pour but de minimiser les blessures, la fatigue et le mal-être.
 4. Tendre, sur le lieu, vers une abolition au sens général du pouvoir d’un individu sur un autre. Dans le cas échéant, de tout faire pour répartir le pouvoir de façon horizontale ; 
 5. Déconstruire les comportement systémique, institutionnalisé et oppressif, notamment les comportements issues du patriarcat, du racisme, capacitisme, et âgisme
-	- Dans ce contexte, nous souhaitons dégenrer le langage sur le lieu. Ainsi, nous rejetons la forme masculine en faveur de la forme féminine qui, bien qu'elle ne soit pas parfaitement neutre, présente l'avantage d'être familière à toutes.
 6. Minimiser la priorisation des intérêts d’une espèce sur une autre ;
 7. Partager nos ressources et privilèges dans une optique de solidarité et d'inclusion.
 8.  Créer un nouveau rapport au vivant en développant une axiologie (vision de ce qui est considéré comme juste et souhaitable) ancrée dans une cosmologie (vision de la façon dont l'univers fonctionne) matérialiste compatible avec la méthode scientifique.  
@@ -128,7 +127,7 @@ Certains frais dépendent de la vie commune. Un pot commun est donc mis à dispo
 
 Les divers dons sont ajoutés au pot commun. Lors des réunions, l'argent présent dans le pot commun est réparti entre les frais liés aux animaux, les frais de l'écolieu ainsi que les frais pour les courses de la semaine à venir. 
 
->Un budget est défini collectivement sur le lieu couvrant tous les frais nécessaires et collectifs.
+> Un budget est défini collectivement sur le lieu couvrant tous les frais nécessaires et collectifs.
 
 > Une liste de courses communes est défini précisant les produits que l'on achète avec le budget associé. 
 
