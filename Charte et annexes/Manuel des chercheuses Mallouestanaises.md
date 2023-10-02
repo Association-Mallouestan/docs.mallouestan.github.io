@@ -120,7 +120,7 @@ Le lieu est séparé en plusieurs pôles. Ces pôles servent principalement à d
 - Autocritique et stratégie
 - Faune et flore sauvages
 
-Chaque pôle a un.e référent.e technique qui ont comme responsabilité de conseiller et de soutenir le collectif sur les questions relatives au pôle. Les décisions sont prises collectivement au moment de plannification pour chaque pôle où un budget et des objectifs sont définit pour le trimestre suivant. 
+Les décisions sont prises collectivement au moment de plannification pour chaque pôle où un budget et des objectifs sont définit pour le trimestre suivant. 
 
 ### Gestion financière
 Certains frais dépendent de la vie commune. Un pot commun est donc mis à disposition pour que chacune participe selon ses moyens.
@@ -166,27 +166,38 @@ Les visiteuses ont plusieurs responsabilités:
  
 Les visiteuses ont les droits suivants: 
 - D'utiliser l'argent du pot commun pour les courses et autres dépenses du lieu hebdomadaires (bouteille de gaz, entretien) 
-- Le droit de véto et de décision sur le contexte commun le temps de leur séjour. Ce pouvoir de décision est, malgré tout, limité à un mois même dans le cas d'un séjour plus long. 
+- Le droit de véto et de décision sur le contexte commun le temps de leur séjour. En cas d'opposition ce pouvoir de décision est, malgré tout, limité à un mois même dans le cas d'un séjour plus long. 
 - Un droit à une égalité d'opportunité sur le lieu (et non de résultat) vis-à-vis de la participation aux événements, aux activités quotidiennes et toute autre dynamique collective du lieu. 
  
 ### Résidente 
-Les résidentes sont des contributrices mais également des visiteuses, elles cummulent donc les droits et devoirs de chaque rôle mais également des droits suivants: 
+Les résidentes sont égalements des visitrices  ainsi elles cumulents les droits et devoirs de ce rôle mais également des droits suivants: 
 - De jouir d'un espace personnel réservé sans limite de temps pour la personne 
-- Decisionel limité
+- D'être considérée comme concernée par les changements du contexte commun ou les exeptions a la charte même  en cas d'absence sur le lieu. En cas d'injoignabilitée la residente a deux semaines pour partager sa décision. Ce pouvoir décisionel est limité en cas d'opposition à 6 mois.
+- Le droit de décision sur l'accès au rôles de residente
 
-Elles se doivent de respecter les devoirs suivants:
-- Financier
+Elles se doivent également de respecter les devoirs suivants:
+- De ne pas représenter une charge financière ou de travail pour le reste du collectif
+
+### Résidente non autonomes
+Dans le cas de résidentes ne pouvant assumer temporairement ou non (maladies, blessures, invalidités) les responsabilités (ci-dessus) se doivent de respecter, au delà des prérequis, les devoirs suivants:
+- Une comunication sur leur situation
+
+Elles joissent aussi des droits des visitrices ainsi que les suivants:
+- De jouir d'un espace personnel réservé sans limite de temps pour la personne
 
 ### Membres
-Blabla enjeux et responsabilités
+Les membres sont des parties prenantes concernés par les enjeux à long therme du projet, de fait concernés par des responsabilités accrus, ainsi les membres sont en plus des devoir et droits des résidentes tenues au devoirs suivants:
 - De s'assurer au quotidien que les besoins des animaux non-humaines sont satisfaits 
 - La responsabilité de fournir aux visiteuses les ressources nécessaires, le temps de leur séjour
-- La responsabilité de garantir le respect de la charte et d'intervenir ou solutionner des potentelles problèmes
-- D'être considérée comme concernée par les changements du contexte commun (et donc de détenir un pouvoir décisionnel) même  en cas d'absence sur le lieu. En cas d'injoignabilitée la contributrice a deux semaines pour partager sa décision.   
-- De valider ou non les exceptions a la charte meme en cas d'absence du lieu. En cas d'injoignabilitée la contributrice a deux semaines pour partager sa décision. N'est pas concerner par ce point:
-	- le quota de visiteuse
+- La responsabilité de garantir le respect de la charte et d'intervenir ou solutionner des potentels problèmes.
+- De mutualisé ces ressources au dela d'un minimum nécessaire à maintenir une autonomie vis à vis du collectif 
+
+Ainsi que les droits suivants:
+- D'être considérée comme concernée par les changements du contexte commun ou les exeptions a la charte même  en cas d'absence sur le lieu. En cas d'injoignabilitée la membre a deux semaines pour partager sa décision.
+- De prendre des décisions sur les priorités, la stratégie, l'organisation nottement au travers des pôles
 - Le droit de véto et de décision sur le contexte commun, non plafonné dans le temps 
 - Le droit de décision sur l'argent des pots réservés aux dépenses exceptionnelles 
+- Le droit de décision sur l'accès au rôles de membre
 
 ## Limites et quotas
 En vue de la taille et des ressources à disposition, certaines limites et certains quotas ont été définis: 
