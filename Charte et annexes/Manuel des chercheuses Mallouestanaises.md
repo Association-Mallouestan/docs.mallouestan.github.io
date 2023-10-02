@@ -173,7 +173,7 @@ Les visiteuses ont les droits suivants:
 Les résidentes sont égalements des visitrices  ainsi elles cumulents les droits et devoirs de ce rôle mais également des droits suivants: 
 - De jouir d'un espace personnel réservé sans limite de temps pour la personne 
 - D'être considérée comme concernée par les changements du contexte commun ou les exeptions a la charte même  en cas d'absence sur le lieu. En cas d'injoignabilitée la residente a deux semaines pour partager sa décision. Ce pouvoir décisionel est limité en cas d'opposition à 6 mois.
-- Le droit de décision sur l'accès au rôles de residente
+- Le droit de décision sur l'accès au rôle de residente
 
 Elles se doivent également de respecter les devoirs suivants:
 - De ne pas représenter une charge financière ou de travail pour le reste du collectif
@@ -194,10 +194,10 @@ Les membres sont des parties prenantes concernés par les enjeux à long therme 
 
 Ainsi que les droits suivants:
 - D'être considérée comme concernée par les changements du contexte commun ou les exeptions a la charte même  en cas d'absence sur le lieu. En cas d'injoignabilitée la membre a deux semaines pour partager sa décision.
-- De prendre des décisions sur les priorités, la stratégie, l'organisation nottement au travers des pôles
+- De prendre des décisions sur les priorités, la stratégie, l'organisation notamment au travers des pôles
 - Le droit de véto et de décision sur le contexte commun, non plafonné dans le temps 
 - Le droit de décision sur l'argent des pots réservés aux dépenses exceptionnelles 
-- Le droit de décision sur l'accès au rôles de membre
+- Le droit de décision sur l'accès au rôle de membre
 
 ## Limites et quotas
 En vue de la taille et des ressources à disposition, certaines limites et certains quotas ont été définis: 
