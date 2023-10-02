@@ -57,7 +57,7 @@ Nous sommes conscientes que chacune est déconstruite à des niveaux variables e
 Un équilibre doit être trouvé entre les libertés individuelles et celles du collectif. Les situations suivantes, impactant le contexte commun, doivent être précédées par un vote unanime des personnes concernées par la décision: 
 
 - Tout changement de la charte ou ses annexes (Budget, Liste de courses)
-- L'attribution des rôles de contributrice ou de résidente ainsi que les conditions d'une période d'essai 
+- L'attribution des rôles de membres ou de résidente ainsi que les conditions d'une période d'essai 
 - Les dépenses exceptionnelles ou ponctuelles définies dans l'annexe pour le budget
 - Tout aménagement, par une personne, impactant les espaces communs qui ne peut être défait par cette même personne en une journée
 
