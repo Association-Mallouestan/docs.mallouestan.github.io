@@ -160,40 +160,40 @@ A comme droits:
 Toute personne qui est présente sur le lieu qui s’engage à respecter ce manuel. 
 
 Les visiteuses ont plusieurs responsabilités: 
-- Une visiteuse est responsable de ses actes et gestes sur le lieu. Elle est maître de son quotidien et responsable de la communication avec l'ensemble du collectif. 
+- Une visiteuse est responsable de ses actes et gestes sur le lieu. Elle est maîtresse de son quotidien et responsable de la communication avec l'ensemble du collectif. 
 - Dans le cas d'une visite de plus de 24h sur le lieu une visiteuse est responsable de l'entretien (nettoyage, changer une ampoule ...) des locaux et de tout équipement elle utilise sur le lieu, dans la limite de ses capacités, dans le cas contraire elle doit notifier l'ensemble du collectif. 
 - De tout faire pour garantir le respect, par toutes, de la charte. Pour éviter un contexte de délation, seules les situations interpersonnelles, où le bien-être d'une autre personne du lieu serait en jeu, oblige une intervention ou une notification de l'ensemble du collectif. 
  
 Les visiteuses ont les droits suivants: 
-- D'utiliser l'argent du pot commun pour les courses et autres dépenses du lieu hebdomadaires (bouteille de gaz, entretien) 
+- D'utiliser l'argent des boîtes dans l'espace commun (courses, sancturaire, essence)
 - Le droit de véto et de décision sur le contexte commun le temps de leur séjour. En cas d'opposition ce pouvoir de décision est, malgré tout, limité à un mois même dans le cas d'un séjour plus long. 
 - Un droit à une égalité d'opportunité sur le lieu (et non de résultat) vis-à-vis de la participation aux événements, aux activités quotidiennes et toute autre dynamique collective du lieu. 
  
 ### Résidente 
-Les résidentes sont égalements des visitrices  ainsi elles cumulents les droits et devoirs de ce rôle mais également des droits suivants: 
+Les résidentes sont égalements des visiteuses  ainsi elles cumulents les droits et devoirs de ce rôle mais également des droits suivants: 
 - De jouir d'un espace personnel réservé sans limite de temps pour la personne 
-- D'être considérée comme concernée par les changements du contexte commun ou les exeptions a la charte même  en cas d'absence sur le lieu. En cas d'injoignabilitée la residente a deux semaines pour partager sa décision. Ce pouvoir décisionel est limité en cas d'opposition à 6 mois.
-- Le droit de décision sur l'accès au rôle de residente
+- D'être considérée comme concernée par les changements du contexte commun ou les ecxeptions à la charte même  en cas d'absence sur le lieu. En cas d'injoignabilité la résidente a deux semaines pour partager sa décision. Ce pouvoir décisionel est limité en cas d'opposition à 6 mois.
+- Le droit de décision sur l'accès au rôle de résidente
 
 Elles se doivent également de respecter les devoirs suivants:
 - De ne pas représenter une charge financière ou de travail pour le reste du collectif
 
 ### Résidente non autonomes
 Dans le cas de résidentes ne pouvant assumer temporairement ou non (maladies, blessures, invalidités) les responsabilités (ci-dessus) se doivent de respecter, au delà des prérequis, les devoirs suivants:
-- Une comunication sur leur situation
+- Une communication sur leur situation
 
-Elles joissent aussi des droits des visitrices ainsi que les suivants:
+Elles jouissent aussi des droits des visiteuses ainsi que les suivants:
 - De jouir d'un espace personnel réservé sans limite de temps pour la personne
 
 ### Membres
-Les membres sont des parties prenantes concernés par les enjeux à long therme du projet, de fait concernés par des responsabilités accrus, ainsi les membres sont en plus des devoir et droits des résidentes tenues au devoirs suivants:
-- De s'assurer au quotidien que les besoins des animaux non-humaines sont satisfaits 
-- La responsabilité de fournir aux visiteuses les ressources nécessaires, le temps de leur séjour
-- La responsabilité de garantir le respect de la charte et d'intervenir ou solutionner des potentels problèmes.
-- De mutualisé ces ressources au dela d'un minimum nécessaire à maintenir une autonomie vis à vis du collectif 
+Les membres sont des parties prenantes concernées par les enjeux à long terme du projet, de fait concernées par des responsabilités accrues, ainsi les membres sont, en plus des devoir et droits des résidentes, tenues au devoirs suivants:
+- De s'assurer au quotidien que les besoins des animaux non-humains sont satisfaits 
+- La responsabilité de fournir aux visiteuses les ressources nécessaires le temps de leur séjour
+- La responsabilité de garantir le respect de la charte et d'intervenir ou solutionner des potentiels problèmes.
+- De mutualiser ces ressources au delà d'un minimum nécessaire à maintenir une autonomie vis-à-vis du collectif 
 
 Ainsi que les droits suivants:
-- D'être considérée comme concernée par les changements du contexte commun ou les exeptions a la charte même  en cas d'absence sur le lieu. En cas d'injoignabilitée la membre a deux semaines pour partager sa décision.
+- D'être considérée comme concernée par les changements du contexte commun ou les exceptions à la charte même  en cas d'absence sur le lieu. En cas d'injoignabilité, la membre a deux semaines pour partager sa décision.
 - De prendre des décisions sur les priorités, la stratégie, l'organisation notamment au travers des pôles
 - Le droit de véto et de décision sur le contexte commun, non plafonné dans le temps 
 - Le droit de décision sur l'argent des pots réservés aux dépenses exceptionnelles 
@@ -201,5 +201,5 @@ Ainsi que les droits suivants:
 
 ## Limites et quotas
 En vue de la taille et des ressources à disposition, certaines limites et certains quotas ont été définis: 
-- Un nombre maximum de 5 espaces personnels est fixé sur le lieu, à ce jour, permettant à 5 couple/famille de vivre sur le lieu. 
+- Un nombre maximum de 5 espaces personnels est fixé sur le lieu, à ce jour, permettant à 5 couples/familles de vivre sur le lieu. 
 - Un nombre maximum de 16 visiteuses à la fois est fixé pour passer une nuit sur le lieu
