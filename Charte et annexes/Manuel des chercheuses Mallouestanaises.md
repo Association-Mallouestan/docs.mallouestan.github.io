@@ -164,14 +164,14 @@ Les visiteuses ont plusieurs responsabilités:
 - De tout faire pour garantir le respect, par toutes, de la charte. Pour éviter un contexte de délation, seules les situations interpersonnelles, où le bien-être d'une autre personne du lieu serait en jeu, oblige une intervention ou une notification de l'ensemble du collectif. 
  
 Les visiteuses ont les droits suivants: 
-- D'utiliser l'argent des boîtes dans l'espace commun (courses, sancturaire, essence)
-- Le droit de véto et de décision sur le contexte commun le temps de leur séjour. En cas d'opposition ce pouvoir de décision est, malgré tout, limité à un mois même dans le cas d'un séjour plus long. 
-- Un droit à une égalité d'opportunité sur le lieu (et non de résultat) vis-à-vis de la participation aux événements, aux activités quotidiennes et toute autre dynamique collective du lieu. 
+- Utiliser l'argent des boîtes dans l'espace commun (courses, sancturaire, essence) ;
+- Le droit de véto et de décision sur le contexte commun le temps de leur séjour. En cas d'opposition ce pouvoir de décision est, malgré tout, limité à un mois même dans le cas d'un séjour plus long ; 
+- Le droit à une égalité d'opportunité sur le lieu (et non de résultat) vis-à-vis de la participation aux événements, aux activités quotidiennes et toute autre dynamique collective du lieu. 
  
 ### Résidente 
-Les résidentes sont égalements des visiteuses  ainsi elles cumulents les droits et devoirs de ce rôle mais également des droits suivants: 
-- De jouir d'un espace personnel réservé sans limite de temps pour la personne 
-- D'être considérée comme concernée par les changements du contexte commun ou les ecxeptions à la charte même  en cas d'absence sur le lieu. En cas d'injoignabilité la résidente a deux semaines pour partager sa décision. Ce pouvoir décisionel est limité en cas d'opposition à 6 mois.
+Les résidentes sont égalements des visiteuses, elles cumulent les droits et devoirs de ce rôle mais sont également soumises aux droits suivants: 
+- Jouir d'un espace personnel réservé sans limite de temps pour la personne ;
+- Être considérée comme concernée par les changements du contexte commun ou les exceptions à la même ?  en cas d'absence sur le lieu. En cas d'injoignabilité, la résidente a deux semaines pour partager sa décision. Ce pouvoir décisionel est limité en cas d'opposition à 6 mois ;
 - Le droit de décision sur l'accès au rôle de résidente
 
 Elles se doivent également de respecter les devoirs suivants:
