@@ -173,8 +173,7 @@ Les résidentes sont égalements des visiteuses, elles cumulent les droits et de
 - Jouir d'un espace personnel réservé sans limite de temps pour la personne ;
 - Être considérée comme concernée par les changements du contexte commun ou des exceptions à ce contexte même en cas d'absence sur le lieu. Ce pouvoir décisionel est limité en cas d'opposition à 6 mois ;
 - Le droit de décision sur l'accès au rôle de résidente
-- Le droit d'assumer le rôle de cooperateur 
-- Le droit d'organiser la plannification des semaines et de la vie quotidienne
+- Le droit d'assumer le rôle de cooperateur
 
 Elles se doivent également de respecter les devoirs suivants:
 - De ne pas représenter une charge financière ou de travail pour le reste du collectif
@@ -188,11 +187,10 @@ Dans le cas de résidentes ne pouvant assumer temporairement ou non (maladies, b
 Elles jouissent aussi des droits des visiteuses ainsi que les suivants:
 - De jouir d'un espace personnel réservé sans limite de temps pour la personne
 
+### Coopératrice
+Les coopératrice sont des parties prenantes concernées par les enjeux à long terme du projet, de fait concernées par des responsabilités accrues.
 
-### Coopérateurs
-Les coopérateurs sont des parties prenantes concernées par les enjeux à long terme du projet, de fait concernées par des responsabilités accrues.
-
-Les coopérateurs sont, en plus des devoir et droits des résidentes, tenues au devoirs suivants:
+Les coopératrice sont, en plus des devoir et droits des résidentes, tenues au devoirs suivants:
 - De s'assurer au quotidien que les besoins des animaux non-humains sont satisfaits 
 - La responsabilité de fournir aux visiteuses les ressources nécessaires le temps de leur séjour
 - La responsabilité de garantir le respect de la charte et d'intervenir ou solutionner des potentiels problèmes.
@@ -204,7 +202,7 @@ Ainsi que les droits suivants:
 - Le droit de véto et de décision sur le contexte commun, non plafonné dans le temps 
 - Le droit de décision sur l'argent des pots réservés aux dépenses exceptionnelles
 
-> L'accès au rôle cooperateur contrairement au rôle de visiteurs n'est pas sujet à l'unanimité ni le ressentit individuel mais à la capacité/volonté d'assumer les responsabilité et devoirs çi-dessus. Il faut une unamité des autres coopérateurs s'appuyant uniquement sur ce manuel pour limité le rôle d'une personnes à résidente.
+> L'accès au rôle cooperateur contrairement au rôle de visiteurs n'est pas sujet à l'unanimité ni le ressentit individuel mais à la capacité/volonté d'assumer les responsabilité et devoirs çi-dessus. Il faut une unamité des autres coopératrice s'appuyant uniquement sur ce manuel pour limité le rôle d'une personnes à résidente.
 
 ### Remarques transversales
 
