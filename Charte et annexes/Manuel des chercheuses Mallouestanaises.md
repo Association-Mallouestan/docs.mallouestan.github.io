@@ -165,13 +165,13 @@ Les visiteuses ont plusieurs responsabilités:
  
 Les visiteuses ont les droits suivants: 
 - Utiliser l'argent des boîtes dans l'espace commun (courses, sancturaire, essence) ;
-- Le droit de véto et de décision sur le contexte commun le temps de leur séjour. En cas d'opposition ce pouvoir de décision est, malgré tout, limité à un mois même dans le cas d'un séjour plus long ; 
+- Le droit de véto et de décision sur le contexte commun le temps de leur séjour. En cas d'opposition ce pouvoir de décision est, malgré tout, limité à un mois même dans le cas d'un séjour plus long; 
 - Le droit à une égalité d'opportunité sur le lieu (et non de résultat) vis-à-vis de la participation aux événements, aux activités quotidiennes et toute autre dynamique collective du lieu. 
  
 ### Résidente 
 Les résidentes sont égalements des visiteuses, elles cumulent les droits et devoirs de ce rôle mais sont également soumises aux droits suivants: 
 - Jouir d'un espace personnel réservé sans limite de temps pour la personne ;
-- Être considérée comme concernée par les changements du contexte commun ou les exceptions à la même ?  en cas d'absence sur le lieu. En cas d'injoignabilité, la résidente a deux semaines pour partager sa décision. Ce pouvoir décisionel est limité en cas d'opposition à 6 mois ;
+- Être considérée comme concernée par les changements du contexte commun ou des exceptions à ce contexte même en cas d'absence sur le lieu. Ce pouvoir décisionel est limité en cas d'opposition à 6 mois ;
 - Le droit de décision sur l'accès au rôle de résidente
 
 Elles se doivent également de respecter les devoirs suivants:
@@ -192,11 +192,17 @@ Les membres sont des parties prenantes concernées par les enjeux à long terme 
 - De mutualiser ces ressources au delà d'un minimum nécessaire à maintenir une autonomie vis-à-vis du collectif 
 
 Ainsi que les droits suivants:
-- D'être considérée comme concernée par les changements du contexte commun ou les exceptions à la charte même  en cas d'absence sur le lieu. En cas d'injoignabilité, la membre a deux semaines pour partager sa décision.
+- D'être considérée comme concernée par les changements du contexte commun ou les exceptions à la charte même  en cas d'absence sur le lieu.
 - De prendre des décisions sur les priorités, la stratégie, l'organisation notamment au travers des pôles
 - Le droit de véto et de décision sur le contexte commun, non plafonné dans le temps 
 - Le droit de décision sur l'argent des pots réservés aux dépenses exceptionnelles 
 - Le droit de décision sur l'accès au rôle de membre
+
+### Remarques communes
+
+- En cas d'injoignabilité, la résidente ou la membre a deux semaines pour partager sa décision.
+
+- En cas de d'opposition par une visiteuse ou une residente la décision est reprise à la fin de l'échéance l'oposition exprimés ainsi que les raisons sont consultatives et n'ont pas de pouvoir décisionnelle finale.
 
 ## Limites et quotas
 En vue de la taille et des ressources à disposition, certaines limites et certains quotas ont été définis: 
