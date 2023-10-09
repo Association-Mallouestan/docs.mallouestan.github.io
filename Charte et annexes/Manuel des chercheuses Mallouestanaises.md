@@ -174,6 +174,7 @@ Les résidentes sont égalements des visiteuses, elles cumulent les droits et de
 - Être considérée comme concernée par les changements du contexte commun ou des exceptions à ce contexte même en cas d'absence sur le lieu. Ce pouvoir décisionel est limité en cas d'opposition à 6 mois ;
 - Le droit de décision sur l'accès au rôle de résidente
 - Le droit d'assumer le rôle de cooperateur 
+- Le droit d'organiser la plannification des semaines et de la vie quotidienne
 
 Elles se doivent également de respecter les devoirs suivants:
 - De ne pas représenter une charge financière ou de travail pour le reste du collectif
@@ -199,13 +200,13 @@ Les coopérateurs sont, en plus des devoir et droits des résidentes, tenues au 
 
 Ainsi que les droits suivants:
 - D'être considérée comme concernée par les changements du contexte commun ou les exceptions à la charte même  en cas d'absence sur le lieu.
-- De prendre des décisions sur les priorités, la stratégie, l'organisation notamment au travers des pôles
+- De prendre des décisions sur les priorités des pôles
 - Le droit de véto et de décision sur le contexte commun, non plafonné dans le temps 
 - Le droit de décision sur l'argent des pots réservés aux dépenses exceptionnelles
 
-> L'accès au rôle cooperateur contrairement au rôle de visiteurs n'est pas sujet à l'unanimité mais à la capacité/volonté d'assumer les responsabilité et devoirs çi-dessus. Il faut une unamité des autres coopérateurs s'appuyant uniquement sur ce manuel pour limité le rôle d'une personnes à résidente.
+> L'accès au rôle cooperateur contrairement au rôle de visiteurs n'est pas sujet à l'unanimité ni le ressentit individuel mais à la capacité/volonté d'assumer les responsabilité et devoirs çi-dessus. Il faut une unamité des autres coopérateurs s'appuyant uniquement sur ce manuel pour limité le rôle d'une personnes à résidente.
 
-### Remarques communes
+### Remarques transversales
 
 - En cas d'injoignabilité, la résidente ou la membre a deux semaines pour partager sa décision.
 
