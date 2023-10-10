@@ -3,10 +3,10 @@ La création d’une alternative est un travail de tous les jours. Tendre vers u
 
 Le Mallouestan est un lieu fondé notament sur les pilliers suivants:
 
-- **anarcho-comunisme** <sup>1</sup>
+- **anarcho-comunisme**<sup>1</sup>
 - **antispécisme**
-- **anti-liberalisme** <sup>2</sup>
-- **anti-tech** <sup>3</sup>
+- **anti-liberalisme**<sup>2</sup>
+- **anti-tech**<sup>3</sup>
 
 qui cherche à créer une façon saine de vivre. Nos positions et valeurs ne sont pas dépendantes d'une romantisation du passé ou d'une indépendance absolue. Elles sont le fruit d'un travail critique, basé sur les discussions, les expériences et les connaissances des membres du lieu et des visiteuses. Ce manuel n'est donc pas un support dogmatique ou sectaire, mais un repère pour un collectif anarchiste. Il est destiné à évoluer régulièrement.
 
@@ -22,7 +22,7 @@ Nous sommes conscientes que beaucoup des valeurs et des objectifs ci-dessous son
 	- L'autonomie en méthodes et matériaux de construction,
 	- La déconnexion totale des espaces d'hébergement dits "personnels" des réseaux publics,
 	- L'autonomie à l'égard de l'agriculture moderne (monoculture, agriculture intensive...),
-	- L'autonomie vis-à-vis des technologies complexes <sup>3</sup>.
+	- L'autonomie vis-à-vis des technologies complexes<sup>3</sup>.
 1. Assurer la pérennité du sanctuaire pour les animaux non-humaines ; 
 2. Diminuer notre impact écologique ainsi que notre impact sur les écosystèmes avoisinants ; 
 3. Les santés corporelle et émotionnelle sont, pour nous, essentielles à une vie collective autonome et saine. Nous cherchons donc à développer une conscience de soi profonde pour tendre vers une résilience personnelle quotidienne. Celle-ci a pour but de minimiser les blessures, la fatigue et le mal-être ;
@@ -45,9 +45,9 @@ Nous sommes conscientes que chacune est déconstruite à des niveaux variables e
 4. Le respect des espaces et de leurs signalisations ;
 5. Le respect des animaux comme explicité à l'annexe "Animaux non autonomes" ;
 6. Un minimum de communication active (initiée par la personne détenant l'information) comme défini à la section "Communication sur le lieu" ; 
-7. Les aliments provenant du système de catégorie Nova 4 (https://fr.openfoodfacts.org/nova) ne sont pas tolérés au sein des espaces communs et partagés<sup>4</sup> ;
-8. Les aliments provenant du système de catégorie Nova 3 et de score nutritionnel au delà de "C" ne sont pas tolérés au sein des espaces communs et partagés<sup>4</sup> ;
-9. L'alcool, la nicotine, les drogues et autres substances non-alimentaires addictives ne sont pas tolérés au sein des espaces communs et partagés<sup>5</sup> ;
+7. Les aliments provenant du système de catégorie Nova 4 (https://fr.openfoodfacts.org/nova) ne sont pas tolérés au sein des espaces communs et partagés ;
+8. Les aliments provenant du système de catégorie Nova 3 et de score nutritionnel au delà de "C" ne sont pas tolérés au sein des espaces communs et partagés ;
+9. L'alcool, la nicotine, les drogues et autres substances non-alimentaires addictives ne sont pas tolérés au sein des espaces communs et partagés ;
 10. Tout état d'ébriété ou état sous influence n'est pas toléré lors des événements ponctuels ou durant les moments partagés du quotidien.
 
 > Les prérequis concernant les espaces communs et partagés, soit le 7, 8 et 9, s'appliquent également à la zone de camping et au parking. Les véhicules aménagés ne sont pas concernés par ces prérequis tant que la consommation se fait à l'intérieur.
@@ -223,13 +223,8 @@ En vue de la taille et des ressources à disposition, certaines limites et certa
 
 ## Notes 
 
-1. **Anarcho-comunism**:
+1. **Anarcho-comunism**: Nous nous reconnaissons dans l'anarcho-comunismes, entre autre, par notre opposition aux hierarchies artificielles (non justifié), à l'état, l'argent et la propriété privée mais également à l'importance accordé aux conditions du travail comme développer notament dans le comunisme.    
 
 2. **Anti-liberalism**: Nous nous opposons à l'hégémonie (omniprésence ou présence majoritaire) du libéralisme moderne, qu'il soit économique, comme le capitalisme, ou culturel/philosophique. Le libéralisme économique est un aspect que nous estimons moins nécessaire à développer ici, étant donné la critique qui lui est déjà largement adressée, contrairement à sa forme culturelle et philosophique. Nous faisons le triste constat de son emprise croissante sur les luttes sociales et de ses effets délétères. Nous choisissons donc de nous engager dans une démarche critique à l'égard de ce mode de pensée. Nous nous reconnaissons partiellement dans les travaux de Susan Sontag sur la culture de masse, Michel Clouscard dans sa critique du libéralisme post 68 et de la culture "populaire" ainsi que Jean-Claude Michéa dans ces travaux inscrit dans la lignée Orwellienne.
 
 3. **Autonomie vis a vis des technologies**: L'autonomie vis-à-vis des technologies complexes découle de plusieurs constats à leur égard. Le premier concerne le coût éthique de leur conception, notamment en ce qui concerne l'impact sur l'écologie, l'exploitation humaine, l'extractivisme et le néo-colonialisme. Le deuxième constat concerne la dépendance qu'elles créent, l'uniformisation et la rupture dans notre relation avec le monde vivant. Il est important de noter que nous n'opposons pas de manière totale toutes les technologies complexes, mais nous remettons en question en particulier celles qui font partie de notre quotidien. Les technologies médicales et sociales complexes, lorsqu'elles sont mutualisées, comme c'est le cas dans les hôpitaux, ont à notre avis des objectifs pouvant justifier les coûts mentionnés ci-dessus.
-
-4. **Les choix alimentaire**
-
-5. **Drogues**
-6. **Appel a des forces externes**
