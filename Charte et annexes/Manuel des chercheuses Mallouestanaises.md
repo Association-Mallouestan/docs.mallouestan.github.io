@@ -178,13 +178,13 @@ Les visiteuses ont les droits suivants:
 Les résidentes sont égalements des visiteuses, elles cumulent les droits et devoirs de ce rôle mais sont également soumises aux droits suivants: 
 - Jouir d'un espace personnel réservé sans limite de temps pour la personne ;
 - Être considérée comme concernée par les changements du contexte commun ou des exceptions à ce contexte même en cas d'absence sur le lieu. Ce pouvoir décisionel est limité en cas d'opposition à 6 mois ;
-- Le droit de décision sur l'accès au rôle de résidente
+- Le droit de décision sur l'accès au rôle de résidente et coopératrice
 - Le droit d'assumer le rôle de cooperateur
 
 Elles se doivent également de respecter les devoirs suivants:
 - De ne pas représenter une charge financière ou de travail pour le reste du collectif
 
-> L'accès au role de résidente est possible sur demande suite à une période d'essai ou chaque résidente doit accepter la résidente en période d'essai de façon permanente
+> L'accès au role de résidente est possible sur demande suite à une période d'essai ou chaque résidente doit accepter la résidente en période d'essai de façon permanente 
 
 ### Résidente non autonomes
 Dans le cas de résidentes ne pouvant assumer temporairement ou non (maladies, blessures, invalidités) les responsabilités (ci-dessus) se doivent de respecter, au delà des prérequis, les devoirs suivants:
@@ -200,21 +200,25 @@ Les coopératrice sont, en plus des devoir et droits des résidentes, tenues au 
 - De s'assurer au quotidien que les besoins des animaux non-humains sont satisfaits 
 - La responsabilité de fournir aux visiteuses les ressources nécessaires le temps de leur séjour
 - La responsabilité de garantir le respect de la charte et d'intervenir ou solutionner des potentiels problèmes.
-- De mutualiser ces ressources au delà d'un minimum nécessaire à maintenir une autonomie vis-à-vis du collectif (ce minimum est fixée a 2500 euro)<sup>4</sup>
+- De mutualiser ces ressources au delà d'un minimum nécessaire à maintenir une autonomie vis-à-vis du collectif (ce minimum est fixée au moment de l'accès au role de coopératrice)<sup>4</sup> Cette somme minimum n'est pas à fournir systématiquement par la personne souhaitant devenir membre mais bien par tout le collectif qui en cas d'incapacité à garantir ce minimum peut refuser l'accès au rôle de coopératrice.
 
 Ainsi que les droits suivants:
 - D'être considérée comme concernée par les changements du contexte commun ou les exceptions à la charte même  en cas d'absence sur le lieu non plafonné dans le temps.
 - De prendre des décisions sur les priorités des pôles
 - Le droit de véto et de décision sur le contexte commun, non plafonné dans le temps 
 - Le droit de décision sur l'argent des pots réservés aux dépenses exceptionnelles
+- Le droit de renoncer au rôle de contributrice pour n'être seulement résidente sans avis extérieur
 
-> L'accès au rôle cooperateur contrairement au rôle de visiteurs n'est pas sujet à l'unanimité ni le ressentit individuel mais à la capacité/volonté d'assumer les responsabilité et devoirs çi-dessus. Il faut une unamité des autres coopératrice s'appuyant uniquement sur ce manuel pour limité le rôle d'une personnes à résidente.
+> L'accès au rôle cooperateur est sujet à l'unanimité des résidentes, incluant de fait les cooperatrices; 
+
+> Une fois qu'une personnes est cooperatrice il faut l'unamité des autres coopératrice s'appuyant uniquement sur ce manuel pour limité son rôle à résidente.
 
 ### Remarques transversales
 
 - En cas d'injoignabilité, la résidente ou la membre a deux semaines pour partager sa décision.
-
 - En cas de d'opposition par une visiteuse ou une residente la décision est reprise à la fin de l'échéance. L'oposition exprimés ainsi que les raisons deviennent consultatives et n'ont pas de pouvoir décisionnelle finale.
+- Les motifs de refus d'accès au rôles, étayer si possible d'exemple et de pistes, doivent être communiqué au personnes concernée.
+- Pour éviter un rapport de force non justifié entre une minorité potentielle de coopératrice à l'égard d'une majorité le nombre de résidente ne peut dépassé 3.     
 
 ## Limites et quotas
 En vue de la taille et des ressources à disposition, certaines limites et certains quotas ont été définis: 
@@ -223,10 +227,14 @@ En vue de la taille et des ressources à disposition, certaines limites et certa
 
 ## Notes 
 
-1. **Anarcho-comunism**: Nous nous reconnaissons dans l'anarcho-comunismes, entre autre, par notre opposition aux hierarchies artificielles (non justifié), à l'état, l'argent et la propriété privée mais également à l'importance accordé aux conditions du travail comme développer notament dans le comunisme.    
+### 1. **Anarcho-comunism**
+Nous nous reconnaissons dans l'anarcho-communisme, notamment par notre opposition aux hiérarchies artificielles (non justifiées), à l'État, à l'argent et à la propriété privée, ainsi qu'à l'importance accordée à l'autonomie vis-à-vis des moyens de subsistance (ce dont nous avons besoin pour vivre) et au contexte dans lequel s'inscrit le travail.
 
-2. **Anti-liberalism**: Nous nous opposons à l'hégémonie (omniprésence ou présence majoritaire) du libéralisme moderne, qu'il soit économique, comme le capitalisme, ou culturel/philosophique. Le libéralisme économique est un aspect que nous estimons moins nécessaire à développer ici, étant donné la critique qui lui est déjà largement adressée, contrairement à sa forme culturelle et philosophique. Nous faisons le triste constat de son emprise croissante sur les luttes sociales et de ses effets délétères. Nous choisissons donc de nous engager dans une démarche critique à l'égard de ce mode de pensée. Nous nous reconnaissons partiellement dans les travaux de Susan Sontag sur la culture de masse, Michel Clouscard dans sa critique du libéralisme post 68 et de la culture "populaire" ainsi que Jean-Claude Michéa dans ces travaux inscrit dans la lignée Orwellienne.
+### 2. **Anti-liberalism**
+Nous nous opposons à l'hégémonie (omniprésence ou présence majoritaire) du libéralisme moderne, qu'il soit économique, comme le capitalisme, ou culturel/philosophique. Le libéralisme économique est un aspect que nous estimons moins nécessaire à développer ici, étant donné la critique qui lui est déjà largement adressée, contrairement à sa forme culturelle et philosophique. Nous faisons le triste constat de son emprise croissante sur les luttes sociales et de ses effets délétères. Nous choisissons donc de nous engager dans une démarche critique à l'égard de ce mode de pensée. Nous nous reconnaissons partiellement dans les travaux de Susan Sontag sur la culture de masse, Michel Clouscard dans sa critique du libéralisme post 68 et de la culture "populaire" ainsi que Jean-Claude Michéa dans ces travaux inscrit dans la lignée Orwellienne.
 
-3. **Autonomie vis a vis des technologies**: L'autonomie vis-à-vis des technologies complexes découle de plusieurs constats à leur égard. Le premier concerne le coût éthique de leur conception, notamment en ce qui concerne l'impact sur l'écologie, l'exploitation humaine, l'extractivisme et le néo-colonialisme. Le deuxième constat concerne la dépendance qu'elles créent, l'uniformisation et la rupture dans notre relation avec le monde vivant. Il est important de noter que nous n'opposons pas de manière totale toutes les technologies complexes, mais nous remettons en question en particulier celles qui font partie de notre quotidien. Les technologies médicales et sociales complexes, lorsqu'elles sont mutualisées, comme c'est le cas dans les hôpitaux, ont à notre avis des objectifs pouvant justifier les coûts mentionnés ci-dessus.
+### 3. **Autonomie vis a vis des technologies**
+L'autonomie vis-à-vis des technologies complexes découle de plusieurs constats à leur égard. Le premier concerne le coût éthique de leur conception, notamment en ce qui concerne l'impact sur l'écologie, l'exploitation humaine, l'extractivisme et le néo-colonialisme. Le deuxième constat concerne la dépendance qu'elles créent, l'uniformisation et la rupture dans notre relation avec le monde vivant. Il est important de noter que nous n'opposons pas de manière totale toutes les technologies complexes, mais nous remettons en question en particulier celles qui font partie de notre quotidien. Les technologies médicales et sociales complexes, lorsqu'elles sont mutualisées, comme c'est le cas dans les hôpitaux, ont à notre avis des objectifs pouvant justifier les coûts mentionnés ci-dessus.
 
-4. **Minimum fixée pour l'autonomie**: Une somme est fixée pour permettre l'accès au rôle de membre sans passer par un accord unanime subjectif.  
+### 4. **Minimum fixée pour l'autonomie**
+La valeur fixée est propre a chaque coopératrice de par les differences comme la situation familiale, professionelles ou sociale.
