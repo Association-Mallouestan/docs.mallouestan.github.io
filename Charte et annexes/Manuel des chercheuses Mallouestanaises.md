@@ -186,13 +186,6 @@ Elles se doivent également de respecter les devoirs suivants:
 
 > L'accès au role de résidente est possible sur demande suite à une période d'essai ou chaque résidente doit accepter la résidente en période d'essai de façon permanente 
 
-### Résidente non autonomes
-Dans le cas de résidentes ne pouvant assumer temporairement ou non (maladies, blessures, invalidités) les responsabilités (ci-dessus) se doivent de respecter, au delà des prérequis, les devoirs suivants:
-- Une communication sur leur situation
-
-Elles jouissent aussi des droits des visiteuses ainsi que les suivants:
-- De jouir d'un espace personnel réservé sans limite de temps pour la personne
-
 ### Coopératrice
 Les coopératrice sont des parties prenantes concernées par les enjeux à long terme du projet, de fait concernées par des responsabilités accrues.
 
