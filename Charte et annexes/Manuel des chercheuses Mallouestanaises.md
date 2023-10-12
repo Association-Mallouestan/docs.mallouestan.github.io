@@ -197,7 +197,7 @@ Les coopératrice sont, en plus des devoir et droits des résidentes, tenues au 
 
 Ainsi que les droits suivants:
 - D'être considérée comme concernée par les changements du contexte commun ou les exceptions à la charte même  en cas d'absence sur le lieu non plafonné dans le temps.
-- De prendre des décisions sur les priorités des pôles
+- De prendre des décisions sur les priorités notament au travers des pôles
 - Le droit de véto et de décision sur le contexte commun, non plafonné dans le temps 
 - Le droit de décision sur l'argent des pots réservés aux dépenses exceptionnelles
 - Le droit de renoncer au rôle de contributrice pour n'être seulement résidente sans avis extérieur
@@ -208,7 +208,7 @@ Ainsi que les droits suivants:
 
 ### Remarques transversales
 
-- En cas d'injoignabilité, la résidente ou la membre a deux semaines pour partager sa décision.
+- En cas d'injoignabilité, la résidente ou la cooperatrice a deux semaines pour partager sa décision.
 - En cas de d'opposition par une visiteuse ou une residente la décision est reprise à la fin de l'échéance. L'oposition exprimés ainsi que les raisons deviennent consultatives et n'ont pas de pouvoir décisionnelle finale.
 - Les motifs de refus d'accès au rôles, étayer si possible d'exemple et de pistes, doivent être communiqué au personnes concernée.
 - Pour éviter un rapport de force non justifié entre une minorité potentielle de coopératrice à l'égard d'une majorité le nombre de résidente ne peut dépassé 3.     
