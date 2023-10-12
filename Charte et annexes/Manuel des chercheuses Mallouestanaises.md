@@ -179,7 +179,7 @@ Les résidentes sont égalements des visiteuses, elles cumulent les droits et de
 - Jouir d'un espace personnel réservé sans limite de temps pour la personne ;
 - Être considérée comme concernée par les changements du contexte commun ou des exceptions à ce contexte même en cas d'absence sur le lieu. Ce pouvoir décisionel est limité en cas d'opposition à 6 mois ;
 - Le droit de décision sur l'accès au rôle de résidente et coopératrice
-- Le droit d'assumer le rôle de cooperateur
+- Le droit de décision sur le budget
 
 Elles se doivent également de respecter les devoirs suivants:
 - De ne pas représenter une charge financière ou de travail pour le reste du collectif
