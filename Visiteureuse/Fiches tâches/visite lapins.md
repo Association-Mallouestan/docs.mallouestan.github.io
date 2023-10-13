@@ -1,19 +1,28 @@
 # Tâche visite lapins
 
 ## Description
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut magna mauris, convallis non porttitor eget, tincidunt sed augue. Phasellus eu mi est. Integer arcu metus, sagittis at turpis sed, feugiat elementum diam. Suspendisse pretium elit pretium, porta lacus sed, blandit lectus. Curabitur ut tortor lectus. Praesent tortor nisl, venenatis ut nisl ut, varius auctor lacus. Phasellus rhoncus risus ligula, condimentum semper nulla consequat rhoncus. Quisque dictum dolor eget elit lobortis pulvinar. Cras sem enim, consectetur eu diam et, tempor ultricies justo. Praesent at finibus dolor. Integer fringilla tellus a ipsum hendrerit, id condimentum diam lacinia. Aenean hendrerit id nisl vel aliquet. Sed dictum diam fermentum diam porta, ac hendrerit ligula tristique. Nullam condimentum, quam non suscipit convallis, nisi augue tincidunt quam, nec tempor urna ante vel sem. Maecenas et leo in lectus tincidunt placerat.
+Cette visite 3 fois par jour, permet de s'assurer que l'on réponde bien aux besoins des lapin·e·s que ce soit par l'accès à l'eau, la nourriture, la protection pour la nuit ou l'ouverture de l'enclos le matin. Cela nous permet également de les observer et vérifier qu'iels n'aient pas les symptômes suivants: Diarhée, boîterie, perte d'équilibre, convulsion, salivation excéssive, respiration difficile, immobilité et difficulté à se déplacer.
 
 ## Points à faire
 
-- [ ] Point
-- [ ] Point
-- [ ] Point
-- [ ] Point
-- [ ] Point
+Matin
+- [ ] Ouvrir l'enclos de nuit le matin
+- [ ] Leur donner une grosse poignée chacun·e de verdure (ins photo) pour la liste des aliment possible, voir au verso.
+- [ ] Vérifier qu'iels aient toujours du foin, il est placé entre le grillage blanc et la malle en bois juse en face de la porte de l'enclos. S'il n'y en a plus, ou peu, le foin se trouve dans la malle en question.
+- [ ] Vérifier si l'on observe l'un des symptômes listé dans la description. Si c'est le cas, veuillez informer une résidente au plus vite svp!
+- [ ] Changer l'eau de leurs gamelles et brosser les gamelles.
+
+Après-midi
+- [ ] Donner une poignée de verdure à chacun·e (voir photo dans matin)
+- [ ] Vérifier le niveau de foin, l'eau et observer s'ils ont des symptômes
+
+Soir
+- [ ] Vérifier qu'iels ont bien une gamelle d'eau propre dans leur enclos de nuit.
+- [ ] Déposer dans l'enclos de nuit une poignée de verdure pour chacun·e. Si cela ne suffit pas à les appater, des friandises sont dans la malle (juste devant la première porte). Ne pas en donner plus qu'une pincé!
+- [ ] Observer s'iels ont les sympômes
 
 > [!NOTE]
 > Highlights information that users should take into account, even when skimming.
 
 > [!IMPORTANT]  
 > Highlights information that users should take into account, even when skimming.
-
