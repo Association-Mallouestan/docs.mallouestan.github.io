@@ -11,8 +11,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut magna mauris, conval
 - [ ] Point
 - [ ] Point
 
-> [!NOTE]  
+> [!NOTE]  REMARQUE
 > Highlights information that users should take into account, even when skimming.
 
+> [!WARNING]  ATTENTION  
+> Highlights information that users should take into account, even when skimming.
 
+> [!WARNING]  ATTENTION  
+> Highlights information that users should take into account, even when skimming.
 
