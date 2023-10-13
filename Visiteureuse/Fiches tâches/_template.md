@@ -14,9 +14,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut magna mauris, conval
 > [!NOTE]
 > Highlights information that users should take into account, even when skimming.
 
-> [!WARNING]  
-> Highlights information that users should take into account, even when skimming.
-
-> [!ALERT]    
+> [!IMPORTANT]  
 > Highlights information that users should take into account, even when skimming.
 
