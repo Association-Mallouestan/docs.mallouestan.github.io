@@ -11,12 +11,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut magna mauris, conval
 - [ ] Point
 - [ ] Point
 
-> Test [!NOTE]  
+> [!NOTE Test]  
 > Highlights information that users should take into account, even when skimming.
 
-> Test [!WARNING]  
+> [!WARNING Test]  
 > Highlights information that users should take into account, even when skimming.
 
-> Test [!WARNING]    
+> [!WARNING Test]    
 > Highlights information that users should take into account, even when skimming.
 
