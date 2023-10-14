@@ -1,12 +1,18 @@
 ## Préface
 La création d’une alternative est un travail de tous les jours. Tendre vers un idéal est complexe. C’est pourquoi nous sommes contraintes d’établir un manuel de vie commune. 
 
-Le Mallouestan est un lieu **anarchiste**, **antispéciste**, **anti-capitaliste** et **anti-tech**
+Le Mallouestan est un lieu fondé notament sur les pilliers suivants:
+
+- **anarcho-comunisme**<sup>1</sup>
+- **antispécisme**
+- **anti-liberalisme**<sup>2</sup>
+- **anti-tech**<sup>3</sup>
+
 qui cherche à créer une façon saine de vivre. Nos positions et valeurs ne sont pas dépendantes d'une romantisation du passé ou d'une indépendance absolue. Elles sont le fruit d'un travail critique, basé sur les discussions, les expériences et les connaissances des membres du lieu et des visiteuses. Ce manuel n'est donc pas un support dogmatique ou sectaire, mais un repère pour un collectif anarchiste. Il est destiné à évoluer régulièrement.
 
 > Ce manuel définit le contexte commun auquel tout le monde choisit d’adhérer en venant sur le lieu ou en participant aux événements extérieurs organisés par le Mallouestan. 
 
-> Ce manuel a été féminisé dans le but de dégenrer notre langage. Étant donné que la forme masculine prédomine, nous avons décidé de ne plus l'utiliser, privilégiant ainsi la forme féminine en raison de sa simplicité et de son caractère ubiquitaire (connue de toutes)
+> Ce manuel a été annoté pour mieux expliqué nos choix qui ne peuvent pas être synthétiser dans ce document.
 
 ## Objectifs
 Nous sommes conscientes que beaucoup des valeurs et des objectifs ci-dessous sont difficilement atteignables. De ce fait, nous les listons humblement en acceptant que chacune, sur le lieu, ne peut qu’y tendre. 
@@ -16,7 +22,7 @@ Nous sommes conscientes que beaucoup des valeurs et des objectifs ci-dessous son
 	- L'autonomie en méthodes et matériaux de construction,
 	- La déconnexion totale des espaces d'hébergement dits "personnels" des réseaux publics,
 	- L'autonomie à l'égard de l'agriculture moderne (monoculture, agriculture intensive...),
-	- L'autonomie vis-à-vis des technologies complexes (TCI 2, TCI 3, TCI 4).
+	- L'autonomie vis-à-vis des technologies complexes<sup>3</sup>.
 1. Assurer la pérennité du sanctuaire pour les animaux non-humaines ; 
 2. Diminuer notre impact écologique ainsi que notre impact sur les écosystèmes avoisinants ; 
 3. Les santés corporelle et émotionnelle sont, pour nous, essentielles à une vie collective autonome et saine. Nous cherchons donc à développer une conscience de soi profonde pour tendre vers une résilience personnelle quotidienne. Celle-ci a pour but de minimiser les blessures, la fatigue et le mal-être ;
@@ -31,7 +37,7 @@ Nous sommes conscientes que chacune est déconstruite à des niveaux variables e
 
 1. Aucune violence, hors légitime défense, envers un autre individu, ce qui inclut mais n'est pas limité aux violences ou situations suivantes : 
 	- Les agressions verbales ou physiques ;
-L	- les discours prônant la violence à l'égard d'autres êtres sentients ;
+	- les discours prônant la violence à l'égard d'autres êtres sentients ;
 	- Le non-respect de la liberté de chacun-e de clore toute situation sociale qu'elle trouve inconfortable ;   
 	- Toute entrave à l'agentivité (la capacité d'agir et de façon autonome) d'un individu, le non-respect de l'individualité (le fait qu'un individu possède des caractéristiques qui le rendent tel qu'il ne puisse être confondu avec un autre être), ou le non respect de l'autonomie corporelle (le droit de prendre ses propres décisions pour son corps et son avenir) ;
 2. Aucune consommation, achat ou promotion de produits d’origine animale (chair, lait, œufs, miel, cuir, laine...) et aucune promotion d'activités liées à l'exploitation animale (équitation, agility, cirque, traction animale, collaboration animale...). Tous les sujets peuvent évidemment être abordés, mais ils doivent être traités en tant qu'avis individuels et non comme des vérités universelles ;
@@ -62,7 +68,7 @@ Un équilibre doit être trouvé entre les libertés individuelles et celles du 
 
 Tout autre décision, hors précision contraire dans le manuel, ne nécéssite aucun accord collectif. Néanmoins, une communication et une transparence sont encouragées. 
 
-> Toute décision peut être annulée ou opposée par n'importe quelle personne si elle est en contradiction avec le présent manuel. Si un doute existe sur l'interprétation du manuel, confirmé par 60% des personnes présentes sur le lieu, l'ambiguité ne peut être imputée à la prise de décision. 
+> Toute décision peut être annulée ou opposée par n'importe quelle personne si elle est en contradiction avec le présent manuel. Si un doute existe sur l'interprétation du manuel, concevable par 60% des personnes présentes sur le lieu, l'ambiguité ne peut être imputée à la prise de décision. 
 
 > Toute exception à la charte peut être mise en place temporairement (la durée doit être précisée) sur vote unanime. L'exception est valable tant que sont présentes sur le lieu uniquement les personnes ayant participé à la mise en place de ladite exception. Les exceptions, hormis celles qui concernent les quotas humaines, doivent également être validées par les résidentes non présent.e.s sur le lieu.
 
@@ -165,40 +171,63 @@ Les visiteuses ont plusieurs responsabilités:
  
 Les visiteuses ont les droits suivants: 
 - Utiliser l'argent des boîtes dans l'espace commun (courses, sancturaire, essence) ;
-- Le droit de véto et de décision sur le contexte commun le temps de leur séjour. En cas d'opposition ce pouvoir de décision est, malgré tout, limité à un mois même dans le cas d'un séjour plus long ; 
+- Le droit de véto et de décision sur le contexte commun le temps de leur séjour. En cas d'opposition ce pouvoir de décision est, malgré tout, limité à un mois même dans le cas d'un séjour plus long; 
 - Le droit à une égalité d'opportunité sur le lieu (et non de résultat) vis-à-vis de la participation aux événements, aux activités quotidiennes et toute autre dynamique collective du lieu. 
  
 ### Résidente 
 Les résidentes sont égalements des visiteuses, elles cumulent les droits et devoirs de ce rôle mais sont également soumises aux droits suivants: 
 - Jouir d'un espace personnel réservé sans limite de temps pour la personne ;
-- Être considérée comme concernée par les changements du contexte commun ou les exceptions à la même ?  en cas d'absence sur le lieu. En cas d'injoignabilité, la résidente a deux semaines pour partager sa décision. Ce pouvoir décisionel est limité en cas d'opposition à 6 mois ;
-- Le droit de décision sur l'accès au rôle de résidente
+- Être considérée comme concernée par les changements du contexte commun ou des exceptions à ce contexte même en cas d'absence sur le lieu. Ce pouvoir décisionel est limité en cas d'opposition à 6 mois ;
+- Le droit de décision sur l'accès au rôle de résidente et coopératrice
+- Le droit de décision sur le budget
 
 Elles se doivent également de respecter les devoirs suivants:
 - De ne pas représenter une charge financière ou de travail pour le reste du collectif
 
-### Résidente non autonomes
-Dans le cas de résidentes ne pouvant assumer temporairement ou non (maladies, blessures, invalidités) les responsabilités (ci-dessus) se doivent de respecter, au delà des prérequis, les devoirs suivants:
-- Une communication sur leur situation
+> L'accès au role de résidente est possible sur demande suite à une période d'essai ou chaque résidente doit accepter la résidente en période d'essai de façon permanente 
 
-Elles jouissent aussi des droits des visiteuses ainsi que les suivants:
-- De jouir d'un espace personnel réservé sans limite de temps pour la personne
+### Coopératrice
+Les coopératrice sont des parties prenantes concernées par les enjeux à long terme du projet, de fait concernées par des responsabilités accrues.
 
-### Membres
-Les membres sont des parties prenantes concernées par les enjeux à long terme du projet, de fait concernées par des responsabilités accrues, ainsi les membres sont, en plus des devoir et droits des résidentes, tenues au devoirs suivants:
+Les coopératrice sont, en plus des devoir et droits des résidentes, tenues au devoirs suivants:
 - De s'assurer au quotidien que les besoins des animaux non-humains sont satisfaits 
 - La responsabilité de fournir aux visiteuses les ressources nécessaires le temps de leur séjour
 - La responsabilité de garantir le respect de la charte et d'intervenir ou solutionner des potentiels problèmes.
-- De mutualiser ces ressources au delà d'un minimum nécessaire à maintenir une autonomie vis-à-vis du collectif 
+- De mutualiser ces ressources au delà d'un minimum nécessaire à maintenir une autonomie vis-à-vis du collectif (ce minimum est fixée au moment de l'accès au role de coopératrice)<sup>4</sup> Cette somme minimum n'est pas à fournir systématiquement par la personne souhaitant devenir membre mais bien par tout le collectif qui en cas d'incapacité à garantir ce minimum peut refuser l'accès au rôle de coopératrice.
 
 Ainsi que les droits suivants:
-- D'être considérée comme concernée par les changements du contexte commun ou les exceptions à la charte même  en cas d'absence sur le lieu. En cas d'injoignabilité, la membre a deux semaines pour partager sa décision.
-- De prendre des décisions sur les priorités, la stratégie, l'organisation notamment au travers des pôles
+- D'être considérée comme concernée par les changements du contexte commun ou les exceptions à la charte même  en cas d'absence sur le lieu non plafonné dans le temps.
+- De prendre des décisions sur les priorités notament au travers des pôles
 - Le droit de véto et de décision sur le contexte commun, non plafonné dans le temps 
-- Le droit de décision sur l'argent des pots réservés aux dépenses exceptionnelles 
-- Le droit de décision sur l'accès au rôle de membre
+- Le droit de décision sur l'argent des pots réservés aux dépenses exceptionnelles
+- Le droit de renoncer au rôle de contributrice pour n'être seulement résidente sans avis extérieur
+
+> L'accès au rôle cooperateur est sujet à l'unanimité des résidentes, incluant de fait les cooperatrices; 
+
+> Une fois qu'une personnes est cooperatrice il faut l'unamité des autres coopératrice s'appuyant uniquement sur ce manuel pour limité son rôle à résidente.
+
+### Remarques transversales
+
+- En cas d'injoignabilité, la résidente ou la cooperatrice a deux semaines pour partager sa décision.
+- En cas de d'opposition par une visiteuse ou une residente la décision est reprise à la fin de l'échéance. L'oposition exprimés ainsi que les raisons deviennent consultatives et n'ont pas de pouvoir décisionnelle finale.
+- Les motifs de refus d'accès au rôles, étayer si possible d'exemple et de pistes, doivent être communiqué au personnes concernée.
+- Pour éviter un rapport de force non justifié entre une minorité potentielle de coopératrice à l'égard d'une majorité le nombre de résidente ne peut dépassé 3.     
 
 ## Limites et quotas
 En vue de la taille et des ressources à disposition, certaines limites et certains quotas ont été définis: 
 - Un nombre maximum de 5 espaces personnels est fixé sur le lieu, à ce jour, permettant à 5 couples/familles de vivre sur le lieu. 
 - Un nombre maximum de 16 visiteuses à la fois est fixé pour passer une nuit sur le lieu
+
+## Notes 
+
+### 1. **Anarcho-comunism**
+Nous nous reconnaissons dans l'anarcho-communisme, notamment par notre opposition aux hiérarchies artificielles (non justifiées), à l'État, à l'argent et à la propriété privée, ainsi qu'à l'importance accordée à l'autonomie vis-à-vis des moyens de subsistance (ce dont nous avons besoin pour vivre) et au contexte dans lequel s'inscrit le travail.
+
+### 2. **Anti-liberalism**
+Nous nous opposons à l'hégémonie (omniprésence ou présence majoritaire) du libéralisme moderne, qu'il soit économique, comme le capitalisme, ou culturel/philosophique. Le libéralisme économique est un aspect que nous estimons moins nécessaire à développer ici, étant donné la critique qui lui est déjà largement adressée, contrairement à sa forme culturelle et philosophique. Nous faisons le triste constat de son emprise croissante sur les luttes sociales et de ses effets délétères. Nous choisissons donc de nous engager dans une démarche critique à l'égard de ce mode de pensée. Nous nous reconnaissons partiellement dans les travaux de Susan Sontag sur la culture de masse, Michel Clouscard dans sa critique du libéralisme post 68 et de la culture "populaire" ainsi que Jean-Claude Michéa dans ces travaux inscrit dans la lignée Orwellienne.
+
+### 3. **Autonomie vis a vis des technologies**
+L'autonomie vis-à-vis des technologies complexes découle de plusieurs constats à leur égard. Le premier concerne le coût éthique de leur conception, notamment en ce qui concerne l'impact sur l'écologie, l'exploitation humaine, l'extractivisme et le néo-colonialisme. Le deuxième constat concerne la dépendance qu'elles créent, l'uniformisation et la rupture dans notre relation avec le monde vivant. Il est important de noter que nous n'opposons pas de manière totale toutes les technologies complexes, mais nous remettons en question en particulier celles qui font partie de notre quotidien. Les technologies médicales et sociales complexes, lorsqu'elles sont mutualisées, comme c'est le cas dans les hôpitaux, ont à notre avis des objectifs pouvant justifier les coûts mentionnés ci-dessus.
+
+### 4. **Minimum fixée pour l'autonomie**
+La valeur fixée est propre a chaque coopératrice de par les differences de nos vie respectives comme la situation familiale, professionelles ou sociale.
