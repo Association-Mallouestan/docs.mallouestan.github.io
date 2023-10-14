@@ -6,7 +6,7 @@ Enfin, la visite nous permet de vérifier qu'il n'y a pas de grosse anomalie sur
 
 ## Points à faire
 
-- [ ] Vérifier qu'il y a de l'eau propre et en quantité suffisante (seau ou ruisseau selon le champ) la remplir si besoin
+- [ ] Vérifier qu'il y a de l'eau propre et en quantité suffisante (seau ou ruisseau selon le champ) le remplir si besoin
 
 - [ ] Approcher chaque individu (s'iel est ok) pour vérifier: 
   - [ ] la marche (boiterie ? )
