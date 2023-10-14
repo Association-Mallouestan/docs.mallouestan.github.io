@@ -8,14 +8,14 @@ Le Mallouestan est un lieu fondé notament sur les pilliers suivants:
 - **anti-liberalisme**<sup>2</sup>
 - **anti-tech**<sup>3</sup>
 
-qui cherche à créer une façon saine de vivre. Nos positions et valeurs ne sont pas dépendantes d'une romantisation du passé ou d'une indépendance absolue. Elles sont le fruit d'un travail critique, basé sur les discussions, les expériences et les connaissances des membres du lieu et des visiteuses. Ce manuel n'est donc pas un support dogmatique ou sectaire, mais un repère pour un collectif anarchiste. Il est destiné à évoluer régulièrement.
+qui cherche à créer une façon saine de vivre. Nos positions et valeurs ne sont pas dépendantes d'une romantisation du passé ou d'une indépendance absolue. Elles sont le fruit d'un travail critique, basé sur les discussions, les expériences et les connaissances des membres du lieu et des visiteus·es. Ce manuel n'est donc pas un support dogmatique ou sectaire, mais un repère pour un collectif anarcho-comuniste. Il est destiné à évoluer régulièrement.
 
-> Ce manuel définit le contexte commun auquel tout le monde choisit d’adhérer en venant sur le lieu ou en participant aux événements extérieurs organisés par le Mallouestan. 
+> Ce manuel définit le contexte commun auquel chaque personnes choisit d’adhérer en venant sur le lieu ou en participant aux événements extérieurs organisés par le Mallouestan. 
 
 > Ce manuel a été annoté pour mieux expliqué nos choix qui ne peuvent pas être synthétiser dans ce document.
 
 ## Objectifs
-Nous sommes conscientes que beaucoup des valeurs et des objectifs ci-dessous sont difficilement atteignables. De ce fait, nous les listons humblement en acceptant que chacune, sur le lieu, ne peut qu’y tendre. 
+Nous sommes conscient·es que beaucoup des valeurs et des objectifs ci-dessous sont difficilement atteignables. De ce fait, nous les listons humblement en acceptant que chacun·e, sur le lieu, ne peut qu’y tendre. 
 1. Créer une résilience/indépendance commune vis-à-vis du capitalisme et de la société de consommation notamment mais non limité à :
 	- L'autonomie en fruits et légumes,
 	- L'autonomie vis-à-vis des energies fossiles,
@@ -33,7 +33,7 @@ Nous sommes conscientes que beaucoup des valeurs et des objectifs ci-dessous son
 8. Créer un nouveau rapport au vivant en développant une axiologie (vision de ce qui est considéré comme juste et souhaitable) ancrée dans une cosmologie (vision de la façon dont l'univers fonctionne) matérialiste compatible avec la méthode scientifique.  
 
 ## Prérequis
-Nous sommes conscientes que chacune est déconstruite à des niveaux variables et que chacune évolue à sa vitesse. Malgré cela, un minimum de déconstruction est nécessaire pour garantir l’avancée de l’ensemble du groupe. Comme pour le reste de cette charte, aucun mécanisme, ci-dessous, n'a comme prétention d'être suffisant ou parfait mais représente un point de départ qui semble pertinent pour les explorations du collectif. Nous demandons donc sur le lieu et pendant les événements organisés par le Mallouestan : 
+Nous sommes conscient·es que chacun·e est déconstruit·e à des niveaux variables et que chacun·e évolu·e à sa vitesse. Malgré cela, un minimum de déconstruction est nécessaire pour garantir l’avancée de l’ensemble du groupe. Comme pour le reste de cette charte, aucun mécanisme, ci-dessous, n'a comme prétention d'être suffisant ou parfait mais représente un point de départ qui semble pertinent pour les explorations du collectif. Nous demandons donc sur le lieu et pendant les événements organisés par le Mallouestan : 
 
 1. Aucune violence, hors légitime défense, envers un autre individu, ce qui inclut mais n'est pas limité aux violences ou situations suivantes : 
 	- Les agressions verbales ou physiques ;
@@ -62,7 +62,7 @@ Nous sommes conscientes que chacune est déconstruite à des niveaux variables e
 Un équilibre doit être trouvé entre les libertés individuelles et celles du collectif. Les situations suivantes, impactant le contexte commun, doivent être précédées par un vote unanime des personnes concernées par la décision: 
 
 - Tout changement de la charte ou ses annexes (Budget, liste de courses) ;
-- L'attribution des rôles de membres ou de résidente ainsi que les conditions d'une période d'essai ;
+- L'attribution des rôles de membres ou de résident·e ainsi que les conditions d'une période d'essai ;
 - Les dépenses exceptionnelles ou ponctuelles définies dans l'annexe pour le budget ;
 - Tout aménagement, par une personne, impactant les espaces communs qui ne peut être défait par cette même personne en une journée.
 
@@ -70,10 +70,10 @@ Tout autre décision, hors précision contraire dans le manuel, ne nécéssite a
 
 > Toute décision peut être annulée ou opposée par n'importe quelle personne si elle est en contradiction avec le présent manuel. Si un doute existe sur l'interprétation du manuel, concevable par 60% des personnes présentes sur le lieu, l'ambiguité ne peut être imputée à la prise de décision. 
 
-> Toute exception à la charte peut être mise en place temporairement (la durée doit être précisée) sur vote unanime. L'exception est valable tant que sont présentes sur le lieu uniquement les personnes ayant participé à la mise en place de ladite exception. Les exceptions, hormis celles qui concernent les quotas humaines, doivent également être validées par les résidentes non présent.e.s sur le lieu.
+> Toute exception à la charte peut être mise en place temporairement (la durée doit être précisée) sur vote unanime. L'exception est valable tant que sont présentes sur le lieu uniquement les personnes ayant participé à la mise en place de ladite exception. Les exceptions, hormis celles qui concernent les quotas humaines, doivent également être validées par les résident·es non présent.e.s sur le lieu.
 
 ## Gestion de conflit
-Nous sommes conscientes que nous sommes des êtres de nature imparfaite. Nous faisons donc toutes et tous des erreurs ou des écarts à nos valeurs et idéaux. Nous nous devons d’être indulgentes, envers nous-mêmes et envers autrui. Mais nous acceptons également que tout écart qui impacte le lieu et ses membres peut être traité si une personne le souhaite. 
+Nous sommes conscient·es que nous sommes des êtres de nature imparfait·e. Nous faisons donc toutes et tous des erreurs ou des écarts à nos valeurs et idéaux. Nous nous devons d’être indulgent·es, envers nous-mêmes et envers autrui. Mais nous acceptons également que tout écart qui impacte le lieu et ses membres peut être traité si une personne le souhaite. 
 
 Lors d’un conflit: 
 1. Nous essayons de le résoudre entre les parties directement. 
@@ -85,19 +85,20 @@ Lors d’un conflit:
 ## Ultimatums 
 Plusieurs ultimatums exceptionnels sont de facto définis pour toutes les membres du lieu: 
 1. Toute atteinte physique intentionelle, hors légitime défense, sur un individu du lieu peut entraîner une exclusion du lieu si au moins une autre membre du lieu le souhaite 
-2. Toute atteinte physique grave (décès, blessures sur le long terme) par un animal non-résidente sur un autre individu du lieu entraîne soit l’exclusion de l’animal ou, si la ou les responsables de l’animal le souhaite, un ultimatum les concernant directement
+2. Toute atteinte physique grave (décès, blessures sur le long terme) par un animal non-résident·e sur un autre individu du lieu entraîne soit l’exclusion de l’animal ou, si la ou les responsables de l’animal le souhaite, un ultimatum les concernant directement
 3. Si une personne présentant une volonté d'atteinte grave à elle-même, qu'il s'agisse de blessures potentielles ou d'un risque imminent de mort, nous prendrons la décision **dans le cas où le dialogue est stérile ou impossible**, d'impliquer des forces extérieures. Cela peut inclure, mais n'est pas limité à, l'appel des services d'urgence tels que le SAMU.
+
 ## Vie collective
 ### Communication sur le lieu 
-Les événements ponctuels ou quotidiens qui sont destinés à être collectifs (repas, réunions...) nécessitent une communication claire et fonctionnelle passant par des moyens de communication ubiquitaires (partagés par toustes). L'objectif de cette communication est de permettre à tout le monde de participer ou d'être informé afin que chacun soit inclus.e dans la vie collective.
+Les événements ponctuels ou quotidiens qui sont destinés à être collectifs (repas, réunions...) nécessitent une communication claire et fonctionnelle passant par des moyens de communication ubiquitaires (partagés par toustes). L'objectif de cette communication est de permettre à tout le monde de participer ou d'être informé·e afin que chacun·e soit inclus.e dans la vie collective.
 
 > Exemple: Pour les repas, prévenir toutes les personne du lieu
 
 La communication est intrinsèquement complexe et personnelle. Il est important de s'adapter au mieux à ces différences, que ce soit à l'oral, par écrit ou autrement. Malgré cela, une communication minimale active (initiée par la personne détenant l'information) est nécessaire en ce qui concerne le contexte commun et la vie quotidienne collective du lieu. Nous demandons donc une communication claire sur les points suivants :
 
-- Ce qui relève des responsabilités des référentes techniques
+- Ce qui relève des responsabilités des référent·es techniques
 - Les tâches quotidiennes, hebdomadaires et les chantiers
-- La présence ou l'absence des personnes hébergées sur le lieu
+- La présence ou l'absence des personnes hébergé·es sur le lieu
 - Tout état de santé entraînant un risque ou un danger
 - Tout élément mettant en danger la santé d'autrui (humains comme non-humaines)
 
@@ -111,7 +112,7 @@ Les espaces suivants sur le lieu peuvent être réservés pour un usage exclusif
 
 Les tableaux de réservations sont validés, et ainsi deviennent effectifs, à chaque réunion. 
 
-Si l'espace n'est pas réservé l'exclusivité est accordée, si elle est souhaitée, au premieres venues.
+Si l'espace n'est pas réservé l'exclusivité est accordée, si elle est souhaitée, au premièr·es venu·es.
 
 ### Pôles
 Le lieu est séparé en plusieurs pôles. Ces pôles servent principalement à décrire les différentes activités de l'endroit et à pouvoir, si nécessaire, les adresser ou les organiser. À ce jour, les pôles suivants sont définis :
@@ -128,7 +129,7 @@ Le lieu est séparé en plusieurs pôles. Ces pôles servent principalement à d
 Les décisions sont prises collectivement au moment de plannification pour chaque pôle où un budget et des objectifs sont définit pour le trimestre suivant. 
 
 ### Gestion financière
-Certains frais dépendent de la vie commune. Un pot commun est donc mis à disposition pour que chacune participe selon ses moyens.
+Certains frais dépendent de la vie commune. Un pot commun est donc mis à disposition pour que chacun·e participe selon ses moyens.
 
 Les divers dons sont ajoutés au pot commun. Lors des réunions, l'argent présent dans le pot commun est réparti entre les frais liés aux animaux, les frais de l'écolieu ainsi que les frais pour les courses de la semaine à venir. 
 
@@ -144,79 +145,79 @@ Les fonds suivants sont disponible sur le lieu et sont encadrés par l'annexe "F
 5. Fond pour faune et flore sauvage
 
 ### Investissement
-Toute résidente sur le lieu accepte que les dépenses liées au lieu n’ont aucune garantie d'être restituées. Le terrain et l’immobilier relèvent de sa responsabilité, ainsi, les autres résidentes ne peuvent garantir l’achat ou la vente du bien. 
+Toute personne résident·e sur le lieu accepte que les dépenses liées au lieu n’ont aucune garantie d'être restituées. Le terrain et l’immobilier relèvent de sa responsabilité, ainsi, les autres résident·es ne peuvent garantir l’achat ou la vente du bien. 
 
-> Chaque résidente est invitée, en cas de départ d’une résidente ou enracinées, d’aider en fonction de ses moyens la personne qui part. 
+> Chaque résident·e est invitée, en cas de départ d’une résident·e ou enraciné·es, d’aider en fonction de ses moyens la personne qui part. 
 
 ### Mise a disposition d'espace
 Dans le contexte d'accueil et d'hébergement, en dehors des dortoirs, nous mettons à disposition des espaces qui dans le cas où ils ne sont pas partagés avec d'autres groupes deviennent de facto des espaces personnels. 
 
 ## Communication extérieure
-Toute communication au nom du Mallouestan se doit d'être en accord avec cette charte et ne doit qu'exprimer des positions politiques, militantes ou philosophiques présentes dans cette charte (anarchisme, antispécisme...). Toute prise de position personnelle du communicant non-présente dans cette charte ne doit pas être exprimée au nom du Mallouestan.
+Toute communication au nom du Mallouestan se doit d'être en accord avec cette charte et ne doit qu'exprimer des positions politiques, militant·es ou philosophiques présentes dans cette charte (anarchisme, antispécisme...). Toute prise de position personnelle du communicant non-présente dans cette charte ne doit pas être exprimée au nom du Mallouestan.
 
 ## Rôles et responsabilités
-Dans une optique de minimisation de pouvoir sur le lieu, les rôles suivants sont définis pour permettre à chacune de mieux appréhender leurs responsabilités et devoirs.
+Dans une optique de minimisation de pouvoir sur le lieu, les rôles suivants sont définis pour permettre à chacun·e de mieux appréhender leurs responsabilités et devoirs.
 
 ### Toute personne 
 A comme droits: 
 - Le droit de regard sur le fonctionnement de l'association
 
-### Visiteuse 
+### Visiteus·e 
 Toute personne qui est présente sur le lieu qui s’engage à respecter ce manuel. 
 
-Les visiteuses ont plusieurs responsabilités: 
-- Une visiteuse est responsable de ses actes et gestes sur le lieu. Elle est maîtresse de son quotidien et responsable de la communication avec l'ensemble du collectif. 
-- Dans le cas d'une visite de plus de 24h sur le lieu une visiteuse est responsable de l'entretien (nettoyage, changer une ampoule ...) des locaux et de tout équipement elle utilise sur le lieu, dans la limite de ses capacités, dans le cas contraire elle doit notifier l'ensemble du collectif. 
+Les visiteus·es ont plusieurs responsabilités: 
+- Un·e visiteus·e est responsable de ses actes et gestes sur le lieu. Il ou elle est maîtresse de son quotidien et responsable de la communication avec l'ensemble du collectif. 
+- Dans le cas d'une visite de plus de 24h sur le lieu une visiteus·e est responsable de l'entretien (nettoyage, changer une ampoule ...) des locaux et de tout équipement qu'il ou elle utilise sur le lieu, dans la limite de ses capacités, dans le cas contraire il ou elle doit notifier l'ensemble du collectif. 
 - De tout faire pour garantir le respect, par toutes, de la charte. Pour éviter un contexte de délation, seules les situations interpersonnelles, où le bien-être d'une autre personne du lieu serait en jeu, oblige une intervention ou une notification de l'ensemble du collectif. 
  
-Les visiteuses ont les droits suivants: 
+Les visiteus·es ont les droits suivants: 
 - Utiliser l'argent des boîtes dans l'espace commun (courses, sancturaire, essence) ;
 - Le droit de véto et de décision sur le contexte commun le temps de leur séjour. En cas d'opposition ce pouvoir de décision est, malgré tout, limité à un mois même dans le cas d'un séjour plus long; 
 - Le droit à une égalité d'opportunité sur le lieu (et non de résultat) vis-à-vis de la participation aux événements, aux activités quotidiennes et toute autre dynamique collective du lieu. 
  
-### Résidente 
-Les résidentes sont égalements des visiteuses, elles cumulent les droits et devoirs de ce rôle mais sont également soumises aux droits suivants: 
+### Résident·e 
+Les résident·es sont égalements des visiteus·es, ils ou elles cumulent les droits et devoirs de ce rôle mais sont également soumises aux droits suivants: 
 - Jouir d'un espace personnel réservé sans limite de temps pour la personne ;
-- Être considérée comme concernée par les changements du contexte commun ou des exceptions à ce contexte même en cas d'absence sur le lieu. Ce pouvoir décisionel est limité en cas d'opposition à 6 mois ;
-- Le droit de décision sur l'accès au rôle de résidente et enracinées
+- Être considérée comme concerné·e par les changements du contexte commun ou des exceptions à ce contexte même en cas d'absence sur le lieu. Ce pouvoir décisionel est limité en cas d'opposition à 6 mois ;
+- Le droit de décision sur l'accès au rôle de résident·e et enraciné·es
 - Le droit de décision sur le budget
 
-Elles se doivent également de respecter les devoirs suivants:
+Ils ou elles se doivent également de respecter les devoirs suivants:
 - De ne pas représenter une charge financière ou de travail pour le reste du collectif
 
-> L'accès au role de résidente est possible sur demande suite à une période d'essai ou chaque résidente doit accepter la résidente en période d'essai de façon permanente 
+> L'accès au role de résident·e est possible sur demande suite à une période d'essai ou chaque résident·e doit accepter la personne en période d'essai de façon permanente 
 
-### Enracinées
-Les enracinées sont des parties prenantes concernées par les enjeux à long terme du projet, de fait concernées par des responsabilités accrues.
+### Enraciné·es
+Les enraciné·es sont des parties prenantes concernées par les enjeux à long terme du projet, de fait concerné·es par des responsabilités accrues.
 
-Les enracinées sont, en plus des devoir et droits des résidentes, tenues au devoirs suivants:
+Les enraciné·es sont, en plus des devoir et droits des résident·es, tenues au devoirs suivants:
 - De s'assurer au quotidien que les besoins des animaux non-humains sont satisfaits 
-- La responsabilité de fournir aux visiteuses les ressources nécessaires le temps de leur séjour
+- La responsabilité de fournir aux visiteus·es les ressources nécessaires le temps de leur séjour
 - La responsabilité de garantir le respect de la charte et d'intervenir ou solutionner des potentiels problèmes.
-- De mutualiser ces ressources au delà d'un minimum nécessaire à maintenir une autonomie vis-à-vis du collectif (ce minimum est fixée au moment de l'accès au role de enracinées)<sup>4</sup> Cette somme minimum n'est pas à fournir systématiquement par la personne souhaitant devenir enracinées mais bien par tout le collectif qui en cas d'incapacité à garantir ce minimum peut refuser l'accès au rôle de enracinées.
+- De mutualiser ces ressources au delà d'un minimum nécessaire à maintenir une autonomie vis-à-vis du collectif (ce minimum est fixée au moment de l'accès au role de enraciné·es)<sup>4</sup> Cette somme minimum n'est pas à fournir systématiquement par la personne souhaitant devenir enraciné·es mais bien par tout le collectif qui en cas d'incapacité à garantir ce minimum peut refuser l'accès au rôle de enraciné·es.
 
 Ainsi que les droits suivants:
-- D'être considérée comme concernée par les changements du contexte commun ou les exceptions à la charte même  en cas d'absence sur le lieu non plafonné dans le temps.
+- D'être considéré·e comme concerné·e par les changements du contexte commun ou les exceptions à la charte même  en cas d'absence sur le lieu non plafonné dans le temps.
 - De prendre des décisions sur les priorités notament au travers des pôles
 - Le droit de véto et de décision sur le contexte commun, non plafonné dans le temps 
 - Le droit de décision sur l'argent des pots réservés aux dépenses exceptionnelles
 
-> L'accès au rôle cooperateur est sujet à l'unanimité des résidentes, incluant de fait les cooperatrices; 
+> L'accès au rôle enraciné·e est sujet à l'unanimité des résident·es, incluant de fait les enraciné·es; 
 
-> Une fois qu'une personnes est cooperatrice il faut l'unamité des autres enracinées s'appuyant uniquement sur ce manuel pour limité son rôle à résidente.
+> Une fois qu'une personnes est enraciné·e il faut l'unamité des autres enraciné·es s'appuyant uniquement sur ce manuel pour limité son rôle à résident·e.
 
 ### Remarques transversales
 
-- En cas d'injoignabilité, la résidente ou la cooperatrice a deux semaines pour partager sa décision.
-- En cas de d'opposition par une visiteuse ou une residente la décision est reprise à la fin de l'échéance. L'oposition exprimés ainsi que les raisons deviennent consultatives et n'ont pas de pouvoir décisionnelle finale.
+- En cas d'injoignabilité, le ou la résident·e ou la ou le enraciné·e a deux semaines pour partager sa décision.
+- En cas de d'opposition par une visiteus·e ou une resident·e la décision est reprise à la fin de l'échéance. L'oposition exprimés ainsi que les raisons deviennent consultatives et n'ont pas de pouvoir décisionnelle finale.
 - Les motifs de refus d'accès au rôles, étayer si possible d'exemple et de pistes, doivent être communiqué au personnes concernée.
-- Pour éviter un rapport de force non justifié entre une minorité potentielle de enracinées à l'égard d'une majorité le nombre de résidente ne peut dépassé 3.
-- Les réunions concernant la stratégie à long terme ou tout autre sujet propres aux enracinées mais concernant le contexte commun ne peuvent exclure la présence des résidentes.
+- Pour éviter un rapport de force non justifié entre une minorité potentielle de enraciné·es à l'égard d'une majorité le nombre de résident·e ne peut dépassé 3.
+- Les réunions concernant la stratégie à long terme ou tout autre sujet propres aux enraciné·es mais concernant le contexte commun ne peuvent exclure la présence des résident·es.
 
 ## Limites et quotas
 En vue de la taille et des ressources à disposition, certaines limites et certains quotas ont été définis: 
 - Un nombre maximum de 5 espaces personnels est fixé sur le lieu, à ce jour, permettant à 5 couples/familles de vivre sur le lieu. 
-- Un nombre maximum de 16 visiteuses à la fois est fixé pour passer une nuit sur le lieu
+- Un nombre maximum de 16 visiteus·es à la fois est fixé pour passer une nuit sur le lieu
 
 ## Notes 
 
@@ -230,4 +231,4 @@ Nous nous opposons à l'hégémonie (omniprésence ou présence majoritaire) du 
 L'autonomie vis-à-vis des technologies complexes découle de plusieurs constats à leur égard. Le premier concerne le coût éthique de leur conception, notamment en ce qui concerne l'impact sur l'écologie, l'exploitation humaine, l'extractivisme et le néo-colonialisme. Le deuxième constat concerne la dépendance qu'elles créent, l'uniformisation et la rupture dans notre relation avec le monde vivant. Il est important de noter que nous n'opposons pas de manière totale toutes les technologies complexes, mais nous remettons en question en particulier celles qui font partie de notre quotidien. Les technologies médicales et sociales complexes, lorsqu'elles sont mutualisées, comme c'est le cas dans les hôpitaux, ont à notre avis des objectifs pouvant justifier les coûts mentionnés ci-dessus.
 
 ### 4. **Minimum fixée pour l'autonomie**
-La valeur fixée est propre a chaque enracinées de par les differences de nos vie respectives comme la situation familiale, professionelles ou sociale.
+La valeur fixée est propre a chaque enraciné·es de par les differences de nos vie respectives comme la situation familiale, professionelles ou sociale.
