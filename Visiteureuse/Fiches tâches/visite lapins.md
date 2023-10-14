@@ -19,7 +19,8 @@ Après-midi
 Soir
 - [ ] Vérifier qu'iels ont bien une gamelle d'eau propre dans leur enclos de nuit.
 - [ ] Déposer dans l'enclos de nuit une poignée de verdure pour chacun·e. Si cela ne suffit pas à les appater, des friandises sont dans la malle (juste devant la première porte). Ne pas en donner plus qu'une pincé!
-- [ ] Observer s'iels ont les sympômes
+- [ ] Observer s'iels ont les sympômes mentionnés dans la description.
+- [ ] En partant leur soufler un baiser d'amour (ins photo)
 
 > [!NOTE]
 > Highlights information that users should take into account, even when skimming.
