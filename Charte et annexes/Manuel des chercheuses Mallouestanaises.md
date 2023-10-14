@@ -146,7 +146,7 @@ Les fonds suivants sont disponible sur le lieu et sont encadrés par l'annexe "F
 ### Investissement
 Toute résidente sur le lieu accepte que les dépenses liées au lieu n’ont aucune garantie d'être restituées. Le terrain et l’immobilier relèvent de sa responsabilité, ainsi, les autres résidentes ne peuvent garantir l’achat ou la vente du bien. 
 
-> Chaque résidente est invitée, en cas de départ d’une membre, d’aider en fonction de ses moyens la personne qui part. 
+> Chaque résidente est invitée, en cas de départ d’une résidente ou enracinées, d’aider en fonction de ses moyens la personne qui part. 
 
 ### Mise a disposition d'espace
 Dans le contexte d'accueil et d'hébergement, en dehors des dortoirs, nous mettons à disposition des espaces qui dans le cas où ils ne sont pas partagés avec d'autres groupes deviennent de facto des espaces personnels. 
@@ -178,7 +178,7 @@ Les visiteuses ont les droits suivants:
 Les résidentes sont égalements des visiteuses, elles cumulent les droits et devoirs de ce rôle mais sont également soumises aux droits suivants: 
 - Jouir d'un espace personnel réservé sans limite de temps pour la personne ;
 - Être considérée comme concernée par les changements du contexte commun ou des exceptions à ce contexte même en cas d'absence sur le lieu. Ce pouvoir décisionel est limité en cas d'opposition à 6 mois ;
-- Le droit de décision sur l'accès au rôle de résidente et coopératrice
+- Le droit de décision sur l'accès au rôle de résidente et enracinées
 - Le droit de décision sur le budget
 
 Elles se doivent également de respecter les devoirs suivants:
@@ -186,32 +186,32 @@ Elles se doivent également de respecter les devoirs suivants:
 
 > L'accès au role de résidente est possible sur demande suite à une période d'essai ou chaque résidente doit accepter la résidente en période d'essai de façon permanente 
 
-### Coopératrice
-Les coopératrice sont des parties prenantes concernées par les enjeux à long terme du projet, de fait concernées par des responsabilités accrues.
+### Enracinées
+Les enracinées sont des parties prenantes concernées par les enjeux à long terme du projet, de fait concernées par des responsabilités accrues.
 
-Les coopératrice sont, en plus des devoir et droits des résidentes, tenues au devoirs suivants:
+Les enracinées sont, en plus des devoir et droits des résidentes, tenues au devoirs suivants:
 - De s'assurer au quotidien que les besoins des animaux non-humains sont satisfaits 
 - La responsabilité de fournir aux visiteuses les ressources nécessaires le temps de leur séjour
 - La responsabilité de garantir le respect de la charte et d'intervenir ou solutionner des potentiels problèmes.
-- De mutualiser ces ressources au delà d'un minimum nécessaire à maintenir une autonomie vis-à-vis du collectif (ce minimum est fixée au moment de l'accès au role de coopératrice)<sup>4</sup> Cette somme minimum n'est pas à fournir systématiquement par la personne souhaitant devenir membre mais bien par tout le collectif qui en cas d'incapacité à garantir ce minimum peut refuser l'accès au rôle de coopératrice.
+- De mutualiser ces ressources au delà d'un minimum nécessaire à maintenir une autonomie vis-à-vis du collectif (ce minimum est fixée au moment de l'accès au role de enracinées)<sup>4</sup> Cette somme minimum n'est pas à fournir systématiquement par la personne souhaitant devenir enracinées mais bien par tout le collectif qui en cas d'incapacité à garantir ce minimum peut refuser l'accès au rôle de enracinées.
 
 Ainsi que les droits suivants:
 - D'être considérée comme concernée par les changements du contexte commun ou les exceptions à la charte même  en cas d'absence sur le lieu non plafonné dans le temps.
 - De prendre des décisions sur les priorités notament au travers des pôles
 - Le droit de véto et de décision sur le contexte commun, non plafonné dans le temps 
 - Le droit de décision sur l'argent des pots réservés aux dépenses exceptionnelles
-- Le droit de renoncer au rôle de contributrice pour n'être seulement résidente sans avis extérieur
 
 > L'accès au rôle cooperateur est sujet à l'unanimité des résidentes, incluant de fait les cooperatrices; 
 
-> Une fois qu'une personnes est cooperatrice il faut l'unamité des autres coopératrice s'appuyant uniquement sur ce manuel pour limité son rôle à résidente.
+> Une fois qu'une personnes est cooperatrice il faut l'unamité des autres enracinées s'appuyant uniquement sur ce manuel pour limité son rôle à résidente.
 
 ### Remarques transversales
 
 - En cas d'injoignabilité, la résidente ou la cooperatrice a deux semaines pour partager sa décision.
 - En cas de d'opposition par une visiteuse ou une residente la décision est reprise à la fin de l'échéance. L'oposition exprimés ainsi que les raisons deviennent consultatives et n'ont pas de pouvoir décisionnelle finale.
 - Les motifs de refus d'accès au rôles, étayer si possible d'exemple et de pistes, doivent être communiqué au personnes concernée.
-- Pour éviter un rapport de force non justifié entre une minorité potentielle de coopératrice à l'égard d'une majorité le nombre de résidente ne peut dépassé 3.     
+- Pour éviter un rapport de force non justifié entre une minorité potentielle de enracinées à l'égard d'une majorité le nombre de résidente ne peut dépassé 3.
+- Les réunions concernant la stratégie à long terme ou tout autre sujet propres aux enracinées mais concernant le contexte commun ne peuvent exclure la présence des résidentes.
 
 ## Limites et quotas
 En vue de la taille et des ressources à disposition, certaines limites et certains quotas ont été définis: 
@@ -230,4 +230,4 @@ Nous nous opposons à l'hégémonie (omniprésence ou présence majoritaire) du 
 L'autonomie vis-à-vis des technologies complexes découle de plusieurs constats à leur égard. Le premier concerne le coût éthique de leur conception, notamment en ce qui concerne l'impact sur l'écologie, l'exploitation humaine, l'extractivisme et le néo-colonialisme. Le deuxième constat concerne la dépendance qu'elles créent, l'uniformisation et la rupture dans notre relation avec le monde vivant. Il est important de noter que nous n'opposons pas de manière totale toutes les technologies complexes, mais nous remettons en question en particulier celles qui font partie de notre quotidien. Les technologies médicales et sociales complexes, lorsqu'elles sont mutualisées, comme c'est le cas dans les hôpitaux, ont à notre avis des objectifs pouvant justifier les coûts mentionnés ci-dessus.
 
 ### 4. **Minimum fixée pour l'autonomie**
-La valeur fixée est propre a chaque coopératrice de par les differences de nos vie respectives comme la situation familiale, professionelles ou sociale.
+La valeur fixée est propre a chaque enracinées de par les differences de nos vie respectives comme la situation familiale, professionelles ou sociale.
