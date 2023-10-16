@@ -185,6 +185,8 @@ Les résident·es sont égalements des visiteus·es, ils ou elles cumulent les d
 Ils ou elles se doivent également de respecter les devoirs suivants:
 - De ne pas représenter une charge financière ou de travail pour le reste du collectif
 
+> Les résident.e.s ne sont en aucun cas interdite.s de prendre des responsabilités, cela n'est simplement pas obligatoire. Cette prise de responsabilité ponctuelle volontaire est encouragée. 
+
 > L'accès au role de résident·e est possible sur demande suite à une période d'essai ou chaque résident·e doit accepter la personne en période d'essai de façon permanente 
 
 ### Membre
@@ -213,6 +215,7 @@ Ainsi que les droits suivants:
 - Les motifs de refus d'accès au rôles, étayer si possible d'exemple et de pistes, doivent être communiqué au personnes concernée.
 - Pour éviter un rapport de force non justifié entre une minorité potentielle de membres à l'égard d'une majorité le nombre de résident·e ne peut dépassé 3.
 - Les réunions concernant la stratégie à long terme ou tout autre sujet propres aux membres mais concernant le contexte commun ne peuvent exclure la présence des résident·es.
+
 
 ## Limites et quotas
 En vue de la taille et des ressources à disposition, certaines limites et certains quotas ont été définis: 
