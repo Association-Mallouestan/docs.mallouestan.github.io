@@ -147,7 +147,7 @@ Les fonds suivants sont disponible sur le lieu et sont encadrés par l'annexe "F
 ### Investissement
 Toute personne résident·e sur le lieu accepte que les dépenses liées au lieu n’ont aucune garantie d'être restituées. Le terrain et l’immobilier relèvent de sa responsabilité, ainsi, les autres résident·es ne peuvent garantir l’achat ou la vente du bien. 
 
-> Chaque résident·e est invitée, en cas de départ d’une résident·e ou enraciné·es, d’aider en fonction de ses moyens la personne qui part. 
+> Chaque résident·e est invitée, en cas de départ d’une résident·e ou membres, d’aider en fonction de ses moyens la personne qui part. 
 
 ### Mise a disposition d'espace
 Dans le contexte d'accueil et d'hébergement, en dehors des dortoirs, nous mettons à disposition des espaces qui dans le cas où ils ne sont pas partagés avec d'autres groupes deviennent de facto des espaces personnels. 
@@ -179,7 +179,7 @@ Les visiteus·es ont les droits suivants:
 Les résident·es sont égalements des visiteus·es, ils ou elles cumulent les droits et devoirs de ce rôle mais sont également soumises aux droits suivants: 
 - Jouir d'un espace personnel réservé sans limite de temps pour la personne ;
 - Être considérée comme concerné·e par les changements du contexte commun ou des exceptions à ce contexte même en cas d'absence sur le lieu. Ce pouvoir décisionel est limité en cas d'opposition à 6 mois ;
-- Le droit de décision sur l'accès au rôle de résident·e et enraciné·es
+- Le droit de décision sur l'accès au rôle de résident·e et membres
 - Le droit de décision sur le budget
 
 Ils ou elles se doivent également de respecter les devoirs suivants:
@@ -187,14 +187,14 @@ Ils ou elles se doivent également de respecter les devoirs suivants:
 
 > L'accès au role de résident·e est possible sur demande suite à une période d'essai ou chaque résident·e doit accepter la personne en période d'essai de façon permanente 
 
-### Enraciné·es
-Les enraciné·es sont des parties prenantes concernées par les enjeux à long terme du projet, de fait concerné·es par des responsabilités accrues.
+### Membre
+Les membres sont des parties prenantes concernées par les enjeux à long terme du projet, de fait concerné·es par des responsabilités accrues.
 
-Les enraciné·es sont, en plus des devoir et droits des résident·es, tenues au devoirs suivants:
+Les membres sont, en plus des devoir et droits des résident·es, tenues au devoirs suivants:
 - De s'assurer au quotidien que les besoins des animaux non-humains sont satisfaits 
 - La responsabilité de fournir aux visiteus·es les ressources nécessaires le temps de leur séjour
 - La responsabilité de garantir le respect de la charte et d'intervenir ou solutionner des potentiels problèmes.
-- De mutualiser ces ressources au delà d'un minimum nécessaire à maintenir une autonomie vis-à-vis du collectif (ce minimum est fixée au moment de l'accès au role de enraciné·es)<sup>4</sup> Cette somme minimum n'est pas à fournir systématiquement par la personne souhaitant devenir enraciné·es mais bien par tout le collectif qui en cas d'incapacité à garantir ce minimum peut refuser l'accès au rôle de enraciné·es.
+- De mutualiser ces ressources au delà d'un minimum nécessaire à maintenir une autonomie vis-à-vis du collectif (ce minimum est fixée au moment de l'accès au role de membres)<sup>4</sup> Cette somme minimum n'est pas à fournir systématiquement par la personne souhaitant devenir membres mais bien par tout le collectif qui en cas d'incapacité à garantir ce minimum peut refuser l'accès au rôle de membres.
 
 Ainsi que les droits suivants:
 - D'être considéré·e comme concerné·e par les changements du contexte commun ou les exceptions à la charte même  en cas d'absence sur le lieu non plafonné dans le temps.
@@ -202,17 +202,17 @@ Ainsi que les droits suivants:
 - Le droit de véto et de décision sur le contexte commun, non plafonné dans le temps 
 - Le droit de décision sur l'argent des pots réservés aux dépenses exceptionnelles
 
-> L'accès au rôle enraciné·e est sujet à l'unanimité des résident·es, incluant de fait les enraciné·es; 
+> L'accès au rôle enraciné·e est sujet à l'unanimité des résident·es, incluant de fait les membres; 
 
-> Une fois qu'une personnes est enraciné·e il faut l'unamité des autres enraciné·es s'appuyant uniquement sur ce manuel pour limité son rôle à résident·e.
+> Une fois qu'une personnes est enraciné·e il faut l'unamité des autres membres s'appuyant uniquement sur ce manuel pour limité son rôle à résident·e.
 
 ### Remarques transversales
 
 - En cas d'injoignabilité, le ou la résident·e ou la ou le enraciné·e a deux semaines pour partager sa décision.
 - En cas de d'opposition par une visiteus·e ou une resident·e la décision est reprise à la fin de l'échéance. L'oposition exprimés ainsi que les raisons deviennent consultatives et n'ont pas de pouvoir décisionnelle finale.
 - Les motifs de refus d'accès au rôles, étayer si possible d'exemple et de pistes, doivent être communiqué au personnes concernée.
-- Pour éviter un rapport de force non justifié entre une minorité potentielle de enraciné·es à l'égard d'une majorité le nombre de résident·e ne peut dépassé 3.
-- Les réunions concernant la stratégie à long terme ou tout autre sujet propres aux enraciné·es mais concernant le contexte commun ne peuvent exclure la présence des résident·es.
+- Pour éviter un rapport de force non justifié entre une minorité potentielle de membres à l'égard d'une majorité le nombre de résident·e ne peut dépassé 3.
+- Les réunions concernant la stratégie à long terme ou tout autre sujet propres aux membres mais concernant le contexte commun ne peuvent exclure la présence des résident·es.
 
 ## Limites et quotas
 En vue de la taille et des ressources à disposition, certaines limites et certains quotas ont été définis: 
@@ -231,4 +231,4 @@ Nous nous opposons à l'hégémonie (omniprésence ou présence majoritaire) du 
 L'autonomie vis-à-vis des technologies complexes découle de plusieurs constats à leur égard. Le premier concerne le coût éthique de leur conception, notamment en ce qui concerne l'impact sur l'écologie, l'exploitation humaine, l'extractivisme et le néo-colonialisme. Le deuxième constat concerne la dépendance qu'elles créent, l'uniformisation et la rupture dans notre relation avec le monde vivant. Il est important de noter que nous n'opposons pas de manière totale toutes les technologies complexes, mais nous remettons en question en particulier celles qui font partie de notre quotidien. Les technologies médicales et sociales complexes, lorsqu'elles sont mutualisées, comme c'est le cas dans les hôpitaux, ont à notre avis des objectifs pouvant justifier les coûts mentionnés ci-dessus.
 
 ### 4. **Minimum fixée pour l'autonomie**
-La valeur fixée est propre a chaque enraciné·es de par les differences de nos vie respectives comme la situation familiale, professionelles ou sociale.
+La valeur fixée est propre a chaque membres de par les differences de nos vie respectives comme la situation familiale, professionelles ou sociale.
