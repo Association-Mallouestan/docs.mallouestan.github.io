@@ -36,4 +36,4 @@ Les poulaillers se trouvent dans le jardin devant l'auberge. Nous sortons les po
 > Si tu observes qu'une poule ne sort pas, préviens un·e résident·e
 > Si tu observes des fientes anormales (très liquide, présence de sang, oeuf mou) montre à un·e résident·e ou prends une photo
 > Parfois des compléments ou des soins sont à faire en plus. Ils seront écrits en NOIR sur le tableau résident·es. Il n'y a que les résident·es qui peuvent les administrer.
-> Comme tous les autres soins, tu dois être accompagné·e par un·e résident·e jusqu'à ce que tu maîtrises la tâche.
+> Comme tous les autres points liés aux non-humains, tu dois être accompagné·e par un·e résident·e jusqu'à ce que tu maîtrises la tâche.
