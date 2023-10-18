@@ -11,7 +11,7 @@ Les poulaillers se trouvent dans le jardin devant l'auberge. Nous sortons les po
 - [ ] Remplir les différentes gamelles d'eau (souvent 2-3)
 - [ ] Faire une salade composée et la placer proche de leurs mangeoires (regarde les aliments comestibles sur la fiche alimentation poules)
 - [ ] Ouvrir les deux poulaillers
-    - [ ] vérifier que tout le monde sorte bien
+    - [ ] vérifier que tout le monde sorte bien (il y a 11 poules et 1 coq)
     - [ ] vérifier l'état des fientes
 - [ ] Nettroyer les poulaillers : 
     - [ ] Grand poulailler : 
