@@ -9,4 +9,6 @@ Ces taches sont de la responsabilité de toute personne sur le lieux
 - [Préparations restes](./vie%20co/Préparation%20restes)
 - [Rammasage linge](./vie%20co/Ramasser%20linge%20sec)
 - [Repas soir](./vie%20co/Repas%20soir%20+%20midi)
-- [Vaiselle Seau](./vie%20co/Vaisselle%20+%20seau.md)
+- [Faire cuire les zeux](./vie%20co/Faire%20cuire%20les%20zeux)
+- [Faire tremper les léguminmeuses](./vie%20co/Faire%20tremper%20légumineuses)
+- [Vaisselle + seau](./vie%20co/Vaisselle%20+%20seau)
