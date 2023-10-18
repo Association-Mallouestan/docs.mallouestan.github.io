@@ -16,5 +16,6 @@ Les canards étant des animaux diurnes et dépourvue de défense efficace contre
 > Highlights information that users should take into account, even when skimming.
 
 > [!IMPORTANT]  
-> Highlights information that users should take into account, even when skimming.
+> Comme tous les autres points liés aux non-humains, tu dois être accompagné·e par un·e résident·e jusqu'à ce que tu maîtrises la tâche.
+
 
