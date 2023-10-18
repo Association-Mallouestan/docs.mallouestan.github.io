@@ -1,4 +1,5 @@
 # Tâche Compost et Tri
+[← Liste des tâches](../)
 
 ## Description
 Cette tâche consiste à débarrasser ce qui reste sur les tables après le repas, ainsi que nettoyer les plans de travail et les tables utilisés pendant le repas.

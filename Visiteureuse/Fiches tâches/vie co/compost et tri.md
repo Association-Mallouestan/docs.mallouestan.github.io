@@ -1,4 +1,5 @@
 # Tâche Compost et Tri
+[← Liste des tâches](../)
 
 ## Description
 Cette tâche consiste à trier les légumes du garde-manger en mettant au compost les légumes vraiment pas bons et en donnant les légumes un peu abimés aux cochons. Enfin, il faut emmener les différents bacs de compost dans la cuisine avec les légumes destinés au compost suite au tri, puis les déposer dans les tas de compost appropriés.
