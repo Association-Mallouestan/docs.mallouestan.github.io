@@ -12,8 +12,6 @@ Les canards étant des animaux diurnes et dépourvue de défense efficace contre
 - [ ] Prendre leur gamelle d'eau (seau blanc, l'eau est très probablement boueuse) la ramener devant l'auberge, la laver à l'eau claire et y mettre de l'eau toute propre. enfin, leur ramener leur nouveau breuvage à l'endroit où vous l'avez prise.
 - [ ] Enlever grace aux deux pelles à côté de l'abris les cacas de la nuit.
 
-> [!NOTE]
-> Highlights information that users should take into account, even when skimming.
 
 > [!IMPORTANT]  
 > Comme tous les autres points liés aux non-humains, tu dois être accompagné·e par un·e résident·e jusqu'à ce que tu maîtrises la tâche.
