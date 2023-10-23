@@ -151,7 +151,8 @@ Toute personne résident·e sur le lieu accepte que les dépenses liées au lieu
 
 ### Mutualisation des ressources
 Les personnes membres ont comme devoir la mutualisation de leurs ressources ce qui comprend leurs ressources financières et leur patrimoine. Ceux-ci sont donnés à l'association. Ainsi, si l'un•e des membres quitte le statut membre ou est exclu•e des membres, ce qui a été mutualisé ne peut être repris. 
-Pendant la période d'essai de membre, seuls les revenus sont mutualisés.
+Une somme d'argent hebdomadaire de 40€ est allouée à chaque membre dont l'usage est à leur discrétion. (les frais considérés indispensables comme l'abonnement téléphone, les frais médicaux sont assurés par le budget des membres)
+
 ### Mise à disposition d'espace
 Dans le contexte d'accueil et d'hébergement, en dehors des dortoirs, nous mettons à disposition des espaces qui dans le cas où ils ne sont pas partagés avec d'autres groupes deviennent de facto des espaces personnels. 
 
