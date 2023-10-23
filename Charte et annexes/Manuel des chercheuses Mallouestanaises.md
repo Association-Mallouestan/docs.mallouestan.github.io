@@ -149,7 +149,7 @@ Toute personne résident·e sur le lieu accepte que les dépenses liées au lieu
 
 > Chaque résident·e est invitée, en cas de départ d’une résident·e ou membres, d’aider en fonction de ses moyens la personne qui part. 
 
-### Mise a disposition d'espace
+### Mise à disposition d'espace
 Dans le contexte d'accueil et d'hébergement, en dehors des dortoirs, nous mettons à disposition des espaces qui dans le cas où ils ne sont pas partagés avec d'autres groupes deviennent de facto des espaces personnels. 
 
 ## Communication extérieure
@@ -168,26 +168,26 @@ Toute personne qui est présente sur le lieu qui s’engage à respecter ce manu
 Les visiteus·es ont plusieurs responsabilités: 
 - Un·e visiteus·e est responsable de ses actes et gestes sur le lieu. Il ou elle est maîtresse de son quotidien et responsable de la communication avec l'ensemble du collectif. 
 - Dans le cas d'une visite de plus de 24h sur le lieu une visiteus·e est responsable de l'entretien (nettoyage, changer une ampoule ...) des locaux et de tout équipement qu'il ou elle utilise sur le lieu, dans la limite de ses capacités, dans le cas contraire il ou elle doit notifier l'ensemble du collectif. 
-- De tout faire pour garantir le respect, par toutes, de la charte. Pour éviter un contexte de délation, seules les situations interpersonnelles, où le bien-être d'une autre personne du lieu serait en jeu, oblige une intervention ou une notification de l'ensemble du collectif. 
+- De tout faire pour garantir le respect, par tous•tes, de la charte. Pour éviter un contexte de délation, seules les situations interpersonnelles, où le bien-être d'une autre personne du lieu serait en jeu, oblige une intervention ou une notification de l'ensemble du collectif. 
  
 Les visiteus·es ont les droits suivants: 
-- Utiliser l'argent des boîtes dans l'espace commun (courses, sancturaire, essence) ;
+- Utiliser l'argent des boîtes dans l'espace commun (courses, sanctuaire, essence) ;
 - Le droit de véto et de décision sur le contexte commun le temps de leur séjour. En cas d'opposition ce pouvoir de décision est, malgré tout, limité à un mois même dans le cas d'un séjour plus long; 
 - Le droit à une égalité d'opportunité sur le lieu (et non de résultat) vis-à-vis de la participation aux événements, aux activités quotidiennes et toute autre dynamique collective du lieu. 
  
 ### Résident·e 
-Les résident·es sont égalements des visiteus·es, ils ou elles cumulent les droits et devoirs de ce rôle mais sont également soumises aux droits suivants: 
+Les résident·es sont également des visiteus·es, ils ou elles cumulent les droits et devoirs de ce rôle mais sont également soumises aux droits suivants: 
 - Jouir d'un espace personnel réservé sans limite de temps pour la personne ;
-- Être considérée comme concerné·e par les changements du contexte commun ou des exceptions à ce contexte même en cas d'absence sur le lieu. Ce pouvoir décisionel est limité en cas d'opposition à 6 mois ;
+- Être considérée comme concerné·e par les changements du contexte commun ou des exceptions à ce contexte même en cas d'absence sur le lieu. Ce pouvoir décisionnel est limité en cas d'opposition à 6 mois ;
 - Le droit de décision sur l'accès au rôle de résident·e et membres
 - Le droit de décision sur le budget
 
 Ils ou elles se doivent également de respecter les devoirs suivants:
 - De ne pas représenter une charge financière ou de travail pour le reste du collectif
 
-> Les résident.e.s ne sont en aucun cas interdite.s de prendre des responsabilités, cela n'est simplement pas obligatoire. Cette prise de responsabilité ponctuelle volontaire est encouragée. 
+> Les résident.e.s ne sont en aucun cas interdite•es de prendre des responsabilités, cela n'est simplement pas obligatoire. Cette prise de responsabilité ponctuelle volontaire est encouragée. 
 
-> L'accès au role de résident·e est possible sur demande suite à une période d'essai ou chaque résident·e doit accepter la personne en période d'essai de façon permanente 
+> L'accès au rôle de résident·e est possible sur demande suite à une période d'essai où chaque résident·e doit accepter la personne en période d'essai de façon permanente 
 
 ### Membre
 Les membres sont des parties prenantes concernées par les enjeux à long terme du projet, de fait concerné·es par des responsabilités accrues.
@@ -196,30 +196,30 @@ Les membres sont, en plus des devoir et droits des résident·es, tenues au devo
 - De s'assurer au quotidien que les besoins des animaux non-humains sont satisfaits 
 - La responsabilité de fournir aux visiteus·es les ressources nécessaires le temps de leur séjour
 - La responsabilité de garantir le respect de la charte et d'intervenir ou solutionner des potentiels problèmes.
-- De mutualiser ces ressources au delà d'un minimum nécessaire à maintenir une autonomie vis-à-vis du collectif (ce minimum est fixée au moment de l'accès au role de membres)<sup>4</sup> Cette somme minimum n'est pas à fournir systématiquement par la personne souhaitant devenir membres mais bien par tout le collectif qui en cas d'incapacité à garantir ce minimum peut refuser l'accès au rôle de membres.
+- De mutualiser ses ressources au-delà d'un minimum nécessaire à maintenir une autonomie vis-à-vis du collectif (ce minimum est fixé au moment de l'accès au rôle de membres et appelé filet de sécurité)<sup>4</sup> Cette somme minimume n'est pas à fournir systématiquement par la personne souhaitant devenir membre mais bien par tout le collectif qui en cas d'incapacité à garantir ce minimum peut refuser l'accès au rôle de membres.
 
 Ainsi que les droits suivants:
-- D'être considéré·e comme concerné·e par les changements du contexte commun ou les exceptions à la charte même  en cas d'absence sur le lieu non plafonné dans le temps.
-- De prendre des décisions sur les priorités notament au travers des pôles
+- D'être considéré·e comme concerné·e par les changements du contexte commun ou les exceptions à la charte même en cas d'absence sur le lieu non plafonné dans le temps.
+- De prendre des décisions sur les priorités notamment au travers des pôles
 - Le droit de véto et de décision sur le contexte commun, non plafonné dans le temps 
 - Le droit de décision sur l'argent des pots réservés aux dépenses exceptionnelles
 
-> L'accès au rôle enraciné·e est sujet à l'unanimité des résident·es, incluant de fait les membres; 
+> L'accès au rôle membre est sujet à l'unanimité des résident·es, incluant de fait les membres; 
 
-> Une fois qu'une personnes est enraciné·e il faut l'unamité des autres membres s'appuyant uniquement sur ce manuel pour limité son rôle à résident·e.
+> Une fois qu'une personnes est membre il faut l'unanimité des autres membres s'appuyant uniquement sur ce manuel pour limiter son rôle à résident·e.
 
 ### Remarques transversales
 
 - En cas d'injoignabilité, le ou la résident·e ou la ou le enraciné·e a deux semaines pour partager sa décision.
-- En cas de d'opposition par une visiteus·e ou une resident·e la décision est reprise à la fin de l'échéance. L'oposition exprimés ainsi que les raisons deviennent consultatives et n'ont pas de pouvoir décisionnelle finale.
-- Les motifs de refus d'accès au rôles, étayer si possible d'exemple et de pistes, doivent être communiqué au personnes concernée.
-- Pour éviter un rapport de force non justifié entre une minorité potentielle de membres à l'égard d'une majorité le nombre de résident·e ne peut dépassé 3.
-- Les réunions concernant la stratégie à long terme ou tout autre sujet propres aux membres mais concernant le contexte commun ne peuvent exclure la présence des résident·es.
+- En cas de d'opposition par un•e visiteus·e ou une résident·e la décision est reprise à la fin de l'échéance. L'opposition exprimée ainsi que les raisons deviennent consultatives et n'ont pas de pouvoir décisionnel final.
+- Les motifs de refus d'accès au rôle, étayés si possible d'exemple et de pistes, doivent être communiqués au personnes concernées.
+- Pour éviter un rapport de force non justifié entre une minorité potentielle de membres à l'égard d'une majorité de résident•es, il faudra que le nombre de résident•es ne dépasse pas deux pour qu'un•e nouveau•elle personne devienne résident•e (cette limite s'appliquera seulement lorsque le nombre de membres sera de cinq)
+- Les réunions concernant la stratégie à long terme ou tout autre sujet propre aux membres mais concernant le contexte commun ne peuvent exclure la présence des résident·es.
 
 
 ## Limites et quotas
 En vue de la taille et des ressources à disposition, certaines limites et certains quotas ont été définis: 
-- Un nombre maximum de 5 espaces personnels est fixé sur le lieu, à ce jour, permettant à 5 couples/familles de vivre sur le lieu. 
+- Un nombre maximum de 6 espaces personnels est fixé sur le lieu, à ce jour, permettant à 6 couples/familles de vivre sur le lieu. 
 - Un nombre maximum de 16 visiteus·es à la fois est fixé pour passer une nuit sur le lieu
 
 ## Notes 
