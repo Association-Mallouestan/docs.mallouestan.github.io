@@ -147,8 +147,11 @@ Les fonds suivants sont disponible sur le lieu et sont encadrés par l'annexe "F
 ### Investissement
 Toute personne résident·e sur le lieu accepte que les dépenses liées au lieu n’ont aucune garantie d'être restituées. Le terrain et l’immobilier relèvent de sa responsabilité, ainsi, les autres résident·es ne peuvent garantir l’achat ou la vente du bien. 
 
-> Chaque résident·e est invitée, en cas de départ d’une résident·e ou membres, d’aider en fonction de ses moyens la personne qui part. 
+> Chaque résident·e est invitée, en cas de départ d’une résident·e ou membres, d’aider en fonction de ses moyens la personne qui part.
 
+### Mutualisation des ressources
+Les personnes membres ont comme devoir la mutualisation de leurs ressources ce qui comprend leurs ressources financières et leur patrimoine. Ceux-ci sont donnés à l'association. Ainsi, si l'un•e des membres quitte le statut membre ou est exclu•e des membres, ce qui a été mutualisé ne peut être repris. 
+Pendant la période d'essai de membre, seuls les revenus sont mutualisés.
 ### Mise à disposition d'espace
 Dans le contexte d'accueil et d'hébergement, en dehors des dortoirs, nous mettons à disposition des espaces qui dans le cas où ils ne sont pas partagés avec d'autres groupes deviennent de facto des espaces personnels. 
 
@@ -196,7 +199,7 @@ Les membres sont, en plus des devoir et droits des résident·es, tenues au devo
 - De s'assurer au quotidien que les besoins des animaux non-humains sont satisfaits 
 - La responsabilité de fournir aux visiteus·es les ressources nécessaires le temps de leur séjour
 - La responsabilité de garantir le respect de la charte et d'intervenir ou solutionner des potentiels problèmes.
-- De mutualiser ses ressources au-delà d'un minimum nécessaire à maintenir une autonomie vis-à-vis du collectif (ce minimum est fixé au moment de l'accès au rôle de membres et appelé filet de sécurité)<sup>4</sup> Cette somme minimume n'est pas à fournir systématiquement par la personne souhaitant devenir membre mais bien par tout le collectif qui en cas d'incapacité à garantir ce minimum peut refuser l'accès au rôle de membres.
+- De mutualiser ses ressources (comme précisé à la section mutualisation des ressources) en excluant un minimum nécessaire à maintenir une autonomie vis-à-vis du collectif (ce minimum est fixé au moment de l'accès au rôle de membre)<sup>4</sup> Appelée filet de sécurité individuel, cette somme minimum n'est pas à fournir systématiquement par la personne souhaitant devenir membre mais bien par tout le collectif qui en cas d'incapacité à garantir ce minimum peut refuser l'accès au rôle de membres.
 
 Ainsi que les droits suivants:
 - D'être considéré·e comme concerné·e par les changements du contexte commun ou les exceptions à la charte même en cas d'absence sur le lieu non plafonné dans le temps.
@@ -210,6 +213,8 @@ Ainsi que les droits suivants:
 
 ### Remarques transversales
 
+- La période d'essai d'un•e résident•e est d'au moins 4 mois et est discutée plus en détail avec toutes les résident•es et membres.
+- La période d'essai d'un•e membre est d'un an. Pendant cette période seuls les revenus de la personne sont mutualisés. La personne ne peut devenir membre tant que son filet de sécurité n'est pas constitué (par elle ou par le collectif) 
 - En cas d'injoignabilité, le ou la résident·e ou la ou le enraciné·e a deux semaines pour partager sa décision.
 - En cas de d'opposition par un•e visiteus·e ou une résident·e la décision est reprise à la fin de l'échéance. L'opposition exprimée ainsi que les raisons deviennent consultatives et n'ont pas de pouvoir décisionnel final.
 - Les motifs de refus d'accès au rôle, étayés si possible d'exemple et de pistes, doivent être communiqués au personnes concernées.
