@@ -1,4 +1,4 @@
-# Tâche Ramasser linge sec
+# Tâche Plier linge sec
 
 ## Description
 Cette tâche permet la gestion du linge sec, elle différe selon les saisons.
