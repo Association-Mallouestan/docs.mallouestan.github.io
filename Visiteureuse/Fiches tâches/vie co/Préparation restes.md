@@ -1,7 +1,7 @@
 # Tâche Préparation Restes
 
 ## Description
-La cuisine du repas du midi a été faite la vieille au soir, c'est pour cela que nous parlons de restes. Ce repas est un repas froid. Nous faisons ainsi pour économiser du bois et du temps. Cette tâche doit être finaliser entre 12h30 et 13h30.
+La cuisine du repas du midi a été faite la veille au soir, c'est pour cela que nous parlons de restes. Ce repas est un repas froid. Nous faisons ainsi pour économiser du bois et du temps. Cette tâche doit être finalisée entre 12h30 et 13h30.
 
 ## Points à faire
 
