@@ -1,4 +1,4 @@
-# Tâche Compost et Tri
+# Tâche Débarasser tables + nettoyer tables 
 [← Liste des tâches](../)
 
 ## Description
