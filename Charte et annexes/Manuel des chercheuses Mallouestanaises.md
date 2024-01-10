@@ -1,4 +1,4 @@
-## Préface
+Uni## Préface
 La création d’une alternative est un travail de tous les jours. Tendre vers un idéal est complexe. C’est pourquoi nous sommes contraintes d’établir un manuel de vie commune. 
 
 Le Mallouestan est un lieu fondé notament sur les pilliers suivants:
@@ -184,7 +184,7 @@ Les visiteus·es ont les droits suivants:
 ### Résident·e 
 Les résident·es sont également des visiteus·es, ils ou elles cumulent les droits et devoirs de ce rôle mais sont également soumises aux droits suivants: 
 - Jouir d'un espace personnel réservé sans limite de temps pour la personne ;
-- Être considérée comme concerné·e par les changements du contexte commun ou des exceptions à ce contexte même en cas d'absence sur le lieu. Ce pouvoir décisionnel est limité en cas d'opposition à 6 mois ;
+- Être considérée comme concerné·e par les changements du contexte commun ou des exceptions à ce contexte même en cas d'absence sur le lieu. Ce pouvoir décisionnel est limité (voir a la section "Remarques transversales" ci-dessous) ;
 - Le droit de décision sur l'accès au rôle de résident·e et membres
 - Le droit de décision sur le budget
 
@@ -218,8 +218,9 @@ Ainsi que les droits suivants:
 
 - La période d'essai d'un•e résident•e est d'au moins 4 mois et est discutée plus en détail avec toutes les résident•es et membres.
 - La période d'essai d'un•e membre est d'un an. Pendant cette période seuls les revenus de la personne sont mutualisés. La personne ne peut devenir membre tant que son filet de sécurité n'est pas constitué (par elle ou par le collectif) 
-- En cas d'injoignabilité, le ou la résident·e ou la ou le enraciné·e a deux semaines pour partager sa décision.
-- En cas de d'opposition par un•e visiteus·e ou une résident·e la décision est reprise à la fin de l'échéance. L'opposition exprimée ainsi que les raisons deviennent consultatives et n'ont pas de pouvoir décisionnel final.
+- En cas d'injoignabilité, le ou la résident·e ou la ou le membres a deux semaines pour partager sa décision.
+- En cas d'opposition a une décision de la part d'un-e résident-e ou d'un-e visiteurs un report de la décision a lieu. Cette échéance est maintenue tant que l'opposition existe. En fin d'échéance la décision est reprises sans l'accord nécessaire des visiteurs dans le cas d'une opposition initiales de leurs part ou des résidente si  l'opposition initiales était porté part eux. Cette échéance a comme objectifs de permettre le temps aux échanges de se poursuivre, d'en permettre en interpersonnelles et de laisser le temps de se préparer à la mise en place de tel ou tel décision.
+- Dure des échéances en cas d'opposition des résidentes ...
 - Les motifs de refus d'accès au rôle, étayés si possible d'exemple et de pistes, doivent être communiqués au personnes concernées.
 - Pour éviter un rapport de force non justifié entre une minorité potentielle de membres à l'égard d'une majorité de résident•es, il faudra que le nombre de résident•es ne dépasse pas deux pour qu'un•e nouveau•elle personne devienne résident•e (cette limite s'appliquera seulement lorsque le nombre de membres sera de cinq)
 - Les réunions concernant la stratégie à long terme ou tout autre sujet propre aux membres mais concernant le contexte commun ne peuvent exclure la présence des résident·es.
