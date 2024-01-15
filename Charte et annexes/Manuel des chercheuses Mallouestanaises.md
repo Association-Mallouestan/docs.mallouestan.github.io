@@ -191,6 +191,8 @@ Les résident·es sont également des visiteus·es, ils ou elles cumulent les dr
 Ils ou elles se doivent également de respecter les devoirs suivants:
 - De ne pas représenter une charge financière ou de travail pour le reste du collectif
 
+> Leurs droits et devoirs ne peuvent ếtre changés sans l'accord unanime des résident•es et membres.
+
 > Les résident.e.s ne sont en aucun cas interdite•es de prendre des responsabilités, cela n'est simplement pas obligatoire. Cette prise de responsabilité ponctuelle volontaire est encouragée. 
 
 > L'accès au rôle de résident·e est possible sur demande suite à une période d'essai où chaque résident·e doit accepter la personne en période d'essai de façon permanente 
@@ -209,6 +211,8 @@ Ainsi que les droits suivants:
 - De prendre des décisions sur les priorités notamment au travers des pôles
 - Le droit de véto et de décision sur le contexte commun, non plafonné dans le temps 
 - Le droit de décision sur l'argent des pots réservés aux dépenses exceptionnelles
+
+> Le groupe des membres a tout droit de décision sur ce qui concerne exclusivement les membres, par exemple la mutualisation.
 
 > L'accès au rôle membre est sujet à l'unanimité des résident·es, incluant de fait les membres; 
 
