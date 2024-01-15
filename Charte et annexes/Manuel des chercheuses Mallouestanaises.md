@@ -219,10 +219,11 @@ Ainsi que les droits suivants:
 - La période d'essai d'un•e résident•e est d'au moins 4 mois et est discutée plus en détail avec toutes les résident•es et membres.
 - La période d'essai d'un•e membre est d'un an. Pendant cette période seuls les revenus de la personne sont mutualisés. La personne ne peut devenir membre tant que son filet de sécurité n'est pas constitué (par elle ou par le collectif) 
 - En cas d'injoignabilité, le ou la résident·e ou la ou le membres a deux semaines pour partager sa décision.
-- En cas d'opposition a une décision de la part d'un-e résident-e ou d'un-e visiteurs un report de la décision a lieu. Cette échéance est maintenue tant que l'opposition existe. En fin d'échéance la décision est reprises sans l'accord nécessaire des visiteurs dans le cas d'une opposition initiales de leurs part ou des résidente si  l'opposition initiales était porté part eux. Cette échéance a comme objectifs de permettre le temps aux échanges de se poursuivre, d'en permettre en interpersonnelles et de laisser le temps de se préparer à la mise en place de tel ou tel décision.
-- Dure des échéances en cas d'opposition des résidentes ...
-- Les motifs de refus d'accès au rôle, étayés si possible d'exemple et de pistes, doivent être communiqués au personnes concernées.
-- Pour éviter un rapport de force non justifié entre une minorité potentielle de membres à l'égard d'une majorité de résident•es, il faudra que le nombre de résident•es ne dépasse pas deux pour qu'un•e nouveau•elle personne devienne résident•e (cette limite s'appliquera seulement lorsque le nombre de membres sera de cinq)
+- En cas d'opposition à une décision de la part d'un•e résident•e ou d'un-e visiteurs un report de la décision a lieu. Cette échéance est maintenue tant que l'opposition existe. 
+- En cas d'opposition de résident•e(s), à la fin de l'échéance, la décision est reprise sans que leur accord soit nécessaire. Cette échéance a comme objectifs de permettre le temps de pousuivre les échanges tant collectifs qu'interpersonnels, d'en permettre et de laisser le temps de se préparer à la mise en place de telle ou telle décision.
+- En cas d'opposition de résident•e(s), la décision est reportée à un an si l unanimité ou au moins trois résident-es s'opposent. Dans le cas oú un•e seul•e résident•es s'oppose, ou dans tout autre cas, la décision est reportée à six mois. 
+- Les motifs de refus d'accès au rôle, étayés si possible d'exemple et de pistes, doivent être communiqués aux personnes concernées.
+- Pour éviter un rapport de force non justifié entre une minorité potentielle de membres à l'égard d'une majorité de résident•es, il faudra que le nombre de résident•es ne dépasse pas deux pour qu'un•e nouveau•elle personne devienne résident•e (cette limite s'appliquera seulement lorsque le nombre de membres sera de cinq).
 - Les réunions concernant la stratégie à long terme ou tout autre sujet propre aux membres mais concernant le contexte commun ne peuvent exclure la présence des résident·es.
 
 
