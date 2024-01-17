@@ -153,7 +153,9 @@ Toute personne résident·e sur le lieu accepte que les dépenses liées au lieu
 
 ### Mutualisation des ressources
 Les personnes membres ont comme devoir la mutualisation de leurs ressources ce qui comprend leurs ressources financières et leur patrimoine. Ceux-ci sont donnés à l'association. Ainsi, si l'un•e des membres quitte le statut membre ou est exclu•e des membres, ce qui a été mutualisé ne peut être repris. 
-Une somme d'argent hebdomadaire de 40€ est allouée à chaque membre dont l'usage est à leur discrétion. (les frais considérés indispensables comme l'abonnement téléphone, les frais médicaux sont assurés par le budget des membres)
+Une somme d'argent hebdomadaire est allouée à chaque membre dont l'usage est à leur discrétion. 
+
+Certains besoins sont considèrer comme ubiquitaire comme l'abonnement du téléphone mobile, les frais médicaux, frais bancaire, individus à charges et maintenance vélos et sont donc pris en charge par la mutualisation.
 
 ### Mise à disposition d'espace
 Dans le contexte d'accueil et d'hébergement, en dehors des dortoirs, nous mettons à disposition des espaces qui dans le cas où ils ne sont pas partagés avec d'autres groupes deviennent de facto des espaces personnels. 
@@ -168,11 +170,13 @@ Dans une optique de minimisation de pouvoir sur le lieu, les rôles suivants son
 A comme droits: 
 - Le droit de regard sur le fonctionnement de l'association
 
+> Toute personne qui quitte définitivement le lieu perd de fait ses droits et son statut
+
 ### Visiteus·e 
 Toute personne qui est présente sur le lieu qui s’engage à respecter ce manuel. 
 
 Les visiteus·es ont plusieurs responsabilités: 
-- Un·e visiteus·e est responsable de ses actes et gestes sur le lieu. Il ou elle est maîtresse de son quotidien et responsable de la communication avec l'ensemble du collectif. 
+- Un·e visiteus·e est responsable de ses actes et gestes sur le lieu. Il ou elle est maîtresse de son quotidien et responsable de sa communication avec l'ensemble du collectif. 
 - Dans le cas d'une visite de plus de 24h sur le lieu une visiteus·e est responsable de l'entretien (nettoyage, changer une ampoule ...) des locaux et de tout équipement qu'il ou elle utilise sur le lieu, dans la limite de ses capacités, dans le cas contraire il ou elle doit notifier l'ensemble du collectif. 
 - De tout faire pour garantir le respect, par tous•tes, de la charte. Pour éviter un contexte de délation, seules les situations interpersonnelles, où le bien-être d'une autre personne du lieu serait en jeu, oblige une intervention ou une notification de l'ensemble du collectif. 
  
