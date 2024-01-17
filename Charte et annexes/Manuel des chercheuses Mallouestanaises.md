@@ -191,7 +191,7 @@ Les résident·es sont également des visiteus·es, ils ou elles cumulent les dr
 Ils ou elles se doivent également de respecter les devoirs suivants:
 - De ne pas représenter une charge financière ou de travail pour le reste du collectif
 
-> Leurs droits et devoirs ne peuvent ếtre changés sans l'accord unanime des résident•es et membres.
+> Leurs droits et devoirs ne peuvent ếtre changés sans l'accord unanime des résident•es et membres. Ce pouvoir sur leurs droits n'est pas limité dans le temps comme pour le reste de cette charte.
 
 > Les résident.e.s ne sont en aucun cas interdite•es de prendre des responsabilités, cela n'est simplement pas obligatoire. Cette prise de responsabilité ponctuelle volontaire est encouragée. 
 
@@ -212,7 +212,7 @@ Ainsi que les droits suivants:
 - Le droit de véto et de décision sur le contexte commun, non plafonné dans le temps 
 - Le droit de décision sur l'argent des pots réservés aux dépenses exceptionnelles
 
-> Le groupe des membres a tout droit de décision sur ce qui concerne exclusivement les membres, par exemple la mutualisation.
+> Le groupe des membres a un droit exclusif de décision sur ce qui concerne exclusivement les membres, par exemple la mutualisation.
 
 > L'accès au rôle membre est sujet à l'unanimité des résident·es, incluant de fait les membres; 
 
@@ -225,9 +225,8 @@ Ainsi que les droits suivants:
 - En cas d'injoignabilité, le ou la résident·e ou la ou le membres a deux semaines pour partager sa décision.
 - En cas d'opposition à une décision de la part d'un•e résident•e ou d'un-e visiteurs un report de la décision a lieu. Cette échéance est maintenue tant que l'opposition existe. 
 - En cas d'opposition de résident•e(s), à la fin de l'échéance, la décision est reprise sans que leur accord soit nécessaire. Cette échéance a comme objectifs de permettre le temps de pousuivre les échanges tant collectifs qu'interpersonnels, d'en permettre et de laisser le temps de se préparer à la mise en place de telle ou telle décision.
-- En cas d'opposition de résident•e(s), la décision est reportée à un an si l unanimité ou au moins trois résident-es s'opposent. Dans le cas oú un•e seul•e résident•es s'oppose, ou dans tout autre cas, la décision est reportée à six mois. 
+- En cas d'opposition de résident•e(s), la décision est reportée à un an si il y a unanimité ou au moins trois résident-es s'opposent. Dans le cas oú un•e seul•e résident•es s'oppose, ou dans tout autre cas, la décision est reportée à six mois. 
 - Les motifs de refus d'accès au rôle, étayés si possible d'exemple et de pistes, doivent être communiqués aux personnes concernées.
-- Pour éviter un rapport de force non justifié entre une minorité potentielle de membres à l'égard d'une majorité de résident•es, il faudra que le nombre de résident•es ne dépasse pas deux pour qu'un•e nouveau•elle personne devienne résident•e (cette limite s'appliquera seulement lorsque le nombre de membres sera de cinq).
 - Les réunions concernant la stratégie à long terme ou tout autre sujet propre aux membres mais concernant le contexte commun ne peuvent exclure la présence des résident·es.
 
 
@@ -245,7 +244,7 @@ Nous nous reconnaissons dans l'anarcho-communisme, notamment par notre oppositio
 Nous nous opposons à l'hégémonie (omniprésence ou présence majoritaire) du libéralisme moderne, qu'il soit économique, comme le capitalisme, ou culturel/philosophique. Le libéralisme économique est un aspect que nous estimons moins nécessaire à développer ici, étant donné la critique qui lui est déjà largement adressée, contrairement à sa forme culturelle et philosophique. Nous faisons le triste constat de son emprise croissante sur les luttes sociales et de ses effets délétères. Nous choisissons donc de nous engager dans une démarche critique à l'égard de ce mode de pensée. Nous nous reconnaissons partiellement dans les travaux de Susan Sontag sur la culture de masse, Michel Clouscard dans sa critique du libéralisme post 68 et de la culture "populaire" ainsi que Jean-Claude Michéa dans ces travaux inscrit dans la lignée Orwellienne.
 
 ### 3. **Autonomie vis a vis des technologies**
-L'autonomie vis-à-vis des technologies complexes découle de plusieurs constats à leur égard. Le premier concerne le coût éthique de leur conception, notamment en ce qui concerne l'impact sur l'écologie, l'exploitation humaine, l'extractivisme et le néo-colonialisme. Le deuxième constat concerne la dépendance qu'elles créent, l'uniformisation et la rupture dans notre relation avec le monde vivant. Il est important de noter que nous n'opposons pas de manière totale toutes les technologies complexes, mais nous remettons en question en particulier celles qui font partie de notre quotidien. Les technologies médicales et sociales complexes, lorsqu'elles sont mutualisées, comme c'est le cas dans les hôpitaux, ont à notre avis des objectifs pouvant justifier les coûts mentionnés ci-dessus.
+L'autonomie vis-à-vis des technologies complexes découle de plusieurs constats à leur égard. Le premier concerne le coût éthique de leur conception, notamment en ce qui concerne l'impact sur l'écologie, l'exploitation humaine, l'extractivisme et le néo-colonialisme. Le deuxième constat concerne la dépendance qu'elles créent, l'uniformisation et la rupture dans notre relation avec le monde vivant. Il est important de noter que nous n'opposons pas de manière totale toutes les technologies complexes, mais nous remettons en question en particulier le techno-solutionisme. Les technologies médicales et sociales complexes, lorsqu'elles sont mutualisées, comme c'est le cas dans les hôpitaux, ont à notre avis des objectifs pouvant justifier les coûts mentionnés ci-dessus.
 
 ### 4. **Minimum fixée pour l'autonomie**
-La valeur fixée est propre a chaque membres de par les differences de nos vie respectives comme la situation familiale, professionelles ou sociale.
+La valeur fixée est propre a chaque membres de par les differences de nos vie ainsi que les capitaux respectifs comme la situation familiale, professionelles, diplomes ou sociale.
