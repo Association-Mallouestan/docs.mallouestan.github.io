@@ -1,4 +1,4 @@
-Uni## Préface
+## Préface
 La création d’une alternative est un travail de tous les jours. Tendre vers un idéal est complexe. C’est pourquoi nous sommes contraintes d’établir un manuel de vie commune. 
 
 Le Mallouestan est un lieu fondé notament sur les pilliers suivants:
@@ -8,7 +8,7 @@ Le Mallouestan est un lieu fondé notament sur les pilliers suivants:
 - **anti-liberalisme**<sup>2</sup>
 - **anti-tech**<sup>3</sup>
 
-qui cherche à créer une façon saine de vivre. Nos positions et valeurs ne sont pas dépendantes d'une romantisation du passé ou d'une indépendance absolue. Elles sont le fruit d'un travail critique, basé sur les discussions, les expériences et les connaissances des membres du lieu et des visiteus·es. Ce manuel n'est donc pas un support dogmatique ou sectaire, mais un repère pour un collectif anarcho-comuniste. Il est destiné à évoluer régulièrement.
+Nos positions et valeurs ne sont pas dépendantes d'une romantisation du passé ou d'une indépendance absolue. Elles sont le fruit d'un travail critique, basé sur les discussions, les expériences et les connaissances des membres du lieu et des visiteus·es. Ce manuel n'est donc pas un support dogmatique ou sectaire, mais un repère pour un collectif anarcho-comuniste. Il est destiné à évoluer régulièrement.
 
 > Ce manuel définit le contexte commun auquel chaque personnes choisit d’adhérer en venant sur le lieu ou en participant aux événements extérieurs organisés par le Mallouestan. 
 
