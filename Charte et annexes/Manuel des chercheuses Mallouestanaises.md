@@ -63,7 +63,7 @@ Nous sommes conscient·es que chacun·e est déconstruit·e à des niveaux varia
 Un équilibre doit être trouvé entre les libertés individuelles et celles du collectif. Les situations suivantes, impactant le contexte commun, doivent être précédées par un vote unanime des personnes concernées par la décision: 
 
 - Tout changement de la charte ou ses annexes (Budget, liste de courses) ;
-- L'attribution des rôles de membres ou de résident·e ainsi que les conditions d'une période d'essai ;
+- L'attribution des rôles de arrimé-es ou de résident·e ainsi que les conditions d'une période d'essai ;
 - Les dépenses exceptionnelles ou ponctuelles définies dans l'annexe pour le budget ;
 - Tout aménagement, par une personne, impactant les espaces communs qui ne peut être défait par cette même personne en une journée.
 
@@ -152,8 +152,8 @@ Toute personne résident·e sur le lieu accepte que les dépenses liées au lieu
 > Chaque résident·e est invitée, en cas de départ d’une résident·e ou membres, d’aider en fonction de ses moyens la personne qui part.
 
 ### Mutualisation des ressources
-Les personnes membres ont comme devoir la mutualisation de leurs ressources ce qui comprend leurs ressources financières et leur patrimoine. Ceux-ci sont donnés à l'association. Ainsi, si l'un•e des membres quitte le statut membre ou est exclu•e des membres, ce qui a été mutualisé ne peut être repris. 
-Une somme d'argent hebdomadaire est allouée à chaque membre dont l'usage est à leur discrétion. 
+Les personnes arrimé-es ont comme devoir la mutualisation de leurs ressources ce qui comprend leurs ressources financières et leur patrimoine. Ceux-ci sont donnés à l'association. Ainsi, si l'un•e des arrimé-es quitte le statut arrimé-e ou est exclu•e des arrimé-es, ce qui a été mutualisé ne peut être repris. 
+Une somme d'argent hebdomadaire est allouée à chaque arrimé-e dont l'usage est à leur discrétion. 
 
 Certains besoins sont considèrer comme ubiquitaire comme l'abonnement du téléphone mobile, les frais médicaux, frais bancaire, individus à charges et maintenance vélos et sont donc pris en charge par la mutualisation.
 
@@ -189,26 +189,26 @@ Les visiteus·es ont les droits suivants:
 Les résident·es sont également des visiteus·es, ils ou elles cumulent les droits et devoirs de ce rôle mais sont également soumises aux droits suivants: 
 - Jouir d'un espace personnel réservé sans limite de temps pour la personne ;
 - Être considérée comme concerné·e par les changements du contexte commun ou des exceptions à ce contexte même en cas d'absence sur le lieu. Ce pouvoir décisionnel est limité (voir a la section "Remarques transversales" ci-dessous) ;
-- Le droit de décision sur l'accès au rôle de résident·e et membres
+- Le droit de décision sur l'accès au rôle de résident·e et arrimé-es
 - Le droit de décision sur le budget
 
 Ils ou elles se doivent également de respecter les devoirs suivants:
 - De ne pas représenter une charge financière ou de travail pour le reste du collectif
 
-> Leurs droits et devoirs ne peuvent ếtre changés sans l'accord unanime des résident•es et membres. Ce pouvoir sur leurs droits n'est pas limité dans le temps comme pour le reste de cette charte.
+> Leurs droits et devoirs ne peuvent ếtre changés sans l'accord unanime des résident•es et arrimé-es. Ce pouvoir sur leurs droits n'est pas limité dans le temps comme pour le reste de cette charte.
 
 > Les résident.e.s ne sont en aucun cas interdite•es de prendre des responsabilités, cela n'est simplement pas obligatoire. Cette prise de responsabilité ponctuelle volontaire est encouragée. 
 
 > L'accès au rôle de résident·e est possible sur demande suite à une période d'essai où chaque résident·e doit accepter la personne en période d'essai de façon permanente 
 
-### Membre
-Les membres sont des parties prenantes concernées par les enjeux à long terme du projet, de fait concerné·es par des responsabilités accrues.
+### Arrimé-e
+Les arrimé-es sont des parties prenantes concernées par les enjeux à long terme du projet, de fait concerné·es par des responsabilités accrues.
 
-Les membres sont, en plus des devoir et droits des résident·es, tenues au devoirs suivants:
+Les arrimé-es sont, en plus des devoir et droits des résident·es, tenues au devoirs suivants:
 - De s'assurer au quotidien que les besoins des animaux non-humains sont satisfaits 
 - La responsabilité de fournir aux visiteus·es les ressources nécessaires le temps de leur séjour
 - La responsabilité de garantir le respect de la charte et d'intervenir ou solutionner des potentiels problèmes.
-- De mutualiser ses ressources (comme précisé à la section mutualisation des ressources) en excluant un minimum nécessaire à maintenir une autonomie vis-à-vis du collectif (ce minimum est fixé au moment de l'accès au rôle de membre)<sup>4</sup> Appelée filet de sécurité individuel, cette somme minimum n'est pas à fournir systématiquement par la personne souhaitant devenir membre mais bien par tout le collectif qui en cas d'incapacité à garantir ce minimum peut refuser l'accès au rôle de membres.
+- De mutualiser ses ressources (comme précisé à la section mutualisation des ressources) en excluant un minimum nécessaire à maintenir une autonomie vis-à-vis du collectif (ce minimum est fixé au moment de l'accès au rôle de arrimé-e)<sup>4</sup> Appelée filet de sécurité individuel, cette somme minimum n'est pas à fournir systématiquement par la personne souhaitant devenir arrimé-e mais bien par tout le collectif qui en cas d'incapacité à garantir ce minimum peut refuser l'accès au rôle de arrimé-es.
 
 Ainsi que les droits suivants:
 - D'être considéré·e comme concerné·e par les changements du contexte commun ou les exceptions à la charte même en cas d'absence sur le lieu non plafonné dans le temps.
@@ -216,22 +216,22 @@ Ainsi que les droits suivants:
 - Le droit de véto et de décision sur le contexte commun, non plafonné dans le temps 
 - Le droit de décision sur l'argent des pots réservés aux dépenses exceptionnelles
 
-> Le groupe des membres a un droit exclusif de décision sur ce qui concerne exclusivement les membres, par exemple la mutualisation.
+> Le groupe des arrimé-es a un droit exclusif de décision sur ce qui concerne exclusivement les arrimé-es, par exemple la mutualisation.
 
-> L'accès au rôle membre est sujet à l'unanimité des résident·es, incluant de fait les membres; 
+> L'accès au rôle arrimé-e est sujet à l'unanimité des résident·es, incluant de fait les arrimé-es; 
 
-> Une fois qu'une personnes est membre il faut l'unanimité des autres membres s'appuyant uniquement sur ce manuel pour limiter son rôle à résident·e.
+> Une fois qu'une personnes est arrimé-e il faut l'unanimité des autres arrimé-es s'appuyant uniquement sur ce manuel pour limiter son rôle à résident·e.
 
 ### Remarques transversales
 
-- La période d'essai d'un•e résident•e est d'au moins 4 mois et est discutée plus en détail avec toutes les résident•es et membres.
-- La période d'essai d'un•e membre est d'un an. Pendant cette période seuls les revenus de la personne sont mutualisés. La personne ne peut devenir membre tant que son filet de sécurité n'est pas constitué (par elle ou par le collectif) 
-- En cas d'injoignabilité, le ou la résident·e ou la ou le membres a deux semaines pour partager sa décision.
+- La période d'essai d'un•e résident•e est d'au moins 4 mois et est discutée plus en détail avec toutes les résident•es et arrimé-es.
+- La période d'essai d'un•e arrimé-e est d'un an. Pendant cette période seuls les revenus de la personne sont mutualisés. La personne ne peut devenir arrimé-e tant que son filet de sécurité n'est pas constitué (par elle ou par le collectif) 
+- En cas d'injoignabilité, le ou la résident·e ou la ou le arrimé-es a deux semaines pour partager sa décision.
 - En cas d'opposition à une décision de la part d'un•e résident•e ou d'un-e visiteurs un report de la décision a lieu. Cette échéance est maintenue tant que l'opposition existe. 
 - En cas d'opposition de résident•e(s), à la fin de l'échéance, la décision est reprise sans que leur accord soit nécessaire. Cette échéance a comme objectifs de permettre le temps de pousuivre les échanges tant collectifs qu'interpersonnels, d'en permettre et de laisser le temps de se préparer à la mise en place de telle ou telle décision.
 - En cas d'opposition de résident•e(s), la décision est reportée à un an si il y a unanimité ou au moins trois résident-es s'opposent. Dans le cas oú un•e seul•e résident•es s'oppose, ou dans tout autre cas, la décision est reportée à six mois. 
 - Les motifs de refus d'accès au rôle, étayés si possible d'exemple et de pistes, doivent être communiqués aux personnes concernées.
-- Les réunions concernant la stratégie à long terme ou tout autre sujet propre aux membres mais concernant le contexte commun ne peuvent exclure la présence des résident·es.
+- Les réunions concernant la stratégie à long terme ou tout autre sujet propre aux arrimé-es mais concernant le contexte commun ne peuvent exclure la présence des résident·es.
 
 
 ## Limites et quotas
@@ -251,4 +251,4 @@ Nous nous opposons à l'hégémonie (omniprésence ou présence majoritaire) du 
 L'autonomie vis-à-vis des technologies complexes découle de plusieurs constats à leur égard. Le premier concerne le coût éthique de leur conception, notamment en ce qui concerne l'impact sur l'écologie, l'exploitation humaine, l'extractivisme et le néo-colonialisme. Le deuxième constat concerne la dépendance qu'elles créent, l'uniformisation et la rupture dans notre relation avec le monde vivant. Il est important de noter que nous n'opposons pas de manière totale toutes les technologies complexes, mais nous remettons en question en particulier le techno-solutionisme. Les technologies médicales et sociales complexes, lorsqu'elles sont mutualisées, comme c'est le cas dans les hôpitaux, ont à notre avis des objectifs pouvant justifier les coûts mentionnés ci-dessus.
 
 ### 4. **Minimum fixée pour l'autonomie**
-La valeur fixée est propre a chaque membres de par les differences de nos vie ainsi que les capitaux respectifs comme la situation familiale, professionelles, diplomes ou sociale.
+La valeur fixée est propre a chaque arrimé-es de par les differences de nos vie ainsi que les capitaux respectifs comme la situation familiale, professionelles, diplomes ou sociale.
