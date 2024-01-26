@@ -1,7 +1,7 @@
 # Tâche Salle de bain
 
 ## Description
-La tâche véranda consiste à nettoyer la salle de bain. Elle s'effectue trois fois par semaine
+La tâche salle de bain consiste à nettoyer la salle de bain. Elle s'effectue trois fois par semaine
 
 ## Points à faire
 
@@ -30,3 +30,6 @@ La tâche véranda consiste à nettoyer la salle de bain. Elle s'effectue trois 
 ### Fin 
 - [ ] Rincer l'éponge et la ranger sous le lavabo
 - [ ] Ranger les différents outils utilisés 
+
+> [!ASTUCE]
+Si le tapis de bain ou la serviette pour les mains sont sals ou mouillés, n'hésite pas à les changer
