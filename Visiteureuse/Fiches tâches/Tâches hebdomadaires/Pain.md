@@ -24,3 +24,6 @@ Le pain est cuit 3 fois dans la semaine (lundi, jeudi, samedi) afin qu’il y en
 - [ ] Lorsque le pain est bien doré, plante un couteau jusqu’au centre pour vérifier la cuisson. La lame doit ressortir sèche, ou à peine humide.
 - [ ] Si la cuisson est bonne, sors le pain de la cocotte et place-le sur une assiette ou une planche avant de le disposer sur la table de la salle à manger. 
 - [ ] Pour le deuxième pain, réitère les précédentes étapes depuis le pétrissage. C’est prêt !
+
+> [!IMPORTANT]
+Si l'heure est avancée ou que le four n'est plus assez chaud pour permettre la cuisson du deuxième pain, il est tout à fait possible de le cuire le lendemain en le laissant sous le linge humide
