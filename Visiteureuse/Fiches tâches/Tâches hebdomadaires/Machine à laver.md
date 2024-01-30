@@ -22,8 +22,7 @@ Lavage :
 
 Rinçage : 
 - [ ] Vide l'eau en tournant la machine sur son axe jusqu'à ce que l'ouverture soit vers le sol
-- [ ] Remplis de nouveau la L
-machine avec de l'eau claire
+- [ ] Remplis de nouveau la machine avec de l'eau claire
 - [ ] Retrouve ta position pour tourner la manivelle encore 5 min 
 - [ ] Si tu as fait deux tournées de linge, tu peux rincer dans la même eau ta deuxième tournée l'eau n'est pas trop sale.
 
@@ -35,7 +34,7 @@ Essorage :
 Fin : 
 - [ ] Vide l'eau de la machine 
 - Range le panier et la bouteille de lessive dans la salle de bain 
-- [ ] fermer le robinet d'eau et ramener le pistolet du tuyau au garde-manger
+- [ ] Ferme le robinet d'eau et ramene le pistolet du tuyau au garde-manger
 
 ### À la main
 - [ ] Remplis la poubelle noire (à  côté de la Machine à laver) d'eau avec le tuyau
