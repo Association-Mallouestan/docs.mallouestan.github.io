@@ -14,7 +14,7 @@ Pour remplir la bassine grise de cendre, tu as juste à aller à la cabane de tr
 - [ ] Changer le/les torchons mouillés qui étaient sous la vaisselle à sécher
 - [ ] Nettoyer la vaisselle sale à la cendre/savon 
 - [ ] Rincer la vaisselle à l'eau propre dans la bassine blanche 
-- [ ] Vider bassine blanche et le seau dehors au pied d'un arbre (pas juste devant l'auberge)
+- [ ] Vider la bassine blanche et le seau dehors au pied d'un arbre (pas juste devant l'auberge)
 - [ ] Nettoyer les plans de travail de la cuisine
 - [ ] Nettoyer le fond de l'évier et sécher autour de l'évier 
 - [ ] Mettre à tremper l'éponge dans un fond d'eau + vinaigre dans la bassine blanche
