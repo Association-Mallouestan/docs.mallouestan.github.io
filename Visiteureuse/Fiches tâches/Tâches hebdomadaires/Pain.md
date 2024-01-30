@@ -2,7 +2,7 @@
 [← Liste des tâches](../)
 
 ## Description
-Le pain est cuit 3 fois dans la semaine (lundi, jeudi, samedi) afin qu’il y en ait toujours à disposition pour accompagner les repas ou manger des tartines au petit-déjeuner. Chaque fournée permet de réaliser 2 pains. Les quantités peuvent être adaptées si les derniers pains n’ont pas été finis et/ou s’il y a peu de personnes présentes sur le lieu.
+Le pain est préparé 3 fois dans la semaine (lundi, jeudi, samedi) afin qu’il y en ait toujours à disposition pour accompagner les repas ou manger des tartines au petit-déjeuner. Chaque fournée permet de réaliser 2 pains. Les quantités peuvent être adaptées si les derniers pains n’ont pas été finis et/ou s’il y a peu de personnes présentes sur le lieu.
 
 ## Points à faire
 - [ ] Sors la recette du pain qui se trouve dans le classeur orange au-dessus de l’étagère des bocaux entamés.
