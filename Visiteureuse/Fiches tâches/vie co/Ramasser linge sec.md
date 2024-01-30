@@ -2,7 +2,7 @@
 
 ## Description
 Cette tâche permet la gestion du linge sec, elle différe selon les saisons.
-En été tu trouveras le linge à ramasser sous l'avancée, sous l'annexe, sur les fil près des tonnes d'eau.
+En été tu trouveras le linge à ramasser sous l'avancée, sous l'annexe, sur les fils près des tonnes d'eau.
 En hiver le linge étendu dehors est sous l'avancée et sous l'annexe.
 
 ## Points à faire
