@@ -6,7 +6,7 @@ Nous cuisinons le soir sur le feu pour le repas du soir et du lendemain midi. Ce
 
 - [ ] Tu trouveras les légumes dans le garde-mangé
 - [ ] S'il manque des ingrédients secs (pâtes, riz, farine etc.) tu en trouveras dans l'atelier
-- [ ] Informe la personne qiui est sur la tâche feu de quand tu souhaites aue le feu soit prêt
+- [ ] Informe la personne qui est sur la tâche feu de quand tu souhaites que le feu soit prêt
 - [ ] Vise un repas prêt entre 19h30 et 20h30
 - [ ] Range ce que tu as utilisé pour la préparation du repas
 - [ ] Sonne la cloche une fois 15 min avant le repas
