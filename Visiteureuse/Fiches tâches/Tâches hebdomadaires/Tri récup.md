@@ -11,7 +11,7 @@ Les fruits et légumes récupérés au supermarché arrivent dans des poubelles 
 - [ ] Descendre les poubelles de la remorque, les installer autour de la table et ouvrir les couvercles pour les trier une à une.
 - [ ] Prendre dans les poubelles les agrumes pourris ou abîmés et les mettre dans une brouette pour aller au compost agrume, et prendre dans l'autre brouette les fruits et légumes pourris ou abîmés ainsi que les champignons pour le compost.
 - [ ] Dans les cagettes,séparer les pommes en bon état, les feuilles de salade, les salades entières, les agrumes, les bananes, et les légumes à conserver (chou-fleur, patate, piment, oignon...) pour l'auberge.
-- [ ] Dans les sceaux pour les cochons, mettre les endives, tomates, carottes, courges abimées, persil abîmé, radis, fenouil, aubergines ine, courgettes, panais, céleri, concombre,épinards et maïs.
+- [ ] Dans les sceaux pour les cochons, mettre les endives, tomates, carottes, courges abimées, persil abîmé, radis, fenouil, aubergines, courgettes, panais, céleri, concombre,épinards et maïs.
 - [ ] Dans les marmites, mettre les feuilles de chou.
 - [ ] Après le tri, nettoyer la table au jet d'eau et la ranger, de même que pour les cagettes vides et les poubelles.
 - [ ] Emmener les brouettes au compost pour les vider.
