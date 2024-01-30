@@ -7,9 +7,9 @@ Cette tâche est à faire lorsqu'il y a au moins 12 oeufs.
 
 ## Points à faire
 
-- [ ] Prendre les oeufs du saut oeufs crus ( dans les clapiers)
+- [ ] Prendre les oeufs du seau oeufs crus (dans les clapiers)
 - [ ] Remplir une casserole d'eau et y placer les oeufs
-- [ ] Une fois l'eau à ébullition, laisser cuire pendant 10min 
+- [ ] Une fois l'eau portée à ébullition, laisser cuire pendant 10min 
 - [ ] Une fois cuits, mettre les oeufs dans le seau bleu CUITS
 
 
