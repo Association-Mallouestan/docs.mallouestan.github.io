@@ -181,7 +181,7 @@ Les visiteus·es ont plusieurs responsabilités:
 - De tout faire pour garantir le respect, par tous•tes, de la charte. Pour éviter un contexte de délation, seules les situations interpersonnelles, où le bien-être d'une autre personne du lieu serait en jeu, oblige une intervention ou une notification de l'ensemble du collectif. 
  
 Les visiteus·es ont les droits suivants: 
-- Utiliser l'argent des boîtes dans l'espace commun (courses, sanctuair) ;
+- Utiliser l'argent des boîtes dans l'espace commun (courses, sanctuaire) ;
 - Le droit de véto et de décision sur le contexte commun le temps de leur séjour. En cas d'opposition ce pouvoir de décision est, malgré tout, limité à un mois même dans le cas d'un séjour plus long; 
 - Le droit à une égalité d'opportunité sur le lieu (et non de résultat) vis-à-vis de la participation aux événements, aux activités quotidiennes et toute autre dynamique collective du lieu. 
  
