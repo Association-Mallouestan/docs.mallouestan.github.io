@@ -158,7 +158,7 @@ Une somme d'argent hebdomadaire est allouée à chaque arrimé-e dont l'usage es
 Certains besoins sont considèrer comme ubiquitaire comme l'abonnement du téléphone mobile, les frais médicaux, frais bancaire, individus à charges et maintenance vélos et sont donc pris en charge par la mutualisation.
 
 ### Mise à disposition d'espace
-Dans le contexte d'accueil et d'hébergement, en dehors des dortoirs, nous mettons à disposition des espaces qui dans le cas où ils ne sont pas partagés avec d'autres groupes deviennent de facto des espaces personnels. 
+Dans le contexte et d'accueil et d'hébergement, en dehors des dortoirs, nous mettons à disposition des espaces qui dans le cas où ils ne sont pas partagés avec d'autres groupes deviennent de facto des espaces personnels. 
 
 ## Communication extérieure
 Toute communication au nom du Mallouestan se doit d'être en accord avec cette charte et ne doit qu'exprimer des positions politiques, militant·es ou philosophiques présentes dans cette charte (anarchisme, antispécisme...). Toute prise de position personnelle du communicant non-présente dans cette charte ne doit pas être exprimée au nom du Mallouestan.
@@ -208,6 +208,7 @@ Les arrimé-es sont, en plus des devoir et droits des résident·es, tenues au d
 - De s'assurer au quotidien que les besoins des animaux non-humains sont satisfaits 
 - La responsabilité de fournir aux visiteus·es les ressources nécessaires le temps de leur séjour
 - La responsabilité de garantir le respect de la charte et d'intervenir ou solutionner des potentiels problèmes.
+- De s'assurer de la présence d'au moins un-e arrimé-e sur le lieu
 - De mutualiser ses ressources (comme précisé à la section mutualisation des ressources) en excluant un minimum nécessaire à maintenir une autonomie vis-à-vis du collectif (ce minimum est fixé au moment de l'accès au rôle de arrimé-e)<sup>4</sup> Appelée filet de sécurité individuel, cette somme minimum n'est pas à fournir systématiquement par la personne souhaitant devenir arrimé-e mais bien par tout le collectif qui en cas d'incapacité à garantir ce minimum peut refuser l'accès au rôle de arrimé-es.
 
 Ainsi que les droits suivants:
@@ -251,4 +252,4 @@ Nous nous opposons à l'hégémonie (omniprésence ou présence majoritaire) du 
 L'autonomie vis-à-vis des technologies complexes découle de plusieurs constats à leur égard. Le premier concerne le coût éthique de leur conception, notamment en ce qui concerne l'impact sur l'écologie, l'exploitation humaine, l'extractivisme et le néo-colonialisme. Le deuxième constat concerne la dépendance qu'elles créent, l'uniformisation et la rupture dans notre relation avec le monde vivant. Il est important de noter que nous n'opposons pas de manière totale toutes les technologies complexes, mais nous remettons en question en particulier le techno-solutionisme. Les technologies médicales et sociales complexes, lorsqu'elles sont mutualisées, comme c'est le cas dans les hôpitaux, ont à notre avis des objectifs pouvant justifier les coûts mentionnés ci-dessus.
 
 ### 4. **Minimum fixée pour l'autonomie**
-La valeur fixée est propre a chaque arrimé-es de par les differences de nos vie ainsi que les capitaux respectifs comme la situation familiale, professionelles, diplomes ou sociale.
+La valeur fixée est propre a chaque arrimé-es de par les differences de nos vies ainsi que les capitaux respectifs comme la situation familiale, professionelles, sociale ou les diplômes.
