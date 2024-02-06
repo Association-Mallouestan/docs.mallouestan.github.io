@@ -7,7 +7,7 @@ Les fruits et légumes récupérés au supermarché arrivent dans des poubelles 
 ## Points à faire
 
 - [ ] Sous le préau, libérer l'espace et installer la grande table en plastique.
-- [ ] Sur la table, poser une pile de cagettes qui sont rangées à côté, et mettre sous la table des marmites et des sceaux pour les cochons. Mettre aussi deux brouettes à proximité.
+- [ ] Sur la table, poser une pile de cagettes qui sont rangées à côté, et mettre sous la table des marmites et des seaux pour les cochons. Mettre aussi deux brouettes à proximité.
 - [ ] Descendre les poubelles de la remorque, les installer autour de la table et ouvrir les couvercles pour les trier une à une.
 - [ ] Prendre dans les poubelles les agrumes pourris ou abîmés et les mettre dans une brouette pour aller au compost agrume, et prendre dans l'autre brouette les fruits et légumes pourris ou abîmés ainsi que les champignons pour le compost.
 - [ ] Dans les cagettes,séparer les pommes en bon état, les feuilles de salade, les salades entières, les agrumes, les bananes, et les légumes à conserver (chou-fleur, patate, piment, oignon...) pour l'auberge.
