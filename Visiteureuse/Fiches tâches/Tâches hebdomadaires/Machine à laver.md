@@ -54,5 +54,5 @@ Fin :
 > Pour les tissus avec de la boue, de la crasse ou des tâches récentes, privilégie le lavage à la main 
 
 > [!IMPORTANT]  
-> La machine peut faire peur et est souvent évitée, n'hésite pas à la faire en même temps que d'autres coupent le bois par exemple, et écouter un podcast, c'est tout de suite plus agréable ;)  
+> La machine peut faire peur et est souvent évitée, n'hésite pas à la faire en même temps que d'autres coupent le bois par exemple, et écouter un podcast, c'est tout de suite plus agréable.
 
