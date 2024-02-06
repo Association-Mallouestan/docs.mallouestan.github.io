@@ -8,7 +8,7 @@ Cette visite 3 fois par jour, permet de s'assurer que l'on réponde bien aux bes
 Matin
 - [ ] Ouvrir l'enclos de nuit le matin
 - [ ] Leur donner une grosse poignée chacun·e de verdure (ins photo) pour la liste des aliment possible, voir au verso.
-- [ ] Vérifier qu'iels aient toujours du foin, il est placé entre le grillage blanc et la malle en bois juse en face de la porte de l'enclos. S'il n'y en a plus, ou peu, le foin se trouve dans la malle en question.
+- [ ] Vérifier qu'iels aient toujours du foin, il est placé entre le grillage blanc et la malle en bois juste en face de la porte de l'enclos. S'il n'y en a plus, ou peu, le foin se trouve dans la malle en question.
 - [ ] Vérifier si l'on observe l'un des symptômes listé dans la description. Si c'est le cas, veuillez informer une résidente au plus vite svp!
 - [ ] Changer l'eau de leurs gamelles et brosser les gamelles.
 
@@ -22,8 +22,6 @@ Soir
 - [ ] Observer s'iels ont les sympômes mentionnés dans la description.
 - [ ] En partant leur soufler un baiser d'amour (ins photo)
 
-> [!NOTE]
-> Highlights information that users should take into account, even when skimming.
 
 > [!IMPORTANT]  
-> Highlights information that users should take into account, even when skimming.
+> Comme tous les autres points liés aux non-humains, tu dois être accompagné·e par un·e résident·e jusqu'à ce que tu maîtrises la tâche.
