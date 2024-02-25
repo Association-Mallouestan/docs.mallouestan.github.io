@@ -46,7 +46,7 @@ Nous sommes conscient·es que chacun·e est déconstruit·e à des niveaux varia
 5. Le respect des animaux comme explicité à l'annexe "Animaux non autonomes" ;
 6. Un minimum de communication active (initiée par la personne détenant l'information) comme défini à la section "Communication sur le lieu" ; 
 7. Les aliments provenant du système de catégorie Nova 4 (https://fr.openfoodfacts.org/nova) ne sont pas tolérés au sein des espaces communs et partagés ;
-8. Les aliments provenant du système de catégorie Nova 3 et de score nutritionnel au delà de "C" ne sont pas tolérés au sein des espaces communs et partagés ;
+8. Les aliments provenant du système de catégorie Nova 3 et de score nutritionnel inférieur à "C" ne sont pas tolérés au sein des espaces communs et partagés ;
 9. L'alcool, la nicotine, les drogues et autres substances non-alimentaires addictives ne sont pas tolérés au sein des espaces communs et partagés ;
 10. Tout état d'ébriété ou état sous influence n'est pas toléré lors des événements ponctuels ou durant les moments partagés du quotidien.
 11. Tout comportement visant activement à nuire à l'association n'est pas toléré
@@ -63,7 +63,7 @@ Nous sommes conscient·es que chacun·e est déconstruit·e à des niveaux varia
 Un équilibre doit être trouvé entre les libertés individuelles et celles du collectif. Les situations suivantes, impactant le contexte commun, doivent être précédées par un vote unanime des personnes concernées par la décision: 
 
 - Tout changement de la charte ou ses annexes (Budget, liste de courses) ;
-- L'attribution des rôles de arrimé-e ou de résident·e ainsi que les conditions d'une période d'essai ;
+- L'attribution des rôles de arrimé·e ou de résident·e ainsi que les conditions d'une période d'essai ;
 - Les dépenses exceptionnelles ou ponctuelles définies dans l'annexe pour le budget ;
 - Tout aménagement, par une personne, impactant les espaces communs qui ne peut être défait par cette même personne en une journée.
 
@@ -74,18 +74,18 @@ Tout autre décision, hors précision contraire dans le manuel, ne nécéssite a
 > Toute exception à la charte peut être mise en place temporairement (la durée doit être précisée) sur vote unanime. L'exception est valable tant que sont présentes sur le lieu uniquement les personnes ayant participé à la mise en place de ladite exception. Les exceptions, hormis celles qui concernent les quotas humains, doivent également être validés par les arrimé·es non présent.e.s sur le lieu.
 
 ## Gestion de conflit
-Nous sommes conscient·es que nous sommes des êtres de nature imparfait·e. Nous faisons donc toutes et tous des erreurs ou des écarts à nos valeurs et idéaux. Nous nous devons d’être indulgent·es, envers nous-mêmes et envers autrui. Mais nous acceptons également que tout écart qui impacte le lieu et ses membres peut être traité si une personne le souhaite. 
+Nous sommes conscient·es que nous sommes des êtres de nature imparfaite. Nous faisons donc toutes et tous des erreurs ou des écarts à nos valeurs et idéaux. Nous nous devons d’être indulgent·es, envers nous-mêmes et envers autrui. Mais nous acceptons également que tout écart qui impacte le lieu et ses membres peut être traité si une personne le souhaite. 
 
 Lors d’un conflit: 
 1. Nous essayons de le résoudre entre les parties directement. 
 2. Si le conflit n’arrive pas à être géré entre les parties, une partie neutre est insérée dans la gestion de conflit pour tempérer. 
-3. Si, malgré ces étapes une membre se sent oppressée par le conflit, un ultimatum peut être défini accordant une chance à l'oppresseuse perçue. Cet ultimatum devra être justifié par le non-respect de ce manuel. 
+3. Si, malgré ces étapes un·e membre se sent oppressé·e par le conflit, un ultimatum peut être défini accordant une chance à l'oppresseuse perçue. Cet ultimatum devra être justifié par le non-respect de ce manuel. 
 
-> L’ultimatum est donné avec des conditions et les conséquences liées au non-respect de l’ultimatum. Ces critères ainsi que les conditions sont décidés entre toutes les membres du collectif en dehors de la personne ciblée par les injonctions potentielles. Cet outil doit rester un dernier recours et sa violence ne doit pas être sous estimée.
+> L’ultimatum est donné avec des conditions et les conséquences liées au non-respect de l’ultimatum. Ces critères ainsi que les conditions sont décidés entre toustes les membres du collectif en dehors de la personne ciblée par les injonctions potentielles. Cet outil doit rester un dernier recours et sa violence ne doit pas être sous estimée.
 
 ## Ultimatums 
 Plusieurs ultimatums exceptionnels sont de facto définis pour toutes les membres du lieu: 
-1. Toute atteinte physique intentionelle, hors légitime défense, sur un individu du lieu peut entraîner une exclusion du lieu si au moins une autre membre du lieu le souhaite 
+1. Toute atteinte physique intentionelle non sportive et hors légitime défense, sur un individu du lieu peut entraîner une exclusion du lieu si au moins une autre membre du lieu le souhaite 
 2. Toute atteinte physique grave (décès, blessures sur le long terme) par un animal non-résident·e sur un autre individu du lieu entraîne soit l’exclusion de l’animal ou, si la ou les responsables de l’animal le souhaite, un ultimatum les concernant directement
 3. Si une personne présentant une volonté d'atteinte grave à elle-même, qu'il s'agisse de blessures potentielles ou d'un risque imminent de mort, nous prendrons la décision **dans le cas où le dialogue est stérile ou impossible**, d'impliquer des forces extérieures. Cela peut inclure, mais n'est pas limité à, l'appel des services d'urgence tels que le SAMU
 4. Si une personne vole l'association  
@@ -149,11 +149,11 @@ Les fonds suivants sont disponibles sur le lieu et sont encadrés par l'annexe "
 ### Investissement
 Toute personne résidente sur le lieu accepte que les dépenses liées au lieu n’ont aucune garantie d'être restituées. Le terrain et l’immobilier relèvent de sa responsabilité, ainsi, les autres résident·es ne peuvent garantir l’achat ou la vente du bien. 
 
-> Chaque résident·e est invité-e, en cas de départ d’un-e résident·e ou membres, d’aider en fonction de ses moyens la personne qui part.
+> Chaque résident·e est invité·e, en cas de départ d’un·e résident·e ou membres, d’aider en fonction de ses moyens la personne qui part.
 
 ### Mutualisation des ressources
-Les personnes arrimées ont comme devoir la mutualisation de leurs ressources ce qui comprend leurs ressources financières et leur patrimoine. Ceux-ci sont donnés à l'association. Ainsi, si l'un•e des arrimé-es quitte le statut arrimé-e ou est exclu•e des arrimé-es, ce qui a été mutualisé ne peut être repris. 
-Une somme d'argent hebdomadaire est allouée à chaque arrimé-e dont l'usage est à leur discrétion. 
+Les personnes arrimées ont comme devoir la mutualisation de leurs ressources ce qui comprend leurs ressources financières et leur patrimoine. Ceux-ci sont donnés à l'association. Ainsi, si l'un·e des arrimé-es quitte le statut arrimé·e ou est exclu·e des arrimé·es, ce qui a été mutualisé ne peut être repris. 
+Une somme d'argent hebdomadaire est allouée à chaque arrimé·e dont l'usage est à leur discrétion. 
 
 Certains besoins sont considérés comme ubiquitaires tels que l'abonnement du téléphone mobile, les frais médicaux, frais bancaire, individus à charges et maintenance des vélos. Ils sont donc pris en charge par la mutualisation.
 
@@ -177,8 +177,8 @@ Toute personne qui est présente sur le lieu qui s’engage à respecter ce manu
 
 Les visiteuse·eurs ont plusieurs responsabilités: 
 - Un·e visiteuse·eurs est responsable de ses actes et gestes sur le lieu. Il ou elle est maîtresse de son quotidien et responsable de sa communication avec l'ensemble du collectif. 
-- Dans le cas d'une visite de plus de 24h sur le lieu un-e visiteuse·eurs est responsable de l'entretien (nettoyage, changer une ampoule ...) des locaux et de tout équipement qu'il ou elle utilise sur le lieu, dans la limite de ses capacités, dans le cas contraire il ou elle doit notifier l'ensemble du collectif. 
-- De tout faire pour garantir le respect, par tous•tes, de la charte. Pour éviter un contexte de délation, seules les situations interpersonnelles, où le bien-être d'une autre personne du lieu serait en jeu, oblige une intervention ou une notification de l'ensemble du collectif. 
+- Dans le cas d'une visite de plus de 24h sur le lieu un·e visiteuse·eurs est responsable de l'entretien (nettoyage, changer une ampoule ...) des locaux et de tout équipement qu'il ou elle utilise sur le lieu, dans la limite de ses capacités, dans le cas contraire il ou elle doit notifier l'ensemble du collectif. 
+- De tout faire pour garantir le respect, par toustes, de la charte. Pour éviter un contexte de délation, seules les situations interpersonnelles, où le bien-être d'une autre personne du lieu serait en jeu, oblige une intervention ou une notification de l'ensemble du collectif. 
  
 Les visiteuse·eurs ont les droits suivants: 
 - Utiliser l'argent des boîtes dans l'espace commun (courses, sanctuaire) ;
@@ -186,29 +186,29 @@ Les visiteuse·eurs ont les droits suivants:
 - Le droit à une égalité d'opportunité sur le lieu (et non de résultat) vis-à-vis de la participation aux événements, aux activités quotidiennes et toute autre dynamique collective du lieu. 
  
 ### Résident·e 
-Les résident·es sont également des visiteuse·eurs, ils ou elles cumulent les droits et devoirs de ce rôle mais sont également soumis-es aux droits suivants: 
+Les résident·es sont également des visiteuse·eurs, ils ou elles cumulent les droits et devoirs de ce rôle mais ont également les droits suivants: 
 - Jouir d'un espace personnel réservé sans limite de temps pour la personne ;
-- Être considéré-e comme concerné·e par les changements du contexte commun ou des exceptions à ce contexte même en cas d'absence sur le lieu. Ce pouvoir décisionnel est limité (voir la section "Remarques transversales" ci-dessous) ;
-- Le droit de décision sur l'accès au rôle de résident·e et arrimé-es
+- Être considéré·e comme concerné·e par les changements du contexte commun ou des exceptions à ce contexte même en cas d'absence sur le lieu. Ce pouvoir décisionnel est limité (voir la section "Remarques transversales" ci-dessous) ;
+- Le droit de décision sur l'accès au rôle de résident·e et arrimé·e
 - Le droit de décision sur le budget
 
 Ils ou elles se doivent également de respecter les devoirs suivants:
 - De ne pas représenter une charge financière ou de travail pour le reste du collectif
 
-> Leurs droits et devoirs ne peuvent ếtre changés sans l'accord unanime des résident•es et arrimé-es. Ce pouvoir sur leurs droits n'est pas limité dans le temps comme pour le reste de cette charte.
+> Leurs droits et devoirs ne peuvent ếtre changés sans l'accord unanime des résident·es et arrimé·es. Ce pouvoir sur leurs droits n'est pas limité dans le temps comme pour le reste de cette charte.
 
-> Les résident.e.s ne sont en aucun cas interdite•es de prendre des responsabilités, cela n'est simplement pas obligatoire. Cette prise de responsabilité ponctuelle volontaire est encouragée. 
+> Les résidente·s ne sont en aucun cas interdite·es de prendre des responsabilités, cela n'est simplement pas obligatoire. Cette prise de responsabilité ponctuelle volontaire est encouragée. 
 
-### Arrimé-e
+### Arrimé·e
 Les arrimé-es sont des parties prenantes concernées par les enjeux à long terme du projet, de fait concerné·es par des responsabilités accrues.
 
 Les arrimé-es sont, en plus des devoirs et droits des résident·es, tenues aux devoirs suivants:
 - De s'assurer au quotidien que les besoins des animaux non-humains sont satisfaits 
 - La responsabilité de fournir aux visiteuse·eurs les ressources nécessaires le temps de leur séjour
 - La responsabilité de garantir le respect de la charte et d'intervenir ou solutionner des potentiels problèmes.
-- De s'assurer de la présence d'au moins un-e arrimé-e sur le lieu
-- De mutualiser ses ressources (comme précisé à la section mutualisation des ressources) en excluant un minimum nécessaire à maintenir une autonomie vis-à-vis du collectif (ce minimum est fixé au moment de l'accès au rôle de arrimé-e)<sup>4</sup> Appelée filet de sécurité individuel, cette somme minimum n'est pas à fournir systématiquement par la personne souhaitant devenir arrimé-e mais bien par tout le collectif qui en cas d'incapacité à garantir ce minimum peut refuser l'accès au rôle de arrimé-es.
-- De s'assurer de la présence d'au moin un-e arrimé-e sur le lieu la nuit, au moment des tâches concernant les non humains.
+- De s'assurer de la présence d'au moins un·e arrimé·e sur le lieu
+- De mutualiser ses ressources (comme précisé à la section mutualisation des ressources) en excluant un minimum nécessaire à maintenir une autonomie vis-à-vis du collectif (ce minimum est fixé au moment de l'accès au rôle de arrimé-e)<sup>4</sup> Appelée filet de sécurité individuel, cette somme minimum n'est pas à fournir systématiquement par la personne souhaitant devenir arrimé·e mais bien par tout le collectif qui en cas d'incapacité à garantir ce minimum peut refuser l'accès au rôle de arrimé·es.
+- De s'assurer de la présence d'au moin un·e arrimé·e sur le lieu la nuit, au moment des tâches concernant les non humains.
 
 
 Ainsi que les droits suivants:
@@ -217,27 +217,27 @@ Ainsi que les droits suivants:
 - Le droit de véto et de décision sur le contexte commun, non plafonné dans le temps 
 - Le droit de décision sur l'argent des pots réservés aux dépenses exceptionnelles
 
-> Le groupe des arrimé-es a un droit exclusif de décision sur ce qui concerne exclusivement les arrimé-es, par exemple la mutualisation.
+> Le groupe des arrimé·es a un droit exclusif de décision sur ce qui concerne exclusivement les arrimé·es, par exemple la mutualisation.
 
-> L'accès au rôle arrimé-e est sujet à l'unanimité des résident·es, incluant de fait les arrimé-es; 
+> L'accès au rôle arrimé·e est sujet à l'unanimité des résident·es, incluant de fait les arrimé·es; 
 
-> Une fois qu'une personne est arrimé-e il faut l'unanimité des autres arrimé-es s'appuyant uniquement sur ce manuel pour limiter son rôle à résident·e.
+> Une fois qu'une personne est arrimé·e il faut l'unanimité des autres arrimé·es s'appuyant uniquement sur ce manuel pour limiter son rôle à résident·e.
 
 ### Remarques transversales
 
-- La période d'essai d'un•e résident•e est d'au moins 4 mois et est discutée plus en détail avec toutes les résident•es et arrimé-es. La période d'essai est initiée sur demande et nécéssite un accord unanime.
-- La période d'essai d'un•e arrimé-e est d'un an. Pendant cette période seuls les revenus de la personne sont mutualisés. La personne ne peut devenir arrimé-e tant que son filet de sécurité n'est pas constitué (par elle ou par le collectif) 
-- En cas d'injoignabilité, le ou la résident·e ou la ou le arrimé-e a deux semaines pour partager sa décision.
-- En cas d'opposition à une décision de la part d'un•e résident•e ou d'un-e visiteuse-eurs un report de la décision a lieu. Cette échéance est maintenue tant que l'opposition existe. 
-- En cas d'opposition de résident•e(s), à la fin de l'échéance, la décision est reprise sans que leur accord soit nécessaire. Cette échéance a comme objectifs de permettre le temps de pousuivre les échanges tant collectifs qu'interpersonnels, d'en permettre et de laisser le temps de se préparer à la mise en place de telle ou telle décision.
-- En cas d'opposition de résident•e(s), la décision est reportée à un an si il y a unanimité ou au moins trois résident-es s'opposent. Dans le cas oú un•e seul•e résident•es s'oppose, ou dans tout autre cas, la décision est reportée à six mois. 
+- La période d'essai d'un·e résident·e est d'au moins 4 mois et est discutée plus en détail avec toutes les résident·es et arrimé·es. La période d'essai est initiée sur demande et nécéssite un accord unanime.
+- La période d'essai d'un·e arrimé-e est d'un an. Pendant cette période seuls les revenus de la personne sont mutualisés. La personne ne peut devenir arrimé·e tant que son filet de sécurité n'est pas constitué (par elle ou par le collectif) 
+- En cas d'injoignabilité, le ou la résident·e ou la ou le arrimé·e a deux semaines pour partager sa décision.
+- En cas d'opposition à une décision de la part d'un·e résident·e ou d'un·e visiteuse·eurs un report de la décision a lieu. Cette échéance est maintenue tant que l'opposition existe. 
+- En cas d'opposition de résident·e(s), à la fin de l'échéance, la décision est reprise sans que leur accord soit nécessaire. Cette échéance a comme objectifs de permettre le temps de pousuivre les échanges tant collectifs qu'interpersonnels et de laisser le temps de se préparer à la mise en place de telle ou telle décision.
+- En cas d'opposition de résident·e(s), la décision est reportée à un an si il y a unanimité ou au moins trois résident-es s'opposent. Dans le cas oú un·e seul·e résident·es s'oppose, ou dans tout autre cas, la décision est reportée à six mois. 
 - Les motifs de refus d'accès au rôle, étayés si possible d'exemple et de pistes, doivent être communiqués aux personnes concernées.
-- Les réunions concernant la stratégie à long terme ou tout autre sujet propre aux arrimé-es mais concernant le contexte commun ne peuvent exclure la présence des résident·es.
+- Les réunions concernant la stratégie à long terme ou tout autre sujet propre aux arrimé·es mais concernant le contexte commun ne peuvent exclure la présence des résident·es.
 
 
 ## Limites et quotas
 En vue de la taille et des ressources à disposition, certaines limites et certains quotas ont été définis: 
-- Un nombre maximum de 6 espaces personnels est fixé sur le lieu, à ce jour, permettant à 6 couples/familles de vivre sur le lieu. 
+- Un nombre maximum de 6 espaces personnels est fixé sur le lieu, à ce jour, permettant à 6 personnes/couples/familles de vivre sur le lieu. 
 - Un nombre maximum de 16 visiteuse·eurs à la fois est fixé pour passer une nuit sur le lieu
 
 ## Notes 
