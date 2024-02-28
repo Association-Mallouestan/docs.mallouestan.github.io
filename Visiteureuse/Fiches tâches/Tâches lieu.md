@@ -1,0 +1,47 @@
+**Le concept des « journées lieu »**
+
+  
+
+Les lundi, jeudi et samedi sont des « journées lieu », des journées ou l'on s'occupe de toutes les tâches d'entretien du lieu. Les tâches sont marquées sur le tableau en ardoise dans la salle à manger de l'auberge. Si tu te sens de faire une de ces tâches ( ce qui, on ne le rappellera jamais assez, n'est pas obligatoire), tu peux t'inscrire à la craie ( le pot de craie est posé sur le petit meuble à gauche du tableau blanc des tâches journalières) en écrivant ton pseudo ou prénom à côté de la tâche voulue. On s'inscrit souvent la veille au soir ( donc le dimanche soir pour les tâches du lundi par exemple). Tu peux même te mettre sur plusieurs tâches si tu es méga chaud ( mais attention, on a tendance à sur estimer le nombre de choses que l'on peut effectuer en une journée sur le lieu!) ou bien te mettre avec une personne sur un tâche pour qu'elle puisse te montrer. Si malgré ce guide tu as besoin d'aide n'hésite surtout pas à demander à un.e résident.e comment faire.
+
+
+
+Machine à laver: 
+
+
+
+La machine à laver est le tonneau bleu en face de l'auberge. 
+
+1. Commence par prendre le linge sale qui est dans le panier violet dans la salle de bain dans l'auberge. 
+2. Ensuite, branche le tuyau d'arrosage au robinet a droite en rentrant dans le garde manger. Il suffit juste le l'enfoncer, pas d’embout ou de technique particulière à avoir.
+3. Rempli la machine jusqu'à ce que le niveau d'eau atteigne le bas du tambour à l'intérieur ( le plus petit cylindre percé). 
+4. Ajouter de la lessive au lierre ( que tu trouveras soit dans le garde manger à côté du robinet soit dans la salle de bain sous l'évier, c'est un liquide vert clair.)
+5. Ajoute le linge sale dans le tambour ( pour ouvrir et fermer le tambour il faut se débrouiller avec le fil de fer, si tu ne vois pas de porte au tambour fait le tourner jusqu'à la voir). Ferme le tambour et la machine. Attention à ne pas trop tasser le linge dans le tambour, pas plus des 2/3 sinon le linge ne se lavera pas bien. 
+6. Ensuite, prend la manivelle ( qui est souvent par terre juste en dessous de la machine) et introduit la dans le trou de la barre qui sort de la machine. 
+7. Fait tourner le tambour grâce à la manivelle pendant 5 minutes environ. C'est normal que ça soit un peu physique. 
+8. Une fois le lavage fini, vide l'eau en ouvrant la porte de la machine ( mais pas du tambour!) et en retournant complètement la machine. Tu peux vider l'eau juste à côté de la machine ne t'inquiète pas d'ou elle va ( gravier, herbe..) 
+9. Remet la machine en place.
+10. Rempli une nouvelle fois la machine d'eau avec le tuyau ( au même niveau que pour le lavage) pour commencer le rinçage. 
+11. Referme la machine et fait tourner avec la manivelle une nouvelle fois pendant 5 minutes. 
+12.  Vide l'eau de rinçage. 
+13. Ouvre le tambour et essore le linge à la main ( si il y a des draps c'est plus simple à 2)
+14. Enfin, étend le linge sur les cordes à linge, il y en a sous l'avancée de l'atelier, sous l'annexe et devant le mobilhome. Si il pleut tu peux aussi étendre le linge sur un tancarville dans l'auberge. 
+
+C'est fini ! 
+
+
+Courses et récup  : 
+
+Les courses et les récups se font avec des véhicules à moteur les lundis et jeudis. Mais même si tu n'as pas le permis, cette tâche se fait toujours à 2 donc tu peux accompagner le.a conducteur.ice et l'aider. Le départ se fait en général vers 9h, et le retour après 12h.
+
+
+Tri + ranger le GM : 
+
+Les légumes et fruits ont tendance à s'accumuler dans des cagettes dans le garde manger et les clapiers. Il s'agit donc de trier les pourris et non pourris et de jeter les pourris au compost ( prévoir une charrette ou une brouette pour y mettre le compost). 
+Pour trouver le tas de compost, va au mobile-home, ensuite prend le chemin fauché à gauche entre les hautes herbes. Au bout se trouve un gros tas de compost ( donc si tu t'es perdu tu devrais t'en rendre compte assez aisément). Essaie le plus possible de verser sur le tas pour que celui-ci ne s'étale pas trop. 
+Si tu as ajouté beaucoup de matière, prend de l'herbe coupée et ajoute la par dessus pour éviter les odeurs;)
+
+Poubelles : 
+Vider les poubelles. La poubelle de recyclage est dans la cuisine, la poubelle non recyclage est dans la véranda ( juste à droite dans la véranda, si elles sont pleines tu peux les fermer et les emmener. Les poubelles qui étaient déjà pleines sont dans l'abris à bois ( la porte à gauche de l'avancée de l'atelier, première à gauche en sortant de l'auberge et en allant tout droit). Il faut les amener au bout du chemin qui sort de l'auberge ( au niveau des boîtes aux lettres). De l'autre côté de la route il y a des bacs en bois pour les déposer. 
+Pense à checker si la poubelle des toilette et celle de la salle de bain sont pleines, si elles le sont, ajoute les a la poubelle non-recyclable avant de la sortir. 
+
