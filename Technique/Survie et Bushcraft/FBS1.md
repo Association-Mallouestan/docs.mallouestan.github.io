@@ -5,7 +5,7 @@
 
 ## Présentation
 
-Cette formation permet surtout de comprendre les enjeux de la Survie et du Bushcraft ainsi que ce qu'ils englobe. Elle permet également d'apprendre quelques bases essentielles, et nécessaires aux formations plus avancées.
+Cette formation permet surtout de comprendre les enjeux de la Survie et du Bushcraft ainsi que ce qu'ils englobent. Elle permet également d'apprendre quelques bases essentielles, et nécessaires aux formations plus avancées.
 
 ## Programme
 ### Jour 1
@@ -23,7 +23,7 @@ Cette formation permet surtout de comprendre les enjeux de la Survie et du Bushc
 
 ### Jour 2
 #### Matin
-- 🪢 Bases du Bindcraft: les huits noeuds de bases
+- 🪢 Bases du Bindcraft: les huits noeuds de base
 #### Après midi
 - 🪓 Bases du Axecraft: utiliser une hache pour être autonome en bois et pour construire
 - 👌 Rétrospective et fin de la formation
