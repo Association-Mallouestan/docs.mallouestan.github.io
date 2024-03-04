@@ -1,11 +1,11 @@
 # Formation Bushcraft et Survie Niveau 2
 
-> Durée: 2 jours
-> Pré-requis: FBS1
+> Durée : 2 jours
+> Prérequis : FBS1
 
 ## Présentation
 
-Cette formation permet de renforcer des bases en survie en espace naturel. Elle vise a autonomiser sur le campement, la fabrication d'outils et la capacité a s'orienter et naviguer.
+Cette formation vise à renforcer les bases en survie en milieu naturel, en autonomisant les participants sur le campement, la fabrication d'outils, et les compétences en orientation.
 
 ## Programme
 ### Jour 1
@@ -13,20 +13,23 @@ Cette formation permet de renforcer des bases en survie en espace naturel. Elle 
 - 👌 Rencontre avec le groupe
 - 📋 Présentation du programme et de la formation
 - 🧭 Bases de la navigation avec carte et boussole
+
 #### Après-midi
-- 🪓 Toolcraft: découverte de la serpe 
-- 🪢Bindcraft intermédiaire 
-- 🪹 Sheltercraft: Bases et plus 
+- 🪓 Toolcraft : découverte de la serpe
+- 🪢 Bindcraft intermédiaire
+- 🪹 Sheltercraft : bases et approfondissement
+
 #### Soir
 - 🔥 Campcraft et Firecraft
 
 ### Jour 2
 #### Matin
-- 🪡 Réparer ces vêtements et tentes
-- ➰ Faire ça propre corde
-- 🪓 Aiguisage et entretiens des outils
-#### Après midi
-- 🧭 Orientation et navigation plus avancée 
-- 🍁 Plantes sauvages et botanique 
+- 🪡 Réparation de vêtements et tentes
+- ➰ Fabrication de corde
+- 🪓 Aiguisage et entretien des outils
+
+#### Après-midi
+- 🧭 Orientation et navigation avancées
+- 🍁 Plantes sauvages et botanique
 - 👌 Rétrospective
-- 🚶Retour au Mallouestan 
+- 🚶 Retour au Mallouestan
