@@ -4,4 +4,4 @@
 Le PRT blablabla
 
 ## Domaines
-- [Survie et Bushcraft](./Survie%20et%20Bushcraft/README.md)
+- [Survie et Bushcraft](./Survie%20et%20Bushcraft/)

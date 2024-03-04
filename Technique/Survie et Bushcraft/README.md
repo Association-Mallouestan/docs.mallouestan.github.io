@@ -8,6 +8,6 @@ Le Bushcraft est un ensemble de techniques dont l'objectif et de vivre dans la n
 
 ## Ressources
 ### Bindcraft
-- [Présentation](./Bindcraft/README.md)
+- [Présentation](./Bindcraft/)
 
 ## Bibliographie

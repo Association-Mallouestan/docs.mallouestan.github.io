@@ -3,7 +3,7 @@
 ## Présentation
 
 ## Ressources pédagogiques 
-- [Les 8 noeuds de base](./Les%208%20noeuds%20de%20base.md)
+- [Les 8 noeuds de base](./Les%208%20noeuds%20de%20base)
 - 
 
 ## Ressources technique
