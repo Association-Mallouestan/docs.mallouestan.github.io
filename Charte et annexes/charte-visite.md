@@ -1,4 +1,4 @@
-# Manuel des chercheur-euses Mallouestanais-es
+# Manuel des visiteur-euses Mallouestanais-es
 ## Préface
 La création d’une alternative est un travail de tous les jours. Tendre vers un idéal est complexe. C’est pourquoi nous sommes contraintes d’établir un manuel de vie commune. 
 
@@ -73,17 +73,6 @@ Tout autre décision, hors précision contraire dans le manuel, ne nécéssite a
 > Toute décision peut être annulée ou opposée par n'importe quelle personne si elle est en contradiction avec le présent manuel. Si un doute existe sur l'interprétation du manuel, concevable par 60% des personnes présentes sur le lieu, l'ambiguité ne peut être imputée à la prise de décision. 
 
 > Toute exception à la charte peut être mise en place temporairement (la durée doit être précisée) sur vote unanime. L'exception est valable tant que sont présentes sur le lieu uniquement les personnes ayant participé à la mise en place de ladite exception. Les exceptions, hormis celles qui concernent les quotas humains, doivent également être validés par les arrimé·es non présent.e.s sur le lieu.
-
-## Gestion de conflit
-Nous sommes conscient·es que nous sommes des êtres de nature imparfaite. Nous faisons donc toutes et tous des erreurs ou des écarts à nos valeurs et idéaux. Nous nous devons d’être indulgent·es, envers nous-mêmes et envers autrui. Mais nous acceptons également que tout écart qui impacte le lieu et ses membres peut être traité si une personne le souhaite. 
-
-Lors d’un conflit: 
-1. Nous essayons de le résoudre entre les parties directement. 
-2. Si le conflit n’arrive pas à être géré entre les parties, une partie neutre est insérée dans la gestion de conflit pour tempérer. 
-3. Si, malgré ces étapes un·e membre se sent oppressé·e par le conflit, un ultimatum peut être défini accordant une chance à l'oppresseuse perçue. Cet ultimatum devra être justifié par le non-respect de ce manuel. 
-
-> L’ultimatum est donné avec des conditions et les conséquences liées au non-respect de l’ultimatum. Ces critères ainsi que les conditions sont décidés entre toustes les membres du collectif en dehors de la personne ciblée par les injonctions potentielles. Cet outil doit rester un dernier recours et sa violence ne doit pas être sous estimée.
-
 ## Ultimatums 
 Plusieurs ultimatums exceptionnels sont de facto définis pour toutes les membres du lieu: 
 1. Toute atteinte physique intentionelle non sportive et hors légitime défense, sur un individu du lieu peut entraîner une exclusion du lieu si au moins une autre membre du lieu le souhaite 
@@ -104,8 +93,6 @@ La communication est intrinsèquement complexe et personnelle. Il est important 
 - La présence ou l'absence des personnes hébergé·es sur le lieu
 - Tout état de santé entraînant un risque ou un danger
 - Tout élément mettant en danger la santé d'autrui (humains comme non-humains)
-
----
 ### Occupation d'espace 
 Les espaces suivants sur le lieu peuvent être réservés pour un usage exclusif.
 - La salle a'tout
@@ -116,21 +103,6 @@ Les espaces suivants sur le lieu peuvent être réservés pour un usage exclusif
 Les tableaux de réservations sont validés, et ainsi deviennent effectifs, à chaque réunion. 
 
 Si l'espace n'est pas réservé l'exclusivité est accordée, si elle est souhaitée, aux premièr·es venu·es.
-
-### Pôles
-Le lieu est séparé en plusieurs pôles. Ces pôles servent principalement à décrire les différentes activités du lieu et de les adresser ou les organiser. À ce jour, les pôles suivants sont définis :
-
-- Culturel
-- Maraîchage
-- Gestion des ressources premières
-- Construction
-- Soins aux animaux non humains
-- Information
-- Autocritique et stratégie
-- Faune et flore sauvages
-
-Les décisions sont prises collectivement au moment de plannification pour chaque pôle où un budget et des objectifs sont définis pour le trimestre suivant. 
-
 ### Gestion financière
 Certains frais dépendent de la vie commune. Un pot commun est donc mis à disposition pour que chacun·e participe selon ses moyens.
 
@@ -140,39 +112,12 @@ Les divers dons sont ajoutés au pot commun. Lors des réunions, l'argent prése
 
 > Une liste de courses communes est définie précisant les produits que l'on achète avec le budget associé. 
 
-Les fonds suivants sont disponibles sur le lieu et sont encadrés par l'annexe "Fonds et mutuelles:
-1. Fond de solidarité
-2. Mutuelle de subsistance
-3. Fond de secours du sanctuaire
-4. Fond de libération agraire
-5. Fond pour faune et flore sauvage
-
-### Investissement
-Toute personne résidente sur le lieu accepte que les dépenses liées au lieu n’ont aucune garantie d'être restituées. Le terrain et l’immobilier relèvent de sa responsabilité, ainsi, les autres résident·es ne peuvent garantir l’achat ou la vente du bien. 
-
-> Chaque résident·e est invité·e, en cas de départ d’un·e résident·e ou membres, d’aider en fonction de ses moyens la personne qui part.
-
-### Mutualisation des ressources
-Les personnes arrimées ont comme devoir la mutualisation de leurs ressources ce qui comprend leurs ressources financières et leur patrimoine. Ceux-ci sont donnés à l'association. Ainsi, si l'un·e des arrimé-es quitte le statut arrimé·e ou est exclu·e des arrimé·es, ce qui a été mutualisé ne peut être repris. 
-Une somme d'argent hebdomadaire est allouée à chaque arrimé·e dont l'usage est à leur discrétion. 
-
-Certains besoins sont considérés comme ubiquitaires tels que l'abonnement du téléphone mobile, les frais médicaux, frais bancaire, individus à charges et maintenance des vélos. Ils sont donc pris en charge par la mutualisation.
-
-### Mise à disposition d'espace
-Dans le contexte d'accueil et d'hébergement, en dehors des dortoirs, nous mettons à disposition des espaces qui dans le cas où ils ne sont pas partagés avec d'autres groupes deviennent de facto des espaces personnels. 
-
-## Communication extérieure
-Toute communication au nom du Mallouestan se doit d'être en accord avec cette charte et ne doit qu'exprimer des positions politiques, militant·es ou philosophiques présentes dans cette charte (anarchisme, antispécisme...). Toute prise de position personnelle du communicant non-présente dans cette charte ne doit pas être exprimée au nom du Mallouestan.
-
 ## Rôles et responsabilités
 Dans une optique de minimisation de pouvoir sur le lieu, les rôles suivants sont définis pour permettre à chacun·e de mieux appréhender leurs responsabilités et devoirs.
 
 ### Toute personne 
 A comme droits: 
 - Le droit de regard sur le fonctionnement de l'association
-
-> Toute personne qui quitte définitivement le lieu perd de fait ses droits et son statut
-
 ### Visiteuse·eurs 
 Toute personne qui est présente sur le lieu qui s’engage à respecter ce manuel. 
 
@@ -234,13 +179,6 @@ Ainsi que les droits suivants:
 - En cas d'opposition de résident·e(s), la décision est reportée à un an si il y a unanimité ou au moins trois résident-es s'opposent. Dans le cas oú un·e seul·e résident·es s'oppose, ou dans tout autre cas, la décision est reportée à six mois. 
 - Les motifs de refus d'accès au rôle, étayés si possible d'exemple et de pistes, doivent être communiqués aux personnes concernées.
 - Les réunions concernant la stratégie à long terme ou tout autre sujet propre aux arrimé·es mais concernant le contexte commun ne peuvent exclure la présence des résident·es.
-
-
-## Limites et quotas
-En vue de la taille et des ressources à disposition, certaines limites et certains quotas ont été définis: 
-- Un nombre maximum de 6 espaces personnels est fixé sur le lieu, à ce jour, permettant à 6 personnes/couples/familles de vivre sur le lieu. 
-- Un nombre maximum de 16 visiteuse·eurs à la fois est fixé pour passer une nuit sur le lieu
-
 ## Notes 
 
 ### 1. **Anarcho-communisme**
