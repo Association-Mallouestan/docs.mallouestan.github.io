@@ -177,7 +177,7 @@ A comme droits:
 Toute personne qui est présente sur le lieu qui s’engage à respecter ce manuel. 
 
 Les visiteuse·eurs ont plusieurs responsabilités: 
-- Un·e visiteuse·eurs est le seul garant de ses actes et gestes sur le lieu. Il ou elle est la·e garant de son quotidien et de sa communication avec l'ensemble du collectif. 
+- Un·e visiteuse·eurs est le seul garant de ses actes et gestes sur le lieu. Il ou elle est la·e garant de son quotidien e de sa communication avec l'ensemble du collectif. 
 - Dans le cas d'une visite de plus de 24h sur le lieu un·e visiteuse·eurs est responsable de l'entretien (nettoyage, changer une ampoule ...) des locaux et de tout équipement qu'il ou elle utilise sur le lieu, dans la limite de ses capacités, dans le cas contraire il ou elle doit notifier l'ensemble du collectif. 
 - De tout faire pour garantir le respect, par toustes, de la charte. Pour éviter un contexte de délation, seules les situations interpersonnelles, où le bien-être d'une autre personne du lieu serait en jeu, oblige une intervention ou une notification de l'ensemble du collectif. 
  
@@ -194,7 +194,7 @@ Les résident·es sont également des visiteuse·eurs, ils ou elles cumulent les
 - Le droit de décision sur le budget
 
 Ils ou elles se doivent également de respecter les devoirs suivants:
-- De ne pas représenter une charge financière ou de travail pour le reste du collectif
+- De tout faire pour ne pas représenter une charge financière ou de travail pour le reste du collectif
 
 > Leurs droits et devoirs ne peuvent ếtre changés sans l'accord unanime des résident·es et arrimé·es. Ce pouvoir sur leurs droits n'est pas limité dans le temps comme pour le reste de cette charte.
 
