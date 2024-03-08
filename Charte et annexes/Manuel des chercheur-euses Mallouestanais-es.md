@@ -49,7 +49,7 @@ Nous sommes conscient·es que chacun·e est déconstruit·e à des niveaux varia
 7. Les aliments provenant du système de catégorie Nova 4 (https://fr.openfoodfacts.org/nova) ne sont pas tolérés au sein des espaces communs et partagés ;
 8. Les aliments provenant du système de catégorie Nova 3 et de score nutritionnel inférieur à "C" ne sont pas tolérés au sein des espaces communs et partagés ;
 9. L'alcool, la nicotine, les drogues et autres substances non-alimentaires addictives ne sont pas tolérés au sein des espaces communs et partagés ;
-10. Tout état d'ébriété ou état sous influence n'est pas toléré lors des événements ponctuels ou durant les moments partagés du quotidien.
+10. Tout état d'ébriété ou état sous influence (hors contexte médicale) n'est pas toléré lors des événements ponctuels ou durant les moments partagés du quotidien.
 11. Tout comportement visant activement à nuire à l'association n'est pas toléré
 
 > Les prérequis concernant les espaces communs et partagés, soit le 7, 8 et 9, s'appliquent également à la zone de camping et au parking. Les véhicules aménagés ne sont pas concernés par ces prérequis tant que la consommation se fait à l'intérieur.
