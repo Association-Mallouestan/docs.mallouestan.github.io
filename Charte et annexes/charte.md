@@ -11,7 +11,7 @@ Le Mallouestan est un lieu fondé notamment sur les pilliers suivants:
 
 Nos positions et valeurs ne sont pas dépendantes d'une romantisation du passé ou d'une indépendance absolue. Elles sont le fruit d'un travail critique, basé sur les discussions, les expériences et les connaissances des membres du lieu et des visiteuse·eurs. Ce manuel n'est donc pas un support dogmatique ou sectaire, mais un repère pour un collectif anarcho-communiste. Il est destiné à évoluer régulièrement.
 
-> Ce manuel définit le contexte commun auquel chaque personne choisit d’adhérer en venant sur le lieu ou en participant aux événements extérieurs organisés par le Mallouestan. 
+> Ce manuel définit le contexte commun auquel chaque personne adhére en venant sur le lieu ou en participant aux événements extérieurs organisés par le Mallouestan. 
 
 > Ce manuel a été annoté pour mieux expliquer nos choix qui ne peuvent pas être synthétisés dans ce document.
 
@@ -26,8 +26,8 @@ Nous sommes conscient·es que beaucoup des valeurs et des objectifs ci-dessous s
 	- L'autonomie vis-à-vis des technologies complexes<sup>3</sup>.
 1. Assurer la pérennité du sanctuaire pour les animaux non-humains ; 
 2. Diminuer notre impact écologique ainsi que notre impact sur les écosystèmes avoisinants ; 
-3. Les santés corporelle et émotionnelle sont, pour nous, essentielles à une vie collective autonome et saine. Nous cherchons donc à développer une conscience de soi profonde pour tendre vers une résilience personnelle quotidienne. Celle-ci a pour but de minimiser les blessures, la fatigue et le mal-être ;
-4. Tendre, sur le lieu, vers une abolition au sens général du pouvoir d’un individu sur un autre. Dans le cas échéant, de tout faire pour répartir le pouvoir de façon horizontale ; 
+3. Les santés corporelle et émotionnelle sont, pour nous, essentielles à une vie collective autonome et saine. Nous cherchons donc à développer une écoute de soi fine et une conscience de son corp efficace pour tendre vers une résilience quotidienne de l'individu au sein du collectif. Celle-ci a pour but de minimiser les blessures, la fatigue et le mal-être ;
+4. Tendre, sur le lieu, vers une abolition au sens général des hiérarchies non légitime et des rapports de force non nécessaire. 
 5. Déconstruire les comportements systémiques, institutionnalisés et oppressifs, notamment les comportements issus du patriarcat, du racisme, du capacitisme, et de l'âgisme ;
 6. Minimiser la priorisation des intérêts d’une espèce sur une autre ;
 7. Partager nos ressources et privilèges dans une optique de solidarité et d'inclusion ;
@@ -41,15 +41,15 @@ Nous sommes conscient·es que chacun·e est déconstruit·e à des niveaux varia
 	- les discours prônant la violence à l'égard d'autres êtres sentients ;
 	- Le non-respect de la liberté de chacun-e de clore toute situation sociale qu'elle trouve inconfortable ;   
 	- Toute entrave à l'agentivité (la capacité d'agir et de façon autonome) d'un individu, le non-respect de l'individualité (le fait qu'un individu possède des caractéristiques qui le rendent tel qu'il ne puisse être confondu avec un autre être), ou le non respect de l'autonomie corporelle (le droit de prendre ses propres décisions pour son corps et son avenir) ;
-2. Aucune consommation, achat ou promotion de produits d’origine animale (chair, lait, œufs, miel, cuir, laine...) et aucune promotion d'activités liées à l'exploitation animale (équitation, agility, cirque, traction animale, collaboration animale...). Tous les sujets peuvent évidemment être abordés, mais ils doivent être traités en tant qu'avis individuels et non comme des vérités universelles ;
-3. Aucune promotion de religions ou de spiritualités ésotériques telles que les soins énergétiques, l'anthroposophie, la biodynamie, l'astrologie, la sorcellerie, le chamanisme, etc. Tous les sujets peuvent évidemment être abordés, mais ils doivent être traités en tant qu'avis individuels et non comme des vérités universelles ;
+2. Aucune consommation, achat ou promotion de produits d’origine animale (chair, lait, œufs, miel, cuir, laine...) et aucune promotion d'activités liées à l'exploitation animale (équitation, agility, cirque, traction animale, collaboration animale...). Tous les sujets peuvent évidemment être abordés, mais ils doivent être traités en tant qu'idée et non comme des vérités universelles ;
+3. Aucune promotion de religions ou de spiritualités ésotériques telles que les soins énergétiques, l'anthroposophie, la biodynamie, l'astrologie, la sorcellerie, le chamanisme, etc. Tous les sujets peuvent évidemment être abordés, mais ils doivent être traités en tant qu'idée et non comme des vérités universelles ;
 4. Le respect des espaces et de leurs signalisations ;
 5. Le respect des animaux comme explicité à l'annexe "Animaux non autonomes" ;
 6. Un minimum de communication active (initiée par la personne détenant l'information) comme défini à la section "Communication sur le lieu" ; 
 7. Les aliments provenant du système de catégorie Nova 4 (https://fr.openfoodfacts.org/nova) ne sont pas tolérés au sein des espaces communs et partagés ;
 8. Les aliments provenant du système de catégorie Nova 3 et de score nutritionnel inférieur à "C" ne sont pas tolérés au sein des espaces communs et partagés ;
 9. L'alcool, la nicotine, les drogues et autres substances non-alimentaires addictives ne sont pas tolérés au sein des espaces communs et partagés ;
-10. Tout état d'ébriété ou état sous influence n'est pas toléré lors des événements ponctuels ou durant les moments partagés du quotidien.
+10. Tout état d'ébriété ou état sous influence (hors contexte médicale) n'est pas toléré lors des événements ponctuels ou durant les moments partagés du quotidien.
 11. Tout comportement visant activement à nuire à l'association n'est pas toléré
 
 > Les prérequis concernant les espaces communs et partagés, soit le 7, 8 et 9, s'appliquent également à la zone de camping et au parking. Les véhicules aménagés ne sont pas concernés par ces prérequis tant que la consommation se fait à l'intérieur.
@@ -97,7 +97,7 @@ Les événements ponctuels ou quotidiens qui sont destinés à être collectifs 
 
 > Exemple: Pour les repas, prévenir toutes les personne du lieu
 
-La communication est intrinsèquement complexe et personnelle. Il est important de s'adapter au mieux à ces différences, que ce soit à l'oral, par écrit ou autrement. Malgré cela, une communication minimale active (initiée par la personne détenant l'information) est nécessaire en ce qui concerne le contexte commun et la vie quotidienne collective du lieu. Nous demandons donc une communication claire sur les points suivants :
+La communication est intrinsèquement complexe et varie en fonctions des individues. Il est important de s'adapter au mieux à ces différences, que ce soit à l'oral, par écrit ou autrement. Malgré cela, une communication minimale active (initiée par la personne détenant l'information) est nécessaire en ce qui concerne le contexte commun et la vie quotidienne collective du lieu. Nous demandons donc une communication claire sur les points suivants :
 
 - Ce qui relève des responsabilités des référent·es techniques
 - Les tâches quotidiennes, hebdomadaires et les chantiers
@@ -162,7 +162,7 @@ Certains besoins sont considérés comme ubiquitaires tels que l'abonnement du t
 Dans le contexte d'accueil et d'hébergement, en dehors des dortoirs, nous mettons à disposition des espaces qui dans le cas où ils ne sont pas partagés avec d'autres groupes deviennent de facto des espaces personnels. 
 
 ## Communication extérieure
-Toute communication au nom du Mallouestan se doit d'être en accord avec cette charte et ne doit qu'exprimer des positions politiques, militant·es ou philosophiques présentes dans cette charte (anarchisme, antispécisme...). Toute prise de position personnelle du communicant non-présente dans cette charte ne doit pas être exprimée au nom du Mallouestan.
+Toute communication au nom du Mallouestan se doit d'être en accord avec cette charte et ne doit qu'exprimer des positions politiques, militant·es ou philosophiques présentes dans cette charte (anarchisme, antispécisme...). Toute prise de position du communicant non-présente dans cette charte ne doit pas être exprimée au nom du Mallouestan.
 
 ## Rôles et responsabilités
 Dans une optique de minimisation de pouvoir sur le lieu, les rôles suivants sont définis pour permettre à chacun·e de mieux appréhender leurs responsabilités et devoirs.
@@ -177,7 +177,7 @@ A comme droits:
 Toute personne qui est présente sur le lieu qui s’engage à respecter ce manuel. 
 
 Les visiteuse·eurs ont plusieurs responsabilités: 
-- Un·e visiteuse·eurs est responsable de ses actes et gestes sur le lieu. Il ou elle est maîtresse de son quotidien et responsable de sa communication avec l'ensemble du collectif. 
+- Un·e visiteuse·eurs est le seul garant de ses actes et gestes sur le lieu. Il ou elle est la·e garant de son quotidien e de sa communication avec l'ensemble du collectif. 
 - Dans le cas d'une visite de plus de 24h sur le lieu un·e visiteuse·eurs est responsable de l'entretien (nettoyage, changer une ampoule ...) des locaux et de tout équipement qu'il ou elle utilise sur le lieu, dans la limite de ses capacités, dans le cas contraire il ou elle doit notifier l'ensemble du collectif. 
 - De tout faire pour garantir le respect, par toustes, de la charte. Pour éviter un contexte de délation, seules les situations interpersonnelles, où le bien-être d'une autre personne du lieu serait en jeu, oblige une intervention ou une notification de l'ensemble du collectif. 
  
@@ -194,7 +194,7 @@ Les résident·es sont également des visiteuse·eurs, ils ou elles cumulent les
 - Le droit de décision sur le budget
 
 Ils ou elles se doivent également de respecter les devoirs suivants:
-- De ne pas représenter une charge financière ou de travail pour le reste du collectif
+- De tout faire pour ne pas représenter une charge financière ou de travail pour le reste du collectif
 
 > Leurs droits et devoirs ne peuvent ếtre changés sans l'accord unanime des résident·es et arrimé·es. Ce pouvoir sur leurs droits n'est pas limité dans le temps comme pour le reste de cette charte.
 
