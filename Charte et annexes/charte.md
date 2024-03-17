@@ -2,7 +2,7 @@
 ## Préface
 La création d’une alternative est un travail de tous les jours. Tendre vers un idéal est complexe. C’est pourquoi nous sommes contraintes d’établir un manuel de vie commune. 
 
-Le Mallouestan est un lieu fondé notamment sur les pilliers suivants:
+Le Mallouestan est un lieu fondé notamment sur les piliers suivants:
 
 - **anarcho-communisme**<sup>1</sup>
 - **antispécisme**
@@ -10,6 +10,8 @@ Le Mallouestan est un lieu fondé notamment sur les pilliers suivants:
 - **anti-tech**<sup>3</sup>
 
 Nos positions et valeurs ne sont pas dépendantes d'une romantisation du passé ou d'une indépendance absolue. Elles sont le fruit d'un travail critique, basé sur les discussions, les expériences et les connaissances des membres du lieu et des visiteuse·eurs. Ce manuel n'est donc pas un support dogmatique ou sectaire, mais un repère pour un collectif anarcho-communiste. Il est destiné à évoluer régulièrement.
+
+> Nos positions sont détailler dans plusieurs textes lister à la fin de ce document
 
 > Ce manuel définit le contexte commun auquel chaque personne adhére en venant sur le lieu ou en participant aux événements extérieurs organisés par le Mallouestan. 
 
@@ -240,6 +242,11 @@ Ainsi que les droits suivants:
 En vue de la taille et des ressources à disposition, certaines limites et certains quotas ont été définis: 
 - Un nombre maximum de 6 espaces personnels est fixé sur le lieu, à ce jour, permettant à 6 personnes/couples/familles de vivre sur le lieu. 
 - Un nombre maximum de 16 visiteuse·eurs à la fois est fixé pour passer une nuit sur le lieu
+
+## Textes et annexes
+- [Explications sur l'autonomie](../Philosophie/Autonomie)
+- [Explications sur le rapport au comfort](../Philosophie/Comfort)
+- [Explications sur notre opposition au libéralisme](../Philosophie/Anti-liberalisme)
 
 ## Notes 
 
