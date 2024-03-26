@@ -106,8 +106,6 @@ La communication est intrinsèquement complexe et varie en fonctions des individ
 - La présence ou l'absence des personnes hébergé·es sur le lieu
 - Tout état de santé entraînant un risque ou un danger
 - Tout élément mettant en danger la santé d'autrui (humains comme non-humains)
-
----
 ### Occupation d'espace 
 Les espaces suivants sur le lieu peuvent être réservés pour un usage exclusif.
 - La salle a'tout
@@ -148,18 +146,6 @@ Les fonds suivants sont disponibles sur le lieu et sont encadrés par l'annexe "
 3. Fond de secours du sanctuaire
 4. Fond de libération agraire
 5. Fond pour faune et flore sauvage
-
-### Investissement
-Toute personne résidente sur le lieu accepte que les dépenses liées au lieu n’ont aucune garantie d'être restituées. Le terrain et l’immobilier relèvent de sa responsabilité, ainsi, les autres résident·es ne peuvent garantir l’achat ou la vente du bien. 
-
-> Chaque résident·e est invité·e, en cas de départ d’un·e résident·e ou membres, d’aider en fonction de ses moyens la personne qui part.
-
-### Mutualisation des ressources
-Les personnes arrimées ont comme devoir la mutualisation de leurs ressources ce qui comprend leurs ressources financières et leur patrimoine. Ceux-ci sont donnés à l'association. Ainsi, si l'un·e des arrimé-es quitte le statut arrimé·e ou est exclu·e des arrimé·es, ce qui a été mutualisé ne peut être repris. 
-Une somme d'argent hebdomadaire est allouée à chaque arrimé·e dont l'usage est à leur discrétion. 
-
-Certains besoins sont considérés comme ubiquitaires tels que l'abonnement du téléphone mobile, les frais médicaux, frais bancaire, individus à charges et maintenance des vélos. Ils sont donc pris en charge par la mutualisation.
-
 ### Mise à disposition d'espace
 Dans le contexte d'accueil et d'hébergement, en dehors des dortoirs, nous mettons à disposition des espaces qui dans le cas où ils ne sont pas partagés avec d'autres groupes deviennent de facto des espaces personnels. 
 
@@ -169,64 +155,46 @@ Toute communication au nom du Mallouestan se doit d'être en accord avec cette c
 ## Rôles et responsabilités
 Dans une optique de minimisation de pouvoir sur le lieu, les rôles suivants sont définis pour permettre à chacun·e de mieux appréhender leurs responsabilités et devoirs.
 
-### Toute personne 
-A comme droits: 
-- Le droit de regard sur le fonctionnement de l'association
+Il y a trois rôle sur le lieu :
+1. Visiteuse-eur
+2. Résidente
+3. Arrimé-e
 
-> Toute personne qui quitte définitivement le lieu perd de fait ses droits et son statut
+### Responsabilités des différents rôles et personnes
 
-### Visiteuse·eurs 
-Toute personne qui est présente sur le lieu qui s’engage à respecter ce manuel. 
-
-Les visiteuse·eurs ont plusieurs responsabilités: 
-- Un·e visiteuse·eurs est le seul garant de ses actes et gestes sur le lieu. Il ou elle est la·e garant de son quotidien e de sa communication avec l'ensemble du collectif. 
-- Dans le cas d'une visite de plus de 24h sur le lieu un·e visiteuse·eurs est responsable de l'entretien (nettoyage, changer une ampoule ...) des locaux et de tout équipement qu'il ou elle utilise sur le lieu, dans la limite de ses capacités, dans le cas contraire il ou elle doit notifier l'ensemble du collectif. 
-- De tout faire pour garantir le respect, par toustes, de la charte. Pour éviter un contexte de délation, seules les situations interpersonnelles, où le bien-être d'une autre personne du lieu serait en jeu, oblige une intervention ou une notification de l'ensemble du collectif. 
- 
-Les visiteuse·eurs ont les droits suivants: 
-- Utiliser l'argent des boîtes dans l'espace commun (courses, sanctuaire) ;
-- Le droit de véto et de décision sur le contexte commun le temps de leur séjour. En cas d'opposition ce pouvoir de décision est, malgré tout, limité à un mois même dans le cas d'un séjour plus long; 
-- Le droit à une égalité d'opportunité sur le lieu (et non de résultat) vis-à-vis de la participation aux événements, aux activités quotidiennes et toute autre dynamique collective du lieu. 
- 
-### Résident·e 
-Les résident·es sont également des visiteuse·eurs, ils ou elles cumulent les droits et devoirs de ce rôle mais ont également les droits suivants: 
-- Jouir d'un espace personnel réservé sans limite de temps pour la personne ;
-- Être considéré·e comme concerné·e par les changements du contexte commun ou des exceptions à ce contexte même en cas d'absence sur le lieu. Ce pouvoir décisionnel est limité (voir la section "Remarques transversales" ci-dessous) ;
-- Le droit de décision sur l'accès au rôle de résident·e et arrimé·e
-- Le droit de décision sur le budget
-
-Ils ou elles se doivent également de respecter les devoirs suivants:
-- De tout faire pour ne pas représenter une charge financière ou de travail pour le reste du collectif
-
-> Leurs droits et devoirs ne peuvent ếtre changés sans l'accord unanime des résident·es et arrimé·es. Ce pouvoir sur leurs droits n'est pas limité dans le temps comme pour le reste de cette charte.
-
-> Les résidente·s ne sont en aucun cas interdite·es de prendre des responsabilités, cela n'est simplement pas obligatoire. Cette prise de responsabilité ponctuelle volontaire est encouragée. 
-
-### Arrimé·e
-Les arrimé-es sont des parties prenantes concernées par les enjeux à long terme du projet, de fait concerné·es par des responsabilités accrues.
-
-Les arrimé-es sont, en plus des devoirs et droits des résident·es, tenues aux devoirs suivants:
-- De s'assurer au quotidien que les besoins des animaux non-humains sont satisfaits 
-- La responsabilité de fournir aux visiteuse·eurs les ressources nécessaires le temps de leur séjour
-- La responsabilité de garantir le respect de la charte et d'intervenir ou solutionner des potentiels problèmes.
-- De s'assurer de la présence d'au moins un·e arrimé·e sur le lieu
-- De mutualiser ses ressources (comme précisé à la section mutualisation des ressources) en excluant un minimum nécessaire à maintenir une autonomie vis-à-vis du collectif (ce minimum est fixé au moment de l'accès au rôle de arrimé-e)<sup>4</sup> Appelée filet de sécurité individuel, cette somme minimum n'est pas à fournir systématiquement par la personne souhaitant devenir arrimé·e mais bien par tout le collectif qui en cas d'incapacité à garantir ce minimum peut refuser l'accès au rôle de arrimé·es.
-- De s'assurer de la présence d'au moin un·e arrimé·e sur le lieu la nuit, au moment des tâches concernant les non humains.
+| Responsabilité                                                                                                                                                                                                                                                       | Visiteuse | Résidente | Arrimée |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :-------: | :-----: |
+| Garant de ses actes et gestes sur le lieu. Il ou elle est la·e garant de son quotidien e de sa communication avec l'ensemble du collectif.                                                                                                                           |    Oui    |    Oui    |   Oui   |
+| Responsable de l'entretien (nettoyage, changer une ampoule ...) des locaux et de tout équipement qu'il ou elle utilise sur le lieu, dans la limite de ses capacités, dans le cas contraire il ou elle doit notifier l'ensemble du collectif.                         |    Oui    |    Oui    |   Oui   |
+| De tout faire pour ne pas représenter une charge financière ou de travail pour le reste du collectif                                                                                                                                                                 |    Oui    |    Oui    |   Oui   |
+| De garantir le respect, par toustes, de la charte. Pour éviter un contexte de délation, seules les situations interpersonnelles, où le bien-être d'une autre personne du lieu serait en jeu, oblige une intervention ou une notification de l'ensemble du collectif. |    Oui    |    Non    |   Non   |
+| De s'assurer au quotidien que les besoins des animaux non-humains sont satisfaits                                                                                                                                                                                    |    Non    |    Non    |   Oui   |
+| De s'assurer au quotidien que les besoins des animaux non-humains sont satisfaits <br>                                                                                                                                                                               |    Non    |    Non    |   Oui   |
+| De fournir aux visiteuse·eurs les ressources nécessaires le temps de leur séjour<br>                                                                                                                                                                                 |    Non    |    Non    |   Oui   |
+| De garantir le respect de la charte et d'intervenir ou solutionner des potentiels problèmes.                                                                                                                                                                         |    Non    |    Non    |   Oui   |
+| De s'assurer de la présence d'au moins un·e arrimé·e sur le lieu<br>                                                                                                                                                                                                 |    Non    |    Non    |   Oui   |
+| De mutualiser ses ressources (comme précisé à la section mutualisation des ressources)                                                                                                                                                                               |    Non    |    Non    |   Oui   |
+| De s'assurer de la présence d'au moin un·e arrimé·e sur le lieu la nuit, au moment des tâches concernant les non humains.                                                                                                                                            |    Non    |    Non    |   Oui   |
 
 
-Ainsi que les droits suivants:
-- D'être considéré·e comme concerné·e par les changements du contexte commun ou les exceptions à la charte même en cas d'absence sur le lieu non plafonné dans le temps.
-- De prendre des décisions sur les priorités notamment au travers des pôles
-- Le droit de véto et de décision sur le contexte commun, non plafonné dans le temps 
-- Le droit de décision sur l'argent des pots réservés aux dépenses exceptionnelles
+### Droits des différents rôles et personnes 
 
-> Le groupe des arrimé·es a un droit exclusif de décision sur ce qui concerne exclusivement les arrimé·es, par exemple la mutualisation.
+| Droits                                                                                                                                                                 | Visiteuse | Résidente | Arrimée |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :-------: | :-----: |
+| De véto limité (1 mois) sur le contexte commun*                                                                                                                        |    Oui    |    Oui    |   Oui   |
+| D'égalité d'opportunités à l'égard des activités du lieu                                                                                                               |    Oui    |    Oui    |   Oui   |
+| D'être consulté et approuvé tout changements aux droits détenues                                                                                                       |    Oui    |    Oui    |   Oui   |
+| Jouir d'un espace personnel                                                                                                                                            |    Non    |    Oui    |   Oui   |
+| De véto limité (6 mois ou 1 an) sur les changement du contexte commun même en cas d'absence du lieu*                                                                   |    Non    |    Oui    |   Oui   |
+| De véto sur l'accès au rôles de résident-e ou d'arrimé-e                                                                                                               |    Non    |    Oui    |   Oui   |
+| De décision sur le budget                                                                                                                                              |    Non    |    Oui    |   Oui   |
+| De prendre ponctuellement des responsabilités sans engagement dans le temps                                                                                            |    Non    |    Oui    |   Non   |
+| D'être considéré·e comme concerné·e par les changements du contexte commun ou les exceptions à la charte même en cas d'absence sur le lieu non plafonné dans le temps. |    Non    |    Non    |   Oui   |
+| De prendre des décisions sur les priorités notamment au travers des pôles                                                                                              |    Non    |    Non    |   Oui   |
+| Le droit de décision sur l'argent des pots réservés aux dépenses exceptionnelles                                                                                       |    Non    |    Non    |   Oui   |
+| De participer aux décisions concernant les droits des autres rôles                                                                                                     |    Non    |    Non    |   Oui   |
 
-> L'accès au rôle arrimé·e est sujet à l'unanimité des résident·es, incluant de fait les arrimé·es; 
-
-> Une fois qu'une personne est arrimé·e il faut l'unanimité des autres arrimé·es s'appuyant uniquement sur ce manuel pour limiter son rôle à résident·e.
-
-### Remarques transversales
+### Remarques transversales aux différents rôles
 
 - La période d'essai d'un·e résident·e est d'au moins 4 mois et est discutée plus en détail avec toutes les résident·es et arrimé·es. La période d'essai est initiée sur demande et nécéssite un accord unanime.
 - La période d'essai d'un·e arrimé-e est d'un an. Pendant cette période seuls les revenus de la personne sont mutualisés. La personne ne peut devenir arrimé·e tant que son filet de sécurité n'est pas constitué (par elle ou par le collectif) 
@@ -237,6 +205,15 @@ Ainsi que les droits suivants:
 - Les motifs de refus d'accès au rôle, étayés si possible d'exemple et de pistes, doivent être communiqués aux personnes concernées.
 - Les réunions concernant la stratégie à long terme ou tout autre sujet propre aux arrimé·es mais concernant le contexte commun ne peuvent exclure la présence des résident·es.
 
+## Investissement
+Toute personne résidente sur le lieu accepte que les dépenses liées au lieu n’ont aucune garantie d'être restituées. Le terrain et l’immobilier relèvent de sa responsabilité, ainsi, les autres résident·es ne peuvent garantir l’achat ou la vente du bien. 
+
+> Chaque résident·e est invité·e, en cas de départ d’un·e résident·e ou membres, d’aider en fonction de ses moyens la personne qui part.
+## Mutualisation des ressources
+Les personnes arrimées ont comme devoir la mutualisation de leurs ressources ce qui comprend leurs ressources financières et leur patrimoine. Ceux-ci sont donnés à l'association. Ainsi, si l'un·e des arrimé-es quitte le statut arrimé·e ou est exclu·e des arrimé·es, ce qui a été mutualisé ne peut être repris. 
+Une somme d'argent hebdomadaire est allouée à chaque arrimé·e dont l'usage est à leur discrétion. 
+
+Certains besoins sont considérés comme ubiquitaires tels que l'abonnement du téléphone mobile, les frais médicaux, frais bancaire, individus à charges et maintenance des vélos. Ils sont donc pris en charge par la mutualisation.
 
 ## Limites et quotas
 En vue de la taille et des ressources à disposition, certaines limites et certains quotas ont été définis: 
