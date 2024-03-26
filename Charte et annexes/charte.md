@@ -79,12 +79,23 @@ Tout autre décision, hors précision contraire dans le manuel, ne nécéssite a
 ## Gestion de conflit
 Nous sommes conscient·es que nous sommes des êtres de nature imparfaite. Nous faisons donc toutes et tous des erreurs ou des écarts à nos valeurs et idéaux. Nous nous devons d’être indulgent·es, envers nous-mêmes et envers autrui. Mais nous acceptons également que tout écart qui impacte le lieu et ses membres peut être traité si une personne le souhaite. 
 
-Lors d’un conflit: 
-1. Nous essayons de le résoudre entre les parties directement. 
-2. Si le conflit n’arrive pas à être géré entre les parties, une partie neutre est insérée dans la gestion de conflit pour tempérer. 
-3. Si, malgré ces étapes un·e membre se sent oppressé·e par le conflit, un ultimatum peut être défini accordant une chance à l'oppresseuse perçue. Cet ultimatum devra être justifié par le non-respect de ce manuel. 
+### Procédure de cadrage de conflit
 
-> L’ultimatum est donné avec des conditions et les conséquences liées au non-respect de l’ultimatum. Ces critères ainsi que les conditions sont décidés entre toustes les membres du collectif en dehors de la personne ciblée par les injonctions potentielles. Cet outil doit rester un dernier recours et sa violence ne doit pas être sous estimée.
+1. Dans le cas d'un conflit, les comportements ou mécanismes doivent être adressée aux protagonistes au plus vite une fois qu'elle sont identifiés comme problématique 
+2. En cas de réitération de ces comportements une gestion de conflit collective peut être lancé
+3. Les arrimé-es et résidentes (hors personnes visée par la procédure) se concertent pour essayer de trouver des solutions comme mais non limité à l'articulation des besoins du collectifs a l'égard des protagonistes
+4. Ce comité peut initié une procédure de sanctions impliquant la mise en place d' ultimatums
+
+### Procédure de sanctions
+
+1. Les problèmes motivant cette procédure sont partagés par le comité avec les protagonistes. Le comité exprimes ses attentes et besoins donnant également l'occasion aux protagonistes de les adresser et aussi d'exprimer leurs besoins et attentes à l'égard du collectif
+2. Le comité se concerte pour former, si juger nécessaire, une réquisition (la liste d'ultimatums) basé sur des points explicité dans cette charte
+3. Cette réquisition est ensuite partagé avec les protagonistes qui ont l'occasion de les adresser
+4. Suite à cet échange le comité délibère et délivre ses conclusion et ultimatums finales. Le processus recommence à l'étape 3 avec une nouvelle requisition dans le cas où le comité souhaite rajouter des ultimatums ou changer les conditions de ceux présenté à l'étape précédente.
+
+> Les ultimatums sont donné au moment de la requisition avec des conditions et des conséquences liées à leurs non-respect. 
+
+> Les protagonistes peuvent être représenter ou accompagner par toute autre personne du lieu lors de ces procédures
 
 ## Ultimatums 
 Plusieurs ultimatums exceptionnels sont de facto définis pour toutes les membres du lieu: 
