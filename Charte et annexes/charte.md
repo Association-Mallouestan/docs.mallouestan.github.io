@@ -26,14 +26,14 @@ Nous sommes conscient·es que beaucoup des valeurs et des objectifs ci-dessous s
 	- La déconnexion totale des espaces d'hébergement dits "personnels" des réseaux publics,
 	- L'autonomie à l'égard de l'agriculture moderne (monoculture, agriculture intensive...),
 	- L'autonomie vis-à-vis des technologies complexes<sup>3</sup>.
-1. Assurer la pérennité du sanctuaire pour les animaux non-humains ; 
-2. Diminuer notre impact écologique ainsi que notre impact sur les écosystèmes avoisinants ; 
-3. Les santés corporelle et émotionnelle sont, pour nous, essentielles à une vie collective autonome et saine. Nous cherchons donc à développer une écoute de soi fine et une conscience de son corp efficace pour tendre vers une résilience quotidienne de l'individu au sein du collectif. Celle-ci a pour but de minimiser les blessures, la fatigue et le mal-être ;
-4. Tendre, sur le lieu, vers une abolition au sens général des hiérarchies non légitime et des rapports de force non nécessaire. 
-5. Déconstruire les comportements systémiques, institutionnalisés et oppressifs, notamment les comportements issus du patriarcat, du racisme, du capacitisme, et de l'âgisme ;
-6. Minimiser la priorisation des intérêts d’une espèce sur une autre ;
-7. Partager nos ressources et privilèges dans une optique de solidarité et d'inclusion ;
-8. Créer un nouveau rapport au vivant en développant une axiologie (vision de ce qui est considéré comme juste et souhaitable) ancrée dans une cosmologie (vision de la façon dont l'univers fonctionne) matérialiste compatible avec la méthode scientifique.  
+2. Assurer la pérennité du sanctuaire pour les animaux non-humains ;  
+3. Diminuer notre impact écologique ainsi que notre impact sur les écosystèmes avoisinants ; 
+4. Les santés corporelle et émotionnelle sont, pour nous, essentielles à une vie collective autonome et saine. Nous cherchons donc à développer une écoute de soi fine et une conscience de son corp efficace pour tendre vers une résilience quotidienne de l'individu au sein du collectif. Celle-ci a pour but de minimiser les blessures, la fatigue et le mal-être ;
+5. Tendre, sur le lieu, vers une abolition au sens général des hiérarchies non légitime et des rapports de force non nécessaire. 
+6. Déconstruire les comportements systémiques, institutionnalisés et oppressifs, notamment les comportements issus du patriarcat, du racisme, du capacitisme, et de l'âgisme ;
+7. Minimiser la priorisation des intérêts d’une espèce sur une autre ;
+8. Partager nos ressources et privilèges dans une optique de solidarité et d'inclusion ;
+9. Créer un nouveau rapport au vivant en développant une axiologie (vision de ce qui est considéré comme juste et souhaitable) ancrée dans une cosmologie (vision de la façon dont l'univers fonctionne) matérialiste compatible avec la méthode scientifique.  
 
 ## Prérequis
 Nous sommes conscient·es que chacun·e est déconstruit·e à des niveaux variables et que chacun·e évolu·e à sa vitesse. Malgré cela, un minimum de déconstruction est nécessaire pour garantir l’avancée de l’ensemble du groupe. Comme pour le reste de cette charte, aucun mécanisme, ci-dessous, n'a comme prétention d'être suffisant ou parfait mais représente un point de départ qui semble pertinent pour les explorations du collectif. Nous demandons donc sur le lieu et pendant les événements organisés par le Mallouestan : 
@@ -178,7 +178,7 @@ Il y a trois rôle sur le lieu :
 | Garant de ses actes et gestes sur le lieu. Il ou elle est la·e garant de son quotidien e de sa communication avec l'ensemble du collectif.                                                                                                                           |    Oui    |    Oui    |   Oui   |
 | Responsable de l'entretien (nettoyage, changer une ampoule ...) des locaux et de tout équipement qu'il ou elle utilise sur le lieu, dans la limite de ses capacités, dans le cas contraire il ou elle doit notifier l'ensemble du collectif.                         |    Oui    |    Oui    |   Oui   |
 | De tout faire pour ne pas représenter une charge financière ou de travail pour le reste du collectif                                                                                                                                                                 |    Oui    |    Oui    |   Oui   |
-| De garantir le respect, par toustes, de la charte. Pour éviter un contexte de délation, seules les situations interpersonnelles, où le bien-être d'une autre personne du lieu serait en jeu, oblige une intervention ou une notification de l'ensemble du collectif. |    Oui    |    Non    |   Non   |
+| De garantir le respect, par toustes, de la charte. Pour éviter un contexte de délation, seules les situations interpersonnelles, où le bien-être d'une autre personne du lieu serait en jeu, oblige une intervention ou une notification de l'ensemble du collectif. |    Oui    |    Oui    |   Non   |
 | De s'assurer au quotidien que les besoins des animaux non-humains sont satisfaits                                                                                                                                                                                    |    Non    |    Non    |   Oui   |
 | De s'assurer au quotidien que les besoins des animaux non-humains sont satisfaits <br>                                                                                                                                                                               |    Non    |    Non    |   Oui   |
 | De fournir aux visiteuse·eurs les ressources nécessaires le temps de leur séjour<br>                                                                                                                                                                                 |    Non    |    Non    |   Oui   |
@@ -192,11 +192,11 @@ Il y a trois rôle sur le lieu :
 
 | Droits                                                                                                                                                                 | Visiteuse | Résidente | Arrimée |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :-------: | :-----: |
-| De véto limité (1 mois) sur le contexte commun*                                                                                                                        |    Oui    |    Oui    |   Oui   |
+| De véto limité (1 mois) sur le contexte commun (voir remarques transversales)                                                                                          |    Oui    |    Oui    |   Oui   |
 | D'égalité d'opportunités à l'égard des activités du lieu                                                                                                               |    Oui    |    Oui    |   Oui   |
-| D'être consulté et approuvé tout changements aux droits détenues                                                                                                       |    Oui    |    Oui    |   Oui   |
 | Jouir d'un espace personnel                                                                                                                                            |    Non    |    Oui    |   Oui   |
-| De véto limité (6 mois ou 1 an) sur les changement du contexte commun même en cas d'absence du lieu*                                                                   |    Non    |    Oui    |   Oui   |
+| D'être consulté et d'approuver tout changements aux droits détenues sans limites de temps                                                                              |    Non    |    Oui    |   Oui   |
+| De véto limité (6 mois ou 1 an) sur les changement du contexte commun même en cas d'absence du lieu (voir remarques transversales)                                     |    Non    |    Oui    |   Oui   |
 | De véto sur l'accès au rôles de résident-e ou d'arrimé-e                                                                                                               |    Non    |    Oui    |   Oui   |
 | De décision sur le budget                                                                                                                                              |    Non    |    Oui    |   Oui   |
 | De prendre ponctuellement des responsabilités sans engagement dans le temps                                                                                            |    Non    |    Oui    |   Non   |
@@ -207,14 +207,14 @@ Il y a trois rôle sur le lieu :
 
 ### Remarques transversales aux différents rôles
 
-- La période d'essai d'un·e résident·e est d'au moins 4 mois et est discutée plus en détail avec toutes les résident·es et arrimé·es. La période d'essai est initiée sur demande et nécéssite un accord unanime.
-- La période d'essai d'un·e arrimé-e est d'un an. Pendant cette période seuls les revenus de la personne sont mutualisés. La personne ne peut devenir arrimé·e tant que son filet de sécurité n'est pas constitué (par elle ou par le collectif) 
-- En cas d'injoignabilité, le ou la résident·e ou la ou le arrimé·e a deux semaines pour partager sa décision.
-- En cas d'opposition à une décision de la part d'un·e résident·e ou d'un·e visiteuse·eurs un report de la décision a lieu. Cette échéance est maintenue tant que l'opposition existe. 
-- En cas d'opposition de résident·e(s), à la fin de l'échéance, la décision est reprise sans que leur accord soit nécessaire. Cette échéance a comme objectifs de permettre le temps de pousuivre les échanges tant collectifs qu'interpersonnels et de laisser le temps de se préparer à la mise en place de telle ou telle décision.
-- En cas d'opposition de résident·e(s), la décision est reportée à un an si il y a unanimité ou au moins trois résident-es s'opposent. Dans le cas oú un·e seul·e résident·es s'oppose, ou dans tout autre cas, la décision est reportée à six mois. 
-- Les motifs de refus d'accès au rôle, étayés si possible d'exemple et de pistes, doivent être communiqués aux personnes concernées.
-- Les réunions concernant la stratégie à long terme ou tout autre sujet propre aux arrimé·es mais concernant le contexte commun ne peuvent exclure la présence des résident·es.
+1. La période d'essai d'un·e résident·e est d'au moins 4 mois et est discutée plus en détail avec toutes les résident·es et arrimé·es. La période d'essai est initiée sur demande et nécéssite un accord unanime.
+2. La période d'essai d'un·e arrimé-e est d'un an. Pendant cette période seuls les revenus de la personne sont mutualisés. La personne ne peut devenir arrimé·e tant que son filet de sécurité n'est pas constitué (par elle ou par le collectif) 
+3. En cas d'injoignabilité, le ou la résident·e ou la ou le arrimé·e a deux semaines pour partager sa décision.
+4. En cas d'opposition à une décision de la part d'un·e résident·e ou d'un·e visiteuse·eurs un report de la décision a lieu. Cette échéance est maintenue tant que l'opposition existe. 
+5. En cas d'opposition de résident·e(s), à la fin de l'échéance, la décision est reprise sans que leur accord soit nécessaire. Cette échéance a comme objectifs de permettre le temps de pousuivre les échanges tant collectifs qu'interpersonnels et de laisser le temps de se préparer à la mise en place de telle ou telle décision
+6. En cas d'opposition de résident·e(s), la décision est reportée à un an si il y a unanimité ou au moins trois résident-es s'opposent. Dans le cas oú un·e seul·e résident·es s'oppose, ou dans tout autre cas, la décision est reportée à six mois. 
+7. Les motifs de refus d'accès au rôle, étayés si possible d'exemple et de pistes, doivent être communiqués aux personnes concernées.
+8. Les réunions concernant la stratégie à long terme ou tout autre sujet propre aux arrimé·es mais concernant le contexte commun ne peuvent exclure la présence des résident·es.
 
 ## Investissement
 Toute personne résidente sur le lieu accepte que les dépenses liées au lieu n’ont aucune garantie d'être restituées. Le terrain et l’immobilier relèvent de sa responsabilité, ainsi, les autres résident·es ne peuvent garantir l’achat ou la vente du bien. 
