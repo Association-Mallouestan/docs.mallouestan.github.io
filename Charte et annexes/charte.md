@@ -90,12 +90,17 @@ Nous sommes conscient·es que nous sommes des êtres de nature imparfaite. Nous 
 
 1. Les problèmes motivant cette procédure sont partagés par le comité avec les protagonistes. Le comité exprimes ses attentes et besoins donnant également l'occasion aux protagonistes de les adresser et aussi d'exprimer leurs besoins et attentes à l'égard du collectif
 2. Le comité se concerte pour former, si juger nécessaire, une réquisition (la liste d'ultimatums) basé sur des points explicité dans cette charte
-3. Cette réquisition est ensuite partagé avec les protagonistes qui ont l'occasion de les adresser
+3. Cette réquisition est ensuite partagé avec les protagonistes qui ont l'occasion de l'adresser
 4. Suite à cet échange le comité délibère et délivre ses conclusion et ultimatums finales. Le processus recommence à l'étape 3 avec une nouvelle requisition dans le cas où le comité souhaite rajouter des ultimatums ou changer les conditions de ceux présenté à l'étape précédente.
 
 > Les ultimatums sont donné au moment de la requisition avec des conditions et des conséquences liées à leurs non-respect. 
 
 > Les protagonistes peuvent être représenter ou accompagner par toute autre personne du lieu lors de ces procédures
+
+Les sanctions suite à un non respect d'un ultimatums peuvent êtres:
+- Rétrogradation de rôle
+- Bannissement temporaire ou définitive du lieu
+- Travaux obligatoire pour le collectif
 
 ## Ultimatums 
 Plusieurs ultimatums exceptionnels sont de facto définis pour toutes les membres du lieu: 
