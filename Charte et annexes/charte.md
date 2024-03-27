@@ -19,7 +19,7 @@ Nos positions et valeurs ne sont pas dépendantes d'une romantisation du passé 
 
 ## Objectifs
 Nous sommes conscient·es que beaucoup des valeurs et des objectifs ci-dessous sont difficilement atteignables. De ce fait, nous les listons humblement en acceptant que chacun·e, sur le lieu, ne peut qu’y tendre. 
-1. Créer une résilience/indépendance commune vis-à-vis du capitalisme et de la société de consommation notamment mais non limité à :
+1. Créer une résilience/indépendance commune vis-à-vis du capitalisme, de la société extractiviste, thermo-industrielle, techno-solutionistes et de la société de consommation notamment mais non limité à :
 	- L'autonomie en fruits et légumes,
 	- L'autonomie vis-à-vis des énergies fossiles,
 	- L'autonomie en méthodes et matériaux de construction,
@@ -52,7 +52,8 @@ Nous sommes conscient·es que chacun·e est déconstruit·e à des niveaux varia
 8. Les aliments provenant du système de catégorie Nova 3 et de score nutritionnel inférieur à "C" ne sont pas tolérés au sein des espaces communs et partagés ;
 9. L'alcool, la nicotine, les drogues et autres substances non-alimentaires addictives ne sont pas tolérés au sein des espaces communs et partagés ;
 10. Tout état d'ébriété ou état sous influence (hors contexte médicale) n'est pas toléré lors des événements ponctuels ou durant les moments partagés du quotidien.
-11. Tout comportement visant activement à nuire à l'association n'est pas toléré
+11. Que l'usage de nos infrastructures collective (solaire, internet, eau) soit limité à un cadre de nécessité (administrative, médicale, scolaire ou académique, activités associative/professionnelle ponctuel). Les jeux vidéo, le streaming, le scrolling ou tout autre usage intense de ces infrastructures hors nécessité n'est pas tolérer.
+12. Tout comportement visant activement à nuire à l'association n'est pas toléré
 
 > Les prérequis concernant les espaces communs et partagés, soit le 7, 8 et 9, s'appliquent également à la zone de camping et au parking. Les véhicules aménagés ne sont pas concernés par ces prérequis tant que la consommation se fait à l'intérieur.
 
