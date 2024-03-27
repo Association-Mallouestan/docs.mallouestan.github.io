@@ -151,7 +151,7 @@ Les décisions sont prises collectivement au moment de plannification pour chaqu
 ### Gestion financière
 Certains frais dépendent de la vie commune. Un pot commun est donc mis à disposition pour que chacun·e participe selon ses moyens.
 
-Les divers dons sont ajoutés au pot commun. Lors des réunions, l'argent présent dans le pot commun est réparti entre les frais liés aux animaux, les frais de l'écolieu ainsi que les frais pour les courses de la semaine à venir. 
+Les divers dons sont ajoutés au pot commun. L'argent présent dans le pot commun est réparti entre les frais liés aux animaux, les frais de l'écolieu ainsi que les frais pour les courses de la semaine à venir. 
 
 > Un budget est défini collectivement sur le lieu couvrant tous les frais nécessaires et collectifs.
 
