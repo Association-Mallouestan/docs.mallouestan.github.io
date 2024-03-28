@@ -181,7 +181,7 @@ Il y a trois rôle sur le lieu :
 
 | Responsabilité                                                                                                                                                                                                                                                       | Visiteuse | Résidente | Arrimée |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :-------: | :-----: |
-| Garant de ses actes et gestes sur le lieu. Il ou elle est la·e garant de son quotidien e de sa communication avec l'ensemble du collectif.                                                                                                                           |    Oui    |    Oui    |   Oui   |
+| Garant de ses actes et gestes sur le lieu. Il ou elle est la·e garant de son quotidien et de sa communication avec l'ensemble du collectif.                                                                                                                          |    Oui    |    Oui    |   Oui   |
 | Responsable de l'entretien (nettoyage, changer une ampoule ...) des locaux et de tout équipement qu'il ou elle utilise sur le lieu, dans la limite de ses capacités, dans le cas contraire il ou elle doit notifier l'ensemble du collectif.                         |    Oui    |    Oui    |   Oui   |
 | De tout faire pour ne pas représenter une charge financière ou de travail pour le reste du collectif                                                                                                                                                                 |    Oui    |    Oui    |   Oui   |
 | De garantir le respect, par toustes, de la charte. Pour éviter un contexte de délation, seules les situations interpersonnelles, où le bien-être d'une autre personne du lieu serait en jeu, oblige une intervention ou une notification de l'ensemble du collectif. |    Oui    |    Oui    |   Non   |
@@ -202,9 +202,9 @@ Il y a trois rôle sur le lieu :
 | D'égalité d'opportunités à l'égard des activités du lieu                                                                                                               |    Oui    |    Oui    |   Oui   |
 | Jouir d'un espace personnel                                                                                                                                            |    Non    |    Oui    |   Oui   |
 | D'être consulté et d'approuver tout changements aux droits détenues sans limites de temps                                                                              |    Non    |    Oui    |   Oui   |
-| De véto limité (6 mois ou 1 an) sur les changement du contexte commun même en cas d'absence du lieu (voir remarques transversales)                                     |    Non    |    Oui    |   Oui   |
 | De véto sur l'accès au rôles de résident-e ou d'arrimé-e                                                                                                               |    Non    |    Oui    |   Oui   |
 | De décision sur le budget                                                                                                                                              |    Non    |    Oui    |   Oui   |
+| De véto limité (6 mois ou 1 an) sur les changement du contexte commun même en cas d'absence du lieu (voir remarques transversales)                                     |    Non    |    Oui    |   Non   |
 | De prendre ponctuellement des responsabilités sans engagement dans le temps                                                                                            |    Non    |    Oui    |   Non   |
 | D'être considéré·e comme concerné·e par les changements du contexte commun ou les exceptions à la charte même en cas d'absence sur le lieu non plafonné dans le temps. |    Non    |    Non    |   Oui   |
 | De prendre des décisions sur les priorités notamment au travers des pôles                                                                                              |    Non    |    Non    |   Oui   |
@@ -213,7 +213,7 @@ Il y a trois rôle sur le lieu :
 
 ### Remarques transversales aux différents rôles
 
-1. La période d'essai d'un·e résident·e est d'au moins 4 mois et est discutée plus en détail avec toutes les résident·es et arrimé·es. La période d'essai est initiée sur demande et nécéssite un accord unanime.
+1. La période d'essai d'un·e résident·e est d'au moins 4 mois et est discutée plus en détail avec toutes les résident·es et arrimé·es. La période d'essai est initiée sur demande et nécessité un accord unanime.
 2. La période d'essai d'un·e arrimé-e est d'un an. Pendant cette période seuls les revenus de la personne sont mutualisés. La personne ne peut devenir arrimé·e tant que son filet de sécurité n'est pas constitué (par elle ou par le collectif) 
 3. En cas d'injoignabilité, le ou la résident·e ou la ou le arrimé·e a deux semaines pour partager sa décision.
 4. En cas d'opposition à une décision de la part d'un·e résident·e ou d'un·e visiteuse·eurs un report de la décision a lieu. Cette échéance est maintenue tant que l'opposition existe. 
