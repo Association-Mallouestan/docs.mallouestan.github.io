@@ -50,7 +50,7 @@ Nous sommes conscient·es que chacun·e est déconstruit·e à des niveaux varia
 6. Un minimum de communication active (initiée par la personne détenant l'information) comme défini à la section "Communication sur le lieu" ; 
 7. Les aliments provenant du système de catégorie Nova 4 (https://fr.openfoodfacts.org/nova) ne sont pas tolérés au sein des espaces communs et partagés ;
 8. Les aliments provenant du système de catégorie Nova 3 et de score nutritionnel inférieur à "C" ne sont pas tolérés au sein des espaces communs et partagés ;
-9. L'alcool, la nicotine, les drogues et autres substances non-alimentaires addictives ne sont pas tolérés au sein des espaces communs et partagés ;
+9. L'alcool, la nicotine, les drogues et autres substances non-alimentaires addictives ne sont pas tolérés au sein des espaces communs et partagés ; Il n'est pas tolérer non plus que la consommation de ces produits soit activement encouragé sur le lieu.
 10. Tout état d'ébriété ou état sous influence (hors contexte médicale) n'est pas toléré lors des événements ponctuels ou durant les moments partagés du quotidien.
 11. Que l'usage de nos infrastructures collective (solaire, internet, eau) soit limité à un cadre de nécessité (administrative, médicale, scolaire ou académique, activités associative/professionnelle ponctuel). Les jeux vidéo, le streaming, le scrolling ou tout autre usage intense de ces infrastructures hors nécessité n'est pas tolérer.
 12. Tout comportement visant activement à nuire à l'association n'est pas toléré
