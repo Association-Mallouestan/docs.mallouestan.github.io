@@ -227,7 +227,7 @@ Toute personne résidente sur le lieu accepte que les dépenses liées au lieu n
 
 > Chaque résident·e est invité·e, en cas de départ d’un·e résident·e ou membres, d’aider en fonction de ses moyens la personne qui part.
 ## Mutualisation des ressources
-Les personnes arrimées ont comme devoir la mutualisation de leurs ressources ce qui comprend leurs ressources financières et leur patrimoine. Ainsi, si l'un·e des arrimé-es quitte le statut arrimé·e ou est exclu·e des arrimé·es, ce qui a été mutualisé ne peut être repris. Pour éviter une dépendance au collectif plusieurs sécurités sont les en œuvre:
+Les personnes arrimées ont comme devoir la mutualisation de leurs ressources ce qui comprend leurs ressources financières (capital financier) et leur patrimoine. Ainsi, si l'un·e des arrimé-es quitte le statut arrimé·e ou est exclu·e des arrimé·es, ce qui a été mutualisé ne peut être repris. Pour éviter une dépendance au collectif plusieurs sécurités sont mis en place:
 1. Une somme d'argent hebdomadaire est allouée à chaque arrimé·e dont l'usage est à leur discrétion
 2. Une filet de sécurité est prérequis pour devenir arrimé-e. Ce filet à comme objectif de permette à tout moment à la personne le détenant de partir du lieu. Ce filet de sécurité est variable ( nous n'avons pas tous-tes le même capital social, familial, culturel... ) et est demandé par chaque candidat au rôle d'arrimé-e.
 3. Certains besoins sont considérés comme ubiquitaires tels que l'abonnement du téléphone mobile, les frais médicaux, frais bancaire, individus à charges et maintenance des vélos. Ils sont donc pris en charge par la mutualisation.
