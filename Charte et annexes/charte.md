@@ -50,9 +50,9 @@ Nous sommes conscient·es que chacun·e est déconstruit·e à des niveaux varia
 6. Un minimum de communication active (initiée par la personne détenant l'information) comme défini à la section "Communication sur le lieu" ; 
 7. Les aliments provenant du système de catégorie Nova 4 (https://fr.openfoodfacts.org/nova) ne sont pas tolérés au sein des espaces communs et partagés ;
 8. Les aliments provenant du système de catégorie Nova 3 et de score nutritionnel inférieur à "C" ne sont pas tolérés au sein des espaces communs et partagés ;
-9. L'alcool, la nicotine, les drogues et autres substances non-alimentaires addictives ne sont pas tolérés au sein des espaces communs et partagés ; Il n'est pas tolérer non plus que la consommation de ces produits soit activement encouragé sur le lieu.
+9. L'alcool, la nicotine, les drogues et autres substances non-alimentaires addictives ne sont pas tolérées au sein des espaces communs et partagés ; Il n'est pas toléré non plus que la consommation de ces produits soit activement encouragé sur le lieu.
 10. Tout état d'ébriété ou état sous influence (hors contexte médicale) n'est pas toléré lors des événements ponctuels ou durant les moments partagés du quotidien.
-11. Que l'usage de nos infrastructures collective (solaire, internet, eau) soit limité à un cadre de nécessité (administrative, médicale, scolaire ou académique, activités associative/professionnelle ponctuel). Les jeux vidéo, le streaming, le scrolling ou tout autre usage intense de ces infrastructures hors nécessité n'est pas tolérer.
+11. Que l'usage de nos infrastructures collectives (solaire, internet, eau) soit limité à un cadre de nécessité (administrative, médicale, scolaire ou académique, activités associative/professionnelle ponctuel). Les jeux vidéo, le streaming, le scrolling ou tout autre usage intense de ces infrastructures hors nécessité n'est pas toléré.
 12. Tout comportement visant activement à nuire à l'association n'est pas toléré
 
 > Les prérequis concernant les espaces communs et partagés, soit le 7, 8 et 9, s'appliquent également à la zone de camping et au parking. Les véhicules aménagés ne sont pas concernés par ces prérequis tant que la consommation se fait à l'intérieur.
@@ -82,26 +82,26 @@ Nous sommes conscient·es que nous sommes des êtres de nature imparfaite. Nous 
 
 ### Procédure de cadrage de conflit
 
-1. Dans le cas d'un conflit, les comportements ou mécanismes doivent être adressée aux protagonistes au plus vite une fois qu'elle sont identifiés comme problématique 
-2. En cas de réitération de ces comportements une gestion de conflit collective peut être lancé
-3. Les arrimé-es et résidentes (hors personnes visée par la procédure) se concertent pour essayer de trouver des solutions comme mais non limité à l'articulation des besoins du collectifs a l'égard des protagonistes
-4. Ce comité peut initié une procédure de sanctions impliquant la mise en place d' ultimatums
+1. Dans le cas d'un conflit, les comportements ou mécanismes doivent être adressés aux protagonistes au plus vite une fois qu'ils sont identifiés comme problématiques
+2. En cas de réitération de ces comportements une gestion de conflit collective peut être lancée
+3. Les arrimé-es et résidentes (hors personnes visée par la procédure) se concertent pour essayer de trouver des solutions comme, mais non limité à, l'articulation des besoins du collectif à l'égard des protagonistes
+4. Ce comité peut initier une procédure de sanctions impliquant la mise en place d' ultimatums
 
 ### Procédure de sanctions
 
-1. Les problèmes motivant cette procédure sont partagés par le comité avec les protagonistes. Le comité exprimes ses attentes et besoins donnant également l'occasion aux protagonistes de les adresser et aussi d'exprimer leurs besoins et attentes à l'égard du collectif
-2. Le comité se concerte pour former, si juger nécessaire, une réquisition (la liste d'ultimatums) basé sur des points explicité dans cette charte
-3. Cette réquisition est ensuite partagé avec les protagonistes qui ont l'occasion de l'adresser
-4. Suite à cet échange le comité délibère et délivre ses conclusion et ultimatums finales. Le processus recommence à l'étape 3 avec une nouvelle requisition dans le cas où le comité souhaite rajouter des ultimatums ou changer les conditions de ceux présenté à l'étape précédente.
+1. Les problèmes motivant cette procédure sont partagés par le comité avec les protagonistes. Le comité exprime ses attentes et besoins donnant également l'occasion aux protagonistes de les adresser et aussi d'exprimer leurs besoins et attentes à l'égard du collectif
+2. Le comité se concerte pour former, si juger nécessaire, une réquisition (la liste d'ultimatums) basé sur des points explicités dans cette charte
+3. Cette réquisition est ensuite partagée avec les protagonistes qui ont l'occasion de l'adresser
+4. Suite à cet échange le comité délibère et délivre ses conclusions et ultimatums finales. Le processus recommence à l'étape 3 avec une nouvelle réquisition dans le cas où le comité souhaite rajouter des ultimatums ou changer les conditions de ceux présenté à l'étape précédente.
 
-> Les ultimatums sont donné au moment de la requisition avec des conditions et des conséquences liées à leurs non-respect. 
+> Les ultimatums sont donnés au moment de la réquisition avec des conditions et des conséquences liées à leur non-respect. 
 
-> Les protagonistes peuvent être représenter ou accompagner par toute autre personne du lieu lors de ces procédures
+> Les protagonistes peuvent être représenté ou accompagnés par toute autre personne du lieu lors de ces procédures
 
-Les sanctions suite à un non respect d'un ultimatums peuvent êtres:
+Les sanctions suite à un non-respect d'un ultimatum peuvent être:
 - Rétrogradation de rôle
 - Bannissement temporaire ou définitive du lieu
-- Travaux obligatoire pour le collectif
+- Travaux obligatoires pour le collectif
 
 ## Ultimatums 
 Plusieurs ultimatums exceptionnels sont de facto définis pour toutes les membres du lieu: 
@@ -186,19 +186,17 @@ Il y a trois rôle sur le lieu :
 | De tout faire pour ne pas représenter une charge financière ou de travail pour le reste du collectif                                                                                                                                                                 |    Oui    |    Oui    |   Oui   |
 | De garantir le respect, par toustes, de la charte. Pour éviter un contexte de délation, seules les situations interpersonnelles, où le bien-être d'une autre personne du lieu serait en jeu, oblige une intervention ou une notification de l'ensemble du collectif. |    Oui    |    Oui    |   Non   |
 | De s'assurer au quotidien que les besoins des animaux non-humains sont satisfaits                                                                                                                                                                                    |    Non    |    Non    |   Oui   |
-| De s'assurer au quotidien que les besoins des animaux non-humains sont satisfaits <br>                                                                                                                                                                               |    Non    |    Non    |   Oui   |
 | De fournir aux visiteuse·eurs les ressources nécessaires le temps de leur séjour<br>                                                                                                                                                                                 |    Non    |    Non    |   Oui   |
 | De garantir le respect de la charte et d'intervenir ou solutionner des potentiels problèmes.                                                                                                                                                                         |    Non    |    Non    |   Oui   |
 | De s'assurer de la présence d'au moins un·e arrimé·e sur le lieu<br>                                                                                                                                                                                                 |    Non    |    Non    |   Oui   |
 | De mutualiser ses ressources (comme précisé à la section mutualisation des ressources)                                                                                                                                                                               |    Non    |    Non    |   Oui   |
 | De s'assurer de la présence d'au moin un·e arrimé·e sur le lieu la nuit, au moment des tâches concernant les non humains.                                                                                                                                            |    Non    |    Non    |   Oui   |
 
-
 ### Droits des différents rôles et personnes 
 
 | Droits                                                                                                                                                                 | Visiteuse | Résidente | Arrimée |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :-------: | :-----: |
-| De véto limité (1 mois) sur le contexte commun (voir remarques transversales)                                                                                          |    Oui    |    Oui    |   Oui   |
+| De véto limité (1 mois) sur le contexte commun (voir remarques transversales)                                                                                          |    Oui    |    Non    |   Non   |
 | D'égalité d'opportunités à l'égard des activités du lieu                                                                                                               |    Oui    |    Oui    |   Oui   |
 | Jouir d'un espace personnel                                                                                                                                            |    Non    |    Oui    |   Oui   |
 | D'être consulté et d'approuver tout changements aux droits détenues sans limites de temps                                                                              |    Non    |    Oui    |   Oui   |
