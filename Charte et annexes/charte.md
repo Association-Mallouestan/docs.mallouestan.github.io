@@ -238,8 +238,9 @@ En vue de la taille et des ressources à disposition, certaines limites et certa
 
 ## Textes et annexes
 - [Explications sur l'autonomie](../Philosophie/Autonomie)
-- [Explications sur le rapport au comfort](../Philosophie/Comfort)
+- [Explications sur le rapport au confort](../Philosophie/Confort)
 - [Explications sur notre opposition au libéralisme](../Philosophie/Anti-liberalisme)
+- [Notre vision de l'anarchisme et des hiérarchies](../Philosophie/hierarchies.md)
 
 ## Notes 
 
