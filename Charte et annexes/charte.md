@@ -19,7 +19,7 @@ Nos positions et valeurs ne sont pas dépendantes d'une romantisation du passé 
 
 ## Objectifs
 Nous sommes conscient·es que beaucoup des valeurs et des objectifs ci-dessous sont difficilement atteignables. De ce fait, nous les listons humblement en acceptant que chacun·e, sur le lieu, ne peut qu’y tendre. 
-1. Créer une résilience/indépendance commune vis-à-vis du capitalisme, de la société extractiviste, thermo-industrielle, techno-solutioniste et de la société de consommation notamment mais non limité à :
+1. Créer une résilience/indépendance commune vis-à-vis du capitalisme, de la société extractiviste, thermo-industrielle, techno-solutionniste et de la société de consommation notamment mais non limité à :
 	- L'autonomie en fruits et légumes,
 	- L'autonomie vis-à-vis des énergies fossiles,
 	- L'autonomie en méthodes et matériaux de construction,
@@ -28,8 +28,8 @@ Nous sommes conscient·es que beaucoup des valeurs et des objectifs ci-dessous s
 	- L'autonomie vis-à-vis des technologies complexes<sup>3</sup>.
 2. Assurer la pérennité du sanctuaire pour les animaux non-humains ;  
 3. Diminuer notre impact écologique ainsi que notre impact sur les écosystèmes avoisinants ; 
-4. Les santés corporelle et émotionnelle sont, pour nous, essentielles à une vie collective autonome et saine. Nous cherchons donc à développer une écoute de soi fine et une conscience de son corp efficace pour tendre vers une résilience quotidienne de l'individu au sein du collectif. Celle-ci a pour but de minimiser les blessures, la fatigue et le mal-être ;
-5. Tendre, sur le lieu, vers une abolition au sens général des hiérarchies non légitimes et des rapports de force non nécessairse. 
+4. Les santés corporelle et émotionnelle sont, pour nous, essentielles à une vie collective autonome et saine. Nous cherchons donc à développer une écoute de soi fine et une conscience de son corps efficace pour tendre vers une résilience quotidienne de l'individu au sein du collectif. Celle-ci a pour but de minimiser les blessures, la fatigue et le mal-être ;
+5. Tendre, sur le lieu, vers une abolition au sens général des hiérarchies non légitimes et des rapports de force non nécessaire. 
 6. Déconstruire les comportements systémiques, institutionnalisés et oppressifs, notamment les comportements issus du patriarcat, du racisme, du capacitisme, et de l'âgisme ;
 7. Minimiser la priorisation des intérêts d’une espèce sur une autre ;
 8. Partager nos ressources et privilèges dans une optique de solidarité et d'inclusion ;
@@ -43,8 +43,8 @@ Nous sommes conscient·es que chacun·e est déconstruit·e à des niveaux varia
 	- les discours prônant la violence à l'égard d'autres êtres sentients ;
 	- Le non-respect de la liberté de chacun-e de clore toute situation sociale qu'elle trouve inconfortable ;   
 	- Toute entrave à l'agentivité (la capacité d'agir et de façon autonome) d'un individu, le non-respect de l'individualité (le fait qu'un individu possède des caractéristiques qui le rendent tel qu'il ne puisse être confondu avec un autre être), ou le non respect de l'autonomie corporelle (le droit de prendre ses propres décisions pour son corps et son avenir) ;
-2. Aucune consommation, achat ou promotion de produits d’origine animale (chair, lait, œufs, miel, cuir, laine...) et aucune promotion d'activités liées à l'exploitation animale (équitation, agility, cirque, traction animale, collaboration animale...). Tous les sujets peuvent évidemment être abordés, mais ils doivent être traités en tant qu'idée et non comme des vérités universelles ;
-3. Aucune promotion de religions ou de spiritualités ésotériques telles que les soins énergétiques, l'anthroposophie, la biodynamie, l'astrologie, la sorcellerie, le chamanisme, etc. Tous les sujets peuvent évidemment être abordés, mais ils doivent être traités en tant qu'idée et non comme des vérités universelles ;
+2. Aucune consommation, achat ou promotion de produits d’origine animale (chair, lait, œufs, miel, cuir, laine...) et aucune promotion d'activités liées à l'exploitation animale (équitation, agility, cirque, traction animale, collaboration animale...). Tous les sujets peuvent évidemment être abordés, mais ils doivent être traités en tant qu'idées et non comme des vérités universelles ;
+3. Aucune promotion de religions ou de spiritualités ésotériques telles que les soins énergétiques, l'anthroposophie, la biodynamie, l'astrologie, la sorcellerie, le chamanisme, etc. Tous les sujets peuvent évidemment être abordés, mais ils doivent être traités en tant qu'idées et non comme des vérités universelles ;
 4. Le respect des espaces et de leurs signalisations ;
 5. Le respect des animaux comme explicité à l'annexe "Animaux non autonomes" ;
 6. Un minimum de communication active (initiée par la personne détenant l'information) comme défini à la section "Communication sur le lieu" ; 
@@ -85,7 +85,7 @@ Nous sommes conscient·es que nous sommes des êtres de nature imparfaite. Nous 
 1. Dans le cas d'un conflit, les comportements ou mécanismes doivent être adressés aux protagonistes au plus vite une fois qu'ils sont identifiés comme problématiques
 2. En cas de réitération de ces comportements une gestion de conflit collective peut être lancée
 3. Les arrimé-es et résidentes (hors personnes visée par la procédure) se concertent pour essayer de trouver des solutions comme, mais non limité à, l'articulation des besoins du collectif à l'égard des protagonistes
-4. Ce comité peut initier une procédure de sanctions impliquant la mise en place d'ultimatums
+4. Ce comité peut initier une procédure de sanctions pouvant impliquant la mise en place d'ultimatums
 
 ### Procédure de sanctions
 
@@ -96,12 +96,12 @@ Nous sommes conscient·es que nous sommes des êtres de nature imparfaite. Nous 
 
 > Les ultimatums sont donnés au moment de la réquisition avec des conditions et des conséquences liées à leur non-respect. 
 
-> Les protagonistes peuvent être représentés ou accompagnés par toute autre personne du lieu lors de ces procédures
+> Les protagonistes peuvent être représentés ou accompagnés par toute autre personne du lieu le voulant lors de ces procédures
 
 Les sanctions suite à un non-respect d'un ultimatum peuvent être:
 - Rétrogradation de rôle
 - Bannissement temporaire ou définitive du lieu
-- Travaux obligatoires pour le collectif
+- Travaux obligatoires pour le collectif (exemples: en cas de dégâts occasionnés ou de non participation à certaines tâches collectives)
 
 ## Ultimatums 
 Plusieurs ultimatums exceptionnels sont de facto définis pour tous les membres du lieu: 
@@ -116,7 +116,7 @@ Les événements ponctuels ou quotidiens qui sont destinés à être collectifs 
 
 > Exemple: Pour les repas, prévenir toutes les personne du lieu
 
-La communication est intrinsèquement complexe et varie en fonctions des individues. Il est important de s'adapter au mieux à ces différences, que ce soit à l'oral, par écrit ou autrement. Malgré cela, une communication minimale active (initiée par la personne détenant l'information) est nécessaire en ce qui concerne le contexte commun et la vie quotidienne collective du lieu. Nous demandons donc une communication claire sur les points suivants :
+La communication est intrinsèquement complexe et varie en fonction des individus. Il est important de s'adapter au mieux à ces différences, que ce soit à l'oral, par écrit ou autrement. Malgré cela, une communication minimale active (initiée par la personne détenant l'information) est nécessaire en ce qui concerne le contexte commun et la vie quotidienne collective du lieu. Nous demandons donc une communication claire sur les points suivants :
 
 - Ce qui relève des responsabilités des référent·es techniques
 - Les tâches quotidiennes, hebdomadaires et les chantiers
@@ -167,7 +167,7 @@ Les fonds suivants sont disponibles sur le lieu et sont encadrés par l'annexe "
 Dans le contexte d'accueil et d'hébergement, en dehors des dortoirs, nous mettons à disposition des espaces qui dans le cas où ils ne sont pas partagés avec d'autres groupes deviennent de facto des espaces personnels. 
 
 ## Communication extérieure
-Toute communication au nom du Mallouestan se doit d'être en accord avec cette charte et ne doit qu'exprimer des positions politiques, militant·es ou philosophiques présentes dans cette charte (anarchisme, antispécisme...). Toute prise de position du communicant non présente dans cette charte ne doit pas être exprimée au nom du Mallouestan.
+Toute communication au nom du Mallouestan se doit d'être en accord avec cette charte, et ses annexes, et ne doit qu'exprimer des positions politiques, militantes ou philosophiques présentes dans cette charte (anarchisme, antispécisme...). Toute prise de position du communicant non présente dans cette charte ne doit pas être exprimée au nom du Mallouestan.
 
 ## Rôles et responsabilités
 Dans une optique de minimisation de pouvoir sur le lieu, les rôles suivants sont définis pour permettre à chacun·e de mieux appréhender leurs responsabilités et devoirs.
@@ -184,13 +184,13 @@ Il y a trois rôle sur le lieu :
 | Garant de ses actes et gestes sur le lieu. Il ou elle est la·e garant de son quotidien et de sa communication avec l'ensemble du collectif.                                                                                                                          |    Oui    |    Oui    |   Oui   |
 | Responsable de l'entretien (nettoyage, changer une ampoule ...) des locaux et de tout équipement qu'il ou elle utilise sur le lieu, dans la limite de ses capacités, dans le cas contraire il ou elle doit notifier l'ensemble du collectif.                         |    Oui    |    Oui    |   Oui   |
 | De tout faire pour ne pas représenter une charge financière ou de travail pour le reste du collectif                                                                                                                                                                 |    Oui    |    Oui    |   Oui   |
-| De garantir le respect, par toustes, de la charte. Pour éviter un contexte de délation, seules les situations interpersonnelles, où le bien-être d'une autre personne du lieu serait en jeu, oblige une intervention ou une notification de l'ensemble du collectif. |    Oui    |    Oui    |   Non   |
+| De respecter la charte. | Oui | Oui | Non |
+| De notifier le collectif si des situations où le bien-être d'une autre personne du lieu serait en jeu |    Oui    |    Oui    |   Oui   |
 | De s'assurer au quotidien que les besoins des animaux non-humains sont satisfaits                                                                                                                                                                                    |    Non    |    Non    |   Oui   |
 | De fournir aux visiteuse·eurs les ressources nécessaires le temps de leur séjour<br>                                                                                                                                                                                 |    Non    |    Non    |   Oui   |
 | De garantir le respect de la charte et d'intervenir ou solutionner des potentiels problèmes.                                                                                                                                                                         |    Non    |    Non    |   Oui   |
-| De s'assurer de la présence d'au moins un·e arrimé·e sur le lieu<br>                                                                                                                                                                                                 |    Non    |    Non    |   Oui   |
 | De mutualiser ses ressources (comme précisé à la section mutualisation des ressources)                                                                                                                                                                               |    Non    |    Non    |   Oui   |
-| De s'assurer de la présence d'au moin un·e arrimé·e sur le lieu la nuit, au moment des tâches concernant les non-humains.                                                                                                                                            |    Non    |    Non    |   Oui   |
+| De s'assurer de la présence d'au moin un·e arrimé·e sur le lieu la nuit et au moment des tâches concernant les non-humains.                                                                                                                                            |    Non    |    Non    |   Oui   |
 
 ### Droits des différents rôles et personnes 
 
@@ -199,11 +199,11 @@ Il y a trois rôle sur le lieu :
 | De véto limité (1 mois) sur le contexte commun (voir remarques transversales)                                                                                          |    Oui    |    Non    |   Non   |
 | D'égalité d'opportunités à l'égard des activités du lieu                                                                                                               |    Oui    |    Oui    |   Oui   |
 | Jouir d'un espace personnel                                                                                                                                            |    Non    |    Oui    |   Oui   |
-| D'être consulté et d'approuver tout changements aux droits détenus sans limites de temps                                                                              |    Non    |    Oui    |   Oui   |
+| D'être consulté et d'approuver tout changement aux droits détenus sans limites de temps                                                                              |    Non    |    Oui    |   Oui   |
 | De véto sur l'accès au rôles de résident-e ou d'arrimé-e                                                                                                               |    Non    |    Oui    |   Oui   |
 | De décision sur le budget                                                                                                                                              |    Non    |    Oui    |   Oui   |
-| De véto limité (6 mois ou 1 an) sur les changement du contexte commun même en cas d'absence du lieu (voir remarques transversales)                                     |    Non    |    Oui    |   Non   |
-| De prendre ponctuellement des responsabilités sans engagement dans le temps                                                                                            |    Non    |    Oui    |   Non   |
+| De véto limité (6 mois ou 1 an) sur les changements du contexte commun même en cas d'absence du lieu (voir remarques transversales)                                     |    Non    |    Oui    |   Non   |
+| De prendre ponctuellement des responsabilités sans engagement dans le temps                                                                                            |    Oui    |    Oui    |   Non   |
 | D'être considéré·e comme concerné·e par les changements du contexte commun ou les exceptions à la charte même en cas d'absence sur le lieu non plafonné dans le temps. |    Non    |    Non    |   Oui   |
 | De prendre des décisions sur les priorités notamment au travers des pôles                                                                                              |    Non    |    Non    |   Oui   |
 | Le droit de décision sur l'argent des pots réservés aux dépenses exceptionnelles                                                                                       |    Non    |    Non    |   Oui   |
