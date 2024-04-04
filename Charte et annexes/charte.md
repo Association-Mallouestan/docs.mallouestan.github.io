@@ -85,7 +85,7 @@ Nous sommes conscient·es que nous sommes des êtres de nature imparfaite. Nous 
 1. Dans le cas d'un conflit, les comportements ou mécanismes doivent être adressés aux protagonistes au plus vite une fois qu'ils sont identifiés comme problématiques
 2. En cas de réitération de ces comportements une gestion de conflit collective peut être lancée
 3. Les arrimé-es et résidentes (hors personnes visée par la procédure) se concertent pour essayer de trouver des solutions comme, mais non limité à, l'articulation des besoins du collectif à l'égard des protagonistes
-4. Ce comité peut initier une procédure de sanctions pouvant impliquant la mise en place d'ultimatums
+4. Ce comité peut initier une procédure de sanctions pouvant impliqué la mise en place d'ultimatums
 
 ### Procédure de sanctions
 
