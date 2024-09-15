@@ -162,8 +162,12 @@ Les fonds suivants sont disponibles sur le lieu et sont encadrés par l'annexe "
 3. Fond de secours du sanctuaire
 4. Fond de libération agraire
 5. Fond pour faune et flore sauvage
-### Mise à disposition d'espace
-Dans le contexte d'accueil et d'hébergement, en dehors des dortoirs, nous mettons à disposition des espaces qui dans le cas où ils ne sont pas partagés avec d'autres groupes deviennent de facto des espaces personnels. 
+### Mise à disposition d'espace personnel
+Dans le contexte d'accueil et d'hébergement, en dehors des dortoirs, nous pouvons mettre à disposition des espaces s'apparentant à des espaces personnels. Pour autant, les règles des espaces communs s'appliquent dans ces espaces sauf exception convenue avec le collectif en amont.
+
+Les travaux dits structurels sont à la responsabilité du groupe tandis que les travaux mineurs tels que décoratifs à l'intérieur (peinture, revêtement de sol amovible, etc.) ou le fauchage sont à la responsabilité de l'occupant-e.
+
+Lorsque des occupant-es quitte définitivement l'espace mis à leur disposition iels doivent s'assurer qu'iels laissent l'espace dans un état propre, salubre et rangé. Iels doivent signaler au collectif toute chose qui pourrait compromettre ou déranger l'installation d'une nouvelle personne. Un membre du groupe (arrimé-e ou résident-e) fera une visite de l'espace au moment du départ des occupant-es. 
 
 ## Communication extérieure
 Toute communication au nom du Mallouestan se doit d'être en accord avec cette charte et ne doit qu'exprimer des positions politiques, militant·es ou philosophiques présentes dans cette charte (anarchisme, antispécisme...). Toute prise de position du communicant non présente dans cette charte ne doit pas être exprimée au nom du Mallouestan.
