@@ -49,19 +49,15 @@ Nous sommes conscient·es que chacun·e est déconstruit·e à des niveaux varia
 5. Le respect des animaux comme explicité à l'annexe "Animaux non autonomes" ;
 6. Un minimum de communication active (initiée par la personne détenant l'information) comme défini à la section "Communication sur le lieu" ; 
 7. Les aliments suivants ne sont pas tolérés au sein des espaces communs et partagés : Nova 4 ; Nova 3 de score nutritionnel D ou E. (Système de catégories https://fr.openfoodfacts.org/nova).
-8. L'alcool, la nicotine, les drogues et autres substances non-alimentaires addictives ne sont pas tolérées; Il n'est pas toléré non plus que la consommation de ces produits soit activement encouragé sur le lieu.
+8. L'alcool, la nicotine, les drogues et autres substances (hors: alimentaires ou médicales) addictives ne sont pas tolérées; Il n'est pas toléré non plus que la consommation de ces produits soit activement encouragé sur le lieu.
 9. La consommation d'énergie fossile (gaz, pétrole, charbon, etc.) est prohibée (hors briquet).
 10. Tout état d'ébriété ou état sous influence (hors contexte médical) n'est pas toléré lors des événements ponctuels ou durant les moments partagés du quotidien.
 11. Que l'usage de nos infrastructures collectives (solaire, internet, eau) soit limité à un cadre de nécessité (administrative, médicale, scolaire ou académique, activité associative/professionnelle ponctuelle). Les jeux vidéos, le streaming, le scrolling ou tout autre usage intense de ces infrastructures hors nécessité n'est pas toléré.
 12. Tout comportement visant activement à nuire à l'association n'est pas toléré
 
-> Les prérequis concernant les espaces communs et partagés, soit le 7, 8 et 9, s'appliquent également à la zone de camping et au parking. Les véhicules aménagés ne sont pas concernés par ces prérequis tant que la consommation se fait à l'intérieur.
-
 > Ces restrictions ne sont pas le reflet de jugements moraux sur des individus qui, en dehors du lieu, ne les respecteraient pas. Ces restrictions sont limitées au contexte que nous créons et n'ont aucune prétention au delà.  
 
 > Ces restrictions ne doivent pas être utilisées à quelques fins que ce soit à l'égard d'individus qui ne les respecteraient pas dans leurs espaces personnels. 
-
-> Ces restrictions ne concernent pas les produits nécessaires pour la santé (par exemple : médicaments).
 
 ## Gouvernance
 Un équilibre doit être trouvé entre les libertés individuelles et celles du collectif. Les situations suivantes, impactant le contexte commun, doivent être précédées par un vote unanime des personnes concernées par la décision: 
