@@ -4,18 +4,16 @@ La création d’une alternative est un travail de tous les jours. Tendre vers u
 
 Le Mallouestan est un lieu fondé notamment sur les piliers suivants:
 
-- **anarcho-communisme**<sup>1</sup>
+- **anarcho-communisme**
 - **antispécisme**
-- **anti-libéralisme**<sup>2</sup>
-- **anti-tech**<sup>3</sup>
+- **anti-libéralisme**
+- **anti-tech**
 
 Nos positions et valeurs ne sont pas dépendantes d'une romantisation du passé ou d'une indépendance absolue. Elles sont le fruit d'un travail critique, basé sur les discussions, les expériences et les connaissances des membres du lieu et des visiteuse·eurs. Ce manuel n'est donc pas un support dogmatique ou sectaire, mais un repère pour un collectif anarcho-communiste. Il est destiné à évoluer régulièrement.
 
-> Nos positions sont détaillées dans plusieurs textes listés à la fin de ce document.
+> Nos positions sont détaillées dans plusieurs textes listés à la fin de ce document pour compléter cette charte qui ne saurait être exhaustive.
 
 > Ce manuel définit le contexte commun auquel chaque personne adhère en venant sur le lieu ou en participant aux événements extérieurs organisés par le Mallouestan. 
-
-> Ce manuel a été annoté pour mieux expliquer nos choix qui ne peuvent pas être synthétisés dans ce document.
 
 ## Objectifs
 Nous sommes conscient·es que beaucoup des valeurs et des objectifs ci-dessous sont difficilement atteignables. De ce fait, nous les listons humblement en acceptant que chacun·e, sur le lieu, ne peut qu’y tendre. 
@@ -25,7 +23,7 @@ Nous sommes conscient·es que beaucoup des valeurs et des objectifs ci-dessous s
 	- L'autonomie en méthodes et matériaux de construction,
 	- La déconnexion totale des espaces d'hébergement dits "personnels" des réseaux publics,
 	- L'autonomie à l'égard de l'agriculture intensive et mécanisée,
-	- L'autonomie vis-à-vis des technologies complexes<sup>3</sup>.
+	- L'autonomie vis-à-vis des technologies complexes.
 2. Assurer la pérennité du sanctuaire pour les animaux non-humains ;  
 3. Diminuer notre impact écologique ainsi que notre impact sur les écosystèmes avoisinants ; 
 4. Les santés corporelle et émotionnelle sont, pour nous, essentielles à une vie collective autonome et saine. Nous cherchons donc à développer une écoute de soi fine et une conscience de son corp efficace pour tendre vers une résilience quotidienne de l'individu au sein du collectif. Celle-ci a pour but de minimiser les blessures, la fatigue et le mal-être ;
@@ -145,7 +143,7 @@ Le lieu est séparé en plusieurs pôles. Ces pôles servent principalement à d
 Les décisions sont prises collectivement au moment de plannification pour chaque pôle où un budget et des objectifs sont définis pour le trimestre suivant. 
 
 ### Gestion financière
-Certains frais dépendent de la vie commune. Un pot commun est donc mis à disposition pour que chacun·e participe selon ses moyens.
+Certains frais dépendent de la vie commune. Un pot commun est donc mis à disposition pour que chacun·e participe selon ses moyens. Ces derniers ne peuvent être un motif d'exclusion du lieu ou de quelconque sanction du collectif. 
 
 Les divers dons sont ajoutés au pot commun. L'argent présent dans le pot commun est réparti entre les frais liés aux animaux, les frais de l'écolieu ainsi que les frais pour les courses de la semaine à venir. 
 
@@ -159,12 +157,17 @@ Les fonds suivants sont disponibles sur le lieu et sont encadrés par l'annexe "
 3. Fond de secours du sanctuaire
 4. Fond de libération agraire
 5. Fond pour faune et flore sauvage
+
 ### Mise à disposition d'espace personnel
 Dans le contexte d'accueil et d'hébergement, en dehors des dortoirs, nous pouvons mettre à disposition des espaces s'apparentant à des espaces personnels. Pour autant, les règles des espaces communs s'appliquent dans ces espaces sauf exception convenue avec le collectif en amont.
 
 Les travaux dits structurels sont à la responsabilité du groupe tandis que les travaux mineurs tels que décoratifs à l'intérieur (peinture, revêtement de sol amovible, etc.) ou le fauchage sont à la responsabilité de l'occupant-e.
 
 Lorsque des occupant-es quitte définitivement l'espace mis à leur disposition iels doivent s'assurer qu'iels laissent l'espace dans un état propre, salubre et rangé. Iels doivent signaler au collectif toute chose qui pourrait compromettre ou déranger l'installation d'une nouvelle personne. Un membre du groupe (arrimé-e ou résident-e) fera une visite de l'espace au moment du départ des occupant-es. 
+
+### Événements
+
+Nous sommes amené-es à organiser ou accueillir des événements sur le lieu comme, mais non limité à, des formations, rencontres diverses, expositions ou concerts. Ces évènements, incluant les évènements externes (organisés par d'autres collectifs) permis par la mise à disposition du lieu, se doivent d'être à prix libre.   
 
 ## Communication extérieure
 Toute communication au nom du Mallouestan se doit d'être en accord avec cette charte et ne doit qu'exprimer des positions politiques, militant·es ou philosophiques présentes dans cette charte (anarchisme, antispécisme...). Toute prise de position du communicant non présente dans cette charte ne doit pas être exprimée au nom du Mallouestan.
@@ -240,17 +243,3 @@ En vue de la taille et des ressources à disposition, certaines limites et certa
 - [Explications sur l'autonomie](../Philosophie/Autonomie)
 - [Explications sur le rapport au comfort](../Philosophie/Comfort)
 - [Explications sur notre opposition au libéralisme](../Philosophie/Anti-liberalisme)
-
-## Notes 
-
-### 1. **Anarcho-communisme**
-Nous utilisons le terme anarcho-communisme pour inscrire une rupture avec un anarchisme souvent empreint d'individualisme et de libéralisme. Nous nous reconnaissons dans l'anarcho-communisme, notamment par notre opposition aux hiérarchies artificielles (non justifiées), à l'État, à l'argent et à la propriété privée, ainsi qu'à l'importance accordée à l'autonomie vis-à-vis des moyens de subsistance (ce dont nous avons besoin pour vivre) et au contexte dans lequel s'inscrit le travail.
-
-### 2. **Anti-liberalisme**
-Nous nous opposons à l'hégémonie (omniprésence ou présence majoritaire) du libéralisme moderne, qu'il soit économique, comme le capitalisme, ou culturel/philosophique. Le libéralisme économique est un aspect que nous estimons moins nécessaire à développer ici, étant donné la critique qui lui est déjà largement adressée, contrairement à sa forme culturelle et philosophique. Nous faisons le triste constat de l'emprise croissante, de cette dernière forme, sur les luttes sociales et de ses effets délétères. Nous choisissons donc de nous engager dans une démarche critique à l'égard de ce mode de pensée. Nous nous reconnaissons partiellement dans les travaux de Susan Sontag sur la culture de masse, Michel Clouscard dans sa critique du libéralisme post 68 et de la culture "populaire" ainsi que Jean-Claude Michéa dans ces travaux inscrits dans la lignée Orwellienne.
-
-### 3. **Autonomie vis a vis des technologies**
-L'autonomie vis-à-vis des technologies complexes découle de plusieurs constats à leur égard. Le premier concerne le coût éthique de leur conception, notamment en ce qui concerne l'impact sur l'écologie, l'exploitation humaine, l'extractivisme et le néo-colonialisme. Le deuxième constat concerne la dépendance, l'uniformisation et la rupture dans notre relation avec le monde vivant que la technologie crée. Il est important de noter que nous ne nous opposons pas de manière totale à toutes les technologies complexes, mais nous remettons en question en particulier le techno-solutionnisme. Les technologies médicales et sociales complexes, lorsqu'elles sont mutualisées, comme c'est le cas dans les hôpitaux ont, de notre avis, des objectifs pouvant potentiellement justifier les coûts mentionnés ci-dessus.
-
-### 4. **Minimum fixé pour l'autonomie**
-La valeur fixée est propre à chaque arrimé·e de par les différences de nos vies ainsi que les capitaux respectifs comme la situation familiale, professionelle, sociale ou les diplômes.
