@@ -1,4 +1,4 @@
-# Manuel des chercheur-euses Mallouestanais-es
+# Manuel des chercheuse-rs Mallouestanais-es
 ## Préface
 La création d’une alternative est un travail de tous les jours. Tendre vers un idéal est complexe. C’est pourquoi nous sommes contraintes d’établir un manuel de vie commune. 
 
