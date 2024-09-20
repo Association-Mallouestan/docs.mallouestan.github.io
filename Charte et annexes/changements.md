@@ -1,10 +1,14 @@
 # Registres de changements de la charte
 
-## RC (Majeur)
+## 20 Septembre 2024 (Majeur)
 
 1. Mise en place d'un registre des changements de la charte
 2. Nouvelles procédure de gestion de conflits moins libérale et plus détaillé
 3. Simplications de la présentation des droits et devoirs
+4. Elimination de la distinction dans les prérequis entre espace personels et espaces communs 
+5. Rédaction des modalités lors de la mise à disposition d'espaces personnels
+6. Mise à jour des pôles comme définit sur le lieu actuellement
+7. Corrections de fautes d'orthographe diverses
 
 ## 28 Février 2024 (Majeur)
 
