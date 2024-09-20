@@ -1,21 +1,16 @@
-# Guide de Survie
-
 # Guide de survie au Mallouestan
-
-
 ## Sommaire
-- [ ] Pour te nourrir et t'abreuver
-- [ ] Pour dormir
-- [ ] Pour te soulager
-- [ ] Hygiène et soins
-- [ ] Pour te vêtir
-- [ ] Pour t'outiller contre le froid
-- [ ] Pour te divertir
-- [ ] Pour charger ton téléphone
-- [ ] Pour accéder à internet et un ordinateur
-- [ ] Pour t'aider sur le lieu
-- [ ] Récap des espaces
-
+- Pour te nourrir et t'abreuver
+- Pour dormir
+- Pour te soulager
+- Hygiène et soins
+- Pour te vêtir
+- Pour t'outiller contre le froid
+- Pour te divertir
+- Pour charger ton téléphone
+- Pour accéder à internet et un ordinateur
+- Pour t'aider sur le lieu
+- Récap des espaces 
 
 ### Pour te nourrir et t'abreuver
 **Pour manger**, va dans la cuisine qui se trouve au rez-de chaussée de l'auberge. Tu y trouveras des étagères avec de la nourriture (céréales, confiture, pâtes, légumineuses...) en commun. Tu peux te servir quand tu le souhaites et si tu vides quelque chose, assure toi de le re-remplir à l'*Atelier*
@@ -33,6 +28,7 @@ REMPLISSAGE : Nous avons un stock de bouffe sèche dans *l'atelier*. Ce stock se
 **Pour t'abreuver** tu trouveras un robinet d'eau potable dans la cuisine et dans la salle de bain.
 Si tu souhaites une boisson chaude, deux thermos sont disponibles sur le comptoir de la cuisine. Ils sont remplis le soir pour le lendemain.
 
+
 ### Pour dormir
 **Le dortoir** et la **Petite chambre** se trouvent au deuxième étage de l'Auberge.
 
@@ -43,6 +39,7 @@ Tu trouveras toute la literie qu'il te faut dans les meubles en bois étiquetés
 Si tu observes quelque chose de cassé ou de problématique, communique-le nous .
 
 **L'Agrofesterie** est un grand espace en direction du parking où tu peux planter ta tente pour dormir dehors.
+
 
 ### Pour te soulager
 **Fais caca** dans les toilettes sèches. A ce jour il n'y a qu'une toilette sèche. Elle se trouve juste à côté de l'entrée de l'enclos de Napo et Josy. Si le panneau est vert et que la petite ficelle tient la porte c'est que la toilette est libre. En cas de doute crie " Y a quelqu'un-e ?"
@@ -75,6 +72,7 @@ Il y a du savon à disposition sur le rebord de l'évier ou dans le meuble à dr
 **Pour ton hygiène et ta protection** nous mettons à ta disposition dentifrice, crème solaire, préservatif, test de grossesse et serviettes hygiéniques dans le même meuble que les pansements.
 Tu trouveras aussi des serviettes hygiéniques dans les toilettes.
 
+
 ### Pour te vêtir
 **Le freeshop** se trouve au premier étage de l'auberge, à droite en montant l'escalier. Tu y trouveras des fringues en tout genre, des sous-vêtements, des chaussettes, des accessoires, des manteaux, des chaussures... adultes et enfants.
 On peut aussi te prêter des bottes et un manteau imperméable.
@@ -83,6 +81,7 @@ On peut aussi te prêter des bottes et un manteau imperméable.
 **L'hiver** au Mallouestan c'est du sérieux. N'hésite pas à communiquer si tu as du mal à supporter le froid, nous t'aiderons à t'armer pour le braver.
 Pour dormir au chaud, tu peux prendre une bouillotte d'eau chaude pour chauffer ton lit (dans le meuble étiqueté du dortoir).
 Il y a aussi de nombreuses couettes que tu peux prendre.
+
 
 ### Pour te divertir
 **La bibliothèque** regorge de livres divers et variés (d'ailleurs on n'est pas du tout d'accord avec tous) tu peux en lire pendant ton séjour et en emprunter si tu le ramènes (il y a une fiche d'emprunt proche de la cheminée).
@@ -93,6 +92,7 @@ Il y a aussi de nombreuses couettes que tu peux prendre.
 
 **Vélo** Certains vélos peuvent être prêtés. Ils sont stockés dans l'abri à vélo (la bâtisse avec un préau devant l'auberge), assure toi que tu peux le prendre avant de l'utiliser.
 
+
 ### Pour charger ton téléphone
 **Le Garde-Mangé** dispose d'une station de chargement où tu peux recharger ton téléphone le matin 1 jour sur 2. Si tu as besoin de le charger plus ou de charger autre chose (ordinateur, batterie, etc.) discutes-en avec nous.
 
@@ -100,6 +100,7 @@ Il y a aussi de nombreuses couettes que tu peux prendre.
 **Le bureau** se situe au premier étage de l'Auberge, juste avant l'escalier du dortoir. Tu peux y accéder quand tu souhaites et demander à y être seul-e si personne ne l'utilise déjà. Tu y trouveras l'ordinateur commun.
 
 L'accès à internet est permis par un partage de connexion donné par le téléphone de l'association. Il te faudra t'organiser avec le-la résident-e qui le détient.
+
 
 ### Pour t'aider sur le lieu
 
@@ -115,76 +116,94 @@ N'hésite pas à poser des questions si ce n'est pas clair ou s'il te manque des
 
 **La signalétique** dans les espaces communs est faite pour faciliter ton autonomisation.
 
+
 ### Récap des espaces
+
 **L'Auberge**
-- [ ] La cuisine
-- [ ] La salle de bain
-- [ ] Le salon (Bibliothèque et ludothèque)
-- [ ] La Sall'a tout (espace pour bouger, instruments)
-- [ ] Le freeshop (Fringues, chaussures etc)
-- [ ] Le bureau (ordi commun et papeterie)
-- [ ] Le dortoir (literie et cie)
-- [ ] La Petite chambre (literie et cie)
+
+- La cuisine
+- La salle de bain
+- Le salon (Bibliothèque et ludothèque)
+- La Sall'a tout (espace pour bouger, instruments)
+- Le freeshop (Fringues, chaussures etc)
+- Le bureau (ordi commun et papeterie)
+- Le dortoir (literie et cie)
+- La Petite chambre (literie et cie)
 
 **Le Garde-Mangé**
-- [ ] Fruits et légumes
-- [ ] Compotes, confitures, conserves
-- [ ] Station de chargement pour ton téléphone
+
+- Fruits et légumes
+- Compotes, confitures, conserves
+- Station de chargement pour ton téléphone
 
 **Le Préau**
-- [ ] Espace pour couper le bois
-- [ ] Espace pour étendre le linge
-- [ ] Big Bag de sciure de bois
+
+- Espace pour couper le bois
+- Espace pour étendre le linge
+- Big Bag de sciure de bois
 
 **L'abris à bois**
-- [ ] Stock de cagettes
-- [ ] Rangement du bois coupés dans des cagettes
-- [ ] Poubelles pleines
+
+- Stock de cagettes
+- Rangement du bois coupés dans des cagettes
+- Poubelles pleines
 
 **L'atelier à vélo**
-- [ ] Rangement des vélos
-- [ ] Outils de maintenance et de réparation des vélos
+
+- Rangement des vélos
+- Outils de maintenance et de réparation des vélos
 
 **Les clapiers**
-- [ ] Stock de légumes pour les cochons
-- [ ] Stock de grains et foin pour les non-humains
+
+- Stock de légumes pour les cochons
+- Stock de grains et foin pour les non-humains
 
 **Le jardin**
-- [ ] Le hangar (rangement des matériaux de construction)
-- [ ] La cour des matériaux (Entreposage de matériaux encombrants, stock de bois)
+
+- Le hangar (rangement des matériaux de construction)
+- La cour des matériaux (Entreposage de matériaux encombrants, stock de bois)
 
 **La grange**
-- [ ] Stockage
-- [ ] Mur d'escalade
+
+- Stockage
+- Mur d'escalade
 
 **La pharmacie**
-- [ ] Nécessaire de soins pour les non-humains et médicaments
-- [ ] Registre et tableau des soins pour les non-humains
+
+- Nécessaire de soins pour les non-humains et médicaments
+- Registre et tableau des soins pour les non-humains
 
 **L'Atelier**
-- [ ] Outils (menuiserie, charpenterie, vis, clous, outils clôture)
-- [ ] Espace de travail pour chantier charpenterie/menuiserie et autre 
-- [ ] EPI (Equipement de protection individuel)
+
+- Outils (menuiserie, charpenterie, vis, clous, outils clôture)
+- Espace de travail pour chantier charpenterie/menuiserie et autre 
+- EPI (Equipement de protection individuel)
 
 **La Remise**
-- [ ] Outils de maraîchage et jardinage
-- [ ] Graines et semences
+
+- Outils de maraîchage et jardinage
+- Graines et semences
 
 **Les toilettes sèches**
-- [ ] Tu sais à quoi ça sert
+
+- Tu sais à quoi ça sert
 
 **La Buttinerie**
--[ ] Espace de culture maraîchère
+
+- Espace de culture maraîchère
 
 **La Pépinière**
-- [ ] La serre (entreposage de plants l'hiver, stock de paille pour les canards)
-- [ ] Le châssis (pour les semis en godets)
+
+- La serre (entreposage de plants l'hiver, stock de paille pour les canards)
+- Le châssis (pour les semis en godets)
 
 **L'agroforesterie**
-- [ ] Arbres fruitiers
-- [ ] Espace pour les tentes
-- [ ] Douche extérieure et toilettes portatives
+
+- Arbres fruitiers
+- Espace pour les tentes
+- Douche extérieure et toilettes portatives
 
 **Parking**
-- [ ] Stationnement véhicules
-- [ ] Porte enclos Sacco et Vanzetti
+
+- Stationnement véhicules
+- Porte enclos Sacco et Vanzetti
