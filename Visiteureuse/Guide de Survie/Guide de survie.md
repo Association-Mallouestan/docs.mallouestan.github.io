@@ -116,24 +116,24 @@ N'hésite pas à poser des questions si ce n'est pas clair ou s'il te manque des
 - [ ] Espace pour étendre le linge
 - [ ] Big Bag de sciure de bois
 
-**L'abris à bois**
+**L'Abris à bois**
 - [ ] Stock de cagettes
 - [ ] Rangement du bois coupés dans des sac cabas
 - [ ] Poubelles pleines
 
-**L'atelier à vélo**
+**L'Atelier à vélo**
 - [ ] Rangement des vélos
 - [ ] Outils de maintenance et de réparation
 
-**Les clapiers**
+**Les Clapiers**
 - [ ] Stock de légumes pour les cochons
 - [ ] Stock de grains et foin pour les non-humains
 
-**Le jardin**
+**Le Jardin**
 - [ ] Le hangar (rangement matériaux de construction)
 - [ ] La cour des matériaux (entreposage de matériaux encombrants, stock de bois)
 
-**La pharmacie** 
+**La Pharmacie** 
 - [ ] Nécessaire de soins pour les non-humains et médicaments
 - [ ] Registre et tableau des soins pour les non-humains
 
@@ -147,7 +147,7 @@ N'hésite pas à poser des questions si ce n'est pas clair ou s'il te manque des
 - [ ] Outils de maraîchage et jardinage
 - [ ] Graines et semences
 
-**Les toilettes sèches**
+**Les Toilettes sèches**
 - [ ] Tu sais à quoi ca sert
 
 **La Buttinerie**
@@ -158,12 +158,12 @@ N'hésite pas à poser des questions si ce n'est pas clair ou s'il te manque des
 - [ ] Le chassis (pour les semis en pots)
 - [ ] L'espace à patates
 
-**L'agroforesterie**
+**L'Agroforesterie**
 - [ ] Arbres fruitiers
 - [ ] Espace pour les tentes
 - [ ] Dôme de branches
 - [ ] Douche exterieure et toilettes portatives
 
-**Parking**
+**Le Parking**
 - [ ] Stationnement véhicules
 - [ ] Porte enclos Sacco et Vanzetti
