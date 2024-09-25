@@ -26,12 +26,11 @@
 
 
 ### Pour te nourrir et t'abreuver
-**Pour manger**, va dans la cuisine qui se trouve au rez-de chaussée de l'auberge. Tu y trouveras des étagères avec la nourriture (céréales, confiture, pâtes, légunineuses...) en commun. Tu peux te servir quand tu le souhaites et si tu vides quelque chose, assure toi de le re-remplir à l'*Atelier*. 
+**Pour manger**, va dans la cuisine qui se trouve au rez-de chaussée de l'auberge. Tu y trouveras des étagères avec la nourriture (céréales, confiture, pâtes, légunineuses...) en commun. Tu peux te servir quand tu le souhaites et si tu vides quelque chose, assure toi de le re-remplir dans le *Garde-mangé*. 
 Comme on cuisine le soir pour deux repas il y a des plats cuisinés stockés soit dans le salon soit dans la véranda (selon la saison), si tu pioches dedans avant le repas du midi assure-toi qu'il en reste suffisamment pour chaque membre du groupe. 
 Tu trouveras du pain dans la boîte à pain sur le comptoir ou sur la table buffet du salon.
 Tu trouveras des fruits et légumes dans le *Garde-Mangé* (à droite en sortant de la véranda)
-REMPLISSAGE : Nous avons un stock de bouffe sèche dans *l'atelier*. Ce stock se trouve dans les fûts bleus en métal. Si tu ouvres un nouveau sac, écris la date du jour avec un marqueur que tu trouveras près des fûts.
-+torchons
+REMPLISSAGE : Nous avons un stock de bouffe sèche dans le *Garde-mangé*. Ce stock se trouve dans les fûts bleus en métal. Si tu ouvres un nouveau sac, écris la date du jour avec un marqueur que tu trouveras près des fûts.
 
 **Pour t'abreuver** tu trouveras un robinet d'eau potable dans la cuisine et dans la salle de bain.
 Si tu souhaites une boisson chaude, deux thermos sont disponibles sur le comptoir de la cuisine. Ils sont remplis le soir pour le lendemain. 
@@ -41,17 +40,17 @@ Si tu souhaites une boisson chaude, deux thermos sont disponibles sur le comptoi
 **Le dortoir** et la **Petite chambre** se trouvent au deuxième étage de l'Auberge. 
 Le dortoir contient 3 lits doubles et 2 lits simples tandis que la Petite chambre a 1 lit double et 1 lit simple. 
 Tu trouveras toute la literie qu'il te faut dans les meubles en bois étiquetés de part et d'autre de l'entrée du dortoir et dans le meuble à tirroir de la petite chambre.
-Si tu observes quelque chose de cassé ou de problematique, communique-le nous . 
+Si tu observes quelque chose de cassé ou de problematique, communique-le nous. 
 
-**L'Agrofesterie** est un grand espace en direction du parking, proche du dôme de branches oú tu peux planter ta tente pour dormir dehors. 
+**L'Agrofesterie** est un grand espace en direction du parking, proche du grillage vert à côté de la structure en bois oú tu peux planter ta tente pour dormir dehors. Fais bien attention aux arbustes en mettant la tente et sur ton chemin d'accés.
 
 ### Pour te soulager
-**Fais caca** dans les toilettes sèches. A ce jour il n'y a qu'une toilette sèche. Elle se trouve juste à côté de l'entrée de l'enclos de Napo et Josy. Si le panneau est vert et que la petite ficelle tient la porte c'est aue la toilette est libre. En cas de doute crie " Y a quelqu'un-e ?" 
+**Fais caca** dans les toilettes sèches. A ce jour il n'y a qu'une toilette sèche. Elle se trouve juste à côté de l'entrée de l'enclos de Napo et Josy. Si le panneau est vert et que la petite ficelle tient la porte c'est que la toilette est libre. En cas de doute crie "Y a quelqu'un-e ?" 
 Dans cette toilette tu trouveras du papier toilette. S'il n'y en a plus, va en chercher dans la salle de bain de l'Auberge. 
-La sciure se remplit dans la poubelle noire à l'extérieur à gauche de la vabane de toilette. Si la poubelle est vide, remplit-la sous le *Préau* dans le BigBag plein de sciure. 
-Ne jette rien que du Papier toilette, pour toute autre chose, tu as une petite poubelle à tes pieds dans les toilettes.
+La sciure se remplit dans la poubelle noire à l'extérieur à gauche de la vabane de toilette. Si la poubelle est vide, remplis-la sous le *Préau* dans le gros sac blanc de chantier plein de sciure. 
+Ne jette rien que du papier toilette, pour toute autre chose, tu as une petite poubelle à tes pieds dans les toilettes.
 
-**Fais pipi** derrière des arbres ou des buissons, là où tu souhaites, ca évite que la toilette sèche ne devienne trop humide.
+**Fais pipi** derrière des arbres ou des buissons, là où tu souhaites, ca évite que les toilettes sèches ne devienne trop humide.
 
 ### Hygiène et soins
 **Pour te Laver** tu peux te doucher à l'eau froide dans la douche de la salle de bain.
@@ -66,7 +65,7 @@ Il y a du savon à disposition sur le rebord de l'évier ou dans le meuble à dr
 
 
 ### Pour te vêtir
-**Le freeshop** se trouve au premier étage de l'auberge, à droite en montant l'escalier Tu y trouveras des fringues en tout genre, des soius-vêtements, des chaussettes, des accessoirs, des manteaux, des chaussures... adultes et enfants.
+**Le freeshop** se trouve au premier étage de l'auberge, à droite en montant l'escalier. Tu y trouveras des fringues en tout genre, des sous-vêtements, des chaussettes, des accessoirs, des manteaux, des chaussures... adultes et enfants.
 On peut aussi te prêter des bottes et un manteau imperméable. 
 
 ### T'outiller contre le froid
@@ -78,15 +77,15 @@ Il y a aussi de nombreuses couettes que tu peux prendre.
 ### Pour te divertir
 **La bibliothèque** regorge de livres divers et variés (d'ailleurs on n'est pas du tout d'accord avec tous) tu peux en lire pendant ton séjour et en emprunter si tu le ramènes (il y a une fiche d'emprunt accrochée sur la cheminée).
 **La Ludothèque**  se trouve sur l'étagère d'angle à côté du canapé du salon. Elle commence a avoir pas mal de jeux de société auquel tu peux jouer avec qui tu souhaites. N'hésite pas à initier des soirées jeux si l'envie t'en dit ! 
-**La Sall'a tout** est une pièce pollyvalente oú tu trouveras de l'espace pour bouger (ne fais pas de trucs trop violents, genre le jeter au sol de toutes tes forces, le parquet est fragile). Tu trouveras des insturments et des équipements d'entraînements. N'oublie pas le coup de balais après avoir utilisé l'espace.
+**La Sall'a tout** est une pièce pollyvalente oú tu trouveras de l'espace pour bouger (ne fais pas de trucs trop violents, genre le jeter au sol de toutes tes forces, le parquet est fragile). Tu trouveras des insturments et des équipements d'entraînements. N'oublie pas le coup de balai après avoir utilisé l'espace.
 **Vélo** Certains vélo peuvent être prêtés. Ils sont stockés dans l'abris à vélo, assure toi que tu peux le prendre avant de l'utiliser.
 
 ### Pour charger ton téléphone
 **Le Garde-Mangé** dispose d'une station de chargement oú tu peux recharger ton téléphone le matin 1 jour sur 2. Si tu as besoin de le charger plus ou de charger autre chose (ordinateur) discutes-en avec nous. 
 
 ### Pour accéder à internet et à un ordinateur
-**Le bureau** se situe au premier étage de l'Aunberge, juste avant l'escalier du dortoir. Tu peux y accéder quand tu souhaites et demander à y être seul-e si personne ne l'utilise déjà. Tu y trouveras l'ordinateur commun. 
-L'accès à internet est permis par un partage de connexion donné par le téléphone de l'association. Il te faudra t'organiser avec le-la résident-e qui le détient.
+**Le bureau** se situe au premier étage de l'Auberge, juste avant l'escalier du dortoir. Tu peux y accéder quand tu souhaites et demander à y être seul-e si personne ne l'utilise déjà. Tu y trouveras l'ordinateur commun. 
+SI tu n'as pas accès à internet, l'accès à internet est permis par un partage de connexion donné par le téléphone de l'association. Il te faudra t'organiser avec le-la résident-e qui le détient.
 
 
 ### Pour t'aider sur le lieu
@@ -132,7 +131,7 @@ N'hésite pas à poser des questions si ce n'est pas clair ou s'il te manque des
 
 **Le jardin**
 - [ ] Le hangar (rangement matériaux de construction)
-- [ ]La cour des matériaux (Entreposage de matériaux encombrants, stock de bois)
+- [ ] La cour des matériaux (entreposage de matériaux encombrants, stock de bois)
 
 **La pharmacie** 
 - [ ] Nécessaire de soins pour les non-humains et médicaments
@@ -152,7 +151,7 @@ N'hésite pas à poser des questions si ce n'est pas clair ou s'il te manque des
 - [ ] Tu sais à quoi ca sert
 
 **La Buttinerie**
--[ ] Espace de culture maraîchère
+- [ ] Espace de culture maraîchère
 
 **La Pépinière**
 - [ ] La serre (entreposage de plants l'hiver, stock de paille pour les canards)
