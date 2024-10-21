@@ -7,6 +7,7 @@ Nous regroupons ici différente ressources collaboratives qui nous semble intér
 - [Charte du Mallouestan](http://docs.mallouestan.org/Charte%20et%20annexes/charte)
 - (EN COURS) Portail philosophie pour comprendre les valeurs et perspectives du lieux
 - [Portail Technique](http://docs.mallouestan.org/Technique/)
+- [Portail philosophique](./Philosophie/)
 ## Liens pour les visiteureuse (EN COURS)
 - Guide de survie pour visiteureuse au Mallouestan
 - Guide des taches
