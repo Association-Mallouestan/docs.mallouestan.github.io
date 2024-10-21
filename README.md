@@ -3,8 +3,10 @@
 Nous regroupons ici différente ressources collaboratives qui nous semble intéressant a partager ou rendre public (où toute personne est la bienvenue pour contribuer à l'évolutions des ressources en question) . 
 ## Liens pour tout le monde
 - [Site web du Mallouestan](https://mallouestan.org/)
-- [Charte du Mallouestan](https://association-mallouestan.github.io/Mallouestan/Charte%20et%20annexes/Manuel%20des%20chercheur-ses%20Mallouestanais-es)
+- [Charte du Mallouestan (Version courte)](http://docs.mallouestan.org/Charte%20et%20annexes/charte-visite)
+- [Charte du Mallouestan](http://docs.mallouestan.org/Charte%20et%20annexes/charte)
 - (EN COURS) Portail philosophie pour comprendre les valeurs et perspectives du lieux
+- [Portail Technique](http://docs.mallouestan.org/Technique/)
 ## Liens pour les visiteureuse (EN COURS)
 - Guide de survie pour visiteureuse au Mallouestan
 - Guide des taches

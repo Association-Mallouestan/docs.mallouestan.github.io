@@ -12,6 +12,7 @@ La tâche balais comprend la cuisine, l'escalier et le salon
 - [ ] Passer derrière les canapés
 - [ ] Esquiver les attaques redoutables d'Izzy :stuck_out_tongue: 
 - [ ] Passer sous les tables et bancs
+- [ ] Passer dans l'escalier
 - [ ] Jeter la poussière au compost ou à la poubelle (dans la véranda)
 - [ ] Taper le balais dehors pour éviter de le ranger plein de poussière
 - [ ] Remettre le balais et la pelle dans la salle-de-bain

@@ -20,4 +20,4 @@ Enfin, la visite nous permet de vérifier qu'il n'y a pas de grosse anomalie sur
 
 > [!IMPORTANT]  
 > Si tu leur apportes des snacks, réfère toi bien à la fiche nourrissage chèvres et moutons pour vérifier ce que tu peux leur donner et dans quelle quantité.
-
+> Comme tous les autres points liés aux non-humains, tu dois être accompagné·e par un·e résident·e jusqu'à ce que tu maîtrises la tâche.
