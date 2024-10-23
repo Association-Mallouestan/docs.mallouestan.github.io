@@ -1,4 +1,4 @@
-# Portail philosophique
+# <a href="../">Accueil \> </a>Portail philosophique
 
 ## Présentation
 
@@ -9,4 +9,4 @@ Ce portail référence différents textes sur des réflexions et des points phil
 - [Sur l'autonomie](./autonomie)
 - [Sur notre rapport au confort](./confort)
 - [Sur les animaux et le monde non-humain](./environnement)
-- [Sur notre vision du libéralisme](./autonomie)
+- [Sur notre vision du libéralisme](./liberalisme)
