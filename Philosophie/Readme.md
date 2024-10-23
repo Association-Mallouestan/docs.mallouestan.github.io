@@ -1,4 +1,5 @@
-# <a href="../">Accueil \> </a>Portail philosophique
+> <a href="../">Accueil</a> > Portail Philosophique
+# Portail philosophique
 
 ## Présentation
 
