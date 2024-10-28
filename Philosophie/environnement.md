@@ -10,15 +10,13 @@ Il s'agit donc d'un des piliers fondamentaux à comprendre pour toute personne s
 
 Pour nous, il est évident que le rapport au monde hégémonique, adopté par la majorité, n'est ni viable ni souhaitable. En d'autres termes, la vision du monde dominante en Occident est destructrice, marquée par une violence extrême, écocide, meurtrière et égoïste. D'autres adjectifs pourraient y être associés, comme néocolonial, spéciste pour certains, ou anthropocentriste pour d'autres. Le Mallouestan a été fondé autour de l'idée, ou plutôt de la quête, d'un rapport au monde plus sain. Ce rapport ne concerne pas uniquement les personnes qui constituent ce lieu, mais dépasse également sa géographie, offrant un cadre pour un meilleur lien avec le vivant à ceux qui croisent nos idées.
 
-Nous n'avons jamais prétendu convaincre tout le monde, ni même une majorité. Cependant, si notre vision — et, il ne faut pas l'oublier, sa mise en application concrète sur ce lieu — peut inspirer, semer des idées, ou susciter des débats et des réflexions constructives, nous saurons nous en contenter.
-
 La raison pour laquelle, au Mallouestan, nous questionnons notre rapport au vivant n'est pas simplement un exercice académique ou intellectuel. Il ne s'agit pas de conforter une quelconque supériorité morale ou éthique. C'est plutôt une tentative de construire une communauté avec un rapport au monde plus souhaitable. En d'autres termes, loin de se limiter à ce texte ou à d'éventuelles conférences, discours ou interventions, cette vision du monde a pour ambition d'être appliquée et respectée autant que possible dans le cadre même du Mallouestan.
 
 ## Quel est le rapport au monde souhaité au Mallouestan ?
 
 Pour de nombreuses personnes au Mallouestan, le cheminement n’a pas été simple. Il ne s'agit pas de verser dans le misérabilisme, mais plutôt de souligner la complexité de cette quête évoquée plus haut. Nous sommes bien loin de l’époque où nous pensions que l’antispécisme et l’écologie suffiraient à définir notre rapport au vivant. Très rapidement, nous avons été confrontés aux limites de l’antispécisme et aux ambiguïtés de l’écologie.
 
-Nous nous sommes très tôt opposés à l’écologie des « petits gestes », à celle de la transition énergétique, ainsi qu'à une écologie coloniale ou libérale. Nous avons regretté l'absence d'une analyse sociale dans certains courants d’écologie profonde et avons été découragés par le fatalisme de l'écologie « dark ». Il est rapidement devenu clair que le terme « écologie », en tant que tel, ne résolvait que très peu de choses pour nous. Il y a plusieurs années, nous avons adopté une approche écocentriste, en la couplant à la valeur fondatrice de l’antispécisme. Bien que cette position ne soit plus celle que nous tenons aujourd'hui, l'héritage qu'elle a laissé continue de structurer le lieu.
+Nous nous sommes très tôt opposés à l’écologie des « petits gestes », à celle de la transition énergétique, ainsi qu'à une écologie coloniale ou libérale. Nous avons regretté l'absence d'une analyse sociale dans certains courants d’écologie profonde et avons été inspirer mais pas totalement convaincu par la « dark écologie ». Il est rapidement devenu clair que le terme « écologie », en tant que tel, ne résolvait que très peu de choses pour nous. Il y a plusieurs années, nous avons adopté une approche écocentriste, en la couplant une des valeurs fondatrices du lieu: l’antispécisme. Bien que cette position ne soit plus celle que nous tenons aujourd'hui, l'héritage qu'elle a laissé continue de structurer le lieu.
 
 Notre position actuelle peut donc se résumer ainsi : nous souhaitons un rapport au monde qui dépende le moins possible de la destruction, de la souffrance et de la mort. Autrement dit, nous voulons vivre de manière à impacter le moins possible les intérêts et les équilibres écosystémiques qui nous entourent. Il est important de préciser qu'il s'agit ici de l'impact du mode de vie humain et de ses activités. Dans notre vision, une certaine souveraineté est accordée au monde non humain. Il n'est pas question d'intervenir ou de pratiquer une ingérence à grande échelle sur les mécanismes, les équilibres et les chaînes trophiques non humaines.
 
@@ -50,8 +48,8 @@ Il montre également que le lieu s’oppose à la domestication et se positionne
 
 ## Références
 
-James Scott, Homo Domesticus
-J. Baird Callicott, L’éthique de la terre
-V. Maris, La part sauvage du monde
-Val Plumwood, La crise écologique de la raison 
-Roderick Nash, The rights of nature
+- James Scott, Homo Domesticus
+- J. Baird Callicott, L’éthique de la terre
+- V. Maris, La part sauvage du monde
+- Val Plumwood, La crise écologique de la raison 
+- Roderick Nash, The rights of nature
