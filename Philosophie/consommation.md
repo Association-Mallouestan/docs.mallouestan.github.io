@@ -37,4 +37,5 @@ Ces sanctions, lorsqu’elles sont nécessaires, visent uniquement à protéger 
 
 ## Notes
 
-1. NOVA 4 et 3
+1. Nous utilisons l'echelle NOVA sur le lieu pour determiner de façon plus objective (tout au moin à l'échelle du lieu) les produits que nous refusons. Certaines personnes nous ont fait part de leurs doutes sur l'intèret de cette echelle. Nous souhaitons donc clarrifier içi certains points:
+    - L'echelle est tout d'abord un outil nous aidans à cadrer notre consomation alimentaire. Ce ne seras probablement pas le seul et nous ne prétendons pas qu'il soit parfait.
