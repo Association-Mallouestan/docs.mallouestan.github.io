@@ -75,6 +75,7 @@ Fabriquer des outils de bases nécessaires à la construction et apprendre à le
 
 #### Matin
 - [ ] 📏 Construction à la règle et au compas *(40min)*
+    - [ ] Rappel de comment obtenir demi, tiers et quart sur une sectin
 	- [ ] Perpendiculaire
 	- [ ] Bissectrice 
 	- [ ] Triangle isocèle 
