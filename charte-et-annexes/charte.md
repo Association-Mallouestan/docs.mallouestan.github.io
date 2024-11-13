@@ -1,5 +1,7 @@
-# Manuel des chercheuse-rs Mallouestanais-es
-## Préface
+> [Accueil]("../") > [Portail Technique]("../charte-et-annexes/") > Charte du Mallouestan
+
+## Manuel des chercheuse-rs Mallouestanais-es
+### Préface
 La création d’une alternative est un travail de tous les jours. Tendre vers un idéal est complexe. C’est pourquoi nous sommes contraint·es d’établir un manuel de vie commune. 
 
 Le Mallouestan est un lieu fondé notamment sur les piliers suivants:
@@ -15,7 +17,7 @@ Nos positions et valeurs ne sont pas dépendantes d'une romantisation du passé 
 
 > Ce manuel définit le contexte commun auquel chaque personne adhère en venant sur le lieu ou en participant aux événements extérieurs organisés par le Mallouestan. 
 
-## Objectifs
+### Objectifs
 Nous sommes conscient·es que beaucoup des valeurs et des objectifs ci-dessous sont difficilement atteignables. De ce fait, nous les listons humblement en acceptant que chacun·e, sur le lieu, ne peut qu’y tendre. 
 1. Créer une résilience/indépendance commune vis-à-vis du capitalisme, de la société extractiviste, thermo-industrielle, techno-solutioniste et de la société de consommation notamment mais non limité à :
 	- L'autonomie en fruits et légumes,
@@ -33,7 +35,7 @@ Nous sommes conscient·es que beaucoup des valeurs et des objectifs ci-dessous s
 8. Partager nos ressources et privilèges dans une optique de solidarité et d'inclusion ;
 9. Créer un nouveau rapport au vivant en développant une axiologie (vision de ce qui est considéré comme juste et souhaitable) ancrée dans une cosmologie (vision de la façon dont l'univers fonctionne) matérialiste compatible avec la méthode scientifique.  
 
-## Prérequis
+### Prérequis
 Nous sommes conscient·es que chacun·e est déconstruit·e à des niveaux variables et que chacun·e évolue à sa vitesse. Malgré cela, un minimum de déconstruction est nécessaire pour garantir l’avancée de l’ensemble du groupe. Comme pour le reste de cette charte, aucun mécanisme, ci-dessous, n'a comme prétention d'être suffisant ou parfait mais représente un point de départ qui semble pertinent pour les explorations du collectif. Nous demandons donc sur le lieu et pendant les événements organisés par le Mallouestan : 
 
 1. Aucune violence, hors légitime défense, envers un autre individu, ce qui inclut mais n'est pas limité aux violences ou situations suivantes : 
@@ -57,7 +59,7 @@ Nous sommes conscient·es que chacun·e est déconstruit·e à des niveaux varia
 
 > Ces restrictions ne doivent pas être utilisées à quelques fins que ce soit à l'égard d'individus qui ne les respecteraient pas dans leurs espaces personnels. 
 
-## Gouvernance
+### Gouvernance
 Un équilibre doit être trouvé entre les libertés individuelles et celles du collectif. Les situations suivantes, impactant le contexte commun, doivent être précédées par un vote unanime des personnes concernées par la décision: 
 
 - Tout changement de la charte ou ses annexes (Budget, liste de courses) ;
@@ -71,17 +73,17 @@ Tout autre décision, hors précision contraire dans le manuel, ne nécéssite a
 
 > Toute exception à la charte peut être mise en place temporairement (la durée doit être précisée) sur vote unanime. L'exception est valable tant que sont présentes sur le lieu uniquement les personnes ayant participé à la mise en place de ladite exception. Les exceptions, hormis celles qui concernent les quotas humains, doivent également être validés par les arrimé·es non présent.es sur le lieu.
 
-## Gestion de conflit
+### Gestion de conflit
 Nous sommes conscient·es que nous sommes des êtres de nature imparfaite. Nous faisons donc toutes et tous des erreurs ou des écarts à nos valeurs et idéaux. Nous nous devons d’être indulgent·es, envers nous-mêmes et envers autrui. Mais nous acceptons également que tout écart qui impacte le lieu et ses membres peut être traité si une personne le souhaite. 
 
-### Procédure de cadrage de conflit
+#### Procédure de cadrage de conflit
 
 1. Dans le cas d'un conflit, les comportements ou mécanismes doivent être adressés aux protagonistes au plus vite une fois qu'ils sont identifiés comme problématiques
 2. En cas de réitération de ces comportements une gestion de conflit collective peut être lancée
 3. Les arrimé-es et résidentes volontaires (hors personnes visée par la procédure) se concertent pour essayer de trouver des solutions comme, mais non limité à, l'articulation des besoins du collectif à l'égard des protagonistes
 4. Ce comité peut initier une procédure de sanctions impliquant la mise en place d'ultimatums
 
-### Procédure de sanctions
+#### Procédure de sanctions
 
 1. Les problèmes motivant cette procédure sont partagés par le comité avec les protagonistes. Le comité exprime ses attentes et besoins donnant également l'occasion aux protagonistes de les adresser et aussi d'exprimer leurs besoins et attentes à l'égard du collectif
 2. Le comité se concerte pour former, si jugé nécessaire, une réquisition (la liste d'ultimatums) basée sur des points explicités dans cette charte
@@ -97,15 +99,15 @@ Les sanctions suite à un non-respect d'un ultimatum peuvent être:
 - Bannissement temporaire ou définitive du lieu
 - Travaux obligatoires pour le collectif
 
-## Ultimatums 
+### Ultimatums 
 Plusieurs ultimatums exceptionnels sont de facto définis pour tous les membres du lieu: 
 1. Toute atteinte physique intentionelle non sportive et hors légitime défense, sur un individu du lieu peut entraîner une exclusion du lieu si au moins une autre membre du lieu le souhaite 
 2. Toute atteinte physique grave (décès, blessures sur le long terme) par un animal non-résident sur un autre individu du lieu entraîne soit l’exclusion de l’animal ou, si la ou les responsables de l’animal le souhaitent, un ultimatum les concernant directement
 3. Si une personne présentant une volonté d'atteinte grave à elle-même, qu'il s'agisse de blessures potentielles ou d'un risque imminent de mort, nous prendrons la décision **dans le cas où le dialogue est stérile ou impossible**, d'impliquer des forces extérieures. Cela peut inclure, mais n'est pas limité à, l'appel des services d'urgence tels que le SAMU
 4. Si une personne vole l'association  
 
-## Vie collective
-### Communication sur le lieu 
+### Vie collective
+#### Communication sur le lieu 
 Les événements ponctuels ou quotidiens qui sont destinés à être collectifs (repas, réunions...) nécessitent une communication claire et fonctionnelle passant par des moyens de communication ubiquitaires (partagés par toustes). L'objectif de cette communication est de permettre à chacun·e de participer ou d'être informé·e afin que toustes soit inclus.es dans la vie collective.
 
 > Exemple: Pour les repas, prévenir toutes les personne du lieu
@@ -117,7 +119,7 @@ La communication est intrinsèquement complexe et varie en fonctions des individ
 - La présence ou l'absence des personnes hébergé·es sur le lieu
 - Tout état de santé entraînant un risque ou un danger
 - Tout élément mettant en danger la santé d'autrui (humains comme non-humains)
-### Occupation d'espace 
+#### Occupation d'espace 
 Les espaces suivants sur le lieu peuvent être réservés pour un usage exclusif.
 - La salle a'tout
 - Le Mobilhome
@@ -128,7 +130,7 @@ Les tableaux de réservations sont validés, et ainsi deviennent effectifs, à c
 
 Si l'espace n'est pas réservé l'exclusivité est accordée, si elle est souhaitée, aux premièr·es venu·es.
 
-### Pôles
+#### Pôles
 Le lieu est séparé en plusieurs pôles. Ces pôles servent principalement à décrire les différentes activités du lieu et de les adresser ou les organiser. À ce jour, les pôles suivants sont définis :
 
 - Culturel
@@ -142,7 +144,7 @@ Le lieu est séparé en plusieurs pôles. Ces pôles servent principalement à d
 
 Les décisions sont prises collectivement au moment de plannification pour chaque pôle où un budget et des objectifs sont définis pour le trimestre suivant. 
 
-### Gestion financière
+#### Gestion financière
 Certains frais dépendent de la vie commune. Un pot commun est donc mis à disposition pour que chacun·e participe selon ses moyens. Ces derniers ne peuvent être un motif d'exclusion du lieu ou de quelconque sanction du collectif. 
 
 Les divers dons sont ajoutés au pot commun. L'argent présent dans le pot commun est réparti entre les frais liés aux animaux, les frais de l'écolieu ainsi que les frais pour les courses de la semaine à venir. 
@@ -158,21 +160,21 @@ Les fonds suivants sont disponibles sur le lieu et sont encadrés par l'annexe "
 4. Fond de libération agraire
 5. Fond pour faune et flore sauvage
 
-### Mise à disposition d'espace personnel
+#### Mise à disposition d'espace personnel
 Dans le contexte d'accueil et d'hébergement, en dehors des dortoirs, nous pouvons mettre à disposition des espaces s'apparentant à des espaces personnels. Pour autant, les règles des espaces communs s'appliquent dans ces espaces sauf exception convenue avec le collectif en amont.
 
 Les travaux dits structurels sont à la responsabilité du groupe tandis que les travaux mineurs tels que décoratifs à l'intérieur (peinture, revêtement de sol amovible, etc.) ou le fauchage sont à la responsabilité de l'occupant-e.
 
 Lorsque des occupant-es quitte définitivement l'espace mis à leur disposition iels doivent s'assurer qu'iels laissent l'espace dans un état propre, salubre et rangé. Iels doivent signaler au collectif toute chose qui pourrait compromettre ou déranger l'installation d'une nouvelle personne. Un membre du groupe (arrimé-e ou résident-e) fera une visite de l'espace au moment du départ des occupant-es. 
 
-### Événements
+#### Événements
 
 Nous sommes amené-es à organiser ou accueillir des événements sur le lieu comme, mais non limité à, des formations, rencontres diverses, expositions ou concerts. Ces évènements, incluant les évènements externes (organisés par d'autres collectifs) permis par la mise à disposition du lieu, se doivent d'être à prix libre.   
 
-## Communication extérieure
+### Communication extérieure
 Toute communication au nom du Mallouestan se doit d'être en accord avec cette charte et ne doit qu'exprimer des positions politiques, militant·es ou philosophiques présentes dans cette charte (anarchisme, antispécisme...). Toute prise de position du communicant non présente dans cette charte ne doit pas être exprimée au nom du Mallouestan.
 
-## Rôles et responsabilités
+### Rôles et responsabilités
 Dans une optique de minimisation de pouvoir sur le lieu, les rôles suivants sont définis pour permettre à chacun·e de mieux appréhender leurs responsabilités et devoirs.
 
 Il y a trois rôle sur le lieu :
@@ -180,7 +182,7 @@ Il y a trois rôle sur le lieu :
 2. Résidente
 3. Arrimé-e
 
-### Responsabilités des différents rôles et personnes
+#### Responsabilités des différents rôles et personnes
 
 | Responsabilité                                                                                                                                                                                                                                                       | Visiteuse | Résidente | Arrimée |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :-------: | :-----: |
@@ -195,7 +197,7 @@ Il y a trois rôle sur le lieu :
 | De mutualiser ses ressources (comme précisé à la section mutualisation des ressources)                                                                                                                                                                               |    Non    |    Non    |   Oui   |
 | De s'assurer de la présence d'au moin un·e arrimé·e sur le lieu la nuit, au moment des tâches concernant les non-humains.                                                                                                                                            |    Non    |    Non    |   Oui   |
 
-### Droits des différents rôles et personnes 
+#### Droits des différents rôles et personnes 
 
 | Droits                                                                                                                                                                 | Visiteuse | Résidente | Arrimée |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :-------: | :-----: |
@@ -212,7 +214,7 @@ Il y a trois rôle sur le lieu :
 | Le droit de décision sur l'argent des pots réservés aux dépenses exceptionnelles                                                                                       |    Non    |    Non    |   Oui   |
 | De participer aux décisions concernant les droits des autres rôles                                                                                                     |    Non    |    Non    |   Oui   |
 
-### Remarques transversales aux différents rôles
+#### Remarques transversales aux différents rôles
 
 1. La période d'essai d'un·e résident·e est d'au moins 4 mois et est discutée plus en détail avec toutes les résident·es et arrimé·es. La période d'essai est initiée sur demande et nécessite un accord unanime.
 2. La période d'essai d'un·e arrimé-e est d'un an. Pendant cette période seuls les revenus de la personne sont mutualisés. La personne ne peut devenir arrimé·e tant que son filet de sécurité n'est pas constitué (par elle ou par le collectif) 
@@ -223,23 +225,23 @@ Il y a trois rôle sur le lieu :
 7. Les motifs de refus d'accès au rôle, étayés si possible d'exemples et de pistes, doivent être communiqués aux personnes concernées.
 8. Les réunions concernant la stratégie à long terme ou tout autre sujet propre aux arrimé·es mais concernant le contexte commun ne peuvent exclure la présence des résident·es.
 
-## Investissement
+### Investissement
 Toute personne résidente sur le lieu accepte que les dépenses liées au lieu n’ont aucune garantie d'être restituées. Le terrain et l’immobilier relèvent de sa responsabilité, ainsi, les autres résident·es ne peuvent garantir l’achat ou la vente du bien. 
 
 > Chaque résident·e est invité·e, en cas de départ d’un·e résident·e ou membre, d’aider en fonction de ses moyens la personne qui part.
-## Mutualisation des ressources
+### Mutualisation des ressources
 Les personnes arrimées ont comme devoir la mutualisation de leurs ressources ce qui comprend leurs ressources financières (capital financier) et leur patrimoine. Ainsi, si l'un·e des arrimé-es quitte le statut arrimé·e ou est exclu·e des arrimé·es, ce qui a été mutualisé ne peut être repris. Pour éviter une dépendance au collectif plusieurs sécurités sont mis en place:
 1. Une somme d'argent hebdomadaire est allouée à chaque arrimé·e dont l'usage est à leur discrétion.
 2. Un filet de sécurité est prérequis pour devenir arrimé-e. Ce filet à comme objectif de permette à tout moment à la personne le détenant de partir du lieu. Ce filet de sécurité est variable (nous n'avons pas tous-tes le même capital social, familial, culturel... ) et est demandé par chaque candidat·e au rôle d'arrimé·e.
 3. Certains besoins sont considérés comme ubiquitaires tels que l'abonnement du téléphone mobile, les frais médicaux, frais bancaire, individus à charge et maintenance des vélos. Ils sont donc pris en charge par la mutualisation.
 4. Une somme d'argent est allouée à la constitution pour chaque arrimé·e d'un ensemble d'outils considérés comme essentiels.
 
-## Limites et quotas
+### Limites et quotas
 En vue de la taille et des ressources à disposition, certaines limites et certains quotas ont été définis: 
 - Un nombre maximum de 6 espaces personnels est fixé sur le lieu, à ce jour, permettant à 6 personnes/couples/familles de vivre sur le lieu. 
 - Un nombre maximum de 16 visiteuse·eurs à la fois est fixé pour passer une nuit sur le lieu
 
-## Textes et annexes
+### Textes et annexes
 - [Explications sur l'autonomie](../Philosophie/Autonomie)
 - [Explications sur le rapport au comfort](../Philosophie/Comfort)
 - [Explications sur notre opposition au libéralisme](../Philosophie/Anti-liberalisme)
