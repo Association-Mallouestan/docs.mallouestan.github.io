@@ -3,7 +3,7 @@
 ⌛ Durée: 2 jours
 
 ## Objectif
-Fabriquer des outils de bases nécessaires à la construction et apprendre à les utiliser. Apprendre quelques outils théorique d'analyse et de conception.
+Fabriquer des outils de bases nécessaires à la construction et apprendre à les utiliser. Apprendre quelques outils théoriques d'analyse et de conception.
 
 - Fabrication d'outils (les participant-es partent avec)
     - Corde à 13 nœuds
@@ -15,16 +15,16 @@ Fabriquer des outils de bases nécessaires à la construction et apprendre à le
     - Fil à plomb
     - Mètre
     - Scie
-- Outils théorique
+- Outils théoriques
     - Mathématiques (bases) pour la construction
-    - Plans et dessin
+    - Plans et dessins
 
 ## Programme sur deux jours
 ### Jour 1
 #### Matin
 - [ ] 👋 Accueil, présentation de la formation et des enjeux *(15min)* 
 - [ ] 📏 Apprendre à utiliser un mètre *(15min)*
-	- [ ]  Erreur commune de plier le mètre
+	- [ ] Erreur commune de plier le mètre
 	- [ ] Comprendre la marge du bout métallique 
 	- [ ] Mesurer un périmètre 
 	- [ ] Trouver le centre d'une pièce à section "irrationnel"
@@ -58,10 +58,10 @@ Fabriquer des outils de bases nécessaires à la construction et apprendre à le
 - [ ] ⚖️ Comprendre la notion de moyenne *(30min)*
 	- [ ] Comprendre pourquoi ce n'est pas si évident
 	- [ ] Apprenons une définition générale
-	- [ ] Comparaison de la moyennes arithmétique et géométrique (volume)
+	- [ ] Comparaison de la moyenne arithmétique et géométrique (volume)
 - [ ] ✏️ Revisitons les bases de géométrie *(45min)*
 	- [ ] Thalès 
-	- [ ] Angles et complémentarité 
+	- [ ] Angles et complémentarités
 	- [ ] Rads non apocalyptique 
 	- [ ] Pythagore 
 - [ ] ☕ Pause
@@ -69,13 +69,13 @@ Fabriquer des outils de bases nécessaires à la construction et apprendre à le
 	- [ ] Présentation du cercle trigonométrique
 	- [ ] Sin, cos, tan, et fonctions inverses
 	- [ ] SOHCAHTOA
-	- [ ] Complémentarité et identités
+	- [ ] Complémentarités et identités
 
 ### Jour 2
 
 #### Matin
 - [ ] 📏 Construction à la règle et au compas *(40min)*
-    - [ ] Rappel de comment obtenir demi, tiers et quart sur une sectin
+    - [ ] Rappel de comment obtenir demi, tier et quart sur une section
 	- [ ] Perpendiculaire
 	- [ ] Bissectrice 
 	- [ ] Triangle isocèle 
@@ -93,6 +93,6 @@ Fabriquer des outils de bases nécessaires à la construction et apprendre à le
 #### Après midi
 - [ ] 🧰 Découvertes d'outils *(20min)*
 	- [ ] Utilisation de la plane en libre
-	- [ ] Utilisation de la place sur banc d'âne 
+	- [ ] Utilisation de la place sur banc d'âne
 	- [ ] Utilisation du doloire
 - [ ] 🪓 Fabrication de manches pour haches et serpes *(3h)
