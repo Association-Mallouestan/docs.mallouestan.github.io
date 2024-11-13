@@ -1,4 +1,4 @@
-> [Accueil]("../") > [Portail Technique]("../charte-et-annexes/") > Charte du Mallouestan
+> [Accueil]("../") > [Charte et annexes]("../charte-et-annexes/") > Charte du Mallouestan
 
 ## Manuel des chercheuse-rs Mallouestanais-es
 ### Préface
