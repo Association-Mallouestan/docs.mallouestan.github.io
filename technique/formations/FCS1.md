@@ -2,10 +2,10 @@
 
 ⌛ Durée: 2 jours
 
-## Objectif
+## Objectifs
 Fabriquer des outils de bases nécessaires à la construction et apprendre à les utiliser. Apprendre quelques outils théoriques d'analyse et de conception.
 
-- Fabrication d'outils (les participant-es partent avec)
+- Fabrication d'outils (les participant•es partent avec)
     - Corde à 13 nœuds
     - Manche et hache
     - Maillet
@@ -88,7 +88,7 @@ Fabriquer des outils de bases nécessaires à la construction et apprendre à le
 - [ ] ✏️ Faire un plan *(1h20)*
 	- [ ] Différentes "vues"
 	- [ ] Vue en coupe
-	- [ ] Traçage par coordonnées (exemple parabole pour four à pain 🍞)
+	- [ ] Traçage par coordonnées (exemple parabole pour un four à pain 🍞)
 
 #### Après midi
 - [ ] 🧰 Découvertes d'outils *(20min)*
