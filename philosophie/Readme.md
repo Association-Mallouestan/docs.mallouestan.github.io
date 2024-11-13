@@ -1,11 +1,12 @@
 > <a href="../">Accueil</a> > Portail Philosophique
-# Portail philosophique
 
-## Présentation
+## Portail philosophique
+
+### Présentation
 
 Ce portail référence différents textes sur des réflexions et des points philosophiques utilisés au Mallouestan.
 
-## Textes fondamentaux
+### Textes fondamentaux
 
 - [Sur l'autonomie](./autonomie)
 - [Sur notre rapport au confort](./confort)
