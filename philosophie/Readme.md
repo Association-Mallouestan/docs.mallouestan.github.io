@@ -8,7 +8,11 @@ Ce portail référence différents textes sur des réflexions et des points phil
 
 ### Textes fondamentaux
 
-- [Sur l'autonomie](./autonomie)
-- [Sur notre rapport au confort](./confort)
-- [Sur les animaux et le monde non-humain](./environnement)
-- [Sur notre vision du libéralisme](./liberalisme)
+- [Sur l'autonomie](./fondamental/autonomie)
+- [Sur notre rapport au confort](./fondamental/confort)
+- [Sur les animaux et le monde non-humain](./fondamental/environnement)
+- [Sur notre vision du libéralisme](./fondamental/liberalisme)
+- [Notre visions de la consommation et des libertés individuelles](./fondamental/consommation)
+- [Notre rapport au militantisme](./fondamental/militantisme)
+- [Sur notre position Anti-Tech](./fondamental/anti-tech)
+
