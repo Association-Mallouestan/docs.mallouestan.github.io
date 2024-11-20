@@ -1,3 +1,5 @@
+> [Accueil](../../) > [Portail technique](../) > [Portail construction](./) > Corde et cordes à treize noeuds
+
 ## Corde et cordes à treize noeuds
 
 Corde avec 13 nœuds mais surtout 12 segments utiliser depuis des millénaires sur les chantiers pour mesurer, calculer des angles et faires des calculs de bases comme l'addition et la soustractions ainsi que la multiplication et la division.
