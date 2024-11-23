@@ -18,7 +18,11 @@ Avant de commencer un projet ou une construction une première analyse est néce
 
 #### Neige et pluie
 
-### Déformation et variations des matériaux
+### Déformation et variations des matériauxˋ
+
+![cercle trigo avec les fonctions](./images/schema-deformation-planches.jpg)
+
+![cercle trigo avec les fonctions](./images/schema-deformation-languette.jpg)
 
 ### Eau et humidité
 
