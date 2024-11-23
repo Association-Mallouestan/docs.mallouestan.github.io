@@ -47,7 +47,7 @@ Pour celle et ceux qui déteste des formules sortant de nulle part, ci dessous e
 
 > Dans (1) nous avons un carré de coté a+b contenant 4 triangles abc. Ces triangles forment un carré inscrit de coté c. Autrement dit, l'aire restant sans les triangle est égale à c<sup>2</sup>.
 
-> Dans (2) nous réarangeons les triangles sans changer leur taille, de fait sans changer la quatité de place qu'ils occupent. L'air restant ne change donc pas et reste égale à c<sup>2</sup>.
+> Dans (2) nous réarangeons les triangles sans changer leur taille, de fait sans changer la quantité de place qu'ils occupent. L'air restant ne change donc pas et reste égale à c<sup>2</sup>.
 
 > Ce réarangement permet également de voir que l'air restant égale a c<sup>2</sup> est composé de deux autres carré respectivement de coté a et b . Nous observons donc que c<sup>2</sup> équivaut effectivement à a<sup>2</sup> + b<sup>2</sup> 
 
