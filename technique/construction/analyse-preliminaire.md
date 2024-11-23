@@ -28,6 +28,8 @@ Avant de commencer un projet ou une construction une première analyse est néce
 
 #### Pluies
 
+![cercle trigo avec les fonctions](./images/bardages.jpg)
+
 #### Inondations
 
 #### Capillarité 
