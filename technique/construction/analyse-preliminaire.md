@@ -8,8 +8,11 @@ Avant de commencer un projet ou une construction une première analyse est néce
 
 #### Verticale
 
-Rebords
-Poteaux
+![cercle trigo avec les fonctions](./images/exemplepoteau.jpg)
+
+![cercle trigo avec les fonctions](./images/rebord-tenon.jpg)
+
+![cercle trigo avec les fonctions](./images/schema-forces.jpg)
 
 #### Ventement et horizontales
 
