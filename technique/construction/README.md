@@ -13,6 +13,7 @@ Trouvez içi différentes ressources sur le sujet de la construction
 - [Analyse préliminaire](./analyse-preliminaire)
 
 
-### Vocabulaire
+### Vocabulaire et lexiques
 
-- [Vocabulaire de charpente](./voc-charpente)
+- [Lexique bois et scierie](./lexique-bois-brut)
+- [Vocabulaire de charpente](./lexique-charpente)
