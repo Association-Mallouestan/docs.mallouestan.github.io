@@ -8,6 +8,8 @@
 
 ![metre ruban](./images/metreruban.jpg)
 
+L'embout métallique d'un mètre est mobile se déplaçant de quelques millimètre pour s'adapter aux différents cas d'usage: l'embout plaqué contre un objet, ou l'embout accrocher derrière un rebord ou un clou.  
+
 #### Mesure espace confiné 
 
 Une erreur commune est de plier le mètre pour mesurer dans des espces confinés. Comme indiqué ci-dessus un mètre de bonne qualité indique sa propre largeur. Cela nous permet de l'ajouter a une mesure dans des espaces confinés comme schématisé ci-dessous:
