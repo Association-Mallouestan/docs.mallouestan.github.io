@@ -5,7 +5,6 @@
 Avant de commencer un projet ou une construction une première analyse est nécessaire pour identifier diffénts risques et contraintes ausquels la construction seras soumises et auquel il faudras pallier. 
 
 ### Forces
-
 #### Verticale
 
 La majorité des structures sont exposé à des forces verticales, au minimum à la gravité. Dans le cas d'une maison, d'une table ou d'une brouette une charge dit normale exerce aussi de nombreuses forces.
@@ -58,7 +57,6 @@ La figure (b) prévoit certe de la place mais ne convient pas dans toute situati
 ![cercle trigo avec les fonctions](./images/schema-deformation-languette.jpg)
 
 ### Eau et humidité
-
 #### Pluies
 
 Quand nous considéront la pluies il faut prendre plusieurs facteurs en compte.
@@ -76,25 +74,42 @@ La figure (d) est très efficace et est plus simple que la solution (e) qui est 
 La pluie est un élément qui ne doit pas être négliger une logique similaire à celle qui soutend (c) doit être envisagé sur tout le batis. Autrement dit un chevauchement verticale de la piece de haut par dessus celle directement en dessous est conseillé pour les élements au contact de la pluies.
 
 #### Inondations
-
 Les inondation doivent être considérer pour différentes raisons. Les dégats dût à l'eau et la boue ainsi qu'aux débris véhiculé ainsi que les forces auquels elles expose la structure.
 
 Des pilotis peuvent être considérer mais doivent supporter les forces. La meilleur solutions est de bien choisir l'emplacement ou de terrasser.
 
 #### Capillarité 
+L'eau à tendances de remonter par capilarité dans de nombreux matériaux. S'infiltrant ainsi dans les murs ou poteau touchant le sol. Un hérisson, des murs en pierre sèche ou un matériaux imperméable permet d'éviter se phénomène. 
 
-L'eau à tendances de remonter par capilarité dans de nombreux matériaux. S'infiltrant ainsi dans les murs ou poteau touchant le sol. Un hérisson, des murs en pierre sèche ou un matériaux imperméable permet d'éviter se phnomène. 
+#### Humidité et isolation
 
-#### Humidité
+L'humidité et l'isolation sont fondamentales dans les espaces de vie mais aussi d'autres structures (four solaire, séchoire, placard de stockage). L'humidité affecte les matériaux et la chaleur est parfois importante à conserver ou évacuer.
+
+L'air chaux monte et entraine un courant avec lui. Nous pouvons utiliser ce principe pour mieux chauffer un espace mais aussi pour évacuer l'humidité. Il est donc conseillé de créer une sortie d'aeration en hauteur et une entrée basse et à "l'opposé" de la structure comme sur le schéma ci-dessous.
+
+SCHEMA NECESSAIRE
+
+Il faut analyser et prevoir la circulation d'air dans une structure. Un placard à besoin d'évacuer l'humidité tout comme une pièce de vie. Penser à laisser de l'espace pour que circule entre les étagère peut être en alternant l'avant et l'arriere pour que l'air circule dans l'enssemble de la structure ne doit pas être sous estimée.
 
 ### Parasitage et nuisibles
-
 #### Exclusions de certaines espèces
 
+De nombreuses espèces aime hacker [utiliser a des fins non prévue à l'origine] les constructions humaines. Il faut considérer les dégats qu'iels peuvent causer sans pour autant les exlure par défaut de nos environments proche. Essayons de composer avec elleux. Malgré celà il faut considérer les risques qu'elle posent. 
+
+Cela peut être des rongeur creusant des trous dans les murs ou, comme leur nom sous entend, qui peuvent ronger des éléments structurels. Des oiseaux fabriquant des nids hautement inflamable ou bouchant un conduit d'aération. 
+
+Ces risques sont propres aux espèces sauvages de l'environnment où la structure s'inscrit. Il faut une certaines analyse de cet environmment. 
+
 #### Dégradation des matériaux
+De nombreux insectes, d'autres espèces ou des champignons peuvent dégrader des matériaux. Un choix de matériaux doit également se faire en considérant ces réalités. 
 
 ### Autres risques
-
 #### Feu et incendie
 
+Le feu est un danger considérable pour de nombreuses structure. Le feu peut se transmettre même par simple radiations (à distance) et ne doit pas être sous estimée.
+
+Des matériaux ignifuge comme la pierre, la briques, les tommettes ou la terre paille peuvent créer des espaces de sécurité.
+
 #### Affaissement, fondations et terrain
+
+Le terrain surlequel se repose une structure peut ne pas être stables et exposer la structure à diverses forces extrème auquel lutter est presque vain. Il faut plûtot aborder cette problématique avec de la prévention. Le choix d'emplacement est important mais également une sécurité qui solidifie la structure en cas de glissement ou d'affaissement. Une structure peut servir même de cage protectrice. 
