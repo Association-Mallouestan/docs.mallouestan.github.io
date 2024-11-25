@@ -47,9 +47,13 @@ Une fois les différentes charges normales considérer et les charges anormales 
 Dans le schéma si dessus f2 est une force qui seras propager de façon particulière dans la structure. Imaginer une personnes assis sur le bout d'un banc amenant l'autre extrémité à se soulever. La force f2 indirectement "souléve" le bord de gauche. Dans le cas ou f2 est envisagé conséquent il est important de le contrer parfois à l'opposé de la structure.
 
 
-### Déformation et variations des matériauxˋ
+### Déformation et variations des matériaux
+
+Avec les variations de chaleur et d'humidité les matériaux quels qu'il soit change de propriétés nottement de taille. Cela peut mener a des déformations importante si ce n'est pas pris en compte. Parquet, lambris ou plan de travail qui bombent parfois jusqu'as rompre.  La figure (a) dans le schéma si dessous ne permet pas aux planches de changer de taille alors que la figure (b) prévoit un peu de place. 
 
 ![cercle trigo avec les fonctions](./images/schema-deformation-planches.jpg)
+
+La figure (b) prévoit certe de la place mais ne convient pas dans toute situation le schéma si dessus permet au matériaux de changer de taille tout en éliminant les espaces. 
 
 ![cercle trigo avec les fonctions](./images/schema-deformation-languette.jpg)
 
@@ -57,11 +61,31 @@ Dans le schéma si dessus f2 est une force qui seras propager de façon particul
 
 #### Pluies
 
+Quand nous considéront la pluies il faut prendre plusieurs facteurs en compte.
+
 ![cercle trigo avec les fonctions](./images/bardages.jpg)
+
+La figure (a) ci-dessus as des risques d'infiltration car le moindre écart permet à la l'eau de s'accumuler sur sur les tranches des planches.
+
+La figure (b) évite ce problème avec le chanfrin mais reste vulnérable au vent pouvant chasser l'eau horizontalement de droite (l'extérieur) vers la gauche (intérieur).
+
+La figure (c) coutourne les deux problème mais utilise plus de matière que d'autres solutions (donc plus lourd). Elle est également plus compliqué à sécuriser aux extrémité. Elle à l'avantage d'être simple a mettre en oeuvre.
+
+La figure (d) est très efficace et est plus simple que la solution (e) qui est encore plus sécurisant.
+
+La pluie est un élément qui ne doit pas être négliger une logique similaire à celle qui soutend (c) doit être envisagé sur tout le batis. Autrement dit un chevauchement verticale de la piece de haut par dessus celle directement en dessous est conseillé pour les élements au contact de la pluies.
 
 #### Inondations
 
+Les inondation doivent être considérer pour différentes raisons. Les dégats dût à l'eau et la boue ainsi qu'aux débris véhiculé ainsi que les forces auquels elles expose la structure.
+
+Des pilotis peuvent être considérer mais doivent supporter les forces. La meilleur solutions est de bien choisir l'emplacement ou de terrasser.
+
 #### Capillarité 
+
+L'eau à tendances de remonter par capilarité dans de nombreux matériaux. S'infiltrant ainsi dans les murs ou poteau touchant le sol. Un hérisson, des murs en pierre sèche ou un matériaux imperméable permet d'éviter se phnomène. 
+
+#### Humidité
 
 ### Parasitage et nuisibles
 
