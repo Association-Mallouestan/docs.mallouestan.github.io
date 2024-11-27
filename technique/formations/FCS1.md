@@ -7,10 +7,10 @@ Fabriquer des outils de bases nécessaires à la construction et apprendre à le
 
 - Fabrication d'outils (les participant•es partent avec)
     - Corde à 13 nœuds
-    - Manche et hache
     - Maillet
     - Scie à cadre
     - Niveau à poids
+	- Fil à plomb
 - Utilisation d'outils
     - Fil à plomb
     - Mètre
@@ -95,4 +95,4 @@ Fabriquer des outils de bases nécessaires à la construction et apprendre à le
 	- [ ] Utilisation de la plane en libre
 	- [ ] Utilisation de la place sur banc d'âne
 	- [ ] Utilisation du doloire
-- [ ] 🪓 Fabrication de manches pour haches et serpes *(3h)
+- [ ] 🪓 Fabrication de tennon mortaise *(3h)
