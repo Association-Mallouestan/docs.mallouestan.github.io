@@ -2,7 +2,7 @@
 
 ## Corde et cordes à treize noeuds
 
-Corde avec 13 nœuds mais surtout 12 segments utiliser depuis des millénaires sur les chantiers pour mesurer, calculer des angles et faires des calculs de bases comme l'addition et la soustractions ainsi que la multiplication et la division.
+Corde avec 13 nœuds mais surtout 12 segments utilisée depuis des millénaires sur les chantiers pour mesurer, calculer des angles et faires des calculs de bases comme l'addition et la soustraction ainsi que la multiplication et la division.
 
 > Multiplier vient de plier plusieurs fois la corde pour effectuer l'opération
 ### Géométrie par piquetage
@@ -14,6 +14,7 @@ On peut créer des parallélogramme avec une corde à treize noeuds comme les su
 2. Rectangle: 2, 4, 2, 4
 3. Rectangle 1, 5, 1, 5
 4. Losange (3, 3, 3, 3)
+
 #### Triangles et angles
 On peut réaliser différents triangles avec la corde à treize noeuds avec lesquels ont peut mesurer des angles.
 
@@ -26,7 +27,7 @@ On peut réaliser différents triangles avec la corde à treize noeuds avec lesq
 ### Fil comme compas
 
 #### Bissectrice 
-Une Bissectrice est une droite qui sépare un angle en deux partie égale. Dans le cas d'un segment elle sépare le segment en deux et est perpendiculaire à ce segment (l'équivalent d'une Bissectrice de 180 degrés). Construction:
+Une Bissectrice est une droite qui sépare un angle en deux parties égales. Dans le cas d'un segment elle sépare le segment en deux et est perpendiculaires à ce segment (l'équivalent d'une Bissectrice de 180 degrés). Construction:
 
 ![triangles](./images/bissectrice.jpg)
 
@@ -60,15 +61,15 @@ Une Bissectrice est une droite qui sépare un angle en deux partie égale. Dans 
 
 ![triangles](./images/arc.b.tp.jpg)
 
-### Division de parallélogramme 
-Grâce au piquetage nous pouvons également diviser des parallélogramme de manière extrêmement précise.
+### Division de parallélogrammes 
+Grâce au piquetage nous pouvons également diviser des parallélogrammes de manière extrêmement précise.
 
 ![triangles](./images/divisiongeo.jpg)
 
 1. Prennons le parallélogramme UVZY
 2. Construisons son centre C en traçant UZ et VY
 2. (bis) La parallèle à UY et VZ passant par C divise en deux UVZY et permet de construire A et B
-3. En traçant UB et YA on obtient 3 nouveaux points dont un, l'intersection de ces derniers tracée, définissant un quart de AB et YZ mais centré sur UY et VZ. Les deux autres points sont situé à différents tiers. 
+3. En traçant UB et YA on obtient 3 nouveaux points dont un, l'intersection de ces derniers tracés, définissant un quart de AB et YZ mais centrés sur UY et VZ. Les deux autres points sont situés à différents tiers. 
 ### Multiplication de parallélogramme 
 
 ![triangles](./images/multiplicationgeo.jpg)

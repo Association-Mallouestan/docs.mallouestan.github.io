@@ -14,7 +14,7 @@ DE/BC=AE/AC=AD/AB
 
 Super ça! À quoi cela nous sert ?
 
-Dans le cas d'une maison/abbris comme ci dessous:
+Dans le cas d'une maison/abri comme ci dessous:
 
 ![triangle rectangle](./images/usecase-notannoted.jpg)
 
@@ -35,13 +35,13 @@ soit environ 1,333 m
 
 ![triangle rectangle](./images/trianglerectangleABC.jpg)
 
-Le théorème de Pythagore ennonce:
+Le théorème de Pythagore énnonce:
 
 AB<sup>2</sup>+AC<sup>2</sup>=BC<sup>2</sup>
 
 BC étant l'hypothénuse. Soit le carré de l'hypothénuse est égale à la somme des carrés des deux autres cotés.
 
-Pour celle et ceux qui déteste des formules sortant de nulle part, ci dessous est la preuve visuel de ce théoreme.
+Pour celle et ceux qui détestent des formules sortant de nulle part, ci dessous est la preuve visuel de ce théoreme.
 
 ![visual proof pythagore](./images/pythagore-visualproof.jpg)
 
@@ -49,7 +49,7 @@ Pour celle et ceux qui déteste des formules sortant de nulle part, ci dessous e
 
 > Dans (2) nous réarangeons les triangles sans changer leur taille, de fait sans changer la quantité de place qu'ils occupent. L'air restant ne change donc pas et reste égale à c<sup>2</sup>.
 
-> Ce réarangement permet également de voir que l'air restant égale a c<sup>2</sup> est composé de deux autres carré respectivement de coté a et b . Nous observons donc que c<sup>2</sup> équivaut effectivement à a<sup>2</sup> + b<sup>2</sup> 
+> Ce réarangement permet également de voir que l'air restant égale a c<sup>2</sup> est composé de deux autres carré respectivement de coté a et b. Nous observons donc que c<sup>2</sup> équivaut effectivement à a<sup>2</sup> + b<sup>2</sup> 
 
 Voici comment ce théorème peut nous être utile dans le cas vus ci-dessus.
 
@@ -67,4 +67,4 @@ Nous cherchons EC et non EC² donc
 EC = √(EC²) = √11,11 = 3,333
 ```
 
-EC est donc égale à 3,333. Si notre abbris est long (ou profond) de 5m il nous faudras 3,333*5 m² de lambris, soit 16,66m²
+EC est donc égale à 3,333. Si notre abris est long (ou profond) de 5m il nous faudras 3,333*5 m² de lambris, soit 16,66m²

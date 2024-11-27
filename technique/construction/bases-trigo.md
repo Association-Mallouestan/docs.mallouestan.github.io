@@ -24,7 +24,7 @@ Les fonctions mathématiques permetent d'obtenir ces différentes distances: sin
 
 Des fonctions permettent de faire l'opération inverse et ainsi de fournir l'angle à partir de la longueur: sin<sup>-1</sup>(longueur), cos<sup>-1</sup>(distance),tan<sup>-1</sup>(distance).
 
-> Ces fonctons inverse sont parfois noter asin, acos, atan ou arcsin, arccos,arctan.
+> Ces fonctons inverses sont parfois noter asin, acos, atan ou arcsin, arccos,arctan.
 
 ### Cas d'usage
 
@@ -46,7 +46,7 @@ BĈA=asin(3/5)
 BĈA=36.87 degrés
 ```
 
-Maintenant remplaçons le toit pour le remplacer par un toit en chaume nécessitant un angle plus grand, disons 60 degrées. Nous interressons donc a l'incidence sur la longueur AB
+Maintenant remplaçons le toit pour le remplacer par un toit en chaume nécessitant un angle plus grand, disons 60 degrés. Nous nous interressons donc a l'incidence sur la longueur AB
 
 
 Si BĈA est égale 60 degrés et nous savons que 
