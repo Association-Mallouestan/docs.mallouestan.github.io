@@ -4,6 +4,10 @@
 
 ### Dispositions et correspondances entre les vues
 
+![source: https://turgotlimoges.scenari-community.org/SI-CIT/Modeleur/co/module_SW.html](./images/boite-de-projections.png)
+
+![source: https://turgotlimoges.scenari-community.org/SI-CIT/Modeleur/co/module_SW.html](./images/boite-depliee.png)
+
 ![triangle rectangle](./images/vues.jpg)
 
 ### Les différents type de traits
