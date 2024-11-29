@@ -11,6 +11,9 @@ Trouvez içi différentes ressources sur le sujet de la construction
 
 ### Fondamentaux théorique
 - [Analyse préliminaire](./analyse-preliminaire)
+- [Dessins de plans 2d et standards](./plans-et-vues)
+- [Thales et pythagore](./thales-pythagore)
+- [Bases de trigonométrie](./bases-trigo)
 
 
 ### Vocabulaire et lexiques
