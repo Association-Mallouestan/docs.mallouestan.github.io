@@ -1,28 +1,15 @@
-# Formation construction et sédentarité  
+> [Accueil](../../) > [Portail formation](../) > Fiche formateur FCS1
 
-⌛ Durée: 2 jours
+## Fiche formateur FCS1
 
-## Objectifs
-Fabriquer des outils de bases nécessaires à la construction et apprendre à les utiliser. Apprendre quelques outils théoriques d'analyse et de conception.
-
-- Fabrication d'outils (les participant•es partent avec)
-    - Corde à 13 nœuds
-    - Maillet
-    - Scie à cadre
-    - Niveau à poids
-	- Fil à plomb
-- Utilisation d'outils
-    - Fil à plomb
-    - Mètre
-    - Scie
-- Outils théoriques
-    - Mathématiques (bases) pour la construction
-    - Plans et dessins
-
-## Programme sur deux jours
-### Jour 1
-#### Matin
+### Programme sur 2 jour
+#### Jour 1
+##### Matin
 - [ ] 👋 Accueil, présentation de la formation et des enjeux *(15min)* 
+    - [ ] Construction "low tech" vs "primitif"
+    - [ ] Utilités des compétences et des outils techniques 
+    - [ ] Pourquoi prendre une approche aussi 'techne'. (metis vs techne)
+    - [ ] Intéragir avec le monde extérieur, comprendre des plans de projets ennemie.
 - [ ] 📏 Apprendre à utiliser un mètre *(15min)*
 	- [ ] Erreur commune de plier le mètre
 	- [ ] Comprendre la marge du bout métallique 
@@ -40,7 +27,7 @@ Fabriquer des outils de bases nécessaires à la construction et apprendre à le
 		- [ ] Démonstration
 - [ ] 📐 Démonstration de la fabrication d'une équerre à plis (5min)
 
-#### Après midi
+##### Après midi
 - [ ] 🪚 Apprendre à scier droit
 - [ ] 🪵 Fabrication d'une scie à cadre *(2h)*
 	- [ ] Présentation de l'outil
@@ -55,7 +42,7 @@ Fabriquer des outils de bases nécessaires à la construction et apprendre à le
 	- [ ] Ajoutons une graduation
 	- [ ] Ajoutons un Vernier
 
-#### Soir
+##### Soir
 - [ ] ✏️ Revisitons les bases de géométrie *(45min)*
 	- [ ] Thalès 
 	- [ ] Angles et complémentarités
@@ -67,9 +54,9 @@ Fabriquer des outils de bases nécessaires à la construction et apprendre à le
 	- [ ] Sin, cos, tan, et fonctions inverses
 	- [ ] SOHCAHTOA
 
-### Jour 2
+#### Jour 2
 
-#### Matin
+##### Matin
 - [ ] 📏 Construction à la règle et au compas *(40min)*
     - [ ] Rappel de comment obtenir demi, tier et quart sur une section
 	- [ ] Perpendiculaire
@@ -87,7 +74,7 @@ Fabriquer des outils de bases nécessaires à la construction et apprendre à le
 	- [ ] Vue en coupe
 	- [ ] Traçage par coordonnées (exemple parabole pour un four à pain 🍞)
 
-#### Après midi
+##### Après midi
 - [ ] 🧰 Découvertes d'outils *(20min)*
 	- [ ] Utilisation de la plane en libre
 	- [ ] Utilisation de la place sur banc d'âne
