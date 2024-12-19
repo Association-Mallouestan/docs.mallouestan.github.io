@@ -40,7 +40,7 @@ La réalité est que nous vivons dans un contexte où cet idéal est potentielle
 Pour une problèmatique donné:
 1. nous chercherons d'abbord à la resoudre de manière sauvage (sans domestication végétale ni animaux)
 2. si aucune solution à était trouver nous nous résolvons à chercher une solution au travers de la domestication végétale.
-3. si nous avons toujours pas trouver de solution nous cherchons une solution en acceptant qu'un impact sur le monde animale et sentient est incontournable. Mous cherchons dans ce dernier cas à **tout faire** pour le minimiser.<sup>4;5</sup> 
+3. si nous avons toujours pas trouver de solution nous cherchons une solution en acceptant qu'un impact sur le monde animale et sentient est incontournable. Nous cherchons dans ce dernier cas à **tout faire** pour le minimiser.<sup>4;5</sup> 
 
 Par exemple, nous pratiquons du maraîchage, mais sans mécanisation ni intrants d'origine animale. Ce maraîchage incorpore de nombreuses pratiques qui pourraient légitimement être considérées comme paysannes et dépendant de la domestication végétale. Nous y avons recours car nous ne voyons aucune alternative viable qui nous permettrait de nous en passer totalement pour le moment. Toutefois, nous ne souhaitons pas nous reposer sur cette approche, car elle ne correspond pas à notre idéal.
 
@@ -65,11 +65,10 @@ Il montre également que le lieu s’oppose à la domestication et se positionne
 3. Cette évaluation nécessite une connaissance de cet environnement, de ces écosystèmes. Comprendre les individus qui les habitent, souvent à nos côtés. Comprendre comment elles et ils habitent ces espaces. Quels éléments leur sont essentiels, importants ou accessoires. Comprendre les interactions entre les individus, leurs espaces de rencontre, la nature de leurs échanges, la politique et la vie sociale non humaines qui se jouent en parallèle de la nôtre.
 4. Ici il pourrait être interprété, une rupture avec le veganisme mais ce n'est pas exactement le cas. Le véganisme est définit souvent de façon similaire à ce qui est fournit par Vegan Society, ci dessous: 
 
-```
-Le véganisme est une philosophie et un mode de vie qui cherche à exclure — dans la mesure du possible et du praticable — toutes les formes d'exploitation et de cruauté envers les animaux, que ce soit pour l'alimentation, l'habillement ou toute autre finalité ; et, par extension, il promeut le développement et l'utilisation d'alternatives sans produits animaux au bénéfice des animaux, des humains et de l'environnement.
-```
+> Le véganisme est une philosophie et un mode de vie qui cherche à exclure — dans la mesure du possible et du praticable — toutes les formes d'exploitation et de cruauté envers les animaux, que ce soit pour l'alimentation, l'habillement ou toute autre finalité ; et, par extension, il promeut le développement et l'utilisation d'alternatives sans produits animaux au bénéfice des animaux, des humains et de l'environnement.
 
-Cette définition est donc parfaitement compatible avec notre approche car elle cantonne la pratique du veganisme à "la mesure du possible et du praticable". Malgré cette justification technique, nous nous distinguons du véganisme hégémonique où l'industrie est salvatrice. 
+Cette définition est donc parfaitement compatible avec notre approche car elle cantonne la pratique du veganisme à "la mesure du possible et du praticable". Malgré cette justification technique, nous nous distinguons du véganisme hégémonique où l'industrie est salvatrice.
+
 5. Une question reçurente aborde l'hierarchie: sauvage > domestication végétale > domestication animale. La question est portée surtout sur notre préférance des animaux et être sentient sur le monde végétale. Cette question se méprend. La raison que les animaux ont cette place importante nécéssiterais bien plus que cette note de bas de page. Néanmoin une justification suffisante et courte permet au moins de valider ce choix. La domestion animale implique quasi systématiquement la domestication végétale et dans les rares exeptions ont des impact considérable sur les écosystèmes.  
  
 ### Références
