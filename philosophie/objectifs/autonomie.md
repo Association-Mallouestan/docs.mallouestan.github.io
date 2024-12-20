@@ -1,17 +1,19 @@
-# L'autonomie 
-## Pourquoi écrire ce texte ?
+> [Accueil](../../) > [Portail philosophique](../) > Texte sur l'autonomie
+
+## L'autonomie 
+### Pourquoi écrire ce texte ?
 
 En accueillant de nombreux-ses visiteuse-eurs sur le lieu nous nous sommes souvent questionné-es sur notre rapport à l'autonomie. Nous avons remarqué que notre position n'est ni simple à expliquer ni facile à comprendre notamment quand elle se cantonne à une rapide présentation lors des visites du lieu. Il nous semble également que le partage des visions respectives des membres du projet, similaires certes mais jamais identiques, ne facilitent pas la compréhension de notre/nos points de vue communs. Cela nous a été aussi partagé par plusieurs des visiteuse-eurs, confirmé lors de demandes d'explications supplémentaires ou quand des visiteuse-eurs, même régulier-es, caractérisent notre projet d'autonomie d'une façon que nous ne reconnaissons pas. Il nous a donc semblé essentiel de structurer nos idées, d'expliciter aussi clairement que nous pouvons l'importance que nous accordons à cet aspect du lieu. L'autonomie est pour nous intimement politique et étaye de nombreux autres aspects du lieu. 
 
 Nous commencerons, donc, dans ce texte par définir ce que nous entendons par l'autonomie, notamment vis à vis de quoi nous cherchons à être autonome, nous permettant ensuite d'expliquer les raisons qui nous motive. Après ces deux points nous expliquerons par quels moyens nous envisageons de tendre vers l'autonomie et pour conclure sur comment, actuellement sur le lieu, ce début d'autonomie se manifeste. 
 
-## Quelle autonomie ?
+### Quelle autonomie ?
 
 L'autonomie que nous cherchons est tout d'abord une rupture avec la culture dominante et les mécanismes qu'elle soutient qui bien souvent, intriquées comme elles le sont, permettent a cette même culture de perdurer. Nous ne cherchons pas seulement à fuir les fonctionnements structurels, permettant toute sorte d'oppression et d'inégalité systémique comme le sexisme, le racisme, le spécisme pour en nommer quelques exemples. Nous cherchons également une émancipation vis à vis de notre civilisation thermo-industrielle, extractiviste, du capitalisme et d'un mondialisme néo-colonial. C'est une autonomie de rupture et d'opposition mais non une autonomie totale. L'autonomie totale n'est pour nous ni pertinente ni possible. Cette autonomie passe, notamment, par une indépendance technique pour répondre à nos besoins (maraîchage, construction, soins ...) mais également par une autonomie intellectuelle, artistique et culturelle.
  
 Nous cherchons donc à nous abstraire du libéralisme économique mais également philosophique et culturel (un texte similaire a été écrit sur notre rejet du libéralisme). Au contraire du libéralisme, centré autour des intérêts individuels, nous cherchons une autonomie collective et inclusive qui saura être résiliente face aux crises et défis se proliférant à l'horizon. Nous cherchons aussi a être autonomes dans l'aide apportée à autrui et ainsi soutenir d'autres collectifs, groupes ou personnes. Notre autonomie n'a pas pour vocation d'être autarcique ou centrée sur notre lieu mais une source d'émancipation, limitée par nos capacités, profitant à tous-tes celles et ceux à qui cela pourrait bénéficier.
 
-## Pour quelles raisons cherchons-nous l'autonomie ?
+### Pour quelles raisons cherchons-nous l'autonomie ?
 
 Commençons par définir ce qui **ne fait pas** partie de nos motivations à devenir autonomes, en espérant éliminer le plus possible d'ambiguïtés potentielles, pour la suite. Pour commencer, notre recherche n'inclue pas un désir de puritanisme moral, où l'autonomie nous permettrait de se sentir intègre en ne contribuant pas ou peu aux problèmes qui nous entourent. Nous valorisons certes une cohérence sur le lieu mais c'est une cohérence collective et qui n'a pas comme prétention une position morale supérieure, propre ou pure; utilisée comme référentiel pour juger d'autres individus. Nous ne sommes pas non plus dans un romantisme du passé où nombreux problèmes cités plus haut étaient tout aussi présents. Nous utilisons certes, sur le lieu, des techniques parfois anciennes pour accomplir des objectifs, mais nous les choisissons pour leur efficacité et les mêlons aux connaissances et techniques modernes quand nous le jugeons pertinent.  
 
@@ -25,7 +27,7 @@ La barrière, entre nous et la réalité, contribue a un autre problème auquel 
 
 Notre autonomie est aussi une recherche d'indépendance stratégique face à ce qui nous lie encore à nos ennemis. Plus nous pouvons répondre a nos besoins moins nos ennemis, qui sont les seuls actuellement en mesure d'y répondre, aurons un pouvoir sur nous. Ce fossé que nous cherchons a creuser dans le contexte de lutte sociales et politique actuel nous semble indispensable.<sup>7</sup> Il nous permet de s'abstraire de ce système pour mieux le combattre et en cas d'échec, éventualité non négligeable mais négligée globalement, de mieux surmonter les défis qui se poserons.
 
-## Comment et par quels moyens ?
+### Comment et par quels moyens ?
 
 La première chose a implémenter *[mettre en place en respectant un cadre]* est une scission réelle avec la culture dominante. Il faut trouver des articulations alternatives aux analyses des problèmes sociaux, environnementaux et spirituels populaires car ces analyses sont de façon hégémonique *[très majoritairement]* ancrées dans un logiciel libéral. Cette scission ne peut qu'être portée par une culture de la critique et surtout de l'autocritique forte. L'articulation n'est que la première étape de l'appropriation d'une nouvelle culture qui se développe par la cohérence de nos actions avec ce nouveau logiciel.
 
@@ -55,7 +57,7 @@ Pour résumer cette partie, le collectif travaille sur l'autonomie notamment au 
 6. Un développement d'un réseau local et lointain
 7. Une culture de l'autocritique et de la critique. 
 
-## Et concrètement sur le lieu ?
+### Et concrètement sur le lieu ?
 
 Le lieu travaille sur ces objectifs qui pour certains n'ont pas changé depuis deux ans et continuera à le faire tant que le collectif le juge pertinent. Sur le lieu nous avons commencé par attaquer le problème de solidarité avec l'accueil de plus de 70 non humain-es depuis la création du lieu et l'accueil actuel d'une trentaine (compris dans les 70). Le sanctuaire que le lieu a fourni à ces individus a depuis la création du lieu été la priorité du collectif. Ce sanctuaire ne pourrait exister sans d'autres aspects de notre autonomie. Ces aspects permettent notamment qu'un grand nombre de personnes sur le lieu ne soient pas soumises à un travail salariat qui limiterai considérablement le temps consacré à tous-tes ces individu-es. 
 
@@ -70,7 +72,7 @@ Notre gouvernance, nos compétences sociales, nos compétences techniques, nos c
 Il nous semble donc que cette autonomie bénéficie aux individus membres du collectif, les animaux non humain-ess malheureusement domestiqué-es que nous accueillons, les animaux sauvages nous entourant, les individu-es humain-es que nous accueillons et le réseau d'entraide qui se forme doucement. De part les progrès et les bénéfices observés nous sommes convaincu-es que la suite en amènera d'autres. Nous nous acharnons donc dans ce sens. Vers une solidarité accrue, des compromis réduits et une liberté collective retrouvée<sup>9</sup>.
 
 
-## Réferences
+### Réferences
 
 Ces références ne représente en aucun cas la validation de notre parts de collectifs ou d'autrice-eurs mais sont des sources d'information étayant ce texte qui n'as pas un objectif académique.
 
