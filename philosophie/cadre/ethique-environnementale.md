@@ -31,18 +31,18 @@ Ce concept est central à la réflexion du lieu et à son approche éthique. Com
 
 ### Actuellement sur le lieu
 
-L'idéal présenté ci-dessus se heurte malheureusement à la réalité et aux conditions matérielles dans lesquelles nous évoluons. Prenons l'exemple de notre opposition à la paysannerie. 
+L'idéal présenté ci-dessus se heurte malheureusement à la réalité et aux conditions matérielles dans lesquelles nous évoluons. La réalité est que nous vivons dans un contexte où cet idéal est potentiellement inatteignable. Nous vivons dans une réalité dégradé, où la biodiversité est bien plus appauvrie que ce que nous souhaiterions. Nous vivons aussi dans un monde où notre cadre soulève de nombreuses questions logistiques et technique complexes actuellement sans réponses aboutit. Nous procédons 
+pour une problèmatique donné comme suit:
+
+1. nous cherchons d'abbord à la resoudre de manière sauvage (sans domestication végétale ni animal)
+2. si aucune solution à était trouver et qu'aucune alternative à était trouver nous nous résolvons à chercher une solution au travers de la domestication végétale.
+3. si nous avons toujours pas trouver de solution nous cherchons une solution en acceptant qu'un impact sur le monde animale et sentient est incontournable. Nous cherchons dans ce dernier cas à **tout faire** pour le minimiser.<sup>4;5</sup> 
+
+Prenons l'exemple de notre opposition à la paysannerie. 
 
 > Il est d'abord important de préciser ici que nous parlons de l'idéologie ou des méthodes paysannes, et non des personnes qui s’identifient comme paysannes ou de toute personne classée dans cette catégorie.
 
-La réalité est que nous vivons dans un contexte où cet idéal est potentiellement inatteignable. Nous visons dans une réalité dégradé, où la biodiversité est bien plus appauvrie que ce que nous souhaiterions. Nous vivons aussi dans un monde où notre cadre soulève de nombreuses questions logistiques et technique complexes actuellement sans réponses aboutit. Pour ces raisons bien que notre idéal soit opposé à la paysannerie, nous acceptons qu'il est actuellement impossible de nous en passer totalement. Comment cela se manifeste-t-il au Mallouestan ?
-
-Pour une problèmatique donné:
-1. nous chercherons d'abbord à la resoudre de manière sauvage (sans domestication végétale ni animaux)
-2. si aucune solution à était trouver nous nous résolvons à chercher une solution au travers de la domestication végétale.
-3. si nous avons toujours pas trouver de solution nous cherchons une solution en acceptant qu'un impact sur le monde animale et sentient est incontournable. Nous cherchons dans ce dernier cas à **tout faire** pour le minimiser.<sup>4;5</sup> 
-
-Par exemple, nous pratiquons du maraîchage, mais sans mécanisation ni intrants d'origine animale. Ce maraîchage incorpore de nombreuses pratiques qui pourraient légitimement être considérées comme paysannes et dépendant de la domestication végétale. Nous y avons recours car nous ne voyons aucune alternative viable qui nous permettrait de nous en passer totalement pour le moment. Toutefois, nous ne souhaitons pas nous reposer sur cette approche, car elle ne correspond pas à notre idéal.
+Pour ces raisons bien que notre idéal soit opposé à la paysannerie, nous acceptons qu'il est actuellement impossible de nous en passer totalement. Nous pratiquons du maraîchage sans mécanisation ni intrants d'origine animale domestiqué . Ce maraîchage incorpore de nombreuses pratiques qui pourraient légitimement être considérées comme paysannes et dépendant de la domestication végétale. Nous y avons recours car nous ne voyons aucune alternative viable qui nous permettrait de nous en passer totalement pour le moment. Toutefois, nous ne souhaitons pas nous reposer sur cette approche, car elle ne correspond pas à notre idéal.
 
 Ainsi, nous développons en parallèle, de manière prioritaire, des compétences qui nous permettent de réduire progressivement notre dépendance à cette forme de maraîchage paysan. La cueillette de plantes sauvages, ainsi que toute autre forme de subsistance qui n’implique aucune domestication volontaire, est activement explorée sur le lieu.
 
@@ -67,9 +67,9 @@ Il montre également que le lieu s’oppose à la domestication et se positionne
 
 > Le véganisme est une philosophie et un mode de vie qui cherche à exclure — dans la mesure du possible et du praticable — toutes les formes d'exploitation et de cruauté envers les animaux, que ce soit pour l'alimentation, l'habillement ou toute autre finalité ; et, par extension, il promeut le développement et l'utilisation d'alternatives sans produits animaux au bénéfice des animaux, des humains et de l'environnement.
 
-Cette définition est donc parfaitement compatible avec notre approche car elle cantonne la pratique du veganisme à "la mesure du possible et du praticable". Malgré cette justification technique, nous nous distinguons du véganisme hégémonique où l'industrie est salvatrice.
+Cette définition est donc parfaitement compatible avec notre approche car elle cantonne la pratique du veganisme à "la mesure du possible et du praticable". Malgré cette justification technique, nous nous distinguons du véganisme hégémonique qui voit l'industrie comme salvatrice.
 
-5. Une question reçurente aborde l'hierarchie: sauvage > domestication végétale > domestication animale. La question est portée surtout sur notre préférance des animaux et être sentient sur le monde végétale. Cette question se méprend. La raison que les animaux ont cette place importante nécéssiterais bien plus que cette note de bas de page. Néanmoin une justification suffisante et courte permet au moins de valider ce choix. La domestion animale implique quasi systématiquement la domestication végétale et dans les rares exeptions ont des impact considérable sur les écosystèmes.  
+5. Une question reçurente aborde l'hierarchie entreles le monde sentient animale et le végétale où nous préférons dépendre de la domestication végétale plutôt qu'animale. La raison que les animaux ont cette place importante nécéssiterais bien plus que cette note de bas de page. Néanmoins une justification suffisante et courte permet au moins de valider ce choix: la domestion animale implique quasi systématiquement la domestication végétale et dans les rares exeptions ont des impact considérable sur les écosystèmes.  
  
 ### Références
 
