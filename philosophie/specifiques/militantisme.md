@@ -6,15 +6,12 @@
 
 Nous somme nombreux-ses sur le lieu à avoir de l'experience militante avant de venir habiter au Mallouestan. Nous sommes nombreux-ses à compter notre déception à l'égard de ces experiences comme faisant partie des causes de notre venue sur le lieu. Cette déception et nos diverses critiques, constructive dans l'intention, font régulièrement partie des discussions sur le lieux avec nottament des visteurices. Ce texte à pour raison d'éclaircir ces échanges qui parfois, probablement souvent de notre faute, ont pût ne pas être des plus clairs ou adroits. 
 
-
 Ce texte, tout comme les autres que nous avons écrits abordant notre vision, notre cadre ou nos objectifs, permet de partager et de rendre disponibles nos réflexions et pensées. Cette substance, une fois accessible, permet également de la rendre examinable et critiquable. Effectivement, un de nos objectifs est certes de les partager, mais nous n'envisageons aucunement ces contenus comme étant immunisés contre nos méprises ou erreurs. Il nous semble donc important de les faire évoluer au travers des regards extérieurs que ces textes, notamment celui-ci, rendent possibles. Nous écrivons donc ce texte pour diverses raisons : nous souhaitons qu'il soit accessible, instructif et régulièrement remis en question, mais également écarter les caractérisations de type homme de paille *[une caractérisation fausse en simplifiant ou stéreotypant une position]* nous prêtant à tort des positions simplifiées sur ces sujets.
 
 ### De quoi allons nous parler ?
-
 Nous allons aborder dans ce textes différentes critique à l'égard des millieux militants. Celles-ci, ne reflète en aucun cas un jugement de notre part à l'égard des individus qui militent dans les contextes que nous allons questionner. Elle sont exprimé pour expliqué en espérant qu'elle contribuent à l'amélioration des luttes. Nous allons expliquer dans ce texte notre vision de comment nous souhaions que le Mallouestan s'inscrive dans le monde mititant. Nous allons commencer par définir quelques repères pour ensuite pouvoir être le plus constructif possible.
 
 ### Militantisme offensif vs déffensif
-
 Nous allons utiliser une distinction dans ce texte qui nous semble pertinent pour caractérisé les différentes stratégie militantes: celle de militantisme offensif vs déffensive. Cette caractérisation est appliquable aux stratégie militantes et non leurs tactiques. Les tactiques içi désigne les modus-operandi seuls, hors contexte, comme la mannifestation, le sabotage, les sit-ins ou encore le collage. Ces exemples de tactiques sont des outils qui peuvent être utilisé quand ils sont juger pertinents. Une stratégie quand à elle définit des objectifs, les tactiques pour les atteindres, la temporalités et plus généralement le cadre. Une tactique ne définit pas le caractère offensif ou non d'une action ou d'un groupe militant. C'est au niveau stratégique que cela ce joue. 
 
 Est-ce que la stratégie prévoit principalement de s'attaquer à des choses structurelles comme le sexisme ? Si oui, elle soutend un mouvement offensif contrairement à un mouvement prenant en charge les personnes souhaitant sortir du monde du travail du sexe qui serait un mouvement défensif. Effectivement, l'objectif est d'aider certaines perssonnes sans attaquer la racine structurelle. Avant de continuer il faut nuancer quelques points. Premièrement un mouvement n'est pas que offensif ou deffensif mais est sur un spectre entre c'est deux absolue. Deuxiemement il n'est pas içi de comparer ces deux natures entre elle et d'en valoriser un au dépend de l'autre mais de simplement un outil de descriptif. prenons quelques exemples pour mieux illustrer ce dualisme:
@@ -26,8 +23,22 @@ Est-ce que la stratégie prévoit principalement de s'attaquer à des choses str
 
 ### Les petits gestes
 
-Nous avons croiser, que ce soit avant le Mallouestan ou depuis sur le lieu, de nombreuses personnes militant autravers, très souvent à l'échelle individuelle, d'actions, de pratiques, ou de revendications que nous pourrions caractériser de petit gestes. Cela inclue, par exemple, le tri des déchets, les pipis sous des douches courtes, le véganisme, la vasectomie ou s'interdir de prendre l'avion. Ces pratiques sont parfois associer avec une prétention offensive. Autrement dit, que ces actions contribuerait, par collibrisme [accumation de toutes ces pratiques], à un changement politique de grande ampleurs. L'exemple de la campagne de comunication de Biocoop "Manger bio est un geste politique" est un exemple paritculièrement représentatif de cette idée.
+Nous avons croiser, que ce soit avant le Mallouestan ou depuis sur le lieu, de nombreuses personnes militant autravers, très souvent à l'échelle individuelle, d'actions, de pratiques, ou de revendications que nous pourrions caractériser de petit gestes. Cela inclue, par exemple, le tri des déchets, les pipis sous des douches courtes, le véganisme, la vasectomie ou s'interdir de prendre l'avion. Ces pratiques sont parfois associer avec une prétention offensive. Autrement dit, que ces actions contribuerait, par collibrisme [accumation de toutes ces pratiques], à un changement politique de grande ampleurs. L'exemple de la campagne de comunication de Biocoop "Manger bio est un geste politique" est un exemple paritculièrement représentatif de cette idée<sup>2</sup>.
 
-Nous rejettons fermement cette approche.  
+Nous rejettons fermement cette prétention associé à ce genre de pratiques. C'est une vision qui s'inscrit parfaitement dans la logique libérale du système<sup>1</sup> capitaliste occidentale (voir le texte "Anti-libéralisme"). Effectivement nous n'adhérons pas au fait de penser que sans organisation politique mais plûtot par cummulation de simple volonté individuelles nous arriverons à changer dans le bon sens des logiques structurelles et systèmique.
+
+Historiquement aucun changement social majeurs (droits pour les femmes, abbolition de ségrégation raciale...) n'as utilisé ces tactiques de façon efficace dans des stratégies offensives. Au contraire ce sont ces logiques qui ont ammenés à des échecs et des contradictions bénnéficiant surtout au système<sup>3</sup>. Souvent cela créer des marchés où état et entreprises capitalise sur ces logiques. Nous l'avons vu, ci dessus, avec l'éxemple de Biocoop mais c'est également le cas avec le véganisme où un marché entier de produits est née. Une majorité de vegans achète des produits à des entreprises, qui par ailleurs exploite les non-humains, qui sont dépendant d'une chaine industrielles et d'exploitation conséquente; c'est à ce demander si ces produits sont vraiment vegan car pour exister elle ont nécéssité, certes collatéralement, le sacrifice de non-humains et d'écosystèmes.
+
+### La sensibilisation et l'éducation
+Une deuxième stratégie que l'on à croiser est celui d'éduquer et de sensibiliser les personnes aux réalités des injustices et de l'ignomie (caractère ignoble) de ce qui nous entourent. Cela passe par des tactiques commes la sensibilisation de rue, les collages, les interventions dans les écoles ou entreprises, les cubes de la vérité pour des associations animalistes et de nombreux autres méthodes. 
+
+Ces approches nous sembles innéficaces. Dans un premier temps l'histoire ne convainc pas de leurs utilités. Cela fait cinquante ans que nous éduquons sur la réalités du déréglement climatique. Cinquantes ans que des militants et militantes, en occident nottament, sont dans les rues régulièrement, que dans les écoles des interventions sont effectué pour sensibiliser, que les programmes scolaires accordent une place à la question et que les médias (documentaire, internet) sont utilisé pour éduquer. Cela fait cinquantes ans aussi que la priorité de cette lutte baisse. Après cinquantes de luttes il y a moins de personnes qui trouve la question climatique prioritaire que en 1970<sup>4</sup>. 
 
 ### Le militantisme offensif radicale
+
+### Notes et références
+
+1. Système
+2. Douches courte video
+3. Clouscard
+4. Études sur la priorité accordé aux enjeux climatiques
