@@ -50,7 +50,18 @@ Effectivement, nous pensons que les conditions matérielles ne sont pas réunis 
 - Une difficulté à faire corps autour d'objectifs radicales sans que les rapports de puissance inter-individuelles viennent diviser. Des groupes passent plus de temps à faire la "guerres" à d'autres groupes que leurs ennemis politiques de base.
 - Une absence de pouvoir et de rapport de force fâce à des ennemis qui ont toute la légitimité de la violence et de la justice
 
-Nous partageons le constat de Full-spectrum résistance<sup>5</sup> que très peu de luttes offensives ont réussi, dans ces cinquantes dernières année en occident, à apporté des changements solides. Les luttes les plus efficases sont probablement celles des millieux LGBTQA+ et pourtant malgré le peu de victoires de nombreuses restent fragiles et dépendant du contexte politique. Effectivement des changements de régimes ou d'orientation politique ont récément renverser et annuler des dizaiens d'année de militantismes comme en EXEMPLE, et EXEMPLE. 
+Nous partageons le constat de Full-spectrum résistance<sup>5</sup> que très peu de luttes offensives ont réussi, dans ces cinquantes dernières année en occident, à apporté des changements solides. Les luttes les plus efficases sont probablement celles des millieux LGBTQA+ et pourtant parmis le peu de victoires de nombreuses restent fragiles et dépendant du contexte politique. Effectivement des changements de régimes ou d'orientation politique ont récément renverser et annuler des dizaines d'année de militantismes comme en EXEMPLE, et EXEMPLE.
+
+### Quoi des luttes deffensive ?
+Les luttes deffensives ont une prétentieux tout autre. Elle permettent de protèger un espaces, des personnes ou des droits. La lutte défensive as de nombreuses victoires avec de réelles impactes à des échelle locales. Nous pensons qu'elles sont insufisante sur le long therme mais qu'elles ont toute leurs importances en attendant. Sur le long therme cela s'apparente au jeu de tappe-taupe ou les échecs permettent à nos opposant de grignoter du terrain ou des droits. Mais cela est assurément mieux que rien. Bravo à toute ces luttes.
+
+### Les militant-es traitre
+Un autre frein du militantisme est la la séduction de la part du systèmes des militants et militantes. De nombreuses personnes après des années de militantisme se retrouvent à soutenir, participer activement et profiter des mêmes institutions qu'elles décrier sur le terrain. Effectivement de nombreux-ses militants deviennent cadre, ingénieurs, financier, ou politicien-ne et rejoint le front du productivisme qui artificialise, esclavagise, et détruits les habitats et habitant-es de la Terre. Un exemple pourraît être les éléments les plus radicaux des "Chicago Seven" qui devinrent traders, financiers et politiciens profitant de fait de l'argent créer par divers marchées militaires ausquels ils s'était pourtant opposé si politiquement pendant leurs proccès. Clouscard cite les soixantehuitard-es qui compose maintenant l'élite de la France.
+
+### Les méprises subversives
+
+
+### Notre militantisme au Mallouestan
 
 ### Notes et références
 
