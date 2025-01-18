@@ -66,9 +66,25 @@ Le dernier point qui nous semble important à relever est l'impression, et pour 
 
 2. La somme des actions sur le terrain n'est pas obligatoirement positive ou neutre. Autrement dit, le fait de militer sans regard à l'éfficacité ne créer pas obligatoirement, nottament en cas d'échec, un status-quo. Prenons l'exemple de mannifester où certains le font pour s'entrainer à la confrontation policière. Pourtant ce qui semble être oublié est que ces actions entrainent les deux camps. Malheureusement le camps opposé lui à la capacité d'archivage, financière, logistique, légale, et technologique pour réellement apprendre et s'amméliorer. Il suffit de regarder les cinquantes dernieres années de mannifestation pour comprendre que les CRS, nottament au travers de leurs équipements, ont appris bien plus que les mannifestants.
 
+Ces deux problèmes sont accentuer par ceux explicité si dessus. Prenons comme exemple le "turn-over" conséquent chez les militants où l'expérience est simplement perdu lors des départs.
+
 ### Notre militantisme au Mallouestan
 
+Notament pour ces raisons qui, malgré leur manque d'exhaustivité, nous semble suffisante pour ne pas croire à la capacité du militantisme offensive actuel (texte écrit en janvier 2025) de changé de manière significative et suffisante les conditions matérielles soutenant les divers injustices, dominations et enjeux sociaux structurels. Nous pensons donc que participer à ce genre d'actions, de stratégie ou de mouvement dans l'espoir de changements ou à des fins personnnelles (thérapeutique, identitaire) est au mieux une perte de temps et au pire une masquerade médiocre de complicité avec nos ennemis politiques. 
 
+Ceci n'est pas pour juger les individus prenant part à ce qui est décrit mais d'expliquer que malgré des efforts, des sacrifices et les intentions honnorables des personnes composant ces mouvements (on vise ici  majoritairement les mouvement offensif). Notre souhait serais que la masse militante deviennent plus compétente, moins coruptible et plus perreine. Que tout les efforts et intention aboutissent à des changement pour toutes les victimes. Après tout n'est-ce pas ce qui importe?
+
+Au Mallouestan nous nous voyons soutenir ces changements dans les millieux militants, de fournir un lieu de réflexion (voir texte "Recherche") et de formations (voir texte "Partage et transmission"), de mettre à disposition un lieu où les conditions matérielles sont compatible avec des luttes perreines et de nombreux autres aspects. Notre temps sur le lieu dans le cadre que nous l'avons inscrit est un temps conssacré à du militantisme deffensif nottement de solidarité (voir texte "Solidarité").
+
+De nombreux-ses membres du Mallouestan envisage, si les conditions matérielles le permettent autrement dit si les conditions matérielles laisse entrevoir une éfficacité, de participer à des luttes offensive. Nous pensons que malheureusement ce serais dans une situation où nos ennemis politiques seront fragilisé par de multiples crises. Nous esperons voir cette réalité mais restons dubitatifs sur la probabilité que cela se produisent prochainement.
+
+En attendant cette possibilité nous sommes convaincus que le mode de vie du Mallouestan permet d'augmenter notre résilience (voir les textes "Autonomie", "Risques et Perils"), d'augmenter notre indépendance à l'égard des ennemis politiques, d'augementer nos compétences générales et militantes, d'aider et de soutenir de nombreuses victimes des problèmes combattues et enfin de minimiser notre collaboration et compromission avec un système ignobles.
+
+### Conclusion
+
+Ce texte explicite donc nos réserves et oppositions à l'égard du militantisme offensif que l'on définit. Nous soulevons les problèmes de turn-over militants, d'enjeux identitaire, de manque d'éfficacité et de coruptibilité. On montre également le danger du "bougisme" militants qui parrait subversive mais qui malgré les intentions joue dans les mains de nos ennemis politiques. On emmet notre avis également sur le militantisme déffensive que l'on défend tout en partageant les risques sur le long therme.
+
+Nous partageons également la vision militante du Mallouestan qui se projète dans une lutte déffensive en attendant la possibilité de se tourner vers des méthodes plus offensives par exemples dans le cas où des conditions matérielles favorables se présenterais. Il est également souligné les apports de notre mode de vie et du cadre au Mallouestan aux différentes questions soulever.
 
 ### Notes et références
 
