@@ -68,6 +68,13 @@ Le dernier point qui nous semble important à relever est l'impression, et pour 
 
 Ces deux problèmes sont accentuer par ceux explicité si dessus. Prenons comme exemple le "turn-over" conséquent chez les militants où l'expérience est simplement perdu lors des départs.
 
+### Les compromissions
+Il est commun dans les millieux militants d'utiliser les outils du système pour "mieux le combattre". Cette logique ressemble à celle de la fin justifie les moyens. Nous n'avons aucun problème avec cette logique mais nous appellons à une prudence que nous ne voyons malheureusement pas souvent dans les collectifs, mouvements et stratégies que nous croisons. Effectivement il nous semble que en réalité la logique est: la fin **potentielle** peu importe la probabilité justifie les moyens. Notre désacord réside principalement là. 
+
+Comment justifié de telles compromissions quand la réalité des conditions matérielles du militantisme est si pauvre ? Comment face à l'inéficacité des luttes pouvons nous justifier tant de compromissions. Tant de caméras, t-shirt mais en cotton bio, pulls, campagne de comm, mugs, et tout les autres gadgets qui circules dans les luttes. Tant de collectifs qui se sont éffondrer, tant d'argent gaspillé, tant de personnes exploité pour fabriqué ses objets, tant de logiques néocoloniales, d'extractivismes pour quoi ? Augementer nos chances ? Quel gachis,quel échec!
+
+De plus ses moyens s'alligne souvent avec les logiques capitalistes, avec les normes en rigueur en communication, développement de site web et de merchendising. Des logiques évidentes pour une petite bourgeoisie intellectuelle représentant dominant-es des luttes occidentales. Souvent ses moyens sont choisi car elle sont accessible et évidente. Leur réelle nécéssité, ce qui impliquerais l'absences d'alternatives, n'est pas questionné et les alternatives ne sont pas explorer. Une fois de plus le systèmes techno-productiviste se frottes les mains.
+
 ### Notre militantisme au Mallouestan
 
 Notament pour ces raisons qui, malgré leur manque d'exhaustivité, nous semble suffisante pour ne pas croire à la capacité du militantisme offensive actuel (texte écrit en janvier 2025) de changé de manière significative et suffisante les conditions matérielles soutenant les divers injustices, dominations et enjeux sociaux structurels. Nous pensons donc que participer à ce genre d'actions, de stratégie ou de mouvement dans l'espoir de changements ou à des fins personnnelles (thérapeutique, identitaire) est au mieux une perte de temps et au pire une masquerade médiocre de complicité avec nos ennemis politiques. 
