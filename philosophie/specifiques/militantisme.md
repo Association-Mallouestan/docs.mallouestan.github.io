@@ -33,12 +33,12 @@ Une deuxième stratégie que l'on a croisée est celle d'éduquer et de sensibil
 
 Les stratégies dans lesquelles ces tactiques s'inscrivent nous semblent inéficaces. Dans un premier temps l'histoire ne convainc pas de leur utilité. Par exemple, cela fait cinquante ans que nous éduquons sur la réalité du déréglement climatique. Cinquante ans que des militants et militantes, en occident notamment, sont dans les rues régulièrement, que dans les écoles des interventions sont effectuées pour sensibiliser, que les programmes scolaires accordent une place à la question et que les médias (documentaire, internet) sont utilisés pour éduquer. Cela fait cinquante ans aussi que la priorité de cette lutte baisse. Après cinquante ans de luttes il y a moins de personnes qui trouvent la question climatique prioritaire que en 1970<sup>4</sup>. Il y a en France, début 2025, soit 55 ans après le premier "Earth Day", entre 38% et 45% de climatosceptique. Des constats simmilaires pourrait être émise dans de nombreuses autres luttes.
 
-La sensibilisation et l'éducation est aussi limitée par notre capacité à convraincre. Force est de constater que notre capacité est bien moindre que nos ennemis politiques qui détiennent la majorité des médias, du pouvoir politique et des moyens en général. La sensibilisation et l'éducation à l'échelle du militantisme actuel est simplement illusoire. Le peu qui est fait est si facilement contournable, par les différentes puissances ausquels nous sommes opposés, comme le démontre les différents évenements politiques récents: Trump aux États-Unis, MACHIN en Géorgie, ainsi que la montée de l'extrème droite en France.
+La sensibilisation et l'éducation est aussi limitée par notre capacité à convraincre. Force est de constater que notre capacité est bien moindre que nos ennemis politiques qui détiennent la majorité des médias, du pouvoir politique et des moyens en général. La sensibilisation et l'éducation à l'échelle du militantisme actuel est simplement illusoire. Le peu qui est fait est si facilement contournable, par les différentes puissances ausquels nous sommes opposés, comme le démontre les différents évenements politiques récents: Trump aux États-Unis, Orban en Hongrie, ainsi que la montée de l'extrème droite en France.
 
 Même si la sensibilisation et l'éducation réussi ses objectifs intermédiaires ce ce n'est que rarement suffisent, pour autant, pour amener les changements espèrer. Effectivement le fait que de nombreuses personnes comprennent des enjeux ne suffis pas pour ammener une mobilisation qui même quand elle voit le jour doit être éfficace à sont tout.
 
 ### Le militantisme offensif radicale
-Le militantisme radicale se définit nottament par l'intention de s'attaquer à la racine des différents problèmes. Dans le cas des déchets, dans une optique radicale, on favoriserais au tri le fait de s'attaquer à la production même de ces déchets. Nous nous reconnaissant dans ce genre d'analyse. Le fait d'avoir une analyse globale permet d'identifier les causes structurelles à un problême et de ne pas se limiter aux symptomes. Addresser un problème identifier ainsi nous semble la meilleure façon d'avoir un impact à une échelle importante. La difficulté est d'avoir les moyens de s'attaquer à ces problèmes. Là vient notre déception principale car nous sommes convaincu que les millieu millitants occidentaux n'ont pas ces moyens.
+Le militantisme radicale se définit nottament par l'intention de s'attaquer à la racine des différents problèmes. Dans le cas des déchets, dans une optique radicale, on favoriserais au tri le fait de s'attaquer à la production même de ces déchets. Nous nous reconnaissant dans ce genre d'analyse. Le fait d'avoir une analyse globale permet d'identifier les causes structurelles à un problême et de ne pas se limiter aux symptomes. Addresser un problème identifier ainsi nous semble la meilleure façon d'avoir un impact à une échelle importante. Pour autant la difficulté est d'avoir les moyens de s'attaquer à ces problèmes. Là vient notre déception principale car nous sommes convaincu que les millieu millitants occidentaux n'ont pas ces moyens.
 
 Pourtant de nombreuses luttes et stratégies continuent dans cettes démarche. De nombreuses luttes se voient offensive et elle le sont en théorie mais malheureusement dans la pratique elle ne le sont pas.  
 
@@ -46,13 +46,13 @@ Pourtant de nombreuses luttes et stratégies continuent dans cettes démarche. D
 Effectivement, nous pensons que les conditions matérielles ne sont pas réunis pour que ces stratégie réussissent. Nous pourrions lister de façon non exhaustive:
 - Un manque de compétences chez les militants
 - Une approche libérale et de consomation du militantisme. Le militantisme est plus une hobbie pour de nombreux militants. Certains militants militent mais seulement si leurs privilègent ne sont pas à risque. D'autres, parfois les mêmes, militent à des fins thérapeutique et le consomment comme de noubreux autres sources de bien êtres.
-- Un manque d'effectifs
+- Un manque d'effectifs important nottament pour les tactiques utilisé
 - Des aspects identitaires aux pratiques militantes (voir texte "Ontologie, Matérialisme, et ésoterisme")
 - Une difficulté à faire corps autour d'objectifs radicales sans que les rapports de puissance inter-individuelles viennent diviser. Des groupes passent plus de temps à s'engager dans des hostilités horizontale et faire la "guerres" à d'autres groupes que leurs ennemis politiques de base.
 - Une absence de pouvoir et de rapport de force fâce à des ennemis qui ont toute la légitimité de la violence et de la justice
 - Une absence de compétences dans la création de collectif où l'équilibre nécessaire n'est pas trouvé entre soins des militant-es et éfficacité sur le terrain.
 
-Nous partageons le constat de Full-spectrum résistance<sup>5</sup> que très peu de luttes offensives ont réussi, dans ces cinquantes dernières année en occident, à apporté des changements solides. Les luttes les plus efficases sont probablement celles des millieux LGBTQA+ et pourtant parmis le peu de victoires de nombreuses restent fragiles et dépendant du contexte politique. Effectivement des changements de régimes ou d'orientation politique ont récément renverser et annuler des dizaines d'année de militantismes comme en EXEMPLE, et EXEMPLE.
+Nous partageons le constat de Full-spectrum résistance<sup>5</sup> que très peu de luttes offensives ont réussi, dans ces cinquantes dernières année en occident, à apporté des changements solides. Les luttes les plus efficases sont probablement celles des millieux LGBTQA+ et pourtant parmis le peu de victoires de nombreuses restent fragiles et dépendant du contexte politique. Effectivement des changements de régimes ou d'orientation politique ont récément renverser et annuler des dizaines d'année de militantismes comme la question de la représentation LGBTQA+ dans l'espace public dans certains États des États-Unis-d'Amérique, et en Hongrie où en mai et en décembre 2020 ainsi que le 15 juin 2021 à était voter des lois à caractère discriminants à l'égard de la comunauté LGBTQA+ dans un pays Européen.
 
 ### Quoi des luttes deffensive ?
 Les luttes deffensives ont une prétentieux tout autre. Elle permettent de protèger un espaces, des personnes ou des droits de façon plus restreinte. La lutte défensive as de nombreuses victoires avec de réelles impactes à des échelle locales. Nous pensons qu'elles sont insufisante sur le long therme mais qu'elles ont toute leurs importances en attendant. Sur le long therme cela s'apparente au jeu de tappe-taupe où les échecs permettent à nos opposant de grignoter du terrain ou des droits. Mais cela est assurément mieux que rien. Bravo à toute ces luttes.
@@ -96,7 +96,8 @@ Nous partageons également la vision militante du Mallouestan qui se projète da
 
 ### Notes et références
 
-1. Système
-2. Douches courte video
-3. Clouscard
-4. Études sur la priorité accordé aux enjeux climatiques
+1. Comme explicité dans cette vidéo 
+2. Par système nous entendons les logiques et mécanismes techno-industrielle mondialisé et ceux qui les soutients.
+3. Le philosophe français Michel Clouscard aborde ces sujets nottaments dans "Le capital de la séduction"
+4. [Études sur la priorité accordé aux enjeux climatiques](https://news.gallup.com/poll/1615/environment.aspx)
+5. Full spectrum résistance 1, Aric McBay
