@@ -76,6 +76,19 @@ Comment justifié de telles compromissions quand la réalité des conditions mat
 
 De plus ses moyens s'alligne souvent avec les logiques capitalistes, avec les normes en rigueur en communication, développement de site web et de merchendising. Des logiques évidentes pour une petite bourgeoisie intellectuelle représentant dominant-es des luttes occidentales. Leur réelle nécéssité, ce qui impliquerais l'absences d'alternatives, n'est pas questionné et les alternatives ne sont pas explorer. Une fois de plus le systèmes techno-productiviste se frottes les mains.
 
+### L'altruisme efficace
+L'altruisme efficace est le paroxysme, tout au moin doit s'en rapprocher, de la logique de la fin justifie les moyens. L'altruisme efficace à certe évolué ces dernières décénies mais soutient nottement l'idée qu'il faut travailler beaucoup et faire de grandes carrières pour maximiser son pouvoir d'agir de manière altruiste. Inilialement centrée sur le don d'argent le mouvement plus académique soutient aujourd'hui qu'il vaut mieux,  comme le promeut "80000 hours", travailler plus dans des domaines politiques que de chercher à gagner beaucoup d'argent. Dans tout les cas une approche simmilaire est assez commune dans les millieux militants. Cette vision est souvent présenté d'une des manière suivante:
+
+- Je veux faire ces études et cette carrière pour avoir de l'argent pour financer les association de mon choix et d'aider les luttes
+- Je veux m'investir en politiques pour législifier et essayer de changer les choses en internes.
+- Ce mode de vie me permet de contribuer et de financer des luttes
+
+Parfois c'est une approche hybride qui est défendu. Il nous semble que malgré ça dénomination cette stratégie n'est pas très efficace. Elle souffre de plusieurs embûches rarement conscientiser par ses adeptes. Premièrement elle sous estimes la capacité au systèmes d'absorber et de compromettre les personnes qui s'y addonne malgré leurs intentions. La puissance de ce conformisme est très difficile à contrer. Noam Chomsky en parle notamment dans son livre "La fabrique du consentement" où il évoque aussi une deuxième embuche. La deuxième difficulté est d'arriver à un poste de pouvoir et d'y rester. Une personnes, par exemple, à réussi à ne pas être corrompu, elle à réussi à grimper les échelons et elle est maintenant au poste qu'elle convoité pour pouvoir apporté les changements souhaité. Cela a pris des années souvent des décénies pour arriver là et une fois en place le moindre faux mouvement, non-conformisme apparent où "anormalité" peut tout gacher. Effectivement, comme l'exemplifie Chomsky dans son ouvrage, une fois à cette place il est difficile d'accomplir ses fins sans être éliminer par les mécanisme de résiliences du système. L'éfficacité se voit particulièrement bridé.
+
+Effectivement pour maintenir une position où une personnes à un bon salaire des compromissions sont nécéssaire. Il est difficile de rester dans une telle positions où le capital économique nécéssite de s'accompagner d'un capital social, symbolique et culturelle car ils nécessite à leurs tours des moyens considérable. Si les deux embuches précédement explicité sont surmonté il faut en maintenant son poste, trouvé un équilibre entre les dépenses, compromissions et bénéfice final capitalisables au sein des luttes.
+
+De plus les objectifs de l'altruisme efficaces sont structurer par la vision du monde de ses adeptes. Des adeptes qui baignent dans des contextes systèmique qui ne peut que déteindre sur elleux. Même si l'on est pas née avec les privilèges caractéristique de ces millieux on ne peut en ressortir inchanger. Le seul objectif reste donc d'y sortir le moins corrompu possible. Ce n'est malheureusement pas si simple comme de nombreuses figure de ce mouvement le montre. Les objectifs promut par l'altruisme efficace souffre donc de la vision chauviniste et culturelle d'une bourgoisie altruiste<sup>6,7</sup>. 
+
 ### Notre militantisme au Mallouestan
 
 Notamment pour ces raisons qui, malgré leur manque d'exhaustivité, nous semble suffisante pour ne pas croire à la capacité du militantisme offensive actuel (texte écrit en janvier 2025) de changé de manière significative et suffisante les conditions matérielles soutenant les divers injustices, dominations et enjeux sociaux structurels. Nous pensons donc que participer à ce genre d'actions, de stratégie ou de mouvement dans l'espoir de changements ou à des fins personnnelles (thérapeutique, identitaire) est au mieux une perte de temps et au pire une masquerade médiocre de complicité avec nos ennemis politiques. 
@@ -101,3 +114,5 @@ Nous partageons également la vision militante du Mallouestan qui se projète da
 3. Le philosophe français Michel Clouscard aborde ces sujets notamments dans "Le capital de la séduction"
 4. [Études sur la priorité accordé aux enjeux climatiques](https://news.gallup.com/poll/1615/environment.aspx)
 5. Full spectrum résistance 1, Aric McBay
+6. https://jacobin.com/2022/10/peter-singer-moral-philosophy-status-quo-poverty-capitalism-charity-ethics
+7. https://www.radicalphilosophy.com/article/against-effective-altruism
