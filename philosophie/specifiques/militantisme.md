@@ -95,11 +95,15 @@ Notamment pour ces raisons qui, malgré leur manque d'exhaustivité, nous semble
 
 Ceci n'est pas pour juger les individus prenant part à ce qui est décrit mais d'expliquer que cette réalité existe malgré des efforts, des sacrifices et les intentions honnorables des personnes composant ces mouvements (on vise ici  majoritairement les mouvement offensif). Notre souhait serais que la masse militante deviennent plus compétente, moins coruptible et plus perreine. Que tout les efforts et intention aboutissent à des changement pour toutes les victimes. Après tout n'est-ce pas ce qui importe?
 
+Nous voulons que les militants et militantes se préparent à l'échec des luttes plûtot que de parrier sur l'improbable tout en sachant les faibles perspectives. Pourquoi est-ce que 90% des militants luttent pour l'issue la moins probable ? Vaudrait-il mieux pas agir en minimisant l'impact, les victimes et les enjeux de l'échecs ? C'est ce que nous pensons au Mallouestan. 
+
 Au Mallouestan nous nous voyons soutenir ces changements dans les millieux militants, de fournir un lieu de réflexion (voir texte "Recherche") et de formations (voir texte "Partage et transmission"), de mettre à disposition un lieu où les conditions matérielles sont compatible avec des luttes perreines et de nombreux autres aspects. Notre temps sur le lieu dans le cadre que nous l'avons inscrit est un temps conssacré à du militantisme deffensif notamment de solidarité (voir texte "Solidarité").
 
 De nombreux-ses membres du Mallouestan envisage, si les conditions matérielles le permettent autrement dit si les conditions matérielles laisse entrevoir une éfficacité, de participer à des luttes offensive. Nous pensons que malheureusement ce serais dans une situation où nos ennemis politiques seront fragilisé par de multiples crises. Nous esperons voir cette réalité mais restons dubitatifs sur la probabilité que cela se produisent prochainement.
 
-En attendant cette possibilité nous sommes convaincus que le mode de vie du Mallouestan permet d'augmenter notre résilience (voir les textes "Autonomie", "Risques et Perils"), d'augmenter notre indépendance à l'égard des ennemis politiques, d'augementer nos compétences générales et militantes, d'aider et de soutenir de nombreuses victimes des problèmes combattues et enfin de minimiser notre collaboration et compromission avec un système ignobles.
+En attendant cette possibilité nous sommes convaincus que le mode de vie du Mallouestan permet d'augmenter notre résilience (voir les textes "Autonomie", "Risques et Perils"), d'augmenter notre indépendance à l'égard des ennemis politiques, d'augmenter nos compétences générales et militantes, d'aider et de soutenir de nombreuses victimes des problèmes combattues et enfin de minimiser notre collaboration et compromission avec un système ignobles.
+
+Malgré notre opposition actuelles aux luttes offensives nous ne souhaitons pas discriminer notre soutient en fonction des statégie choisies. Nous nous sommes liés à divers collectifs sans tenir compte de ce critère. Nous ne partageons pas leur espoir ni les risque que nous pensons sont prises mais nous acceptons également qu'il serait dangeureux de hisser en absolue notre analyse.
 
 ### Conclusion
 
