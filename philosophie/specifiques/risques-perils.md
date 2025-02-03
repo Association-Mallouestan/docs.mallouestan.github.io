@@ -53,3 +53,24 @@ Dépenser moins c'est donc disposer moins des produits du sytèmes. or ces derni
 
 Enfin, garder un accès aux informations liées à l'état du monde, même si elles dépendent d'internet et d'imprimerie, est nécessaire pour anticiper les risques, surtout ceux liés aux tensions politiques et géopolitiques mondiales. Cela n'est pas chose évidente du fait de la corruption d'un grand nombre de médias. Nous tentons de diversifier au mieux nos sources en choisissant divers supports (articles numériques, podcast, journaux, revues...)
 En effet, les dommages causés par le sysème peuvent rapidement nous impacter et impacter les plus vulnérables, il est donc important de nous garder informé-es de ce qui se passe même loin du lieu. Aussi, comme nous avons pu le voir au travers des différents secteurs en tension dans le système, l'intrication des crises est certaine. Avoir connaissance des crises enclenchées peut donner des informations cruciales sur les risques les plus probables à venir. 
+
+### Concrètement au Mallouestan
+
+Voici quelques exemples de choses mises en place au Mallouestan en vue d'anticiper et prendre en considération les risques à venir. 
+
+Sur le plan énergétique, nous avons réduit notre consommation électrique au seul éclairage du bâtiment commun et de la recharge limitée de téléphones. Nous sommes déconnecté-es du réseau et générons cette faible quantité d'électricité à travers deux petits panneaux solaires. 
+Nous nous chauffons au bois et gérons la chaîne du bois de la coupe au stockage en passant par le fendage.
+
+Sur le plan alimentaire, nous travaillons sur notre autonomisation via la pratique du maraîchage et de cueillette de plantes sauvages. 
+
+Concernant notre environnement, nous avons planté plus de 800 arbres depuis 2020 avec une diversité d'essences. 
+Nous avons commencé un registre des espèces d'oiseaux présentes sur le lieu et ses abords. 
+Nous avons laissé un grand champ en jachère pour la reconstitution du sol et le développement d'arbres spontanés et de plantes bioindicatrices.
+
+Sur le plan de la santé, nous avons interdit la consommation de produits ultratransformés dans les lieux communs, et interdit toute consommation de produits tels que le tabac, l'acool et la drogue sur le lieu.
+Nous avons mis en place des protocoles visant à minimiser l'usure physique dû à une méconnaissance du corps (échauffement, étirements, bonne hydratation...). Ainsi, nous souhaitons réduire les risques de développer des problèmes de santé qui pourraient être évités avec une bonne hygiène de vie. 
+
+Enfin, nous entretenons un contexte favorable aux discussions et débats au sein du lieu afin d'encourager le regard critique, l'autocritique et la remise en question (peu présents dans la société actuelle selon nous)
+Nous empruntons régulièrement diverses revues en médiathèque sur des sujets variés afin d'enrichir nos sources d'informations et rester connecté-es aux actualités.
+
+Pour conclure, l'imminence des risques et périls est évidente mais il n'en n'est pas moins difficile de savoir comment ils vont réellement se traduire. Au vu des mutliples secteurs à risques, il est nécessaire selon nous de tout mettre en oeuvre pour nous prémunir de ces risques. Cela passe par déconstruire notre quotidien et nous émanciper du confort moderne nous rendant toujours plus dépendant-es du système. Cette gestion des risques nous semble indispensable afin que le lieu continue d'exister et puisse venir en aide aux personnes dans le besoin à la hauteur de nos conditions matérielles.  
