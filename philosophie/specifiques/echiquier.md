@@ -1,3 +1,6 @@
+> [Accueil](../../) > [Portail philosophique](../) > Texte sur notre positionnement politique
+
+# Texte sur notre positionnement politique
 
 ## Pourquoi écrire ce texte?
 
