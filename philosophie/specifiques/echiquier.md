@@ -71,9 +71,15 @@ Cette idée nous amène à notre dernier dualisme qui concerne l'inclusion ou no
 
 ## Conclusions
 
-Les différentes positions énoncées dans ce texte ne sont pas caractéristiques de la gauche hégémonique ni de l'extrême gauche mais pour autant comme nous l'avons explicité nous rejetons fermement l'axiologie de la droite et de l'extrême droite. Nous avons montré que ce dualisme gauche-droite étais questionner et questionnable. Nous sommes loin d'être les premiers à le faire. Dans ce sens nous rejoignons la revendication de "post-gauche" terme très peu utilisé dans le monde francophone mais défendu dans le monde anglophone comme "Post-Left". Cette position est critiques de la gauche, de son axiologie, et pense notament que le gauchisme est trop centré sur des tactiques telles que le syndicalisme, le avant-guardisme [ici dans le sens marxiste] et le parlementarisme, et qu'il est trop obsolète. Cette position est notamment défendue par John Zerzan, Hakim Bey and Bob Black. Dans une optique clarté nous nous revendiquons donc de post-gauche. 
+Les différentes positions énoncées dans ce texte ne sont pas caractéristiques de la gauche hégémonique ni de l'extrême gauche mais pour autant comme nous l'avons explicité nous rejetons fermement l'axiologie de la droite et de l'extrême droite. Nous avons montré que ce dualisme gauche-droite étais questionner et questionnable. Nous sommes loin d'être les premiers à le faire. Dans ce sens nous rejoignons la revendication de "post-gauche" terme très peu utilisé dans le monde francophone mais défendu dans le monde anglophone comme "Post-Left". Cette position est critiques de la gauche, de son axiologie, et pense notament que le gauchisme est trop centré sur des tactiques telles que le syndicalisme, l'avant-guardisme [ici dans le sens marxiste] et le parlementarisme, les politiques identitaire, les tactiques militantes et qu'il est, de fait, obsolète.
 
-Le mouvement de post-gauche regroupe divers courants mais nos divers positionnements exprimer dans ce texte suffisent à clarifier notre position en son sein. La position politique du Mallouestan et donc un mélange d'anarchisme, de communautarisme, d'écologie profonde et de réalisme autant politique que philosophique (matérialisme). 
+Le mouvement de post-gauche regroupe divers courants notament et de façon très representé l'egoisme Stirnien (que nous rejetons), beaucoup moins représenté sont les courant primitiviste et anti-civilizationnelles mais nos divers positionnements exprimer dans ce texte suffisent à clarifier notre position et permetent de comprendre notre positionnement proche des mouvances post-civilisationelles et primitivistes. Si une telle position existe nous serions le mieux décrit de la manière suivante:
+
+```
+anarcho-comuniste post-gauchiste rejetant les notions post-modernes
+```
+
+La position politique du Mallouestan et donc un mélange d'anarchisme, de communautarisme (comme définit dans ce texte), d'écologie profonde et de réalisme autant politique que philosophique (matérialisme). 
 
 ## Notes
 
