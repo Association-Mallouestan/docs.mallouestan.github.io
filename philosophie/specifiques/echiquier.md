@@ -82,6 +82,12 @@ Le mouvement de post-gauche regroupe divers courants, notamment, et de façon tr
 anarcho-communiste post-gauchiste rejetant les notions post-modernes
 ```
 
+ou 
+
+```
+neoludith post-gauche
+```
+
 La position politique du Mallouestan est donc un mélange d’anarchisme, de communautarisme (comme défini dans ce texte), d’écologie profonde et de réalisme autant politique que philosophique (matérialisme).
 
 ## Notes
