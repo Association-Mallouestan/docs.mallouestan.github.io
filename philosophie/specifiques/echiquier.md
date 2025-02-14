@@ -95,7 +95,7 @@ La position politique du Mallouestan est donc un mélange d’anarchisme, de com
 
 ## Notes
 
-1. Système
+1. Le système désigne les mécanismes de domination structurant les sociétés mondialisées, en particulier occidentales, c'est-à-dire les sociétés extractivistes, productivistes, coloniales et techno-industrielles et technocratiques. Il englobe également l’ensemble des dynamiques intriquées et interdépendantes nécessaires à sa reproduction.
 1. Macron
 2. March, Luke (2011), *Radical Left Parties in Europe* et Charles Blattberg, *Political Philosophies and Political Ideologies*
 3. Sapolsky,Karaki
