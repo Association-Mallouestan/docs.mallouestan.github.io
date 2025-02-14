@@ -29,6 +29,8 @@ Pour résumer les idées de cette section, nous questionnons fortement l’utili
 
 ![Illustration des diagrammes politiques](../ressources/diagrammes_politique.png)
 
+> Ci-dessus un diagramme de Nolan (https://www.politicalcompass.org/france2017) et une simplication de la Vosem Chart 
+
 ## Notre opposition à la droite
 
 De notre expérience, au travers des questions qui nous sont posées, nous avons compris que l’importance pour la gauche (celles qui s’en réclament) est de montrer que nous ne sommes pas de droite. Commençons donc à éclaircir ce point en nous positionnant sur deux premiers dualismes.
@@ -75,7 +77,7 @@ Cette idée nous amène à notre dernier dualisme, qui concerne l’inclusion ou
 
 ## Conclusions
 
-Les différentes positions énoncées dans ce texte ne sont pas caractéristiques de la gauche hégémonique ni de l’extrême gauche, mais, pour autant, comme nous l’avons explicité, nous rejetons fermement l’axiologie de la droite et de l’extrême droite. Nous avons montré que ce dualisme gauche-droite était questionné et questionnable. Nous sommes loin d’être les premiers à le faire. Dans ce sens, nous rejoignons la revendication de "post-gauche", terme très peu utilisé dans le monde francophone mais défendu dans le monde anglophone comme "Post-Left". Cette position est critique de la gauche, de son axiologie, et pense notamment que le gauchisme est trop centré sur le syndicalisme, l’avant-gardisme<sup>11</sup> [ici dans le sens marxiste] et le parlementarisme<sup>12</sup>, et critique par ailleurs les politiques identitaires, les tactiques militantes ainsi que les compromis faits au capitalisme, et que, pour toutes ces raisons, il est, de fait, obsolète.
+Les différentes positions énoncées dans ce texte ne sont pas caractéristiques de la gauche hégémonique ni de l’extrême gauche, mais, pour autant, comme nous l’avons explicité, nous rejetons fermement l’axiologie de la droite et de l’extrême droite. Nous avons montré que ce dualisme gauche-droite était questionné et questionnable. Nous sommes loin d’être les premiers à le faire. Dans ce sens, nous rejoignons la revendication de "post-gauche", terme très peu utilisé dans le monde francophone mais défendu dans le monde anglophone comme "Post-Left". Cette position est critique de la gauche, de son axiologie, et pense notamment que le gauchisme est trop centré sur le syndicalisme, l’avant-gardisme<sup>11</sup> [ici dans le sens marxiste] et le parlementarisme<sup>12</sup>, et critique par ailleurs les politiques identitaires, les tactiques militantes ainsi que les compromis faits avec le capitalisme, et que, pour toutes ces raisons, il est, de fait, obsolète.
 
 Le mouvement de post-gauche regroupe divers courants, notamment, et de façon très représentée, l’égoïsme stirnien (que nous rejetons). Beaucoup moins représentés sont les courants primitivistes et anti-civilisationnels, et nos divers positionnements exprimés dans ce texte suffisent à clarifier notre position en permettant de comprendre notre positionnement proche des mouvances post-civilisationnelles et primitivistes. Si une telle position existe, nous serions le mieux décrits de la manière suivante :
 
