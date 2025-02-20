@@ -8,11 +8,14 @@ Ce texte s’inscrit dans une série abordant des points spécifiques cadrant Le
 
 Nous sommes régulièrement confrontés à des personnes cherchant à nous situer sur l’échiquier politique et notamment avec le dualisme gauche-droite. Nos positions explicitées dans nos différents textes et les valeurs que nous défendons sur place ne semblent a priori pas suffisantes pour comprendre nos intentions politiques. Nous nous retrouvons donc, régulièrement, à devoir nous justifier à cet égard en nous positionnant sur un spectre dont nous ne reconnaissons même pas le sens. Cet outil a été créé par un système<sup>1</sup> que nous rejetons de toutes parts et dans lequel, effectivement, il est difficile de nous placer. Nous ne comprenons pas, ou plutôt nous ne reconnaissons pas, la valeur de se positionner soi-même sur tel ou tel bord politique, ou de se situer soi-même sur ce spectre aurait, il nous semble, au-delà d’un exercice déclaratif, aucune garantie. Effectivement, une personne ou un groupe pourrait se dire de gauche mais, en réalité, ne pas porter les valeurs correspondantes.
 
-## Concrètement, de quoi allons-nous parler ?
+## De quoi allons-nous parler ?
 
 Nous allons donc, dans ce texte, expliquer pourquoi nous ne reconnaissons pas de sens à la dichotomie gauche-droite en ce qui concerne notre positionnement, et proposer d’autres grilles de lecture en nous situant à leur égard. Nous nous situerons donc sur de nombreux sujets et valeurs en montrant comment notre axiologie (les valeurs et ce que nous trouvons souhaitable) est difficilement cadrable par le dualisme ci-dessus mentionné. Comme précisé précédemment, ce texte fait partie d’un travail de notre collectif pour rendre nos positions plus accessibles et étayées. Nous nous appuierons donc dans ce texte sur de nombreuses ressources pour éviter de nous répéter mais, malgré cela, ce texte cherchera quand même à être aussi clair que possible sur les nombreux sujets et valeurs discordantes dans nos milieux.
+Les différents dualismes sur lesquels nous allons nous positionner dans la deuxième partie de ce texte n'ont pas la prétention d'être exhaustifs. Nous avons choisi ceux qui nous semblaient les plus pertinents : d'un côté, nous avons essayé de nous positionner sur les sujets fondamentaux qui distinguent habituellement les positions politiques, et de l'autre, sur certains sujets spécifiques qui permettent de mieux comprendre la vision du Mallouestan.
 
-## Le dualisme gauche-droite ?
+> Ce texte ne pourra pas être exhaustif non plus sur chacun de ces sujets. De nombreux points resteront donc, pour celles et ceux qui sont moins familiers avec les notions utilisées, probablement très abstraits. Nous essaierons par la suite, pour les points où ce n'est pas déjà le cas, d'expliquer et de les rendre plus accessibles à travers de nouveaux textes et articles.
+
+## En quoi le dualisme gauche-droite ne fonctionne pas?
 Le dualisme gauche-droite est historiquement le prisme principal pour juger du positionnement politique et axiologique des partis politiques, des collectifs, des individus ou, plus généralement, des positions. Pourtant, il n’est pas simple de donner une définition, tout au moins d’expliquer le spectre que ces deux absolus créent. Plusieurs simplifications sont souvent utilisées, mais aucune ne semble être cohérente. La simplification extrême voudrait que la gauche soit porteuse d’égalité et la droite de liberté. Cette égalité inclurait notamment l’inclusivité, la redistribution des richesses, des droits égaux au mariage, peu importe l’orientation sexuelle, et une opposition à la valorisation des hiérarchies. Pour sa part, la liberté se caractériserait par une liberté d’entreprendre, de contractualiser, d’accumuler du capital, l’action de la méritocratie où chacun·e, au travers de sa liberté, peut entreprendre ce qu’iel souhaite, et un certain goût pour la hiérarchie. Pourtant, ce dernier point semble être contradictoire avec la liberté, et, au contraire, les valeurs anarchistes de gauche semblent mieux correspondre. Nous ne pouvons donc pas résumer la gauche et la droite à la liberté ou à l’égalité, et ce, pour de nombreuses autres raisons.
 
 Effectivement, elle est donc souvent simplifiée autrement, où, d’un côté, ce goût de la hiérarchie est assimilé au fascisme (dans le cas de la droite), et la gauche, quant à elle, est souvent associée au communisme. Autrement dit, plus l’on tendrait vers le communisme, plus on serait de gauche, et, au contraire, plus on souhaiterait une société verticale, plus on serait de droite. Cette simplification ne réussit pas à expliquer une position centriste ni les nombreuses autres valeurs portées par ceux qui, par usage, sont considérés comme de droite ou de gauche. L’économie libérale est considérée comme de droite, pourtant la hiérarchie ne semble pas être une valeur très importante. Au contraire, des idées comme la loi du marché semblent prétendre que toustes sont égaux en potentiel. Il est effectivement difficile de comprendre le classement proche de droite entre un parti macroniste (économie libérale, pro-Europe et mondialisation, liberté individuelle) et le Rassemblement national (nationalisme, hiérarchie), malgré le saut axiologique entre eux, autrement dit l’écart de valeurs qui les sépare.
@@ -31,7 +34,9 @@ Pour résumer les idées de cette section, nous questionnons fortement l’utili
 
 > Ci-dessus un diagramme de Nolan (https://www.politicalcompass.org/france2017) et une simplication de la Vosem Chart 
 
-## Notre opposition à la droite
+## Concrètement, nos positionnements au Mallouestan
+
+### Ceux qui nous distingue de la droite
 
 De notre expérience, au travers des questions qui nous sont posées, nous avons compris que l’importance pour la gauche (celles qui s’en réclament) est de montrer que nous ne sommes pas de droite. Commençons donc à éclaircir ce point en nous positionnant sur deux premiers dualismes.
 
@@ -45,7 +50,7 @@ Dans le texte, nous expliquons pourquoi nous nous opposons à la vision hégémo
 
 Ces deux positionnements suffisent normalement pour exclure toute proximité avec la droite qui, sans État, sans hiérarchie arbitraire et sans libéralisme économique, est inexistante. Autrement dit, on ne peut pas être de droite en portant ces valeurs. Cette section couvre notre position sur les trois axes du cube Vosem (AKA Vosem Chart).
 
-## Les logiciels normatifs et le Mallouestan ?
+### Nos positions sur les cadres structurels et normatifs
 
 Nous allons utiliser un troisième spectre pour aborder les sujets de la religion et de l’ésotérisme. Nous avons abordé ces sujets plus profondément dans notre texte sur la métaphysique, nommé ```Ontologie, matérialisme et ésotérisme au Mallouestan```. Ce texte aborde l’importance que nous prêtons à ces notions et leur rôle essentiel qu’elles ont dans le vivre-ensemble et l’organisation collective. Nous présentons également notre position sur un spectre entre réalisme et idéalisme, où nous nous sommes situés de façon quasi absolue du côté du premier (réalisme). Nous rejetons ainsi toute romantisation du pouvoir de la pensée et appelons à l’usage de concepts solides, ubiquitaires [partagée par toutes les partie prenantes] et cohérents.
 
@@ -63,7 +68,7 @@ Pour autant, et dans une optique d’être aussi clair-es que possible, nous rej
 - nous soutenons une sexualité non bridée notamment à l’égard de l’identité du ou des partenaires (majeures)  
 -
 
-## Éthique et environnement
+### Les positionnements éthique ainsi qu'environnementale
 
 Le positionnement sur le prochain spectre que nous allons aborder nous diffère également de la gauche. La gauche hégémonique est plutôt relativiste morale, où tout jugement moral serait tributaire du contexte culturel ou individuel. La position à l’autre extrême de ce spectre est celui d’absolutisme moral. Le Mallouestan a une position plutôt hybride. Nous reconnaissons le pluralisme des logiciels moraux existants et reconnaissons également qu’ils sont dépendants des contextes culturels où ils sont nés. Nous rejetons également le chauvinisme occidental à l’égard de la morale dans lequel nous avons bercé. Pour autant, nous rejetons le relativisme absolu ou y tendant de certains mouvements postmodernes<sup>8</sup> qui étriquent notre capacité à appliquer une éthique à un contexte social et collectif. Autrement dit, un relativisme absolu annihilant la possibilité d’un cadrage moral collectif.
 
