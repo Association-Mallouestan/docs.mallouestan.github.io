@@ -1,6 +1,6 @@
 > [Accueil](../../) > [Portail philosophique](../) > Risques et périls
 
-### Risques et périls
+# Risques et périls
 
 ## Pourquoi écrire ce texte ? 
 

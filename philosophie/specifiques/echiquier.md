@@ -101,13 +101,7 @@ Les différentes positions énoncées dans ce texte ne sont pas caractéristique
 Le mouvement de post-gauche regroupe divers courants, notamment, et de façon très représentée, l’égoïsme stirnien (que nous rejetons). Beaucoup moins représentés sont les courants primitivistes et anti-civilisationnels, et nos divers positionnements exprimés dans ce texte suffisent à clarifier notre position en permettant de comprendre notre positionnement proche des mouvances post-civilisationnelles et primitivistes. Si une telle position existe, nous serions le mieux décrits de la manière suivante :
 
 ```
-anarcho-collectivist post-gauchiste rejetant les notions post-modernes
-```
-
-ou 
-
-```
-neoludith post-gauche
+anarcho-collectivist néo-ludite post-gauchiste rejetant les notions post-modernes
 ```
 
 La position politique du Mallouestan est donc un mélange d’anarchisme, de communautarisme (comme défini dans ce texte), d’écologie profonde et de réalisme autant politique que philosophique (matérialisme).
