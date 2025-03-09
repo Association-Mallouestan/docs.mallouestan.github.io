@@ -11,7 +11,7 @@ Lors de ce chemin vers une critique radicale du libéralisme nous nous sommes ap
 Nous n’avons pour autant pas renié l’anarchisme d’un bloc même si ce fut tentant à certains moments. Nous hésitions car nous avions vu que l’anarchisme hégémonique dans les milieux où nous évoluions (i.e. individualiste) définissait la liberté comme étant individuelle, comme un pouvoir de faire ce que l’on veut et donc de s’abstraire des nécessités de la vie 3[cf Berlan] . Définition partagée avec le libéralisme. C’est une définition qui nous semble fausse et néfaste et contre laquelle nous nous opposons. Ce texte permet alors une introduction à notre vision de la liberté qui définit notre façon de vivre et de s’organiser au Mallouestan. Pour avoir la version complète de notre vision de la liberté, allez lire ici[\lien texte travail et liberté]
 
 
-Qu’est-ce que le libéralisme? Comment définissons nous notre antilibéralisme?
+### Qu’est-ce que le libéralisme? Comment définissons nous notre antilibéralisme?
 
 Nous allons dans cette partie prendre plusieurs formes du libéralisme, inspiré de certains de ces penseurs et détracteurs. Cette diversité n’a pas prétention à être exhaustive, elle nous permet de présenter nos points de divergences tout en fournissant un travail à minima sourcé sur le libéralisme. A chaque point nous allons détailler nos arguments expliquant notre position théorique et le cas échéant les aspects néfastes du libéralisme.
 
@@ -47,7 +47,7 @@ Mais ça ne s’arrête pas là. Le libéralisme a intégré nos luttes. Le lib�
 Le libéralisme sous toutes ses facettes nous semble aussi mal ficelé que néfaste. Nous nous y opposons de manière frontale et sans détour. Mais comment cela se traduit-il au Mallouestan?
 
 
-Comment devenir antilibérale? En quoi le Mallouestan est antilibérale?
+### Comment devenir antilibérale? En quoi le Mallouestan est antilibérale?
 
 Nous ne concevons pas qu’il puisse suffire d’être critique envers le libéralisme pour s’autoproclamer antilibérale. Dans notre vision matérialiste 16[/voir texte Matérialisme], il faut inscrire nos corps dans la lutte pour la destruction des conditions matérielles nous aliénant à ce système et dans celle de la construction de conditions matérielles favorisant notre indépendance face à ce système 17[\voir texte militantisme].
 
@@ -66,7 +66,7 @@ On nous a rétorqué qu’interdire ces consommations serait injuste face à des
 Nous avons également pu décrire au-delà de ce que l’on ne veut pas, le type de liberté et l’organisation politique que nous souhaitons. Pour en lire plus, nous vous conseillons comme prochaine lecture le texte travail et liberté et anar chococo.
 
 
-Conclusion
+### Conclusion
 
 Ayant vu certaines des objections aux hypothèses théoriques soutenant l’existence du libéralisme, nous le considérons comme étant un courant de pensée simpliste qui ne mérite pas l’attention qu’on lui porte. A la suite du développement sur les côtés dévastateurs du libéralisme, nous ne pouvons considérer ce dernier, sous n’importe laquelle de ses formes, que comme un système à abattre. Face à ce constat, nous nous organisons collectivement sur de nombreuses facettes pour nous extraire du libéralisme et créer de meilleures conditions matérielles.
 
