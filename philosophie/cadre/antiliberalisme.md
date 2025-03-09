@@ -3,6 +3,8 @@
 ## Antilibéralisme
 
 ### Pourquoi écrire ce texte?
+
+Cool story Broooooooo
   
 Le libéralisme est aujourd’hui tellement imposant et imposé dans nos façons de voir le monde qu’il est difficile de ne pas prendre position. A l’inverse, notre antilibéralisme a été fondateur dans notre approche éthique du monde, donc de notre charte et de nos décisions collectives. Il nous paraît alors important de partager notre position face au libéralisme. Ce texte a aussi pour but d’éclaircir les justifications politiques de nos différents fonctionnements.
 
