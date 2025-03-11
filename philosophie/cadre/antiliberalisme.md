@@ -1,6 +1,6 @@
 > > [Accueil](../../) > [Portail philosophique](../) > Texte sur le libéralisme
 
-## Antilibéralisme prout
+## Antilibéralisme
 
 ### Pourquoi écrire ce texte?
   
