@@ -16,7 +16,14 @@ Comme nous l'avons déjà dit ce sujet est complexe et doit être simplifié ave
 
 ### Comment définir le genre?
 
-- Plusieurs approches
+C'est là où les choses se compliquent : il existe de nombreuses manières de définir le genre. Contrairement à ce que l'on peut parfois entendre, ce n'est pas une évidence avec une définition consensuelle. Divers groupes défendent diverses approches malgré parfois de fortes proximités politiques. Nous allons nous concentrer sur les approches présentes dans les milieux se réclamant de gauche.
+
+Nous allons commencer par l'approche libérale, assez répandue dans les milieux militants queer et dans de nombreux médias partageant des témoignages. Cette approche se centre sur l'individu, son expérience personnelle et son ressenti. Le genre devient donc identitaire et, comme le décrirait Pauline Clochec, des "archipels d'identités" et de genre apparaissent. Cette approche identitaire a notament comme objectif l'émancipation de l'individu. Il est très commun que la notion de découverte d'un vrai soi soit utilisée pour décrire le genre et les parcours trans vu ainsi.
+
+Dans ce contexte, le genre est avant tout un ressenti, quel qu'il soit, du moment qu'il concerne les comportements typiquement stéréotypés par la binarité des genres. Dans cette vision, chaque personne choisit comment exprimer son genre et ce que cela implique au niveau des interactions sociales (par exemple les pronoms). Cette vision défend une infinité de genres et les catégorise de façon non exhaustive. Le genre est vue comme n'étant pas obligatoirement fixe et peut évoluer au cours de la vie voir de la journée. 
+
+L'émancipation individuelle défendue dans cette approche cherche à permettre à chacun et chacune d'être accepté-e comme iel "est" et d'être traité-e juridiquement et socialement comme toute autre personne. Elle se concentre ainsi sur la réalisation individuelle plutôt que sur une transformation systémique. Nat Raha, dans son article sur les limites du «translibéralisme», partage les dangers d'une telle approche, explicitant qu'une telle émancipation individuelle ne remet pas en cause d'autres problèmes structurels de la société et même parfois les accentue. Nat Raha explique comment cette réalisation individuelle est tout à fait compatible avec le capitalisme. Par ailleurs Nat Raha, Judith Butler, Juliette Jacques, Pauline Clochec et de nombreux-euses autres penseur-euses expliquent qu'en se concentrant ainsi sur l'individu, on abstrait le contexte politique et social qu'on finit par oublier en faveur de l'individu.
+
 
 - Le problème de l'approche libérale  (Leslie Feinberg, Juno Roche, https://www.youtube.com/watch?v=-3ZzpTxjgRw, )
 - Trans Anthology Project: Reflections of Self-Discovery and Acceptance Paperback – August 23, 2024 by Heather H Kirby (Author), Chrissy Boylan (Author) 
