@@ -20,7 +20,7 @@ C'est là où les choses se compliquent : il existe de nombreuses manières de d
 
 #### La binarité des genres
 
-Avant de commencer, il faut expliquer le principe de binarité de genre. La binarité de genre est l'approche culturelle et sociale majoritaire où le genre n'existe que comme homme ou femme. Autrement dit cette vision soutient qu'il y a donc deux genres soit homme ou femme. Majoritairement, cette approche défend que ce qui définit son genre (si on est homme ou femme) est le sexe biologique. Cette vision binaire associe des comportements, dits normaux, à chaque catégorie comme par exemple le fait d'être rationnel, affirmé ou fort pour les homme et empatique, discrète ou douce pour les femmes. Cette vision crée une culture ou il est mal vu de transgresser, soit le fait de ne pas respecter ces catégories.
+Avant de commencer, il faut s'attarder sur l'approche et le principe de binarité de genre. La binarité de genre est l'approche culturelle et sociale majoritaire où le genre n'existe que comme homme ou femme. Autrement dit cette vision soutient qu'il y a donc deux genres soit homme ou femme. Majoritairement, cette approche défend que ce qui définit son genre (si on est homme ou femme) est le sexe biologique. Cette vision binaire associe des comportements, dits normaux, à chaque catégorie comme par exemple le fait d'être rationnel, affirmé ou fort pour les homme et empatique, discrète ou douce pour les femmes. Cette vision crée une culture ou il est mal vu de transgresser, soit le fait de ne pas respecter ces catégories.
 
 La mannifestation phisique de ce sexe biologique est vue dans cette approche comme simple indicateur d'une nature comportementale ou d'une nature capacitaire. Il est important de noter que à ce jour qu'il n'existe aucune preuves scientifiques, sociologiques ou psychologiques justifiant les catégories telles qu'elle ni un interet partagé à les maintenirs en place. Au contraire il semblerait qu'il faudrait expérimenter de nouvelles approches en vue des attentes sociales défendus aujourd'hui.
 
@@ -79,9 +79,9 @@ Nous avons également détaillé notre volonté d’abolir tout genre en demanda
 2. https://www.versobooks.com/blogs/news/2245-the-limits-of-trans-liberalism-by-nat-raha
 3. K. Jasbir Puar: Homonationalisme. Politiques queers après le 11 septembre 
 4. "Matérialismes trans" aux éditions Hysteriques & Associées
-5. Cette vidéo de Et tout le monde s'en fout sur le genre montre bien ce saut constant entre constructivisme sociale et identité/libre arbitre/soi même https://www.youtube.com/watch?v=_AjgWaWz7dU
+5. Cette vidéo de Et tout le monde s'en fout sur le genre montre bien ce saut constant entre constructivisme sociale et identité/libre arbitre/soi-même https://www.youtube.com/watch?v=_AjgWaWz7dU
 6. "Transfuges de sexe" de Emmanuel Beaubatie
 7. "Trans Identities and First-Person Authority" de Talia Mae Bettcher et Talia Mae Bettcher dans "Histories of the Transgender Child"
 8. "La Pensée straight" de Monique Wittig
 9. "Après l'identité : transitude & féminisme" de Pauline Clochec
-10. Nous voulons par défaut parler en neutre. Dans le cas ou le neutre n'est pas compris et de fait inclusif nous accepterons de passer en langage inclusif faisant apparaitre des genres mais en veillant leurs representations égal.
+10. Nous voulons par défaut parler en langage neutre. Dans le cas ou ce neutre ne serais pas compris et de fait ne serais pas inclusif nous accepterons de passer en langage inclusif faisant apparaitre des genres mais en veillant à leurs representations égal.
