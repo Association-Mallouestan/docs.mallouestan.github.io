@@ -23,11 +23,11 @@ Nous sommes conscient·es que beaucoup des valeurs et des objectifs ci-dessous s
 	- L'autonomie en méthodes et matériaux de construction,
 	- La déconnexion totale des espaces d'hébergement dits "personnels" des réseaux publics,
 	- L'autonomie à l'égard de l'agriculture intensive et mécanisée,
-	- L'autonomie vis-à-vis des technologies complexes.
+	- L'autonomie vis-à-vis des technologies complexes ;
 2. Assurer la pérennité du sanctuaire pour les animaux non-humains ;  
 3. Diminuer notre impact écologique ainsi que notre impact sur les écosystèmes avoisinants ; 
-4. Les santés corporelle et émotionnelle sont, pour nous, essentielles à une vie collective autonome et saine. Nous cherchons donc à développer une écoute de soi fine et une conscience de son corp efficace pour tendre vers une résilience quotidienne de l'individu au sein du collectif. Celle-ci a pour but de minimiser les blessures, la fatigue et le mal-être ;
-5. Tendre, sur le lieu, vers une abolition au sens général des hiérarchies non légitimes et des rapports de force non nécessairse. 
+4. Les santés corporelle et émotionnelle sont, pour nous, essentielles à une vie collective autonome et saine. Nous cherchons donc à développer une écoute de soi fine et une conscience de son corps efficace pour tendre vers une résilience quotidienne de l'individu au sein du collectif. Celle-ci a pour but de minimiser les blessures, la fatigue et le mal-être ;
+5. Tendre, sur le lieu, vers une abolition au sens général des hiérarchies non légitimes et des rapports de force non nécessaires. 
 6. Déconstruire les comportements systémiques, institutionnalisés et oppressifs, notamment les comportements issus du patriarcat, du racisme, du capacitisme, et de l'âgisme ;
 7. Minimiser la priorisation des intérêts d’une espèce sur une autre ;
 8. Partager nos ressources et privilèges dans une optique de solidarité et d'inclusion ;
@@ -38,7 +38,7 @@ Nous sommes conscient·es que chacun·e est déconstruit·e à des niveaux varia
 
 1. Aucune violence, hors légitime défense, envers un autre individu, ce qui inclut mais n'est pas limité aux violences ou situations suivantes : 
 	- Les agressions verbales ou physiques ;
-	- les discours prônant la violence à l'égard d'autres êtres sentients ;
+	- Les discours prônant la violence à l'égard d'autres êtres sentients ;
 	- Le non-respect de la liberté de chacun-e de clore toute situation sociale qu'elle trouve inconfortable ;   
 	- Toute entrave à l'agentivité (la capacité d'agir et de façon autonome) d'un individu, le non-respect de l'individualité (le fait qu'un individu possède des caractéristiques qui le rendent tel qu'il ne puisse être confondu avec un autre être), ou le non respect de l'autonomie corporelle (le droit de prendre ses propres décisions pour son corps et son avenir) ;
 2. Aucune consommation, achat ou promotion de produits d’origine animale (chair, lait, œufs, miel, cuir, laine...) et aucune promotion d'activités liées à l'exploitation animale (équitation, agility, cirque, traction animale, collaboration animale...). Tous les sujets peuvent évidemment être abordés, mais ils doivent être traités en tant qu'idée et non comme des vérités universelles ;
@@ -47,11 +47,11 @@ Nous sommes conscient·es que chacun·e est déconstruit·e à des niveaux varia
 5. Le respect des animaux comme explicité à l'annexe "Animaux non autonomes" ;
 6. Un minimum de communication active (initiée par la personne détenant l'information) comme défini à la section "Communication sur le lieu" ; 
 7. Les aliments suivants ne sont pas tolérés au sein des espaces communs et partagés : Nova 4 ; Nova 3 de score nutritionnel D ou E. (Système de catégories https://fr.openfoodfacts.org/nova).
-8. L'alcool, la nicotine, les drogues et autres substances (hors: alimentaires ou médicales) addictives ne sont pas tolérées; Il n'est pas toléré non plus que la consommation de ces produits soit activement encouragé sur le lieu.
+8. L'alcool, la nicotine, les drogues et autres substances (hors: alimentaires ou médicales) addictives ne sont pas tolérées. Il n'est pas toléré non plus que la consommation de ces produits soit activement encouragée sur le lieu.
 9. La consommation d'énergie fossile (gaz, pétrole, charbon, etc.) est prohibée (hors briquet).
 10. Tout état d'ébriété ou état sous influence (hors contexte médical) n'est pas toléré lors des événements ponctuels ou durant les moments partagés du quotidien.
 11. Que l'usage de nos infrastructures collectives (solaire, internet, eau) soit limité à un cadre de nécessité (administrative, médicale, scolaire ou académique, activité associative/professionnelle ponctuelle). Les jeux vidéos, le streaming, le scrolling ou tout autre usage intense de ces infrastructures hors nécessité n'est pas toléré.
-12. Tout comportement visant activement à nuire à l'association n'est pas toléré
+12. Tout comportement visant activement à nuire à l'association n'est pas toléré.
 
 > Ces restrictions ne sont pas le reflet de jugements moraux sur des individus qui, en dehors du lieu, ne les respecteraient pas. Ces restrictions sont limitées au contexte que nous créons et n'ont aucune prétention au delà.  
 
@@ -60,12 +60,12 @@ Nous sommes conscient·es que chacun·e est déconstruit·e à des niveaux varia
 ## Gouvernance
 Un équilibre doit être trouvé entre les libertés individuelles et celles du collectif. Les situations suivantes, impactant le contexte commun, doivent être précédées par un vote unanime des personnes concernées par la décision: 
 
-- Tout changement de la charte ou ses annexes (Budget, liste de courses) ;
+- Tout changement de la charte ou ses annexes (budget, liste de courses) ;
 - L'attribution des rôles de arrimé·e ou de résident·e ainsi que les conditions d'une période d'essai ;
 - Les dépenses exceptionnelles ou ponctuelles définies dans l'annexe pour le budget ;
 - Tout aménagement, par une personne, impactant les espaces communs qui ne peut être défait par cette même personne en une journée.
 
-Tout autre décision, hors précision contraire dans le manuel, ne nécéssite aucun accord collectif. Néanmoins, une communication et une transparence sont encouragées. 
+Toute autre décision, hors précision contraire dans le manuel, ne nécéssite aucun accord collectif. Néanmoins, une communication et une transparence sont encouragées. 
 
 > Toute décision peut être annulée ou opposée par n'importe quelle personne si elle est en contradiction avec le présent manuel. Si un doute existe sur l'interprétation du manuel, concevable par 60% des personnes présentes sur le lieu, l'ambiguité ne peut être imputée à la prise de décision. 
 
@@ -98,7 +98,7 @@ Les sanctions suite à un non-respect d'un ultimatum peuvent être:
 - Travaux obligatoires pour le collectif
 
 ## Ultimatums 
-Plusieurs ultimatums exceptionnels sont de facto définis pour tous les membres du lieu: 
+Plusieurs ultimatums exceptionnels sont de facto définis pour tous les membres du lieu : 
 1. Toute atteinte physique intentionelle non sportive et hors légitime défense, sur un individu du lieu peut entraîner une exclusion du lieu si au moins une autre membre du lieu le souhaite 
 2. Toute atteinte physique grave (décès, blessures sur le long terme) par un animal non-résident sur un autre individu du lieu entraîne soit l’exclusion de l’animal ou, si la ou les responsables de l’animal le souhaitent, un ultimatum les concernant directement
 3. Si une personne présentant une volonté d'atteinte grave à elle-même, qu'il s'agisse de blessures potentielles ou d'un risque imminent de mort, nous prendrons la décision **dans le cas où le dialogue est stérile ou impossible**, d'impliquer des forces extérieures. Cela peut inclure, mais n'est pas limité à, l'appel des services d'urgence tels que le SAMU
@@ -110,7 +110,7 @@ Les événements ponctuels ou quotidiens qui sont destinés à être collectifs 
 
 > Exemple: Pour les repas, prévenir toutes les personne du lieu
 
-La communication est intrinsèquement complexe et varie en fonctions des individues. Il est important de s'adapter au mieux à ces différences, que ce soit à l'oral, par écrit ou autrement. Malgré cela, une communication minimale active (initiée par la personne détenant l'information) est nécessaire en ce qui concerne le contexte commun et la vie quotidienne collective du lieu. Nous demandons donc une communication claire sur les points suivants :
+La communication est intrinsèquement complexe et varie en fonctions des individus. Il est important de s'adapter au mieux à ces différences, que ce soit à l'oral, par écrit ou autrement. Malgré cela, une communication minimale active (initiée par la personne détenant l'information) est nécessaire en ce qui concerne le contexte commun et la vie quotidienne collective du lieu. Nous demandons donc une communication claire sur les points suivants :
 
 - Ce qui relève des responsabilités des référent·es techniques
 - Les tâches quotidiennes, hebdomadaires et les chantiers
@@ -132,7 +132,7 @@ Si l'espace n'est pas réservé l'exclusivité est accordée, si elle est souhai
 Le lieu est séparé en plusieurs pôles. Ces pôles servent principalement à décrire les différentes activités du lieu et de les adresser ou les organiser. À ce jour, les pôles suivants sont définis :
 
 - Culturel
-- Maraîchage
+- Subsistance alimentaire et Horticulture
 - Gestion des ressources premières
 - Construction
 - Soins aux animaux non-humains
@@ -140,7 +140,7 @@ Le lieu est séparé en plusieurs pôles. Ces pôles servent principalement à d
 - Autocritique et stratégie
 - Faune et flore sauvages
 
-Les décisions sont prises collectivement au moment de plannification pour chaque pôle où un budget et des objectifs sont définis pour le trimestre suivant. 
+Les décisions sont prises collectivement au moment de planification pour chaque pôle où un budget et des objectifs sont définis pour le trimestre suivant. 
 
 ### Gestion financière
 Certains frais dépendent de la vie commune. Un pot commun est donc mis à disposition pour que chacun·e participe selon ses moyens. Ces derniers ne peuvent être un motif d'exclusion du lieu ou de quelconque sanction du collectif. 
@@ -152,22 +152,22 @@ Les divers dons sont ajoutés au pot commun. L'argent présent dans le pot commu
 > Une liste de courses communes est définie précisant les produits que l'on achète avec le budget associé. 
 
 Les fonds suivants sont disponibles sur le lieu et sont encadrés par l'annexe "Fonds et mutuelles":
-1. Fond de solidarité
+1. Fonds de solidarité
 2. Mutuelle de subsistance
-3. Fond de secours du sanctuaire
-4. Fond de libération agraire
-5. Fond pour faune et flore sauvage
+3. Fonds de secours du sanctuaire
+4. Fonds de libération agraire
+5. Fonds pour faune et flore sauvage
 
 ### Mise à disposition d'espace personnel
 Dans le contexte d'accueil et d'hébergement, en dehors des dortoirs, nous pouvons mettre à disposition des espaces s'apparentant à des espaces personnels. Pour autant, les règles des espaces communs s'appliquent dans ces espaces sauf exception convenue avec le collectif en amont.
 
 Les travaux dits structurels sont à la responsabilité du groupe tandis que les travaux mineurs tels que décoratifs à l'intérieur (peinture, revêtement de sol amovible, etc.) ou le fauchage sont à la responsabilité de l'occupant-e.
 
-Lorsque des occupant-es quitte définitivement l'espace mis à leur disposition iels doivent s'assurer qu'iels laissent l'espace dans un état propre, salubre et rangé. Iels doivent signaler au collectif toute chose qui pourrait compromettre ou déranger l'installation d'une nouvelle personne. Un membre du groupe (arrimé-e ou résident-e) fera une visite de l'espace au moment du départ des occupant-es. 
+Lorsque des occupant-es quittent définitivement l'espace mis à leur disposition, iels doivent s'assurer qu'iels laissent l'espace dans un état propre, salubre et rangé. Iels doivent signaler au collectif toute chose qui pourrait compromettre ou déranger l'installation d'une nouvelle personne. Un membre du groupe (arrimé-e ou résident-e) fera une visite de l'espace au moment du départ des occupant-es. 
 
 ### Événements
 
-Nous sommes amené-es à organiser ou accueillir des événements sur le lieu comme, mais non limité à, des formations, rencontres diverses, expositions ou concerts. Ces évènements, incluant les évènements externes (organisés par d'autres collectifs) permis par la mise à disposition du lieu, se doivent d'être à prix libre.   
+Nous sommes amené-es à organiser ou accueillir des événements sur le lieu comme, mais non limité à, des formations, des rencontres diverses, des expositions ou des concerts. Ces évènements, incluant les évènements externes (organisés par d'autres collectifs) permis par la mise à disposition du lieu, se doivent d'être à prix libre.   
 
 ## Communication extérieure
 Toute communication au nom du Mallouestan se doit d'être en accord avec cette charte et ne doit qu'exprimer des positions politiques, militant·es ou philosophiques présentes dans cette charte (anarchisme, antispécisme...). Toute prise de position du communicant non présente dans cette charte ne doit pas être exprimée au nom du Mallouestan.
@@ -227,8 +227,9 @@ Il y a trois rôle sur le lieu :
 Toute personne résidente sur le lieu accepte que les dépenses liées au lieu n’ont aucune garantie d'être restituées. Le terrain et l’immobilier relèvent de sa responsabilité, ainsi, les autres résident·es ne peuvent garantir l’achat ou la vente du bien. 
 
 > Chaque résident·e est invité·e, en cas de départ d’un·e résident·e ou membre, d’aider en fonction de ses moyens la personne qui part.
+
 ## Mutualisation des ressources
-Les personnes arrimées ont comme devoir la mutualisation de leurs ressources ce qui comprend leurs ressources financières (capital financier) et leur patrimoine. Ainsi, si l'un·e des arrimé-es quitte le statut arrimé·e ou est exclu·e des arrimé·es, ce qui a été mutualisé ne peut être repris. Pour éviter une dépendance au collectif plusieurs sécurités sont mis en place:
+Les personnes arrimées ont comme devoir la mutualisation de leurs ressources ce qui comprend leurs ressources financières (capital financier) et leur patrimoine. Ainsi, si l'un·e des arrimé-es quitte le statut arrimé·e ou est exclu·e des arrimé·es, ce qui a été mutualisé ne peut être repris. Pour éviter une dépendance au collectif plusieurs sécurités sont mises en place:
 1. Une somme d'argent hebdomadaire est allouée à chaque arrimé·e dont l'usage est à leur discrétion.
 2. Un filet de sécurité est prérequis pour devenir arrimé-e. Ce filet à comme objectif de permette à tout moment à la personne le détenant de partir du lieu. Ce filet de sécurité est variable (nous n'avons pas tous-tes le même capital social, familial, culturel... ) et est demandé par chaque candidat·e au rôle d'arrimé·e.
 3. Certains besoins sont considérés comme ubiquitaires tels que l'abonnement du téléphone mobile, les frais médicaux, frais bancaire, individus à charge et maintenance des vélos. Ils sont donc pris en charge par la mutualisation.
