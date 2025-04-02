@@ -45,7 +45,7 @@ Nous sommes conscient·es que chacun·e est déconstruit·e à des niveaux varia
 3. Aucune promotion de religions ou de spiritualités ésotériques telles que les soins énergétiques, l'anthroposophie, la biodynamie, l'astrologie, la sorcellerie, le chamanisme, etc. Tous les sujets peuvent évidemment être abordés, mais ils doivent être traités en tant qu'idée et non comme des vérités universelles ;
 4. Le respect des espaces et de leurs signalisations ;
 5. Le respect des animaux comme explicité à l'annexe "Animaux non autonomes" ;
-6. Un minimum de communication active (initiée par la personne détenant l'information) comme défini à la section "Communication sur le lieu" ; 
+6. Un minimum de communication active (initiée par la personne détenant l'information) comme défini dans l'annexe "Vie collective" ; 
 7. Les aliments suivants ne sont pas tolérés au sein des espaces communs et partagés : Nova 4 ; Nova 3 de score nutritionnel D ou E. (Système de catégories https://fr.openfoodfacts.org/nova).
 8. L'alcool, la nicotine, les drogues et autres substances (hors: alimentaires ou médicales) addictives ne sont pas tolérées. Il n'est pas toléré non plus que la consommation de ces produits soit activement encouragée sur le lieu.
 9. La consommation d'énergie fossile (gaz, pétrole, charbon, etc.) est prohibée (hors briquet).
@@ -104,74 +104,6 @@ Plusieurs ultimatums exceptionnels sont de facto définis pour tous les membres 
 3. Si une personne présentant une volonté d'atteinte grave à elle-même, qu'il s'agisse de blessures potentielles ou d'un risque imminent de mort, nous prendrons la décision **dans le cas où le dialogue est stérile ou impossible**, d'impliquer des forces extérieures. Cela peut inclure, mais n'est pas limité à, l'appel des services d'urgence tels que le SAMU
 4. Si une personne vole l'association  
 
-## Vie collective
-### Communication sur le lieu 
-Les événements ponctuels ou quotidiens qui sont destinés à être collectifs (repas, réunions...) nécessitent une communication claire et fonctionnelle passant par des moyens de communication ubiquitaires (partagés par toustes). L'objectif de cette communication est de permettre à chacun·e de participer ou d'être informé·e afin que toustes soit inclus.es dans la vie collective.
-
-> Exemple: Pour les repas, prévenir toutes les personne du lieu
-
-La communication est intrinsèquement complexe et varie en fonctions des individus. Il est important de s'adapter au mieux à ces différences, que ce soit à l'oral, par écrit ou autrement. Malgré cela, une communication minimale active (initiée par la personne détenant l'information) est nécessaire en ce qui concerne le contexte commun et la vie quotidienne collective du lieu. Nous demandons donc une communication claire sur les points suivants :
-
-- Ce qui relève des responsabilités des référent·es techniques
-- Les tâches quotidiennes, hebdomadaires et les chantiers
-- La présence ou l'absence des personnes hébergé·es sur le lieu
-- Tout état de santé entraînant un risque ou un danger
-- Tout élément mettant en danger la santé d'autrui (humains comme non-humains)
-### Occupation d'espace 
-Les espaces suivants sur le lieu peuvent être réservés pour un usage exclusif.
-- La salle a'tout
-- Le Mobilhome
-- Le bureau
-- L'espace polyvalent
-
-Les tableaux de réservations sont validés, et ainsi deviennent effectifs, à chaque réunion. 
-
-Si l'espace n'est pas réservé l'exclusivité est accordée, si elle est souhaitée, aux premièr·es venu·es.
-
-### Pôles
-Le lieu est séparé en plusieurs pôles. Ces pôles servent principalement à décrire les différentes activités du lieu et de les adresser ou les organiser. À ce jour, les pôles suivants sont définis :
-
-- Culturel
-- Subsistance alimentaire et Horticulture
-- Gestion des ressources premières
-- Construction
-- Soins aux animaux non-humains
-- Vie co
-- Autocritique et stratégie
-- Faune et flore sauvages
-
-Les décisions sont prises collectivement au moment de planification pour chaque pôle où un budget et des objectifs sont définis pour le trimestre suivant. 
-
-### Gestion financière
-Certains frais dépendent de la vie commune. Un pot commun est donc mis à disposition pour que chacun·e participe selon ses moyens. Ces derniers ne peuvent être un motif d'exclusion du lieu ou de quelconque sanction du collectif. 
-
-Les divers dons sont ajoutés au pot commun. L'argent présent dans le pot commun est réparti entre les frais liés aux animaux, les frais de l'écolieu ainsi que les frais pour les courses de la semaine à venir. 
-
-> Un budget est défini collectivement sur le lieu couvrant tous les frais nécessaires et collectifs.
-
-> Une liste de courses communes est définie précisant les produits que l'on achète avec le budget associé. 
-
-Les fonds suivants sont disponibles sur le lieu et sont encadrés par l'annexe "Fonds et mutuelles":
-1. Fonds de solidarité
-2. Mutuelle de subsistance
-3. Fonds de secours du sanctuaire
-4. Fonds de libération agraire
-5. Fonds pour faune et flore sauvage
-
-### Mise à disposition d'espace personnel
-Dans le contexte d'accueil et d'hébergement, en dehors des dortoirs, nous pouvons mettre à disposition des espaces s'apparentant à des espaces personnels. Pour autant, les règles des espaces communs s'appliquent dans ces espaces sauf exception convenue avec le collectif en amont.
-
-Les travaux dits structurels sont à la responsabilité du groupe tandis que les travaux mineurs tels que décoratifs à l'intérieur (peinture, revêtement de sol amovible, etc.) ou le fauchage sont à la responsabilité de l'occupant-e.
-
-Lorsque des occupant-es quittent définitivement l'espace mis à leur disposition, iels doivent s'assurer qu'iels laissent l'espace dans un état propre, salubre et rangé. Iels doivent signaler au collectif toute chose qui pourrait compromettre ou déranger l'installation d'une nouvelle personne. Un membre du groupe (arrimé-e ou résident-e) fera une visite de l'espace au moment du départ des occupant-es. 
-
-### Événements
-
-Nous sommes amené-es à organiser ou accueillir des événements sur le lieu comme, mais non limité à, des formations, des rencontres diverses, des expositions ou des concerts. Ces évènements, incluant les évènements externes (organisés par d'autres collectifs) permis par la mise à disposition du lieu, se doivent d'être à prix libre.   
-
-## Communication extérieure
-Toute communication au nom du Mallouestan se doit d'être en accord avec cette charte et ne doit qu'exprimer des positions politiques, militant·es ou philosophiques présentes dans cette charte (anarchisme, antispécisme...). Toute prise de position du communicant non présente dans cette charte ne doit pas être exprimée au nom du Mallouestan.
-
 ## Rôles et responsabilités
 Dans une optique de minimisation de pouvoir sur le lieu, les rôles suivants sont définis pour permettre à chacun·e de mieux appréhender leurs responsabilités et devoirs.
 
@@ -192,7 +124,7 @@ Il y a trois rôle sur le lieu :
 | De fournir aux visiteuse·eurs les ressources nécessaires le temps de leur séjour<br>                                                                                                                                                                                 |    Non    |    Non    |   Oui   |
 | De garantir le respect de la charte et d'intervenir ou solutionner des potentiels problèmes.                                                                                                                                                                         |    Non    |    Non    |   Oui   |
 | De s'assurer de la présence d'au moins un·e arrimé·e sur le lieu<br>                                                                                                                                                                                                 |    Non    |    Non    |   Oui   |
-| De mutualiser ses ressources (comme précisé à la section mutualisation des ressources)                                                                                                                                                                               |    Non    |    Non    |   Oui   |
+| De mutualiser ses ressources (comme précisé l'annexe économie partagée)                                                                                                                                                                               |    Non    |    Non    |   Oui   |
 | De s'assurer de la présence d'au moin un·e arrimé·e sur le lieu la nuit, au moment des tâches concernant les non-humains.                                                                                                                                            |    Non    |    Non    |   Oui   |
 
 ### Droits des différents rôles et personnes 
@@ -223,24 +155,8 @@ Il y a trois rôle sur le lieu :
 7. Les motifs de refus d'accès au rôle, étayés si possible d'exemples et de pistes, doivent être communiqués aux personnes concernées.
 8. Les réunions concernant la stratégie à long terme ou tout autre sujet propre aux arrimé·es mais concernant le contexte commun ne peuvent exclure la présence des résident·es.
 
-## Investissement
-Toute personne résidente sur le lieu accepte que les dépenses liées au lieu n’ont aucune garantie d'être restituées. Le terrain et l’immobilier relèvent de sa responsabilité, ainsi, les autres résident·es ne peuvent garantir l’achat ou la vente du bien. 
-
-> Chaque résident·e est invité·e, en cas de départ d’un·e résident·e ou membre, d’aider en fonction de ses moyens la personne qui part.
-
-## Mutualisation des ressources
-Les personnes arrimées ont comme devoir la mutualisation de leurs ressources ce qui comprend leurs ressources financières (capital financier) et leur patrimoine. Ainsi, si l'un·e des arrimé-es quitte le statut arrimé·e ou est exclu·e des arrimé·es, ce qui a été mutualisé ne peut être repris. Pour éviter une dépendance au collectif plusieurs sécurités sont mises en place:
-1. Une somme d'argent hebdomadaire est allouée à chaque arrimé·e dont l'usage est à leur discrétion.
-2. Un filet de sécurité est prérequis pour devenir arrimé-e. Ce filet à comme objectif de permette à tout moment à la personne le détenant de partir du lieu. Ce filet de sécurité est variable (nous n'avons pas tous-tes le même capital social, familial, culturel... ) et est demandé par chaque candidat·e au rôle d'arrimé·e.
-3. Certains besoins sont considérés comme ubiquitaires tels que l'abonnement du téléphone mobile, les frais médicaux, frais bancaire, individus à charge et maintenance des vélos. Ils sont donc pris en charge par la mutualisation.
-4. Une somme d'argent est allouée à la constitution pour chaque arrimé·e d'un ensemble d'outils considérés comme essentiels.
 
 ## Limites et quotas
 En vue de la taille et des ressources à disposition, certaines limites et certains quotas ont été définis: 
 - Un nombre maximum de 6 espaces personnels est fixé sur le lieu, à ce jour, permettant à 6 personnes/couples/familles de vivre sur le lieu. 
 - Un nombre maximum de 16 visiteuse·eurs à la fois est fixé pour passer une nuit sur le lieu
-
-## Textes et annexes
-- [Explications sur l'autonomie](../Philosophie/Autonomie)
-- [Explications sur le rapport au comfort](../Philosophie/Comfort)
-- [Explications sur notre opposition au libéralisme](../Philosophie/Anti-liberalisme)
