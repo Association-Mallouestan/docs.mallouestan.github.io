@@ -46,7 +46,6 @@ Les travaux dits structurels sont à la responsabilité du groupe tandis que les
 Lorsque des occupant-es quittent définitivement l'espace mis à leur disposition, iels doivent s'assurer qu'iels laissent l'espace dans un état propre, salubre et rangé. Iels doivent signaler au collectif toute chose qui pourrait compromettre ou déranger l'installation d'une nouvelle personne. Un membre du groupe (arrimé-e ou résident-e) fera une visite de l'espace au moment du départ des occupant-es. 
 
 ### Événements
-
 Nous sommes amené-es à organiser ou accueillir des événements sur le lieu comme, mais non limité à, des formations, des rencontres diverses, des expositions ou des concerts. Ces évènements, incluant les évènements externes (organisés par d'autres collectifs) permis par la mise à disposition du lieu, se doivent d'être à prix libre.   
 
 ### Communication extérieure

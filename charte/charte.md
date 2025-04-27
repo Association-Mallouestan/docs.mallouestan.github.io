@@ -106,6 +106,7 @@ Ci dessous les responsabilités et droits des visiteurs, pour l'ensemble des rô
 | Responsable de l'entretien (nettoyage, changer une ampoule ...) des locaux et de tout équipement qu'il ou elle utilise sur le lieu, dans la limite de ses capacités, dans le cas contraire il ou elle doit notifier l'ensemble du collectif.                         |
 | De tout faire pour ne pas représenter une charge financière ou de travail pour le reste du collectif                                                                                                                                                                 |
 | De garantir le respect, par toustes, de la charte. Pour éviter un contexte de délation, seules les situations interpersonnelles, où le bien-être d'une autre personne du lieu serait en jeu, oblige une intervention ou une notification de l'ensemble du collectif. |
+
 ### Accueil de visiteuse•eures
 
 Parmis nos objectif nous avons toujours valoriser l'accueil de visiteuse•eures dans diverses optiques notamment: de solidarité, de transmission, et d'ouverture à l'extérieur évitant un entre soi. Notre collectif s'inscrit dans une émancipation qui se veut collective et qui voit cette autonomie que possible par une organisation qui est collective également. Ainsi, les visiteurs que nous accueillons sont tenus de participer a minima à notre vie quotidienne (vaisselle, cuisine, ménage...) ou de nous communiquer l'incapacité de le faire. Dans tout les cas un minimum de temps partagé est attendu quand cela est possible. Pour toute les raisons cité ci dessus nous nous accordons la possibilité de demandé aux personnes ne s'inscrivent pas dans une telle démarche de partir.
@@ -115,4 +116,3 @@ Parmis nos objectif nous avons toujours valoriser l'accueil de visiteuse•eures
 - [Responsabilités et droits](./annexe--responsabilites-droits)
 - [Économie partagée](./annexe--economie-partagee)
 - [Gestion de conflit](./annexe--gestion-de-conflit)
-- [Directives A.C.A.B (Directives d'Aménagements Collectifs, d'Attractivité et des Batis)](./annexe--directives-acab.md)
