@@ -74,10 +74,12 @@ Toute autre décision, hors précision contraire dans le manuel, ne nécéssite 
 > Toute exception à la charte peut être mise en place temporairement (la durée doit être précisée) sur vote unanime. L'exception est valable tant que sont présentes sur le lieu uniquement les personnes ayant participé à la mise en place de ladite exception. Les exceptions, hormis celles qui concernent les quotas humains, doivent également être validés par les arrimé·es non présent.es sur le lieu.
 
 Les nuances de gouvernance entre les rôles est détaillé dans l'annexe [Annexe:  responsabilités et droits](./annexe--responsabilites-droits)
+
 ## Gestion de conflit
 Nous sommes conscient·es que nous sommes des êtres de nature imparfaite. Nous faisons donc toutes et tous des erreurs ou des écarts à nos valeurs et idéaux. Nous nous devons d’être indulgent·es, envers nous-mêmes et envers autrui. Mais nous acceptons également que tout écart qui impacte le lieu et ses membres peut être traité si une personne le souhaite. 
 
 Une annexe a cette charte cadre le gestion du conflit appelé [Annexe: gestion de conflit](./annexe--gestion-de-conflit)
+
 ## Ultimatums 
 Plusieurs ultimatums exceptionnels sont de facto définis pour tous les membres du lieu : 
 1. Toute atteinte physique intentionelle non sportive et hors légitime défense, sur un individu du lieu peut entraîner une exclusion du lieu si au moins une autre membre du lieu le souhaite 
@@ -106,8 +108,8 @@ Ci dessous les responsabilités et droits des visiteurs, pour l'ensemble des rô
 | Responsable de l'entretien (nettoyage, changer une ampoule ...) des locaux et de tout équipement qu'il ou elle utilise sur le lieu, dans la limite de ses capacités, dans le cas contraire il ou elle doit notifier l'ensemble du collectif.                         |
 | De tout faire pour ne pas représenter une charge financière ou de travail pour le reste du collectif                                                                                                                                                                 |
 | De garantir le respect, par toustes, de la charte. Pour éviter un contexte de délation, seules les situations interpersonnelles, où le bien-être d'une autre personne du lieu serait en jeu, oblige une intervention ou une notification de l'ensemble du collectif. |
-### Accueil de visiteuse•eures
 
+### Accueil de visiteuse•eures
 Parmis nos objectif nous avons toujours valoriser l'accueil de visiteuse•eures dans diverses optiques notamment: de solidarité, de transmission, et d'ouverture à l'extérieur évitant un entre soi. Notre collectif s'inscrit dans une émancipation qui se veut collective et qui voit cette autonomie que possible par une organisation qui est collective également. Ainsi, les visiteurs que nous accueillons sont tenus de participer a minima à notre vie quotidienne (vaisselle, cuisine, ménage...) ou de nous communiquer l'incapacité de le faire. Dans tout les cas un minimum de temps partagé est attendu quand cela est possible. Pour toute les raisons cité ci dessus nous nous accordons la possibilité de demandé aux personnes ne s'inscrivent pas dans une telle démarche de partir.
 
 ### Annexes
@@ -115,4 +117,3 @@ Parmis nos objectif nous avons toujours valoriser l'accueil de visiteuse•eures
 - [Responsabilités et droits](./annexe--responsabilites-droits)
 - [Économie partagée](./annexe--economie-partagee)
 - [Gestion de conflit](./annexe--gestion-de-conflit)
-- [Directives A.C.A.B (Directives d'Aménagements Collectifs, d'Attractivité et des Batis)](./annexe--directives-acab.md)
