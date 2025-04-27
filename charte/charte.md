@@ -113,7 +113,7 @@ Ci dessous les responsabilités et droits des visiteurs, pour l'ensemble des rô
 Parmis nos objectif nous avons toujours valoriser l'accueil de visiteuse•eures dans diverses optiques notamment: de solidarité, de transmission, et d'ouverture à l'extérieur évitant un entre soi. Notre collectif s'inscrit dans une émancipation qui se veut collective et qui voit cette autonomie que possible par une organisation qui est collective également. Ainsi, les visiteurs que nous accueillons sont tenus de participer a minima à notre vie quotidienne (vaisselle, cuisine, ménage...) ou de nous communiquer l'incapacité de le faire. Dans tout les cas un minimum de temps partagé est attendu quand cela est possible. Pour toute les raisons cité ci dessus nous nous accordons la possibilité de demandé aux personnes ne s'inscrivent pas dans une telle démarche de partir.
 
 ### Annexes
-- [Vie collective](./annexe--vie-collective)
-- [Responsabilités et droits](./annexe--responsabilites-droits)
-- [Économie partagée](./annexe--economie-partagee)
-- [Gestion de conflit](./annexe--gestion-de-conflit)
+- [Vie collective](./annexe--vie-collective.md)
+- [Responsabilités et droits](./annexe--responsabilites-droits.md)
+- [Économie partagée](./annexe--economie-partagee.md)
+- [Gestion de conflit](./annexe--gestion-de-conflit.md)
