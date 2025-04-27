@@ -1,5 +1,11 @@
 # Registres de changements de la charte
 
+## 27 avril 2025 (Majeur)
+
+1. La charte a été morceler en annexes et rendu plus accessible pour les visiteuse-eurs
+2. Ajout d'une précision sur la mise à disposition de moyens (financiers, matériels) de façon conditionner.
+3. Ajout du cadre d'accueil des visiteuse-eurs
+
 ## 20 Septembre 2024 (Majeur)
 
 1. Mise en place d'un registre des changements de la charte

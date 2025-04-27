@@ -1,0 +1,46 @@
+## Annexe: responsabilités et droits des différents rôles
+
+> Cette annexe est un document vivant et évolutif. Elle est à lire et à respecter comme la charte elle-même. Elle est à compléter, modifier ou corriger par le collectif du Mallouestan.
+
+### Responsabilités des différents rôles et personnes
+
+| Responsabilité                                                                                                                                                                                                                                                       | Visiteuse | Résidente | Arrimée |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :-------: | :-----: |
+| Garant de ses actes et gestes sur le lieu. Il ou elle est la·e garant de son quotidien et de sa communication avec l'ensemble du collectif.                                                                                                                          |    Oui    |    Oui    |   Oui   |
+| Responsable de l'entretien (nettoyage, changer une ampoule ...) des locaux et de tout équipement qu'il ou elle utilise sur le lieu, dans la limite de ses capacités, dans le cas contraire il ou elle doit notifier l'ensemble du collectif.                         |    Oui    |    Oui    |   Oui   |
+| De tout faire pour ne pas représenter une charge financière ou de travail pour le reste du collectif                                                                                                                                                                 |    Oui    |    Oui    |   Oui   |
+| De garantir le respect, par toustes, de la charte. Pour éviter un contexte de délation, seules les situations interpersonnelles, où le bien-être d'une autre personne du lieu serait en jeu, oblige une intervention ou une notification de l'ensemble du collectif. |    Oui    |    Oui    |   Non   |
+| De s'assurer au quotidien que les besoins des animaux non-humains sont satisfaits                                                                                                                                                                                    |    Non    |    Non    |   Oui   |
+| De fournir aux visiteuse·eurs les ressources nécessaires le temps de leur séjour<br>                                                                                                                                                                                 |    Non    |    Non    |   Oui   |
+| De garantir le respect de la charte et d'intervenir ou solutionner des potentiels problèmes.                                                                                                                                                                         |    Non    |    Non    |   Oui   |
+| De s'assurer de la présence d'au moins un·e arrimé·e sur le lieu<br>                                                                                                                                                                                                 |    Non    |    Non    |   Oui   |
+| De mutualiser ses ressources (comme précisé l'annexe économie partagée)                                                                                                                                                                                              |    Non    |    Non    |   Oui   |
+| De s'assurer de la présence d'au moin un·e arrimé·e sur le lieu la nuit, au moment des tâches concernant les non-humains.                                                                                                                                            |    Non    |    Non    |   Oui   |
+
+### Droits des différents rôles et personnes 
+
+| Droits                                                                                                                                                                 | Visiteuse | Résidente | Arrimée |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :-------: | :-----: |
+| De véto limité (1 mois) sur le contexte commun (voir remarques transversales)                                                                                          |    Oui    |    Non    |   Non   |
+| D'égalité d'opportunités à l'égard des activités du lieu                                                                                                               |    Oui    |    Oui    |   Oui   |
+| Jouir d'un espace personnel                                                                                                                                            |    Non    |    Oui    |   Oui   |
+| D'être consulté et d'approuver tout changements aux droits détenus sans limites de temps                                                                              |    Non    |    Oui    |   Oui   |
+| De véto sur l'accès au rôles de résident-e ou d'arrimé-e                                                                                                               |    Non    |    Oui    |   Oui   |
+| De décision sur le budget                                                                                                                                              |    Non    |    Oui    |   Oui   |
+| De véto limité (6 mois ou 1 an) sur les changement du contexte commun même en cas d'absence du lieu (voir remarques transversales)                                     |    Non    |    Oui    |   Non   |
+| De prendre ponctuellement des responsabilités sans engagement dans le temps                                                                                            |    Non    |    Oui    |   Non   |
+| D'être considéré·e comme concerné·e par les changements du contexte commun ou les exceptions à la charte même en cas d'absence sur le lieu non plafonné dans le temps. |    Non    |    Non    |   Oui   |
+| De prendre des décisions sur les priorités notamment au travers des pôles                                                                                              |    Non    |    Non    |   Oui   |
+| Le droit de décision sur l'argent des pots réservés aux dépenses exceptionnelles                                                                                       |    Non    |    Non    |   Oui   |
+| De participer aux décisions concernant les droits des autres rôles                                                                                                     |    Non    |    Non    |   Oui   |
+
+### Remarques transversales aux différents rôles
+
+1. La période d'essai d'un·e résident·e est d'au moins 4 mois et est discutée plus en détail avec toutes les résident·es et arrimé·es. La période d'essai est initiée sur demande et nécessite un accord unanime.
+2. La période d'essai d'un·e arrimé-e est d'un an. Pendant cette période seuls les revenus de la personne sont mutualisés. La personne ne peut devenir arrimé·e tant que son filet de sécurité n'est pas constitué (par elle ou par le collectif) 
+3. En cas d'injoignabilité, le ou la résident·e ou la ou le arrimé·e a deux semaines pour partager sa décision.
+4. En cas d'opposition à une décision de la part d'un·e résident·e ou d'un·e visiteuse·eurs un report de la décision a lieu. Cette échéance est maintenue tant que l'opposition existe. 
+5. En cas d'opposition de résident·e(s), à la fin de l'échéance, la décision est reprise sans que leur accord soit nécessaire. Cette échéance a comme objectifs de permettre le temps de pousuivre les échanges tant collectifs qu'interpersonnels et de laisser le temps de se préparer à la mise en place de telle ou telle décision
+6. En cas d'opposition de résident·e(s), la décision est reportée à un an si il y a unanimité ou au moins trois résident-es s'opposent. Dans le cas oú un·e seul·e résident·es s'oppose, ou dans tout autre cas, la décision est reportée à six mois. 
+7. Les motifs de refus d'accès au rôle, étayés si possible d'exemples et de pistes, doivent être communiqués aux personnes concernées.
+8. Les réunions concernant la stratégie à long terme ou tout autre sujet propre aux arrimé·es mais concernant le contexte commun ne peuvent exclure la présence des résident·es.

@@ -1,15 +1,17 @@
-# Manuel des chercheuse-rs Mallouestanais-es
+# Charte du Mallouestan 
 ## Préface
-La création d’une alternative est un travail de tous les jours. Tendre vers un idéal est complexe. C’est pourquoi nous sommes contraint·es d’établir un manuel de vie commune. 
+Tendre vers un idéal est complexe. C’est pourquoi nous sommes contraint·es d’établir un manuel de vie commune. 
 
 Le Mallouestan est un lieu fondé notamment sur les piliers suivants:
 
-- **anarcho-communisme**
-- **antispécisme**
-- **anti-libéralisme**
-- **anti-tech**
+- **l'anarcho-communisme**
+- **une opposition radicale à la domestication**
+- **un rejet du libéralisme**
+- **une vision anti-technologies**
 
 Nos positions et valeurs ne sont pas dépendantes d'une romantisation du passé ou d'une indépendance absolue. Elles sont le fruit d'un travail critique, basé sur les discussions, les expériences et les connaissances des membres du lieu et des visiteuse·eurs. Ce manuel n'est donc pas un support dogmatique ou sectaire, mais un repère pour un collectif anarcho-communiste. Il est destiné à évoluer régulièrement.
+
+> Ce manuel n'est pas le règlement intérieur de l'association 1901 Le Mallouestan qui est l'organe public permettant de réaliser les différentes missions social et solidaire du collectif de même nom.
 
 > Nos positions sont détaillées dans plusieurs textes listés à la fin de ce document pour compléter cette charte qui ne saurait être exhaustive.
 
@@ -45,7 +47,7 @@ Nous sommes conscient·es que chacun·e est déconstruit·e à des niveaux varia
 3. Aucune promotion de religions ou de spiritualités ésotériques telles que les soins énergétiques, l'anthroposophie, la biodynamie, l'astrologie, la sorcellerie, le chamanisme, etc. Tous les sujets peuvent évidemment être abordés, mais ils doivent être traités en tant qu'idée et non comme des vérités universelles ;
 4. Le respect des espaces et de leurs signalisations ;
 5. Le respect des animaux comme explicité à l'annexe "Animaux non autonomes" ;
-6. Un minimum de communication active (initiée par la personne détenant l'information) comme défini dans l'annexe "Vie collective" ; 
+6. Un minimum de communication active (initiée par la personne détenant l'information) et de présence comme défini dans la section accueil de visiteuse•eures ci dessous ; 
 7. Les aliments suivants ne sont pas tolérés au sein des espaces communs et partagés : Nova 4 ; Nova 3 de score nutritionnel D ou E. (Système de catégories https://fr.openfoodfacts.org/nova).
 8. L'alcool, la nicotine, les drogues et autres substances (hors: alimentaires ou médicales) addictives ne sont pas tolérées. Il n'est pas toléré non plus que la consommation de ces produits soit activement encouragée sur le lieu.
 9. La consommation d'énergie fossile (gaz, pétrole, charbon, etc.) est prohibée (hors briquet).
@@ -71,32 +73,11 @@ Toute autre décision, hors précision contraire dans le manuel, ne nécéssite 
 
 > Toute exception à la charte peut être mise en place temporairement (la durée doit être précisée) sur vote unanime. L'exception est valable tant que sont présentes sur le lieu uniquement les personnes ayant participé à la mise en place de ladite exception. Les exceptions, hormis celles qui concernent les quotas humains, doivent également être validés par les arrimé·es non présent.es sur le lieu.
 
+Les nuances de gouvernance entre les rôles est détaillé dans l'annexe [Annexe:  responsabilités et droits](./annexe--responsabilites-droits)
 ## Gestion de conflit
 Nous sommes conscient·es que nous sommes des êtres de nature imparfaite. Nous faisons donc toutes et tous des erreurs ou des écarts à nos valeurs et idéaux. Nous nous devons d’être indulgent·es, envers nous-mêmes et envers autrui. Mais nous acceptons également que tout écart qui impacte le lieu et ses membres peut être traité si une personne le souhaite. 
 
-### Procédure de cadrage de conflit
-
-1. Dans le cas d'un conflit, les comportements ou mécanismes doivent être adressés aux protagonistes au plus vite une fois qu'ils sont identifiés comme problématiques
-2. En cas de réitération de ces comportements une gestion de conflit collective peut être lancée
-3. Les arrimé-es et résidentes volontaires (hors personnes visée par la procédure) se concertent pour essayer de trouver des solutions comme, mais non limité à, l'articulation des besoins du collectif à l'égard des protagonistes
-4. Ce comité peut initier une procédure de sanctions impliquant la mise en place d'ultimatums
-
-### Procédure de sanctions
-
-1. Les problèmes motivant cette procédure sont partagés par le comité avec les protagonistes. Le comité exprime ses attentes et besoins donnant également l'occasion aux protagonistes de les adresser et aussi d'exprimer leurs besoins et attentes à l'égard du collectif
-2. Le comité se concerte pour former, si jugé nécessaire, une réquisition (la liste d'ultimatums) basée sur des points explicités dans cette charte
-3. Cette réquisition est ensuite partagée avec les protagonistes qui ont l'occasion de l'adresser
-4. Suite à cet échange le comité délibère et délivre ses conclusions et ultimatums finaux. Le processus recommence à l'étape 3 avec une nouvelle réquisition dans le cas où le comité souhaite rajouter des ultimatums ou changer les conditions de ceux présentés à l'étape précédente.
-
-> Les ultimatums sont donnés au moment de la réquisition avec des conditions et des conséquences liées à leur non-respect. 
-
-> Les protagonistes peuvent être représentés ou accompagnés par toute autre personne du lieu lors de ces procédures
-
-Les sanctions suite à un non-respect d'un ultimatum peuvent être:
-- Rétrogradation de rôle
-- Bannissement temporaire ou définitive du lieu
-- Travaux obligatoires pour le collectif
-
+Une annexe a cette charte cadre le gestion du conflit appelé [Annexe: gestion de conflit](./annexe--gestion-de-conflit)
 ## Ultimatums 
 Plusieurs ultimatums exceptionnels sont de facto définis pour tous les membres du lieu : 
 1. Toute atteinte physique intentionelle non sportive et hors légitime défense, sur un individu du lieu peut entraîner une exclusion du lieu si au moins une autre membre du lieu le souhaite 
@@ -112,51 +93,26 @@ Il y a trois rôle sur le lieu :
 2. Résidente
 3. Arrimé-e
 
-### Responsabilités des différents rôles et personnes
+Ci dessous les responsabilités et droits des visiteurs, pour l'ensemble des rôles c'est dans l'annexe [Annexe: responsabilités et droits des différents rôles](./annexe--responsabilites-droits).
 
-| Responsabilité                                                                                                                                                                                                                                                       | Visiteuse | Résidente | Arrimée |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :-------: | :-----: |
-| Garant de ses actes et gestes sur le lieu. Il ou elle est la·e garant de son quotidien et de sa communication avec l'ensemble du collectif.                                                                                                                          |    Oui    |    Oui    |   Oui   |
-| Responsable de l'entretien (nettoyage, changer une ampoule ...) des locaux et de tout équipement qu'il ou elle utilise sur le lieu, dans la limite de ses capacités, dans le cas contraire il ou elle doit notifier l'ensemble du collectif.                         |    Oui    |    Oui    |   Oui   |
-| De tout faire pour ne pas représenter une charge financière ou de travail pour le reste du collectif                                                                                                                                                                 |    Oui    |    Oui    |   Oui   |
-| De garantir le respect, par toustes, de la charte. Pour éviter un contexte de délation, seules les situations interpersonnelles, où le bien-être d'une autre personne du lieu serait en jeu, oblige une intervention ou une notification de l'ensemble du collectif. |    Oui    |    Oui    |   Non   |
-| De s'assurer au quotidien que les besoins des animaux non-humains sont satisfaits                                                                                                                                                                                    |    Non    |    Non    |   Oui   |
-| De fournir aux visiteuse·eurs les ressources nécessaires le temps de leur séjour<br>                                                                                                                                                                                 |    Non    |    Non    |   Oui   |
-| De garantir le respect de la charte et d'intervenir ou solutionner des potentiels problèmes.                                                                                                                                                                         |    Non    |    Non    |   Oui   |
-| De s'assurer de la présence d'au moins un·e arrimé·e sur le lieu<br>                                                                                                                                                                                                 |    Non    |    Non    |   Oui   |
-| De mutualiser ses ressources (comme précisé l'annexe économie partagée)                                                                                                                                                                               |    Non    |    Non    |   Oui   |
-| De s'assurer de la présence d'au moin un·e arrimé·e sur le lieu la nuit, au moment des tâches concernant les non-humains.                                                                                                                                            |    Non    |    Non    |   Oui   |
+| Droits visiteuse•eurs                                                              |
+| ---------------------------------------------------------------------------------- | 
+| De véto limité (1 mois) sur le contexte commun (pour plus de détails voir annexe)  |
+| D'égalité d'opportunités à l'égard des activités du lieu                           |   
 
-### Droits des différents rôles et personnes 
+| Responsabilité visiteuse•eurs                                                                                                                                                                                                                                        |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
+| Garant de ses actes et gestes sur le lieu. Il ou elle est la·e garant de son quotidien et de sa communication avec l'ensemble du collectif.                                                                                                                          |
+| Responsable de l'entretien (nettoyage, changer une ampoule ...) des locaux et de tout équipement qu'il ou elle utilise sur le lieu, dans la limite de ses capacités, dans le cas contraire il ou elle doit notifier l'ensemble du collectif.                         |
+| De tout faire pour ne pas représenter une charge financière ou de travail pour le reste du collectif                                                                                                                                                                 |
+| De garantir le respect, par toustes, de la charte. Pour éviter un contexte de délation, seules les situations interpersonnelles, où le bien-être d'une autre personne du lieu serait en jeu, oblige une intervention ou une notification de l'ensemble du collectif. |
+### Accueil de visiteuse•eures
 
-| Droits                                                                                                                                                                 | Visiteuse | Résidente | Arrimée |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :-------: | :-------: | :-----: |
-| De véto limité (1 mois) sur le contexte commun (voir remarques transversales)                                                                                          |    Oui    |    Non    |   Non   |
-| D'égalité d'opportunités à l'égard des activités du lieu                                                                                                               |    Oui    |    Oui    |   Oui   |
-| Jouir d'un espace personnel                                                                                                                                            |    Non    |    Oui    |   Oui   |
-| D'être consulté et d'approuver tout changements aux droits détenus sans limites de temps                                                                              |    Non    |    Oui    |   Oui   |
-| De véto sur l'accès au rôles de résident-e ou d'arrimé-e                                                                                                               |    Non    |    Oui    |   Oui   |
-| De décision sur le budget                                                                                                                                              |    Non    |    Oui    |   Oui   |
-| De véto limité (6 mois ou 1 an) sur les changement du contexte commun même en cas d'absence du lieu (voir remarques transversales)                                     |    Non    |    Oui    |   Non   |
-| De prendre ponctuellement des responsabilités sans engagement dans le temps                                                                                            |    Non    |    Oui    |   Non   |
-| D'être considéré·e comme concerné·e par les changements du contexte commun ou les exceptions à la charte même en cas d'absence sur le lieu non plafonné dans le temps. |    Non    |    Non    |   Oui   |
-| De prendre des décisions sur les priorités notamment au travers des pôles                                                                                              |    Non    |    Non    |   Oui   |
-| Le droit de décision sur l'argent des pots réservés aux dépenses exceptionnelles                                                                                       |    Non    |    Non    |   Oui   |
-| De participer aux décisions concernant les droits des autres rôles                                                                                                     |    Non    |    Non    |   Oui   |
+Parmis nos objectif nous avons toujours valoriser l'accueil de visiteuse•eures dans diverses optiques notamment: de solidarité, de transmission, et d'ouverture à l'extérieur évitant un entre soi. Notre collectif s'inscrit dans une émancipation qui se veut collective et qui voit cette autonomie que possible par une organisation qui est collective également. Ainsi, les visiteurs que nous accueillons sont tenus de participer a minima à notre vie quotidienne (vaisselle, cuisine, ménage...) ou de nous communiquer l'incapacité de le faire. Dans tout les cas un minimum de temps partagé est attendu quand cela est possible. Pour toute les raisons cité ci dessus nous nous accordons la possibilité de demandé aux personnes ne s'inscrivent pas dans une telle démarche de partir.
 
-### Remarques transversales aux différents rôles
-
-1. La période d'essai d'un·e résident·e est d'au moins 4 mois et est discutée plus en détail avec toutes les résident·es et arrimé·es. La période d'essai est initiée sur demande et nécessite un accord unanime.
-2. La période d'essai d'un·e arrimé-e est d'un an. Pendant cette période seuls les revenus de la personne sont mutualisés. La personne ne peut devenir arrimé·e tant que son filet de sécurité n'est pas constitué (par elle ou par le collectif) 
-3. En cas d'injoignabilité, le ou la résident·e ou la ou le arrimé·e a deux semaines pour partager sa décision.
-4. En cas d'opposition à une décision de la part d'un·e résident·e ou d'un·e visiteuse·eurs un report de la décision a lieu. Cette échéance est maintenue tant que l'opposition existe. 
-5. En cas d'opposition de résident·e(s), à la fin de l'échéance, la décision est reprise sans que leur accord soit nécessaire. Cette échéance a comme objectifs de permettre le temps de pousuivre les échanges tant collectifs qu'interpersonnels et de laisser le temps de se préparer à la mise en place de telle ou telle décision
-6. En cas d'opposition de résident·e(s), la décision est reportée à un an si il y a unanimité ou au moins trois résident-es s'opposent. Dans le cas oú un·e seul·e résident·es s'oppose, ou dans tout autre cas, la décision est reportée à six mois. 
-7. Les motifs de refus d'accès au rôle, étayés si possible d'exemples et de pistes, doivent être communiqués aux personnes concernées.
-8. Les réunions concernant la stratégie à long terme ou tout autre sujet propre aux arrimé·es mais concernant le contexte commun ne peuvent exclure la présence des résident·es.
-
-
-## Limites et quotas
-En vue de la taille et des ressources à disposition, certaines limites et certains quotas ont été définis: 
-- Un nombre maximum de 6 espaces personnels est fixé sur le lieu, à ce jour, permettant à 6 personnes/couples/familles de vivre sur le lieu. 
-- Un nombre maximum de 16 visiteuse·eurs à la fois est fixé pour passer une nuit sur le lieu
+### Annexes
+- [Vie collective](./annexe--vie-collective)
+- [Responsabilités et droits](./annexe--responsabilites-droits)
+- [Économie partagée](./annexe--economie-partagee)
+- [Gestion de conflit](./annexe--gestion-de-conflit)
+- [Directives A.C.A.B (Directives d'Aménagements Collectifs, d'Attractivité et des Batis)](./annexe--directives-acab.md)
