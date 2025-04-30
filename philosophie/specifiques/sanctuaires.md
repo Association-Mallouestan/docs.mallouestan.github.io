@@ -1,3 +1,6 @@
+> [Accueil](../../) > [Portail philosophique](../) > Texte sur les sanctuaires
+
+## L'opposition au sanctuaires animalistes.
 
 ### Pourquoi écrire ce texte ?
 Le Mallouestan a été fondé autour d'un sanctuaire antispéciste. Le sanctuaire a ainsi été un élément central de l'identité du lieu et du collectif. Depuis cinq ans, nous avons évolué aux côtés de près de 80 non-humains domestiques accueillis dans le cadre de ce sanctuaire. Nous les avons soignés, appris à les connaître, nous nous sommes attachés à elleux, et nous avons surmonté les événements difficiles inhérents à ce cadre. Pourtant, récemment, nous avons commencé à partager nos doutes quant au bien-fondé de cette structure solidaire. Aujourd'hui, nous n'arrivons plus à justifier l'existence des sanctuaires. Ce texte cherche donc à expliquer notre argumentaire et notre cheminement de pensée.
@@ -39,7 +42,7 @@ Au Mallouestan, aux côtés des non-humains et proche des luttes, nous ne voyons
 
 Comme pour de nombreux cadres ci-dessus, nous pourrions accepter un dépassement de cette échelle si une fin le justifiait. À ce jour, nous n'en avons pas trouvé. Donc, en attendant de pouvoir accueillir des non-humains en respectant cette échelle normale ou dans une optique justifiant un dépassement de cette échelle, nous refusons d'en accueillir de nouveaux sur le lieu et nous refusons de défendre le bien-fondé des sanctuaires.
 
-Notes:
+### Notes:
 
 1. Fischer 2018, https://r.jordan.im/download/ethics/fischer2018.pdf
 2. https://www.agrifaune.fr/fileadmin/user_upload/National/004_eve-agrifaune/Publications_GTNA_Machinisme/Article_machinisme_faune_sauvage2011.pdf
