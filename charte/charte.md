@@ -5,7 +5,7 @@ Tendre vers un idéal est complexe. C’est pourquoi nous sommes contraint·es d
 Le Mallouestan est un lieu fondé notamment sur les piliers suivants:
 
 - **l'anarcho-communisme**
-- **une opposition radicale à la domestication**
+- **un écocentrisme opposer radicalement à la domestication** (de fait au suprémacisme humain)
 - **un rejet du libéralisme**
 - **une vision anti-technologies**
 
