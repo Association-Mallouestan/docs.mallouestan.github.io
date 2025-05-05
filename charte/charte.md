@@ -5,7 +5,7 @@ Tendre vers un idéal est complexe. C’est pourquoi nous sommes contraint·es d
 Le Mallouestan est un lieu fondé notamment sur les piliers suivants:
 
 - **l'anarcho-communisme**
-- **un écocentrisme opposer radicalement à la domestication** (de fait au suprémacisme humain)
+- **un ecocentrisme radicalement opposé à la domestication et le suprémacisme humain**
 - **un rejet du libéralisme**
 - **une vision anti-technologies**
 
@@ -110,7 +110,9 @@ Ci dessous les responsabilités et droits des visiteurs, pour l'ensemble des rô
 | De garantir le respect, par toustes, de la charte. Pour éviter un contexte de délation, seules les situations interpersonnelles, où le bien-être d'une autre personne du lieu serait en jeu, oblige une intervention ou une notification de l'ensemble du collectif. |
 
 ### Accueil de visiteuse•eures
-Parmis nos objectif nous avons toujours valoriser l'accueil de visiteuse•eures dans diverses optiques notamment: de solidarité, de transmission, et d'ouverture à l'extérieur évitant un entre soi. Notre collectif s'inscrit dans une émancipation qui se veut collective et qui voit cette autonomie que possible par une organisation qui est collective également. Ainsi, les visiteurs que nous accueillons sont tenus de participer a minima à notre vie quotidienne (vaisselle, cuisine, ménage...) ou de nous communiquer l'incapacité de le faire. Dans tout les cas un minimum de temps partagé est attendu quand cela est possible. Pour toute les raisons cité ci dessus nous nous accordons la possibilité de demandé aux personnes ne s'inscrivent pas dans une telle démarche de partir.
+Parmis nos objectif nous avons toujours valoriser l'accueil de visiteuse•eures dans diverses optiques notamment: de solidarité, de transmission, et d'ouverture à l'extérieur évitant un entre soi. Notre collectif s'inscrit dans une émancipation qui se veut collective et qui voit cette autonomie que possible par une organisation qui est collective également. Ainsi, les visiteurs que nous accueillons sont tenus de participer a minima à notre vie quotidienne (moments collectifs et tâches) ou de nous communiquer l'incapacité de le faire. Dans tout les cas un minimum de temps partagé est attendu quand cela est possible. Pour toute les raisons cité ci dessus nous nous accordons la possibilité de demandé aux personnes ne s'inscrivent pas dans une telle démarche de partir.
+
+Pour plus d'information sur la vie collective sur le lieu il est encouragé de lire l'annexe correspondante.
 
 ### Annexes
 - [Vie collective](./annexe--vie-collective.md)
