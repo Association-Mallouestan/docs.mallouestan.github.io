@@ -4,7 +4,7 @@
 ## Les questions autour du genre
 
 ### Pourquoi écrire ce texte?
-Ce texte fait partie d'une série de textes répondant à des sujets spécifiques. Effectivement, à travers des échanges sur le lieu nous abordons de nombreux sujets et notamment ceux liés aux injustices et dominations sociales. La question du genre apparaît donc incontournable dans ce contexte. Ces échanges ont rarement la capacité d'être à la hauteur de la complexité des sujets. Ils ont tendance à s'éterniser sur les désaccords et ces derniers, à leur tour, écrasent souvent les points d'analyse partagés par les différents interlocuteurs ou interlocutrices. 
+Ce texte fait partie d'une série de textes répondant à des sujets spécifiques. Effectivement, à travers des échanges sur le lieu nous abordons de nombreux sujets et notamment ceux liés aux injustices et dominations sociales. La question du genre apparaît donc incontournable dans ce contexte. Ces échanges ont rarement la capacité d'être à la hauteur de la complexité des sujets. Ils ont tendance à s'éterniser sur les désaccords et ces derniers, à leur tour, écrasent souvent les points d'analyse partagés par les différent.es interlocuteurs ou interlocutrices. 
 
 Ce texte cherche donc à expliciter les fondements de notre vision de la question du genre. Il a plusieurs raisons d'être. Il cherche à rendre accessible et clair nos positions dans une optique de partage et de transmission mais également dans une optique de remise en question et de critique permanente. Effectivement, le collectif valorise les échanges se voulant constructifs avec comme objectif de questionner nos positions. Notre vision et idées rendues accessibles par ce texte sont également rendues abordables et critiquables.
 
