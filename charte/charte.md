@@ -1,6 +1,6 @@
 # Charte du Mallouestan 
 ## Préface
-Tendre vers un idéal est complexe. C’est pourquoi nous sommes contraint·es d’établir un manuel de vie commune. 
+Tendre vers un idéal est complexe. C’est pourquoi nous sommes contraint·es d’établir une charte de vie commune. 
 
 Le Mallouestan est un lieu fondé notamment sur les piliers suivants:
 
@@ -9,13 +9,13 @@ Le Mallouestan est un lieu fondé notamment sur les piliers suivants:
 - **un rejet du libéralisme** (texte "Anti-libéralisme")
 - **une vision anti-technologies**  (texte "Anti-technologies")
 
-Nos positions et valeurs ne sont pas dépendantes d'une romantisation du passé ou d'une indépendance absolue. Elles sont le fruit d'un travail critique, basé sur les discussions, les expériences et les connaissances des membres du lieu et des visiteuse·eurs. Ce manuel n'est donc pas un support dogmatique ou sectaire, mais un repère pour un collectif anarcho-communiste. Il est destiné à évoluer régulièrement.
+Nos positions et valeurs ne sont pas dépendantes d'une romantisation du passé ou d'une indépendance absolue. Elles sont le fruit d'un travail critique, basé sur les discussions, les expériences et les connaissances des membres du lieu et des visiteuse·eurs. Cette charte n'est donc pas un support dogmatique ou sectaire, mais un repère pour un collectif anarcho-communiste. Il est destiné à évoluer régulièrement.
 
-> Ce manuel n'est pas le règlement intérieur de l'association 1901 Le Mallouestan qui est l'organe public permettant de réaliser les différentes missions social et solidaire du collectif de même nom.
+> Cette charte n'est pas le règlement intérieur de l'association 1901 Le Mallouestan qui est l'organe public permettant de réaliser les différentes missions social et solidaire du collectif de même nom.
 
 > Nos positions sont détaillées dans plusieurs textes listés à la fin de ce document pour compléter cette charte qui ne saurait être exhaustive.
 
-> Ce manuel définit le contexte commun auquel chaque personne adhère en venant sur le lieu ou en participant aux événements extérieurs organisés par le Mallouestan. 
+> Cette charte définit le contexte commun auquel chaque personne adhère en venant sur le lieu ou en participant aux événements extérieurs organisés par le Mallouestan. 
 
 ## Objectifs
 Nous sommes conscient·es que beaucoup des valeurs et des objectifs ci-dessous sont difficilement atteignables. De ce fait, nous les listons humblement en acceptant que chacun·e, sur le lieu, ne peut qu’y tendre. 
@@ -67,9 +67,9 @@ Un équilibre doit être trouvé entre les libertés individuelles et celles du 
 - Les dépenses exceptionnelles ou ponctuelles définies dans l'annexe pour le budget ;
 - Tout aménagement, par une personne, impactant les espaces communs qui ne peut être défait par cette même personne en une journée.
 
-Toute autre décision, hors précision contraire dans le manuel, ne nécéssite aucun accord collectif. Néanmoins, une communication et une transparence sont encouragées. 
+Toute autre décision, hors précision contraire dans la charte ou ces annexes, ne nécéssite aucun accord collectif. Néanmoins, une communication et une transparence sont encouragées. 
 
-> Toute décision peut être annulée ou opposée par n'importe quelle personne si elle est en contradiction avec le présent manuel. Si un doute existe sur l'interprétation du manuel, concevable par 60% des personnes présentes sur le lieu, l'ambiguité ne peut être imputée à la prise de décision. 
+> Toute décision peut être annulée ou opposée par n'importe quelle personne si elle est en contradiction avec la présente charte. Si un doute existe sur l'interprétation de cette charte, concevable par 60% des personnes présentes sur le lieu, l'ambiguité ne peut être imputée à la prise de décision. 
 
 > Toute exception à la charte peut être mise en place temporairement (la durée doit être précisée) sur vote unanime. L'exception est valable tant que sont présentes sur le lieu uniquement les personnes ayant participé à la mise en place de ladite exception. Les exceptions, hormis celles qui concernent les quotas humains, doivent également être validés par les arrimé·es non présent.es sur le lieu.
 
