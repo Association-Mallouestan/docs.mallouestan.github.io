@@ -59,6 +59,30 @@ Nous sommes conscient·es que chacun·e est déconstruit·e à des niveaux varia
 
 > Ces restrictions ne doivent pas être utilisées à quelques fins que ce soit à l'égard d'individus qui ne les respecteraient pas dans leurs espaces personnels. 
 
+
+## Rôles et responsabilités
+Dans une optique de minimisation de pouvoir sur le lieu, les rôles suivants sont définis pour permettre à chacun·e de mieux appréhender leurs responsabilités et devoirs.
+
+Il y a trois rôle sur le lieu :
+1. Visiteuse-eur
+2. Résidente
+3. Arrimé-e
+
+Ci dessous les responsabilités et droits des visiteurs, pour l'ensemble des rôles c'est dans l'annexe [Annexe: responsabilités et droits des différents rôles](./annexe--responsabilites-droits).
+
+| Droits visiteuse•eurs                                                              |
+| ---------------------------------------------------------------------------------- | 
+| De véto limité (1 mois) sur le contexte commun (pour plus de détails voir annexe)  |
+| D'égalité d'opportunités à l'égard des activités du lieu                           |   
+
+| Responsabilité visiteuse•eurs                                                                                                                                                                                                                                        |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
+| Garant de ses actes et gestes sur le lieu. Il ou elle est la·e garant de son quotidien et de sa communication avec l'ensemble du collectif.                                                                                                                          |
+| Responsable de l'entretien (nettoyage, changer une ampoule ...) des locaux et de tout équipement qu'il ou elle utilise sur le lieu, dans la limite de ses capacités, dans le cas contraire il ou elle doit notifier l'ensemble du collectif.                         |
+| De tout faire pour ne pas représenter une charge financière ou de travail pour le reste du collectif                                                                                                                                                                 |
+| De garantir le respect, par toustes, de la charte. Pour éviter un contexte de délation, seules les situations interpersonnelles, où le bien-être d'une autre personne du lieu serait en jeu, oblige une intervention ou une notification de l'ensemble du collectif. |
+
+
 ## Gouvernance
 Un équilibre doit être trouvé entre les libertés individuelles et celles du collectif. Les situations suivantes, impactant le contexte commun, doivent être précédées par un vote unanime des personnes concernées par la décision: 
 
@@ -86,28 +110,6 @@ Plusieurs ultimatums exceptionnels sont de facto définis pour tous les membres 
 2. Toute atteinte physique grave (décès, blessures sur le long terme) par un animal non-résident sur un autre individu du lieu entraîne soit l’exclusion de l’animal ou, si la ou les responsables de l’animal le souhaitent, un ultimatum les concernant directement
 3. Si une personne présentant une volonté d'atteinte grave à elle-même, qu'il s'agisse de blessures potentielles ou d'un risque imminent de mort, nous prendrons la décision **dans le cas où le dialogue est stérile ou impossible**, d'impliquer des forces extérieures. Cela peut inclure, mais n'est pas limité à, l'appel des services d'urgence tels que le SAMU
 4. Si une personne vole l'association  
-
-## Rôles et responsabilités
-Dans une optique de minimisation de pouvoir sur le lieu, les rôles suivants sont définis pour permettre à chacun·e de mieux appréhender leurs responsabilités et devoirs.
-
-Il y a trois rôle sur le lieu :
-1. Visiteuse-eur
-2. Résidente
-3. Arrimé-e
-
-Ci dessous les responsabilités et droits des visiteurs, pour l'ensemble des rôles c'est dans l'annexe [Annexe: responsabilités et droits des différents rôles](./annexe--responsabilites-droits).
-
-| Droits visiteuse•eurs                                                              |
-| ---------------------------------------------------------------------------------- | 
-| De véto limité (1 mois) sur le contexte commun (pour plus de détails voir annexe)  |
-| D'égalité d'opportunités à l'égard des activités du lieu                           |   
-
-| Responsabilité visiteuse•eurs                                                                                                                                                                                                                                        |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
-| Garant de ses actes et gestes sur le lieu. Il ou elle est la·e garant de son quotidien et de sa communication avec l'ensemble du collectif.                                                                                                                          |
-| Responsable de l'entretien (nettoyage, changer une ampoule ...) des locaux et de tout équipement qu'il ou elle utilise sur le lieu, dans la limite de ses capacités, dans le cas contraire il ou elle doit notifier l'ensemble du collectif.                         |
-| De tout faire pour ne pas représenter une charge financière ou de travail pour le reste du collectif                                                                                                                                                                 |
-| De garantir le respect, par toustes, de la charte. Pour éviter un contexte de délation, seules les situations interpersonnelles, où le bien-être d'une autre personne du lieu serait en jeu, oblige une intervention ou une notification de l'ensemble du collectif. |
 
 ### Accueil de visiteuse•eures
 Parmis nos objectif nous avons toujours valoriser l'accueil de visiteuse•eures dans diverses optiques notamment: de solidarité, de transmission, et d'ouverture à l'extérieur évitant un entre soi. Notre collectif s'inscrit dans une émancipation qui se veut collective et qui voit cette autonomie que possible par une organisation qui est collective également. Ainsi, les visiteurs que nous accueillons sont tenus de participer a minima à notre vie quotidienne (moments collectifs et tâches) ou de nous communiquer l'incapacité de le faire. Dans tout les cas un minimum de temps partagé est attendu quand cela est possible. Pour toute les raisons cité ci dessus nous nous accordons la possibilité de demandé aux personnes ne s'inscrivent pas dans une telle démarche de partir.
