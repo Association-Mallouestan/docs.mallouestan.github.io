@@ -11,7 +11,7 @@ Le Mallouestan est un lieu fondé notamment sur les piliers suivants:
 
 Nos positions et valeurs ne sont pas dépendantes d'une romantisation du passé ou d'une indépendance absolue. Elles sont le fruit d'un travail critique, basé sur les discussions, les expériences et les connaissances des membres du lieu et des visiteuse·eurs. Cette charte n'est donc pas un support dogmatique ou sectaire, mais un repère pour un collectif anarcho-communiste. Il est destiné à évoluer régulièrement.
 
-> Cette charte n'est pas le règlement intérieur de l'association 1901 Le Mallouestan qui est l'organe public permettant de réaliser les différentes missions social et solidaire du collectif de même nom.
+> Cette charte n'est pas le règlement intérieur de l'association 1901 Le Mallouestan qui est l'organe public permettant de réaliser les différentes missions sociales et solidaires du collectif de même nom.
 
 > Nos positions sont détaillées dans plusieurs textes listés à la fin de ce document pour compléter cette charte qui ne saurait être exhaustive.
 
@@ -63,7 +63,7 @@ Nous sommes conscient·es que chacun·e est déconstruit·e à des niveaux varia
 ## Rôles et responsabilités
 Dans une optique de minimisation de pouvoir sur le lieu, les rôles suivants sont définis pour permettre à chacun·e de mieux appréhender leurs responsabilités et devoirs.
 
-Il y a trois rôle sur le lieu :
+Il y a trois rôles sur le lieu :
 1. Visiteuse-eur
 2. Résidente
 3. Arrimé-e
@@ -106,7 +106,7 @@ Une annexe a cette charte cadre le gestion du conflit appelé [Annexe: gestion d
 
 ## Ultimatums 
 Plusieurs ultimatums exceptionnels sont de facto définis pour tous les membres du lieu : 
-1. Toute atteinte physique intentionelle non sportive et hors légitime défense, sur un individu du lieu peut entraîner une exclusion du lieu si au moins une autre membre du lieu le souhaite 
+1. Toute atteinte physique intentionelle non sportive et hors légitime défense, sur un individu du lieu peut entraîner une exclusion du lieu si au moins un·e autre membre du lieu le souhaite 
 2. Toute atteinte physique grave (décès, blessures sur le long terme) par un animal non-résident sur un autre individu du lieu entraîne soit l’exclusion de l’animal ou, si la ou les responsables de l’animal le souhaitent, un ultimatum les concernant directement
 3. Si une personne présentant une volonté d'atteinte grave à elle-même, qu'il s'agisse de blessures potentielles ou d'un risque imminent de mort, nous prendrons la décision **dans le cas où le dialogue est stérile ou impossible**, d'impliquer des forces extérieures. Cela peut inclure, mais n'est pas limité à, l'appel des services d'urgence tels que le SAMU
 4. Si une personne vole l'association  
