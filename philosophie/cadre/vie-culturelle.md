@@ -47,4 +47,4 @@ Ainsi, pour rompre avec cette culture dominante il est nécessaire de développe
 
 <sup>3</sup> *La Fabrique du consentement* de Noam Chomsky
 
-<sup>4</sup>
+<sup>4</sup> [Modalités financières pour les artistes](./modalites-financieres.md)
