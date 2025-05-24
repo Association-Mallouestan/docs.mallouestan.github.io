@@ -12,10 +12,10 @@ Le Mallouestan est un collectif composé de personnes déçues, critiques et opp
 Ces objectifs dépassent donc les intérêts premiers des membres du collectif. Les activités, actions et efforts du Mallouestan à leur égard sont portés par l’**association loi 1901** du même nom, qui constitue l’organe public et de mécénat regroupant le collectif et d’autres adhérent·e·s partageant les mêmes valeurs.
 
 Pour mieux comprendre notre vision de ces objectifs, **quatre textes** ont été écrits :
-- **La recherche**
-- **Partage et transmission**
-- **Solidarité**
-- **Autonomie**
+- **[La recherche](./objectifs/recherche.md)**
+- **[Partage et transmission](./objectifs/transmission.md)**
+- **[Solidarité](./objectifs/solidarite.md)**
+- **[Autonomie](./objectifs/autonomie.md)**
 
 ---
 
@@ -24,9 +24,9 @@ Pour mieux comprendre notre vision de ces objectifs, **quatre textes** ont été
 Les actions du collectif, qu’elles découlent de ses objectifs ou simplement de la vie quotidienne, sont soumises à un **cadre éthique**. Sa création, son exploration et son expérimentation sont au cœur de notre quotidien.
 
 Ce cadre repose sur **trois couches principales**, devant être respectées pour qu’une action, quelle qu’elle soit, soit considérée comme souhaitable ou non. Ces trois couches, ainsi que les textes qui expliquent plus amplement notre vision, sont les suivantes, par ordre d’importance :
-1. **Écocentrisme végan opposé à la domestication**
-2. **Anti-libéralisme**
-3. **Anarcho-communisme**
+1. **[Écocentrisme végan opposé à la domestication](./cadre/ethique-environnementale.md)**
+2. **[Anti-libéralisme](./cadre/liberalisme.md)**
+3. **[Anarcho-communisme](./cadre/anarchisme.md)**
 
 De nombreux textes détaillent d’autres objectifs et cadres éthiques chers au collectif. Ces aspects découlent des points mentionnés ci-dessus. Nous encourageons donc toute personne cherchant à comprendre nos fondements et nos raisons d’être à lire les textes listés ci-dessus.
 
@@ -38,14 +38,14 @@ Les sections suivantes permettront d’approfondir ces compréhensions.
 
 Découlant respectivement de notre objectif de recherche et d’autonomie, nous avons également les objectifs suivants :
 
-- **Créer des espaces de discussion sans tabou ni dogmatisme**, qui prennent plusieurs formes détaillées dans un texte associé.
-- **Créer un lieu de vie et un mode de vie enviable mais viable**, mêlant richesse de vie, satisfaction, moments culturels et temps d’oisiveté, tant que cela ne se fait pas au détriment des autres ou des conditions d’habitabilité de notre planète. Plus d’informations dans le texte *Vie (en)viable*.
+- **[Créer des espaces de discussion sans tabou ni dogmatisme](./objectifs/sans-taboo-dogme.md)**, qui prennent plusieurs formes détaillées dans un texte associé.
+- **[Créer un lieu de vie et un mode de vie enviable mais viable](./objectifs/vie-enviable.md)**, mêlant richesse de vie, satisfaction, moments culturels et temps d’oisiveté, tant que cela ne se fait pas au détriment des autres ou des conditions d’habitabilité de notre planète.
 
 Découlant de notre vision éthique, plusieurs sujets ont été abordés dans les textes suivants :
-- **La vision de la liberté**, notamment dans notre approche anti-libérale et notre conception de la délégation de l’effort nécessaire à notre subsistance (*Le travail et la liberté*).
-- **Notre position anti-tech**, découlant de notre vision écocentriste.
-- **La culture et sa place dans nos vies**, en lien avec notre vision du libéralisme et de l’anarcho-communisme (*Vie culturelle*).
-- **Notre rapport ontologique au monde**, issu de notre vision anarcho-communiste.
+- **[La vision de la liberté](./cadre/travail-liberte.md)**, notamment dans notre approche anti-libérale et notre conception de la délégation de l’effort nécessaire à notre subsistance.
+- **[Notre position anti-tech](./cadre/anti-tech.md)**, découlant de notre vision écocentriste.
+- **[La culture et sa place dans nos vies](./cadre/vie-culturel.md)**, en lien avec notre vision du libéralisme et de l’anarcho-communisme (*Vie culturelle*).
+- **[Notre rapport ontologique au monde](./cadre/metaphysique.md)**, issu de notre vision anarcho-communiste.
 
 ---
 
@@ -53,11 +53,11 @@ Découlant de notre vision éthique, plusieurs sujets ont été abordés dans le
 
 Nous avons aussi rédigé des textes sur des sujets souvent abordés par les visiteur·euse·s. Voici ceux que nous recommandons, dans cet ordre :
 
-- **Le confort**, en lien avec notre opposition au libéralisme.
-- **La limitation de la liberté individuelle sur le lieu**, notamment l’interdiction des drogues, de la nourriture ultra-transformée et d’autres pratiques.
-- **La sexualité**, expliquée dans un texte spécifique.
-- **Le genre**, selon notre approche anti-libérale.
-- **Notre positionnement politique global**, clarifiée pour plus de transparence.
-- **Notre vision du militantisme actuel**, et pourquoi nous privilégions le travail au sein du collectif et sur le lieu plutôt que sur « le front ».
-- **Les industries médiatiques**, en lien avec notre position contre la technologie.
-- **Les sanctuaires antispécistes**, et pourquoi nous avons reconnu leur mise en place comme une erreur stratégique et politique.
+- **[Le confort](./specifiques/confort.md)**, en lien avec notre opposition au libéralisme.
+- **[La limitation de la liberté individuelle sur le lieu](./specifiques/consommation.md)**, notamment l’interdiction des drogues, de la nourriture ultra-transformée et d’autres pratiques.
+- **[La sexualité](./specifiques/sexualite.md)**, expliquée dans un texte spécifique.
+- **[Le genre](./specifiques/genre.md)**, selon notre approche anti-libérale.
+- **[Notre positionnement politique global](./cadre/echiquier.md)**, clarifiée pour plus de transparence.
+- **[Notre vision du militantisme actuel](./specifiques/militantisme.md)**, et pourquoi nous privilégions le travail au sein du collectif et sur le lieu plutôt que sur « le front ».
+- **[Les industries médiatiques](./specifiques/media-industrie.md)**, en lien avec notre position contre la technologie.
+- **[Les sanctuaires antispécistes](./specifiques/sanctuaires.md)**, et pourquoi nous avons reconnu leur mise en place comme une erreur stratégique et politique.
