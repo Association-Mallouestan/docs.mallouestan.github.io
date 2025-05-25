@@ -58,7 +58,7 @@ Nous avons aussi rédigé des textes sur des sujets souvent abordés par les vis
 - **[La limitation de la liberté individuelle sur le lieu](./specifiques/consommation.md)**, notamment l’interdiction des drogues, de la nourriture ultra-transformée et d’autres pratiques.
 - **[La sexualité](./specifiques/sexualite.md)**, expliquée dans un texte spécifique.
 - **[Le genre](./specifiques/genre.md)**, selon notre approche anti-libérale.
-- **[Notre positionnement politique global](./cadre/echiquier.md)**, clarifiée pour plus de transparence.
+- **[Notre positionnement politique global](./specifique/echiquier.md)**, clarifiée pour plus de transparence.
 - **[Notre vision du militantisme actuel](./specifiques/militantisme.md)**, et pourquoi nous privilégions le travail au sein du collectif et sur le lieu plutôt que sur « le front ».
 - **[Les industries médiatiques](./specifiques/media-industrie.md)**, en lien avec notre position contre la technologie.
 - **[Les sanctuaires antispécistes](./specifiques/sanctuaires.md)**, et pourquoi nous avons reconnu leur mise en place comme une erreur stratégique et politique.
