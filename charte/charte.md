@@ -64,9 +64,9 @@ Nous sommes conscient·es que chacun·e est déconstruit·e à des niveaux varia
 Dans une optique de minimisation de pouvoir sur le lieu, les rôles suivants sont définis pour permettre à chacun·e de mieux appréhender leurs responsabilités et devoirs.
 
 Il y a trois rôles sur le lieu :
-1. Visiteuse-eur
-2. Résidente
-3. Arrimé-e
+1. Visiteuse•eur
+2. Résident•e
+3. Arrimé•e
 
 Ci dessous les responsabilités et droits des visiteurs, pour l'ensemble des rôles c'est dans l'annexe [Annexe: responsabilités et droits des différents rôles](./annexe--responsabilites-droits).
 
@@ -77,7 +77,7 @@ Ci dessous les responsabilités et droits des visiteurs, pour l'ensemble des rô
 
 | Responsabilité visiteuse•eurs                                                                                                                                                                                                                                        |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
-| Garant de ses actes et gestes sur le lieu. Il ou elle est la·e garant de son quotidien et de sa communication avec l'ensemble du collectif.                                                                                                                          |
+| Garant de ses actes et gestes sur le lieu. Il ou elle est la•e garant de son quotidien et de sa communication avec l'ensemble du collectif.                                                                                                                          |
 | Responsable de l'entretien (nettoyage, changer une ampoule ...) des locaux et de tout équipement qu'il ou elle utilise sur le lieu, dans la limite de ses capacités, dans le cas contraire il ou elle doit notifier l'ensemble du collectif.                         |
 | De tout faire pour ne pas représenter une charge financière ou de travail pour le reste du collectif                                                                                                                                                                 |
 | De garantir le respect, par toustes, de la charte. Pour éviter un contexte de délation, seules les situations interpersonnelles, où le bien-être d'une autre personne du lieu serait en jeu, oblige une intervention ou une notification de l'ensemble du collectif. |
@@ -95,9 +95,9 @@ Toute autre décision, hors précision contraire dans la charte ou ces annexes, 
 
 > Toute décision peut être annulée ou opposée par n'importe quelle personne si elle est en contradiction avec la présente charte. Si un doute existe sur l'interprétation de cette charte, concevable par 60% des personnes présentes sur le lieu, l'ambiguité ne peut être imputée à la prise de décision. 
 
-> Toute exception à la charte peut être mise en place temporairement (la durée doit être précisée) sur vote unanime. L'exception est valable tant que sont présentes sur le lieu uniquement les personnes ayant participé à la mise en place de ladite exception. Les exceptions, hormis celles qui concernent les quotas humains, doivent également être validés par les arrimé·es non présent.es sur le lieu.
+> Toute exception à la charte peut être mise en place temporairement (la durée doit être précisée) sur vote unanime. L'exception est valable tant que sont présentes sur le lieu uniquement les personnes ayant participé à la mise en place de ladite exception. Les exceptions, hormis celles qui concernent les quotas humains, doivent également être validées par les arrimé·es non présent·es sur le lieu.
 
-Les nuances de gouvernance entre les rôles est détaillé dans l'annexe [Annexe:  responsabilités et droits](./annexe--responsabilites-droits)
+Les nuances de gouvernance entre les rôles sont détaillées dans l'annexe [Annexe:  responsabilités et droits](./annexe--responsabilites-droits)
 
 ## Gestion de conflit
 Nous sommes conscient·es que nous sommes des êtres de nature imparfaite. Nous faisons donc toutes et tous des erreurs ou des écarts à nos valeurs et idéaux. Nous nous devons d’être indulgent·es, envers nous-mêmes et envers autrui. Mais nous acceptons également que tout écart qui impacte le lieu et ses membres peut être traité si une personne le souhaite. 
@@ -112,9 +112,9 @@ Plusieurs ultimatums exceptionnels sont de facto définis pour tous les membres 
 4. Si une personne vole l'association  
 
 ### Accueil de visiteuse•eures
-Parmis nos objectif nous avons toujours valoriser l'accueil de visiteuse•eures dans diverses optiques notamment: de solidarité, de transmission, et d'ouverture à l'extérieur évitant un entre soi. Notre collectif s'inscrit dans une émancipation qui se veut collective et qui voit cette autonomie que possible par une organisation qui est collective également. Ainsi, les visiteurs que nous accueillons sont tenus de participer a minima à notre vie quotidienne (moments collectifs et tâches) ou de nous communiquer l'incapacité de le faire. Dans tout les cas un minimum de temps partagé est attendu quand cela est possible. Pour toute les raisons cité ci dessus nous nous accordons la possibilité de demandé aux personnes ne s'inscrivent pas dans une telle démarche de partir.
+Parmis nos objdoutes, nous avons toujours valorisé l'accueil de visiteuse•eurs, dans diverses optiques notamment: de solidarité, de transmission, et d'ouverture à l'extérieur évitant un entre-soi. Notre collectif s'inscrit dans une émancipation qui se veut collective et qui voit cette autonomie autant que possible par une organisation qui est collective également. Ainsi, les visiteuse•eurs que nous accueillons sont tenu•es de participer a minima à notre vie quotidienne (moments collectifs et tâches) ou de nous communiquer l'incapacité de le faire. Dans tout les cas un minimum de temps partagé est attendu quand cela est possible. Pour toute les raisons citées ci-dessus, nous nous accordons la possibilité de demander aux personnes qui ne s'inscrivent pas dans une telle démarche de partir.
 
-Pour plus d'information sur la vie collective sur le lieu il est encouragé de lire l'annexe correspondante.
+Pour plus d'informations sur la vie collective sur le lieu, il est encouragé de lire l'annexe correspondante.
 
 ### Annexes
 - [Vie collective](./annexe--vie-collective.md)
