@@ -12,7 +12,7 @@ Cette annexe présente les principes de l'économie partagée au sein du collect
 Plusieurs rôles sont définis au sein du collectif du Mallouestan. L'économie partagée s'applique à tous les rôles, mais de manière différente.
 1. **Arrimé·e** : Les arrimé·es sont les personnes qui ont choisi de s'engager dans le projet du Mallouestan. Iels sont impliqué·es dans la gestion du lieu et des ressources, ainsi que dans l'organisation des activités. Iels ont un rôle central dans l'économie partagée.
 2. **Résident·e** : Les résident·es sont les personnes qui vivent sur le lieu, mais qui ne sont pas impliqué·es obligatoirement dans la gestion du lieu. Iels peuvent participer aux activités et iels participent à l'économie partagée, mais de manière moins engagée que les arrimé·es.
-3. **Visiteur·e** : Les visiteuse·eurs sont les personnes qui viennent sur le lieu pour une courte durée. Iels peuvent participer aux activités et à l'économie partagée, mais de manière ponctuelle.
+3. **Visiteuse·eur** : Les visiteuse·eurs sont les personnes qui viennent sur le lieu pour une courte durée. Iels peuvent participer aux activités et à l'économie partagée, mais de manière ponctuelle.
 
 ### De façon générale
 
