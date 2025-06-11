@@ -5,7 +5,7 @@
 Le Mallouestan est un collectif composé de personnes déçues, critiques et opposées à l’idéal moderne ainsi qu’à sa mise en place actuelle, à travers ce que nous appelons le **"Système"**. Nous le définissons en deux composantes :
 
 1. La société contemporaine extractiviste, technologique, industrielle et néocoloniale, autrement dit, une société reposant sur la destruction et la mort.
-2. Tous les mécanismes qui soutiennent, plus ou moins directement et intentionnellement, cette première composante : autrement dit, tous les phénomènes et dynamiques lui conférant résilience et inertie.
+2. Tous les mécanismes qui soutiennent, plus ou moins directement et intentionnellement, cette première composante : autrement dit, tous les phénomènes et dynamiques lui conférant résilience et inertie. 
 
 À son échelle, le collectif explore donc d’autres idéaux et se construit autour de **quatre objectifs** : **recherche, transmission, autonomie et solidarité**. Ces quatre objectifs fonctionnent ensemble et sont interdépendants. Ainsi, l’autonomie est autant une autonomie dans la recherche, la transmission et la solidarité qu’une autonomie de subsistance. La recherche et l’exploration permettent d’étayer l’autonomie et la solidarité, tout en nécessitant et en impliquant la transmission. La solidarité, pour prendre un dernier exemple, enrichit le sens des trois autres objectifs.
 
