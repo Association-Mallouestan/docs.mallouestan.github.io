@@ -2,10 +2,13 @@
 
 ## **Présentation**
 
-Le Mallouestan est un collectif composé de personnes déçues, critiques et opposées à l’idéal moderne ainsi qu’à sa mise en place actuelle, à travers ce que nous appelons le **"Système"**. Nous le définissons en deux composantes :
+Le Mallouestan est un collectif antilibéral, écocentriste et anarcho-communiste vivant dans un éco-village d'environ 10 hectares situé en Basse-Normandie. Fondé en 2019 autour d’un projet écologique et social, ce lieu a pour raison d’être la création d’un espace de vie sain, résilient et solidaire. Ainsi, le projet repose sur plusieurs objectifs, dont les quatre principaux : la recherche, la solidarité, la transmission et l'autonomie. Ces aspects sont considérés comme des objectifs avant tout collectifs et réalisés de manière commune. L'objectif d'autonomie, par exemple, vise non seulement l'indépendance du collectif, mais aussi le soutien aux personnes qui nous entourent et qui en ont besoin.
 
-1. La société contemporaine extractiviste, technologique, industrielle et néocoloniale, autrement dit, une société reposant sur la destruction et la mort [Des societes qui ne sont pas dans le systeme reposent quand meme sur la mort (chasseurs cueilleurs, certainess paysanneries), ce qui signifie pour moi que definir le systeme comme reposant sur la mort ne le differencie pas du non-systeme : si A (la mort) appartient à B (le systeme) et non-B (societe qui nest pas le systeme) alors non-B n'est pas meilleur (ou pire) que B, sauf s'il y a une différence d'echelle, et ca cest cadré par "destruction" qui convient bien selon moi. Je pense que d'autres caracteristiques peuvent etre attiribuées au systeme : injuste (tue à une echelle inacceptable moralement (cf destruction), répartit le pouvoir de facon arbitraire entre des groupes (chauvinisme)...), limite considérablement l'épanouissement...].
-3. Tous les mécanismes qui soutiennent, plus ou moins directement et intentionnellement, cette première composante : autrement dit, tous les phénomènes et dynamiques lui conférant résilience et inertie.
+Nous accueillons des visiteurs toute l'année pour des durées variables. Certains viennent par curiosité, désireux de découvrir notre mode de vie ; d'autres participent à nos divers événements (formations, concerts, spectacles, université d'été, etc.) ; enfin, nous proposons également un hébergement d'urgence. Cet accueil, au-delà de nos propres objectifs, nous permet de maintenir un lien avec le monde extérieur. Les visiteurs découvrent un espace singulier, éloigné des logiques hégémoniques et de la culture dominante.
+
+Pour mieux comprendre notre vision, nous avons rédigé différents textes, accessibles sur notre site pour les plus téméraires. Vous trouverez également ci-dessous des explications sur leur intérêt. Que vous lisiez ces textes ou non, n’hésitez pas à nous contacter si vous avez des questions ou si vous souhaitez nous rendre visite.
+
+## Nos objectifs
 
 À son échelle, le collectif explore donc d’autres idéaux et se construit autour de **quatre objectifs** : **recherche, transmission, autonomie et solidarité**. Ces quatre objectifs fonctionnent ensemble et sont interdépendants. Ainsi, l’autonomie est autant une autonomie dans la recherche, la transmission et la solidarité qu’une autonomie de subsistance. La recherche et l’exploration permettent d’étayer l’autonomie et la solidarité, tout en nécessitant et en impliquant la transmission. La solidarité, pour prendre un dernier exemple, enrichit le sens des trois autres objectifs.
 
@@ -17,9 +20,8 @@ Pour mieux comprendre notre vision de ces objectifs, **quatre textes** ont été
 - **[Solidarité](./objectifs/solidarite.md)**
 - **[Autonomie](./objectifs/autonomie.md)**
 
----
 
-### **Notre cadre éthique**
+## **Notre cadre éthique**
 
 Les actions du collectif, qu’elles découlent de ses objectifs ou simplement de la vie quotidienne, sont soumises à un **cadre éthique**. Sa création, son exploration et son expérimentation sont au cœur de notre quotidien.
 
@@ -34,9 +36,7 @@ De nombreux textes détaillent d’autres objectifs et cadres éthiques chers au
 
 Les sections suivantes permettront d’approfondir ces compréhensions.
 
----
-
-### **Approfondir notre vision**
+## **Approfondir notre vision**
 
 Découlant respectivement de notre objectif de recherche et d’autonomie, nous avons également les objectifs suivants :
 
@@ -44,13 +44,13 @@ Découlant respectivement de notre objectif de recherche et d’autonomie, nous 
 - **[Créer un lieu de vie et un mode de vie viable et enviable](./objectifs/vie-enviable.md)**, mêlant richesse de vie, satisfaction, moments culturels et temps d’oisiveté, tant que cela ne se fait pas au détriment des autres ou des conditions d’habitabilité de notre planète.
 
 Découlant de notre vision éthique, plusieurs sujets ont été abordés dans les textes suivants :
-- **[La vision de la liberté](./cadre/travail-liberte.md)**, notamment dans notre approche anti-libérale et notre conception de la délégation de l’effort nécessaire à notre subsistance (travail).
+- **[La vision de la liberté et du travail](./cadre/travail-liberte.md)**, notamment dans notre approche anti-libérale et notre conception de la délégation de l’effort nécessaire à notre subsistance (travail).
+- **[La vision de la condition humaine](./cadre/condition-humaine.md)**, qui explicite notre analyse de différentes réalités de notre existence dans le monde moderne.
+- **[Notre approche des risque et périls](./cadre/risques-perils.md)**, qui est ni collapsologique ou survivaliste mais qui admet différents dangers collectifs externes que nous devons prendre en compte.
 - **[Notre position anti-tech](./cadre/anti-tech.md)**, découlant de notre vision écocentriste et sociale.
 - **[La culture et sa place dans nos vies](./cadre/vie-culturel.md)**, en lien avec notre vision du libéralisme et de l’anarcho-communisme (*Vie culturelle*).
   
----
-
-### **Sujets plus spécifiques**
+## **Sujets plus spécifiques**
 
 Nous avons aussi rédigé des textes sur des sujets souvent abordés par les visiteur·euse·s. Voici ceux que nous recommandons, dans cet ordre :
 
