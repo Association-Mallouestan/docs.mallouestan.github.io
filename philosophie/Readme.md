@@ -28,6 +28,8 @@ Ce cadre repose sur **trois couches principales**, devant être respectées pour
 2. **[Anti-libéralisme](./cadre/liberalisme.md)**
 3. **[Anarcho-communisme](./cadre/anarchisme.md)**
 
+Ce cadre éthique s'appuit sur un rapport au monde matérialiste explicité dans le texte **[sur notre rapport ontologique au monde](./cadre/metaphysique.md)**.
+
 De nombreux textes détaillent d’autres objectifs et cadres éthiques chers au collectif. Ces aspects découlent des points mentionnés ci-dessus. Nous encourageons donc toute personne cherchant à comprendre nos fondements et nos raisons d’être à lire les textes listés ci-dessus.
 
 Les sections suivantes permettront d’approfondir ces compréhensions.
@@ -39,14 +41,13 @@ Les sections suivantes permettront d’approfondir ces compréhensions.
 Découlant respectivement de notre objectif de recherche et d’autonomie, nous avons également les objectifs suivants :
 
 - **[Créer des espaces de discussion sans tabou ni dogmatisme](./objectifs/sans-taboo-dogme.md)**, qui prennent plusieurs formes détaillées dans un texte associé.
-- **[Créer un lieu de vie et un mode de vie enviable mais viable](./objectifs/vie-enviable.md)**, mêlant richesse de vie, satisfaction, moments culturels et temps d’oisiveté, tant que cela ne se fait pas au détriment des autres ou des conditions d’habitabilité de notre planète.
+- **[Créer un lieu de vie et un mode de vie viable et enviable](./objectifs/vie-enviable.md)**, mêlant richesse de vie, satisfaction, moments culturels et temps d’oisiveté, tant que cela ne se fait pas au détriment des autres ou des conditions d’habitabilité de notre planète.
 
 Découlant de notre vision éthique, plusieurs sujets ont été abordés dans les textes suivants :
-- **[La vision de la liberté](./cadre/travail-liberte.md)**, notamment dans notre approche anti-libérale et notre conception de la délégation de l’effort nécessaire à notre subsistance.
+- **[La vision de la liberté](./cadre/travail-liberte.md)**, notamment dans notre approche anti-libérale et notre conception de la délégation de l’effort nécessaire à notre subsistance (travail).
 - **[Notre position anti-tech](./cadre/anti-tech.md)**, découlant de notre vision écocentriste.
 - **[La culture et sa place dans nos vies](./cadre/vie-culturel.md)**, en lien avec notre vision du libéralisme et de l’anarcho-communisme (*Vie culturelle*).
-- **[Notre rapport ontologique au monde](./cadre/metaphysique.md)**, issu de notre vision anarcho-communiste.
-
+  
 ---
 
 ### **Sujets plus spécifiques**
@@ -57,7 +58,7 @@ Nous avons aussi rédigé des textes sur des sujets souvent abordés par les vis
 - **[La limitation de la liberté individuelle sur le lieu](./specifiques/consommation.md)**, notamment l’interdiction des drogues, de la nourriture ultra-transformée et d’autres pratiques.
 - **[La sexualité](./specifiques/sexualite.md)**, expliquée dans un texte spécifique.
 - **[Le genre](./specifiques/genre.md)**, selon notre approche anti-libérale.
-- **[Notre positionnement politique global](./cadre/echiquier.md)**, clarifiée pour plus de transparence.
+- **[Notre positionnement politique global](./specifiques/echiquier.md)**, clarifiée pour plus de transparence.
 - **[Notre vision du militantisme actuel](./specifiques/militantisme.md)**, et pourquoi nous privilégions le travail au sein du collectif et sur le lieu plutôt que sur « le front ».
 - **[Les industries médiatiques](./specifiques/media-industrie.md)**, en lien avec notre position contre la technologie.
 - **[Les sanctuaires antispécistes](./specifiques/sanctuaires.md)**, et pourquoi nous avons reconnu leur mise en place comme une erreur stratégique et politique.
