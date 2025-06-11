@@ -62,6 +62,3 @@ Nous avons aussi rédigé des textes sur des sujets souvent abordés par les vis
 - **[Notre vision du militantisme actuel](./specifiques/militantisme.md)**, et pourquoi nous privilégions le travail au sein du collectif et sur le lieu plutôt que sur « le front ».
 - **[Les industries médiatiques](./specifiques/media-industrie.md)**, en lien avec notre position contre la technologie.
 - **[Les sanctuaires antispécistes](./specifiques/sanctuaires.md)**, et pourquoi nous avons reconnu leur mise en place comme une erreur stratégique et politique.
-
-
-Il manque des textes comme risques et périls ou encore condition humaine
