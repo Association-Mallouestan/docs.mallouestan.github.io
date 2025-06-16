@@ -1,4 +1,13 @@
-> [Accueil](../../) > [Portail philosophique](../) > Texte sur le rapport au monde non-humain
+---
+date: 2024-10-27 2:09:00
+title: Ethique environnementale
+description: Notre conception éthique concernant les animaux et le monde non-humain
+tags:
+  - fondamentaux
+  - vision
+image: /images/ressources/sauvage.jpg
+author: mallouestan
+---
 
 ## Texte sur l'éthique environnementale du Mallouestan
 ### Pourquoi écrire ce texte ?
