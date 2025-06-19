@@ -101,7 +101,7 @@ Un équilibre doit être trouvé entre les libertés individuelles et celles du 
 - Tout changement de la charte ou ses annexes (budget, liste de courses) ;
 - L'attribution des rôles de arrimé·e ou de résident·e ainsi que les conditions d'une période d'essai ;
 - Les dépenses exceptionnelles ou ponctuelles définies dans l'annexe pour le budget ;
-- Tout aménagement, par une personne, impactant les espaces communs qui ne peut être défait par cette même personne en une journée.
+- Tout aménagement, par une personne, impactant les espaces communs qui ne peut être défait par cette même personne en 6h comme précisé dans l'annexe [Annexe: directives A.C.A.B](./annexe--directives-acab.md) ;
 
 Toute autre décision, hors précision contraire dans la charte ou ces annexes, ne nécéssite aucun accord collectif. Néanmoins, une communication et une transparence sont encouragées. 
 
@@ -133,3 +133,4 @@ Pour plus d'informations sur la vie collective sur le lieu, il est encouragé de
 - [Responsabilités et droits](./annexe--responsabilites-droits.md)
 - [Économie partagée](./annexe--economie-partagee.md)
 - [Gestion de conflit](./annexe--gestion-de-conflit.md)
+- [Directives A.C.A.B](./annexe--directives-acab.md)
