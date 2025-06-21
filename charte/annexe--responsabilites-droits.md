@@ -1,3 +1,13 @@
+---
+date: 2025-03-04 2:05:00
+title: Annexe - Responsabilités et droits
+description: L'annexe sur les responsabilités et droits des différents rôles du Mallouestan.
+tags:
+  - visite
+image: /images/logo.jpg
+author: mallouestan
+---
+
 ## Annexe: responsabilités et droits des différents rôles
 
 > Cette annexe est un document vivant et évolutif. Elle est à lire et à respecter comme la charte elle-même. Elle est à compléter, modifier ou corriger par le collectif du Mallouestan.
