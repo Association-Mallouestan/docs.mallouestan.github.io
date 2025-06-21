@@ -4,7 +4,6 @@ title: La consomation et la liberté individuelle
 description: >-
   Explications sur les contraintes et les restrictions concernant l'alimentation et les produits addictifs sur le lieu 
 tags:
-  - cadre
   - specifique
   - vision
 image: /images/ressources/avocats.jpg

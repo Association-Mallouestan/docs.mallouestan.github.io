@@ -4,6 +4,7 @@ title: Annexe - Vie collective
 description: L'annexe sur la vie collective du Mallouestan. 
 tags:
   - visite
+  - charte
 image: /images/logo.jpg
 author: mallouestan
 ---

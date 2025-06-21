@@ -4,6 +4,7 @@ title: La charte
 description: La charte définissant le contexte partagé par toustes sur le lieu 
 tags:
   - visite
+  - charte
 image: /images/logo.jpg
 author: mallouestan
 ---

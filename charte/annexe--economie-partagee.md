@@ -4,6 +4,7 @@ title: Annexe - Economie partagée
 description: L'annexe sur l'économie partagée et le fonctionnement économique du Mallouestan.
 tags:
   - visite
+  - charte
 image: /images/logo.jpg
 author: mallouestan
 ---

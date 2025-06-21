@@ -3,7 +3,6 @@ date: 2024-10-27 2:05:00
 title: La question du confort
 description: Notre vision et notre rapport au confort
 tags:
-  - cadre
   - specifique
   - vision
 image: /images/ressources/cozy.jpg

@@ -4,6 +4,7 @@ title: Annexe - Responsabilités et droits
 description: L'annexe sur les responsabilités et droits des différents rôles du Mallouestan.
 tags:
   - visite
+  - charte
 image: /images/logo.jpg
 author: mallouestan
 ---
