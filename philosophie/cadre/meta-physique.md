@@ -1,4 +1,19 @@
-> [Accueil](../../) > [Portail philosophique](../) > L'ontologie, le matérialisme, et l'ésotérisme 
+---
+date: 2025-06-03 2:00:00
+title: Meta-physique
+description: >-
+  Notre rapport à la pensée ésotérique et à la pensée scientifique
+tags:
+  - fondamentaux
+  - vision
+image: /images/ressources/galaxy.jpg
+author: mallouestan
+message:
+  content: C'est tout nouveau
+  icon: flame
+  color: 218380
+---
+
 
 ## L'ontologie, le matérialisme, et l'ésotérisme 
 
