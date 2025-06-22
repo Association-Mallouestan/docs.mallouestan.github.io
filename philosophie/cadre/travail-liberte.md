@@ -66,7 +66,15 @@ Nous avons vu que la liberté est régulièrement pensée en rapport avec la not
 
 Le travail comme source d'émancipation, méritocratie 
 - lié ça à la question de l'handicap ou on a un monde du travail qui crée l'invalidité au-delà des accidents travail mais bien dans l'inclusion et une vision d'un corps valide 
-- ref (Disability and the Sociological Imagination) 
+- ref (Disability and the Sociological Imagination)
+
+Dans Disability and the Sociological Imagination (2021), Allison C. Carey et Cheryl Najarian Souza.Le monde du travail ne reflète pas simplement une réalité biologique du handicap et de l'(in)validité : il la fabrique. **Au-delà des accidents travail** ou d'un problème corporelle, l'invalidité et le handicap sont aussi des résultats de la manière dont le travail est organisé. En effet, le capitalisme fonctionne par l'extraction et la rentabilisation au maximum de la force de travail, dans la limite de ce qui est possible et toléré dans une société donnée. Or, les corps jeunes, non malades, énergiques, sont particulièrement susceptibles de fournir une performance, une productivité, et une disponibilité relativement constantes. Ils sont usés et poussés jusqu'à l'épuisement ou la maladie, tant qu'ils sont valides. Tant qu'un grand nombre de ces corps valides est mis à disposition sur le marché mondial du travail, les corps invalides ne sont intégrés qu'à la marge. Les personnes malades, folles, handicapées, furent historiquement massivement enfermées. Quand beaucoup le restent aujourd'hui - notamment les vieilleux - certaines sont sorties de cette mise à l'écart pour rentabiliser leur existence via leur "inclusion" sur le marché du travail, mais toujours de manière marginale. Ce nouveau modèle de l'inclusion comporte des postes en institutions spécialisées comme les ESAT [footnote : Anciennement CAT, les ESAT ont tout d'une entreprises - voire d'une usine... Sauf que les salarié.es n'y sont pas considéré.es comme des travaileuse.eurs, mais comme des "bénéficiaires" d'un établissement médico-social. Ainsi, par exemple, iels n'ont pas le droit de se syndiquer ni de grève, et leurs salaires varient entre 50 et 90% du SMIC. Sur ce sujet, voir Thibault Petit (2022). Handicap à vendre, Les Arènes] ainsi que des postes en milieu dit "ordinaire". Ces postes sont dits "adaptés", sans que l'organisation du travail ne soit fondamentalement remise en question. Le travail productiviste à la chaîne, où chacun.e doit être rentable et remplaçable, exclue de fait l'anormalité. Les normes du travail rendent le seul type de travail disponible inaccessible à certaines personnes, qui se retrouvent "en situation de handicap". 
+
+>[footnote : Dans le modèle social du handicap, au delà d'une déficience physique, psychique ou sensorielle, le handicap est déf manifeste dans des situations particulières : dans des contextes différents, les personnes n'ont pas les mêmes obstacles, difficultés ou dangers. Par exemple, dans un lieu et à un moment parfaitement adapté où les difficultés sont compensées ou simplement inaxistantes, la personne aura toujours son corps avec ses (in)capacités en puissance, mais elle ne sera pas "handicapée" au sens qu'elle n'a pas de difficulté à s'intégrer socialment et à accomplir les tâches que cette situation demande. L'expression "en situation de handicap" ne permet donc pas de désigner une personne, puisqu'une personne sera au cours de sa vie dans des situations où elle (n') est (pas) handicapée. Alors que les corps ont réellement des capacités différentes, ce sont bien les situations sociales qui sont plus ou moins handicapantes pour les individu.es. L'expression "personne en situation de handicap" peut donc être vue comme un euphémisme qui désigne en fait à peu près la même chose que le terme "handicapé.e" dans le langage courant.]
+
+Il s'agit donc toujours de normaliser les corps, c'est-à-dire de les faire entrer en compatibilité avec la productivité exigée, de les rentabiliser en usant du minimum d'aménagements possibles. Le poste est "adapté", les horaires de travail un peu plus "flexibles", mais l'idéal d'un.e salarié.e "performant.e" perdure, le handicap faisant figure d'exception. Lorsqu'ils sont inutilisables, les aspects corporels, psychiques et sensoriels doivent être au moins invisibles : cela demande un effort d'adaptation pour se conformer à ces exigences, en paraîssant normal.e. Cette startégie d'inclusion, parfois revendiquée par des syndicats et des collectifs de personnes handicapées, comporte le risque d’institutionnaliser la différence. Le modèle de l'inclusion ne peut renverser le système normatif.
+
+---
 
 ## Comment définir le travail? 
 
@@ -159,11 +167,17 @@ Dans la société productiviste extractiviste néocolonial et patriarcale modern
 Prenons conscience que le travail est une question collective et n'a que du sens si elle est abordé de la sorte. Au-delà d'une réappropriation des infrastructures de production devenant autonome sur la subsistance au travers d'une autonomie sur le travail. 
 
 
+---
+
+## BIBLIOGRAPHIE
+Carey, Allison C. (2022). _Disability and the Sociological Imagination_, SAGE Publications.
+Casilli, Antonio A. (2019). _En attendant les robots. Enquête sur le travail du clic_, Paris, Seuil.
+Petit, Thibault (2022). _Handicap à vendre_, Paris, Les Arènes.
 
 
 ---
 
-NOTES / IDEES
+## NOTES / IDEES
 [BAS] ARRENDT trois formes de travail et le drame dans les sociétés totalitaristes c'est qu'on ne fait plus que _labor_, et non _work_ et _action_.
 - le travail (_labor_) : activités quotidiennes liées à la survie biologique, épémère et cycloique, liées à l'être humain etq animal (cuisiner, cultiver des patates, manger, se reproduire, etc)
 - l'oeuvre (_work_) : conectionner des objets durables (art, outils, ville | statue, panier, construire une maison) = créer un monde artificiel qui donne de la stabilité à l'existence humaine
