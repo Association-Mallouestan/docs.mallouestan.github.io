@@ -48,7 +48,7 @@ author: mallouestan
 
 ### Résident·e non-autonome
 
-
+Ce rôle est défini par l'incapacité à satisfaire les prérequis des autres statuts. Une personne qui ne serait pas suffisamment autonome pour être « arrimée » peut obtenir le statut de résident. Si elle n'est pas suffisamment autonome pour être résident, elle se voit attribuer le statut de Résident non-autonome. L’autonomie est privilégiée par rapport à la notion de validité, pour diverses raisons expliquées notamment dans le texte Travail et Liberté.
 
 | Droits                                                    |
 | ------                                                    |
