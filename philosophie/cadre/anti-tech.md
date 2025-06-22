@@ -1,4 +1,17 @@
-> [Accueil](../../) > [Portail philosophique](../) > Texte sur l'anti-tech
+---
+date: 2024-10-27 2:14:00
+title: Notre position anti-tech
+description: >-
+  Notre rapport au monde et la civilisation technologique
+
+tags:
+  - specifique
+  - vision
+
+image: /images/ressources/cameras.jpg
+author: mallouestan
+
+---
 
 ## Le Mallouestan et la position Anti-Tech
 

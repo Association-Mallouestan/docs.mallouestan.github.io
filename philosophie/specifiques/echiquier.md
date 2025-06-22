@@ -1,4 +1,15 @@
-> [Accueil](../../) > [Portail philosophique](../) > Vue globale sur nos positionnements politiques
+---
+date: 2025-03-01 2:05:00
+title: Nos positionnements politiques
+description: Notre vision de nombreux sujets dans une optique d'éclaircir notre projet politique  
+tags:
+  - vision
+  - specifique
+image: /images/ressources/guide.jpg
+author: mallouestan
+pdf_url: https://drive.google.com/file/d/1wjp0h9hrJZsYDCEncxH3pkKgpyJQbGNu/view?usp=sharing
+---
+
 
 # Vue globale sur nos positionnements politiques
 

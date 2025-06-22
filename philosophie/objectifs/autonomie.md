@@ -1,4 +1,14 @@
-> [Accueil](../../) > [Portail philosophique](../) > Texte sur l'autonomie
+---
+date: 2024-11-01 2:10:00
+title: Une autonomie riche
+description: >-
+  Explications sur notre recherche d'autonomie
+tags:
+  - objectifs
+  - vision
+image: /images/alternatives.jpg
+author: mallouestan
+---
 
 ## L'autonomie 
 ### Pourquoi écrire ce texte ?

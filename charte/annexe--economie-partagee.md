@@ -1,3 +1,13 @@
+---
+date: 2025-03-04 2:05:00
+title: Annexe - Economie partagée
+description: L'annexe sur l'économie partagée et le fonctionnement économique du Mallouestan.
+tags:
+  - visite
+  - charte
+image: /images/logo.jpg
+author: mallouestan
+---
 
 ## Annexe: économie partagée
 

@@ -1,3 +1,14 @@
+---
+date: 2025-03-04 2:05:00
+title: Annexe - Gestion de conflit
+description: L'annexe sur la gestion de conflit au Mallouestan. 
+tags:
+  - visite
+  - charte
+image: /images/logo.jpg
+author: mallouestan
+---
+
 ## Annexe: gestion de conflit
 
 > Cette annexe est un document vivant et évolutif. Elle est à lire et à respecter comme la charte elle-même. Elle est à compléter, modifier ou corriger par le collectif du Mallouestan.
