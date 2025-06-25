@@ -12,7 +12,7 @@ author: mallouestan
 
 BUT DE L'INTRO
 Le travail est plus compliqué que ce qui apparaît a première vue
-Le travail est rejeté parfois, c'est pas un aqcuis définitif [我 càd pas un invariant social universel ?]
+Le travail est rejeté parfois, c'est pas un aqcuis définitif [我 càd pas un invariant social / truc universellement valorisé ?]
 Le travail ne se limite pas au salariat / un truc pénible
 Le travail va au-delà du geste, implique une orga collective de cet effort
 
@@ -25,11 +25,13 @@ Le travail va au-delà du geste, implique une orga collective de cet effort
 
 Outre la non-reconnaissance de certaines tâches comme du travail, **le travail** lui-même **est régulièrement remis en question ou tout au moins rejeté.**
 
-**Le farniente**, est un mouvement social individualiste / libéral exemplaire de ce rejet du travail. Plus exactement c'est un rejet de tout effort, associé à la valorisation du fait de ne rien (_niente_) faire (_far_). Certaines personnes défendent le fait de ne pas être productif.ve, de rester immobile, ne pas se distraire ni s'adoner à aucun loisir, comme un acte révolutionnaire car elles ne font alors rien de productif. Elles voient la production (même d'art ou d'un repas, par exemple) comme répondant à une injonction générale à la productivité. En s'applquant à ne rien faire d'autre que respirer - entre autres activités involontaires - elles pensent s'opposer au capitalisme dans ses injonctions d'activité et de sur-productivité.
+**Le farniente** est un mouvement social individualiste libéral exemplaire de ce rejet du travail. Plus exactement c'est un rejet de tout effort, associé à la valorisation du fait de ne rien (_niente_) faire (_far_). Certaines personnes défendent le fait de ne pas être productif.ve, de rester immobile, ne pas se distraire ni s'adoner à aucun loisir, comme un acte révolutionnaire car elles ne font alors rien de productif. Elles voient la production (même d'art ou d'un repas, par exemple) comme répondant à une injonction générale à la productivité. En s'applquant à ne rien faire d'autre que respirer - entre autres activités involontaires - elles pensent s'opposer au capitalisme dans ses injonctions d'activité et de sur-productivité.
 
 [REDUIRE]
 
 A côté de ce projet individuel, il existe un mouvement progressiste technophile. **L'idéal progressiste d'un futur sans travail** place dans le developpement scientifique et industriel - notamment informatique et robotique - un espoir collectif d'une vie sans travail. Des innovations récentes (notamment NTIC) ont suscité une importante production culturelle, tels que des romans de science fiction ou d'anticipation. _Le Deuxième Âge de la machine : Travail et prospérité à l’heure de la révolution technologique_, de Erik Brynjolfsson, Andrew McAfee (2015) présente la réussite du projet progressiste d'une vue plutôt enthousiaste. Lire aussi La vie 3.0 - Etre humain à l'ère de l'intelligence artificielle, de Max Tegmark (2024). Isaac Asimov (1954) dans son roman _Face aux feux du soleil_, présente les innovations techniques et la machinisation d'une manière plus critique que les deux ouvrages précédants.
+
+>[AJOUT 19h le 25/06/2025 | D'autres comme le collectif Krisis [NOTE : Le groupe Krisis n’a rien à voir avec la revue d’extrème-droite française Krisis, dirigée par Alain de Benoist] rejettent le travail en bloc. Sans forcément proposer une définition de ce terme, iels l'assimilent à la notion d'emploi, au salariat. Comme iels ne perçoivent pas d'alternative, pas de satisfaction possible dans ce type de travail, pas de sens à participer à un monde productiviste. Le salariat repose sur l'exploitation de la force de travail des corps, la marge de profit des entreprises étant issue d'un "sur-travail" qui n'est pas rémunéré, mais qui est réinjecté pour toujours augmenter la production. [footnote : Marx, Le Capital] Effectivement, une issue est difficilement envisageable dans le cadre de la société ordinaire. Sans une organisation collective, on ne semble pas pouvoir trouver de poste ou de travail qui échappe aux logiques destructrices et exploitatrices. D'ailleurs, ne pas participer à l'effort collectif de (re)production de la civilisation thermo-industruelle est impensable : Krisis cite Henry Ford dans un [article en ligne](https://www.krisis.org/1999/manifeste-contre-le-travail/) : “Le principe moral fondamental est le droit qu’a l’homme à son travail. [.] À mon sens, il n’est rien de plus atroce qu’une vie oisive. Personne n’y a droit. La civilisation n’a pas de place pour les oisifs”.]
 
 ---
 
@@ -196,7 +198,10 @@ Prenons conscience que le travail est une question collective et n'a que du sens
   Carey, Allison C. (2022). _Disability and the Sociological Imagination_, SAGE Publications.
   Casilli, Antonio A. (2019). _En attendant les robots. Enquête sur le travail du clic_, Paris, Seuil.
   Coppola de Miranda, A.-C. et Gourgues, G. (2023). Les épouses méritent-elles leur salaire ? Politisation du salaire et assignation de genre dans la Communauté de travail Boimondau (1944-1946) Salariat, 2(1), 49-76. https://doi.org/10.3917/sala.002.0049.
+  
+  Mark, Karl (::::::::::::). Le Capital. ::::::::::::::::::::::::::::::::
   Petit, Thibault (2022). _Handicap à vendre_, Paris, Les Arènes.
+  
 
 
 
@@ -205,6 +210,7 @@ https://en.wikipedia.org/wiki/Wages_for_Housework
 https://www.senat.fr/leg/ppl24-127.html
 https://www.maison-travaux.fr/actualites/remuneration-travail-domestique-taches-menageres-inegalites-584467.html
 https://fr.wikipedia.org/wiki/Boimondau
+https://www.editions-lignes.com/MANIFESTE-CONTRE-LE-TRAVAIL.html#:~:text=Dans%20le%20cadre%20de%20cette%20analyse%2C%20le%20Manifeste,%C2%AB%20ressource%20humaine%20%C2%BB%20de%20cette%20auto-reproduction%20infinie.
 
 
 ---
