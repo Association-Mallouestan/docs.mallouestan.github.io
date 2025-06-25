@@ -20,13 +20,23 @@ L'humanité vit aujourd'hui majoritairement en ville, et ce phénomène va crois
 
 Selon nous, la plupart des malheurs non nécessaires que subissent les êtres humains sont dûs au processus de civilisation dont ils sont victimes, autant dans leurs corps que dans l'environnement au sein duquel ils évoluent. 
 
+En effet, il y a plusieurs milliers d'années, à partir de quelques endroits du globe comme l'actuelle Turquie ou la région du Fleuve Jaune en Chine, les premières cités sédentaires ont vu le jour, accompagnées de grandes infrastructures, de grands travaux d'aménagement hydroliques, de l'accroissement des hiérarchies sociales, de carences alimentaires, de la colonisation, de l'exploitation massive des forêts et des mines, de la domestication massive de bétail, de l'impôt<sup>9</sup>... Ce processus a conduit à nos sociétés actuelles avec plus ou moins d'intensité selon les périodes et selon les régions, et nous sommes aujourd'hui les dépositaires d'une histoire d'urbanisation, de sédentarisation, d'intégration à l'appareil d'Etat et de mise au travail au service d'une classe dominante. 
+
+#### Conséquences directes sur les corps et la santé
+
+Nos corps et nos santés en font aujourd'hui les frais. Plusieurs exemples peuvent être donnés. Notre dentition ne s'est pas adaptée à ce processus évolutif
+
+#### Conséquences indirectes dûes à l'environnement dans lequel Homo Sapiens évolue
+
+### Comment le système rend acceptable cet état de fait 
+
+ignorance déjà hein, activités de substitution, culture libérale/happycratie
+
+### Notre proposition authentique et antilibérale
 
 
-#### besoins humains fondamentaux (bouffer... et plaiz/repos)
 
-#### civi
 
-etc.
 
 ### Notes 
 
@@ -46,4 +56,4 @@ etc.
 
 <sup>8</sup> : https://www.courrierinternational.com/grand-format/carte-commentee-les-principaux-conflits-qui-dechirent-la-planete
 
-https://www.reuters.com/world/middle-east/iranian-missile-strike-israel-shows-capability-greater-scale-complexity-2024-10-02/
+<sup>9</sup> : https://books.openedition.org/ifpo/3750?lang=fr ; _Homo Domesticus_, James C. Scott ; _L'aube des moissonneurs_, Jean Guilaine ; _Age de pierre, âge d'abondance_, Marshall Sahlins.
