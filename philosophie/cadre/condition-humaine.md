@@ -18,6 +18,8 @@ L'humanité vit aujourd'hui majoritairement en ville, et ce phénomène va crois
 
 ### De l'inadéquation entre la "nature humaine" (revoir le terme) et le développement civilisationnel
 
+Selon nous, la plupart des malheurs non nécessaires que subissent les êtres humains sont dûs au processus de civilisation dont ils sont victimes, autant dans leurs corps que dans l'environnement au sein duquel ils évoluent. 
+
 
 
 #### besoins humains fondamentaux (bouffer... et plaiz/repos)
