@@ -10,6 +10,12 @@ image: /images/alternatives.jpg
 author: mallouestan
 ---
 
+BUT DE L'INTRO
+Le travail est plus compliqué que ce qui apparaît a première vue
+Le travail est rejeté parfois, c'est pas un aqcuis définitif [我 càd pas un invariant social universel ?]
+Le travail ne se limite pas au salariat / un truc pénible
+Le travail va au-delà du geste, implique une orga collective de cet effort
+
 
 ## Pourquoi parler de travail et de liberté? 
 
@@ -21,15 +27,20 @@ Outre la non-reconnaissance de certaines tâches comme du travail, **le travail*
 
 **Le farniente**, est un mouvement social individualiste / libéral exemplaire de ce rejet du travail. Plus exactement c'est un rejet de tout effort, associé à la valorisation du fait de ne rien (_niente_) faire (_far_). Certaines personnes défendent le fait de ne pas être productif.ve, de rester immobile, ne pas se distraire ni s'adoner à aucun loisir, comme un acte révolutionnaire car elles ne font alors rien de productif. Elles voient la production (même d'art ou d'un repas, par exemple) comme répondant à une injonction générale à la productivité. En s'applquant à ne rien faire d'autre que respirer - entre autres activités involontaires - elles pensent s'opposer au capitalisme dans ses injonctions d'activité et de sur-productivité.
 
+[REDUIRE]
+
 A côté de ce projet individuel, il existe un mouvement progressiste technophile. **L'idéal progressiste d'un futur sans travail** place dans le developpement scientifique et industriel - notamment informatique et robotique - un espoir collectif d'une vie sans travail. Des innovations récentes (notamment NTIC) ont suscité une importante production culturelle, tels que des romans de science fiction ou d'anticipation. _Le Deuxième Âge de la machine : Travail et prospérité à l’heure de la révolution technologique_, de Erik Brynjolfsson, Andrew McAfee (2015) présente la réussite du projet progressiste d'une vue plutôt enthousiaste. Lire aussi La vie 3.0 - Etre humain à l'ère de l'intelligence artificielle, de Max Tegmark (2024). Isaac Asimov (1954) dans son roman _Face aux feux du soleil_, présente les innovations techniques et la machinisation d'une manière plus critique que les deux ouvrages précédants.
 
 ---
 
-Le travail, dans le sens commun, est souvent défini comme l'ensemble des tâches rémunérées ou essentielles à la (sur)vie quotidienne : il est alors vu un ensemble d'efforts accomplis par nécessité, par obligation - et souvent dans la souffrance. **On pourrait se demander pourquoi lier ces deux sujets : le travail et la liberté. Comment articuler ces notions sans reproduire l'opposition libérale-salariale entre le travail (obligation subie) et ;e "temps libre" (loisir ou absence de productivité) ?
+Le travail, dans le sens commun, est souvent défini comme l'ensemble des tâches rémunérées ou essentielles à la (sur)vie quotidienne : il est alors vu un ensemble d'efforts accomplis par nécessité, par obligation - et souvent dans la souffrance. **On pourrait se demander pourquoi lier ces deux sujets : le travail et la liberté. Comment articuler ces notions sans reproduire l'opposition libérale-salariale entre le travail (obligation subie) et ;e "temps libre" (loisir ou absence de productivité) ? 
 
 **D'abord, le travail n'est pas un simple geste, ou le simple fait de fournir un effort. Le travail s'accompagne également d'organisations sociales et de rapports sociaux**. Si l'on réfléchissait au travail uniquement à l'échelle individuelle, on ne verrait pas les rapports de pouvoirs qui organisent le travail de (re)production dans la société. L'organisation sociale du travail désigne la manière dont une société ou un groupe social définit les conditions de production (e.g., des institutions comme les ESAT ou l'unité familiale domestique), donne un cadre - dont le Code du Travail fait partie, et attribue des rôles aux divers.es acteurices qui accomplissent les tâches jugées utiles ou nécessaires, dans ce contexte social donné. L'organisation du travail, dans sa matérialité, est une manière très concrète d'extraire et d'allouer des moyens matériels à des fins : infrastructures et machines, matières premières, corps d'animaux humains et non-humains, etc. L'organisation du travail est aussi une production sociale et culturelle qui dépend d'un contexte historique, géographique qui lui sont spécifiques. 
 
 Par exemple, les rôles et les tâches attribué.es aux travailleur.ses peuvent varier au point que des indidivu.es qui contribuent à produire des objets semblables peuvent en réalité accomplir des travaux très différents. Cela dépend de la **division sociale du travail**, c'est-à-dire de la manière dont les activités et les tâches etimées nécessaires sont réparties entre les individu.es. Par exemple, une organisation du travail artisanale où chacun.e est spécialisé.e dans la réalisation d'un type d'objet (vannerie, poterie, menuiserie, etc) aura une division du travail plus élevée qu'un village où chacun.e serait très polyvalent.e et aurait des compétences dans chacun de ces domaines - mais cette société artisanale aurait une division du travail plus faible qu'une société industrielle appliquant l'organisation scientifique du travail (O.S.T., principes fordistes ou tayloristes).
+
+[PARTIE 1 : CENTREE SUR LE TRAVAIL| CI-DESSUS]
+[PARTIE 2 : EXPLIQUER POURQUOI ON PARLE DE LIBERTE ET DE TRAVAIL | CI-DESSOUS]
 
 Les entreprises aussi se répartissent entre elles le type de production (alimentaire, pharmaceutique). Enfin, sur une chaîne de production, la division du travail est particulièrement visible à petite échelle, où chaque individu accomplit une même série de gestes à répétition. Ainsi, dans un contexte industriel, la division du travail est particulièrement intense, et les travailleur.ses sont hyper-spécialisé.es. C'est moins le cas dans le cadre de l'artisanat ou d'un mode de vie autonome. 
 
@@ -80,17 +91,16 @@ Dans Disability and the Sociological Imagination (2021), Allison C. Carey et Che
 
 >[footnote : Dans le modèle social du handicap, au delà d'une déficience physique, psychique ou sensorielle, le handicap est déf manifeste dans des situations particulières : dans des contextes différents, les personnes n'ont pas les mêmes obstacles, difficultés ou dangers. Par exemple, dans un lieu et à un moment parfaitement adapté où les difficultés sont compensées ou simplement inaxistantes, la personne aura toujours son corps avec ses (in)capacités en puissance, mais elle ne sera pas "handicapée" au sens qu'elle n'a pas de difficulté à s'intégrer socialment et à accomplir les tâches que cette situation demande. L'expression "en situation de handicap" ne permet donc pas de désigner une personne, puisqu'une personne sera au cours de sa vie dans des situations où elle (n') est (pas) handicapée. Alors que les corps ont réellement des capacités différentes, ce sont bien les situations sociales qui sont plus ou moins handicapantes pour les individu.es. L'expression "personne en situation de handicap" peut donc être vue comme un euphémisme qui désigne en fait à peu près la même chose que le terme "handicapé.e" dans le langage courant.]
 
-Il s'agit donc toujours de normaliser les corps, c'est-à-dire de les faire entrer en compatibilité avec la productivité exigée, de les rentabiliser en usant du minimum d'aménagements possibles. Le poste est "adapté", les horaires de travail un peu plus "flexibles", mais l'idéal d'un.e salarié.e "performant.e" perdure, le handicap faisant figure d'exception. Lorsqu'ils sont inutilisables, les aspects corporels, psychiques et sensoriels doivent être au moins invisibles : cela demande un effort d'adaptation pour se conformer à ces exigences, en paraîssant normal.e. Cette startégie d'inclusion, parfois revendiquée par des syndicats et des collectifs de personnes handicapées, comporte le risque d’institutionnaliser la différence. Le modèle de l'inclusion ne peut renverser le système normatif.
+Il s'agit donc toujours de normaliser les corps, c'est-à-dire de les faire entrer en compatibilité avec la productivité exigée, de les rentabiliser en usant du minimum d'aménagements possibles. Le poste est "adapté", les horaires de travail un peu plus "flexibles", mais l'idéal d'un.e salarié.e "performant.e" perdure, le handicap faisant figure d'exception. Lorsqu'ils sont inutilisables, les aspects corporels, psychiques et sensoriels doivent être au moins invisibles : cela demande un effort d'adaptation pour se conformer à ces exigences, en paraîssant normal.e. Cette startégie d'inclusion, parfois revendiquée par des syndicats et des collectifs de personnes handicapées, comporte le risque d’institutionnaliser la différence. Le modèle de l'inclusion ne peut renverser le système normatif.  Nous reviendrons dans ce texte sur
 
 ---
 
 ## Comment définir le travail? 
 
-Il ne suffit pas de fournir un effort pour que ce soit du travail 
-- il faut que l'effort soit reconnu collectivement comme du travail pour qu'il le soit 
-- d'où l'importance de la question du travail de reproduction 
-- un exemple de ça et une référence 
-- L'exemple de https://fr.wikipedia.org/wiki/Boimondauen en plus 
+Il ne suffit pas de fournir un _effort_ pour que l'on puisse désigner cet effort comme du _travail_. Pour qu'un effort, une activité, une tâche, devienne du travail, 
+il faut que l'effort soit reconnu _collectivement_ comme du travail. Pour le dire autrement, rien n'est en soi du travail. De plus, une personne ne peut pas décider seule qu'une activité est du travail, ou non - à moins d'être en position de commander aux autres. Enfin, une tâche qui est considérée comme utile peut être alors vue comme  travail dans une société / culture donnée, alors qu'une autre n'y verrait pas d'intérêt et déciderait que cette tâche est un simple effort assez inutile. Lorsqu'on considère le travail de cette manière, on peut voir l'importance de la question du travail de reproduction. Le même effort n'est pas toujours reconnu comme du travail. Ainsi, on peut être rémunéré.e pour faire le ménage chez les autres, mais pas "chez soi". Certains mouvements sociaux ont émergé pour essayer de faire reconnaître certaines activités comme du travail, comme [The International Wages for Housework Campaign (IWFHC)](https://en.wikipedia.org/wiki/Wages_for_Housework) le travail de reproduction dans le cadre du mariage. a pour but de dénaturaliser les tâches domestiques, effectuées majoritairement par les femmes dans le cadre du mariage, en y apposant un salaire qui serait versé par le conjoint. [Le Sénat a aussi récemment proposé une loi dans ce sens](https://www.senat.fr/leg/ppl24-127.html) dont parle [cet article](https://www.maison-travaux.fr/actualites/remuneration-travail-domestique-taches-menageres-inegalites-584467.html). Le salaire est aussi la manière privilégiée par [Boimondeau](https://fr.wikipedia.org/wiki/Boimondau) pour reconnaître le travail des épouses des ouvriers. Ces derniers versent [footnote : C'est aussi décrit comme une manière de les réassigner à la sphère domestique et à un rôle d'épouses, d'une manière d'autant plus difficile pour elles à contester qu'elles reçoivent un salaire pour des tâches qui restent, malgré cela, dévalorisées relativement aux tâches dites "de production", plutôt réservées aux hommes et qui ont lieu dans la sphère légitime du travail, à l'usine.].
+
+>[CK : - il faut que l'effort soit reconnu collectivement comme du travail pour qu'il le soit | - d'où l'importance de la question du travail de reproduction  | - un exemple de ça et une référence | - L'exemple de https://fr.wikipedia.org/wiki/Boimondauen en plus]
 
 Du coup notre définition de travail 
 - (ça pour le coup quasiment mot pour mot à l'exception d'une correction) " le travail est l'effort et l'organisation, considéré comme utile et pertinent par une communauté ainsi que tout prérequis logistique nécessaire à cette effort ou organisation" 
@@ -183,9 +193,18 @@ Prenons conscience que le travail est une question collective et n'a que du sens
 ---
 
 ## BIBLIOGRAPHIE
-Carey, Allison C. (2022). _Disability and the Sociological Imagination_, SAGE Publications.
-Casilli, Antonio A. (2019). _En attendant les robots. Enquête sur le travail du clic_, Paris, Seuil.
-Petit, Thibault (2022). _Handicap à vendre_, Paris, Les Arènes.
+  Carey, Allison C. (2022). _Disability and the Sociological Imagination_, SAGE Publications.
+  Casilli, Antonio A. (2019). _En attendant les robots. Enquête sur le travail du clic_, Paris, Seuil.
+  Coppola de Miranda, A.-C. et Gourgues, G. (2023). Les épouses méritent-elles leur salaire ? Politisation du salaire et assignation de genre dans la Communauté de travail Boimondau (1944-1946) Salariat, 2(1), 49-76. https://doi.org/10.3917/sala.002.0049.
+  Petit, Thibault (2022). _Handicap à vendre_, Paris, Les Arènes.
+
+
+
+## SITOGRAPHIE
+https://en.wikipedia.org/wiki/Wages_for_Housework
+https://www.senat.fr/leg/ppl24-127.html
+https://www.maison-travaux.fr/actualites/remuneration-travail-domestique-taches-menageres-inegalites-584467.html
+https://fr.wikipedia.org/wiki/Boimondau
 
 
 ---
