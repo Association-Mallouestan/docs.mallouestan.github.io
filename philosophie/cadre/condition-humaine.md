@@ -32,17 +32,29 @@ Notre dentition ne s'est pas adaptée à ce processus évolutif. En effet, beauc
 
 L'agriculture a crée un régime alimentaire moins diversifié et marque l'apparition de carences chez Homo Sapiens. Quand l'alimentation des chasseurs-cueilleurs était variée selon les lieux et les saisons, elle devient riche en céréales et perd en nutriments, en plus de les rendre vulnérables en cas de mauvaises récoltes. La masse des esclaves avaient de la bière comme base alimentaire (sorte de soupe), quand les quelques riches pouvaient se permettre la consommation de produits plus rares. La néolithisation se marque par une baisse de la taille moyenne chez les humain.es, principalement liée, semble-t-il, à la baisse de la consommation d'animaux et d'insectes (l'humanité ayant retrouvé sa taille d'avant le néolithique dans les années 1960, surtout parce que la consommation de cadavres a augmenté). On observe aussi des carences en vitamine B12, notamment apportées par cette même consommation à l'état sauvage (les animaux consommés actuellement ne fournissant pas assez cette vitamine). La pauvreté nutritionnelle conduit aussi à une perte dans la robustesse des os, à des carences en fer, en zinc, en calcium, en vitamines A et D, ce qui est aussi en partie dû à l'exposition moindre au soleil. On relèvre ainsi plus de malformations osseuses chez les premiers agriculteurs que chez leurs ancêtres<sup>12</sup>.
 
-La néolithisation voit apparaître les premières épidémies. La concentration animale (humaine et non humaine) dans les "complexes de la domus"<sup>13</sup> crée des conditions favorables aux conflits entre les bactéries et virus avec les systèmes immunaitaires à échelle inter-espèces. Ces conflits entraînent une escalade et une mutation des virus et des bactéries, forcées de s'adapter aux corps qui se renforcent eux aussi en moyenne. Les agents pathogènes deviennent alors de plus en plus puissants et destructeurs pour les corps qui ne se sont pas habitués à leur présence. En témoigne le choc viral causant une hécatombe chez les populations amérindiennes suite à l'arrivée des premiers colons européens<sup>14</sup>. Il est possible, mais ce n'est qu'une hypothèse, que des chasseurs-cueilleurs qui auraient avancé dans le temps jusqu'à aujourd'hui meurent au bout de quelques jours des suites d'une maladie ne causant chez nous que des rhumes et des maux de gorge. CCONTINUER SUR LES ZOONOSES ET LE COVID
+La néolithisation voit apparaître les premières épidémies. La concentration animale (humaine et non humaine) dans les "complexes de la domus"<sup>13</sup> crée des conditions favorables aux conflits entre les bactéries et virus avec les systèmes immunaitaires à échelle inter-espèces. Ces conflits entraînent une escalade et une mutation des virus et des bactéries, forcées de s'adapter aux corps qui se renforcent eux aussi en moyenne. Les agents pathogènes deviennent alors de plus en plus puissants et destructeurs pour les corps qui ne se sont pas habitués à leur présence. En témoigne le choc viral causant une hécatombe chez les populations amérindiennes suite à l'arrivée des premiers colons européens<sup>14</sup>. Il est possible, mais ce n'est qu'une hypothèse, que des chasseurs-cueilleurs qui auraient avancé dans le temps jusqu'à aujourd'hui meurent au bout de quelques jours des suites d'une maladie ne causant chez nous que des rhumes et des maux de gorge. La cohabitation inter-espèces due à la domestication notamment des animaux est la source de nombreuses zoonoses [des maladies qui passent d'un espèce à un autre]. Ainsi, la grippe aviaire, la grippe espagnole<sup>15</sup>, la peste porcine ou encore probablement le Covid sont des zoonoses, et leur dangerosité ne fait qu'augmenter<sup>16</sup>.
 
-Voir le reste des arguments sanitaires sur l'autre onglet
+Le mode de vie civilisé a causé d'autres troubles comme le diabète, notamment le diabète de type 2, le plus répandu. Celui-ci trouve différentes causes comme la consommation de sucre ou le pain blanc, créant des fortes montées d'insuline auxquels nos corps ne sont pas adaptés. L'absence de jeûne crée aussi des conditions favorables au développement du diabète. Le fait de faire moins d'exercice rend l'insuline moins efficace, et les muscles n'absorbent plus autant le glucose. L'obésité est elle aussi un facteur de diablète en tant que la graisse abdominale crée une résistance à l'insuline. Et ce mode de vie se répercute dans l'épigénétique, c'est-à-dire sur les générations suivantes. Par ailleurs, lorsqu'une population se sédentarise, on observe généralement une épidémie de diabète et/ou d'obésité, par exemple chez les Aborigènes australien.nes ou les Polynésien.nes<sup>17</sup>.
+
+D'autres maux sanitaires trouvent leur origine ou leur explosion quand une population entre dans un mode de vie civilisé. Nous ne les avons pas tous développés, mais nous pouvons brièvement évoquer une suite de troubles : l'hypertenstion artérielle, les AVC, la maladie de Crohn<sup>18</sup>, la sclérose en plaque<sup>19</sup>, la plupart des cancers, l'asthme, les allergies, etc.
+
+Tous ces proablèmes de santé liés au processus de civilisation sont dûs à l'"incompatibilité évolutive" (Daniel E. Lieberman) ou au "désalignement évolutif" (Christopher Ryan) entre notre génétique paléolithique avec les villes, les supermarchés, les écrans, l'agriculture, la sédentarité.
+
+#### Conséquences psychiques et sociales dues à l'environnement dans lequel Homo Sapiens évolue
+
+Le début de la sédentarisation voit l'apparition d'un environnement nouveau pour Homo Sapiens. Champs, forêts rasées, densité de batiments, densité de congénères et d'autres animaux, enfermement (dans les maisons si ce n'est dans les prisons), etc. ; et plus récemment : usines, grisaille, lumières artificielles, écrans, moteurs, etc. Ce contexte n'est, lui non plus, pas adapté à la génétique humaine et à ses sociétés.
+
+La métropole, notamment, est l'expression paradigmatique [typique d'une approche intellectuelle, d'un système de pensée] de cette réalité. Desmond Morris le décrit bien dans _Le zoo humain_. En effet, il met en avant le fait que l'environnement artificiel au sein duquel évolue Homo Sapiens perturbe ses instincts naturels tout comme pour les animaux non humains enfermés dans des zoos, avec pour conséquences de provoquer des comportements au mieux étranges et au pire criminels.
+
+Le rythme de la vie urbaine, par exemple, crée du stress de manière plus ou moins intense en fonction des individus et des autres nuisances auxquelles ils font face. La surcharge cognitive, la surstimulation sensorielle en sont aussi des causes importantes. Ce stress peut s'envenimer en agressivité ou causer des dépressions. La pression de la charge de travail, des échéances de rendus de dossier, de la pression par la hiérarchie 
+
+
 
 guerre, ctxt propice à l'escalade armée, homicides de masse, guerres organisées, l'Etat fait la guerre et la guerre fait l'Etat, parler de guerre dans les constats?
 
-#### Conséquences psychiques et sociales dûes à l'environnement dans lequel Homo Sapiens évolue
-
 ### Comment le système rend acceptable cet état de fait 
 
-ignorance déjà hein, activités de substitution, culture libérale/happycratie
+ignorance déjà hein (récit dominant sous-jacent Ishmael), mythologies, activités de substitution, culture libérale/happycratie
 
 ### Notre proposition authentique et antilibérale
 
@@ -80,4 +92,20 @@ lire nos textes
 <sup>13</sup> : Ibid.
 
 <sup>14</sup> : https://www.sciencedirect.com/science/article/pii/S0277379118307261?via%3Dihub
+
+<sup>15</sup> : https://www.persee.fr/doc/etnor_0014-2158_2007_num_56_1_1664
+
+<sup>16</sup> : https://www.futura-sciences.com/sante/actualites/pandemie-ere-pandemies-ne-fait-elle-commencer-80160/
+
+<sup>17</sup> : _L'Histoire du corps humain_, Daniel E. Lieberman
+
+<sup>18</sup> : https://www.gastrojournal.org/article/S0016-5085(04)00462-7/fulltext
+
+<sup>19</sup> : https://www.ameli.fr/assure/sante/themes/sclerose-en-plaques/comprendre-sclerose-plaques ; https://www.vidal.fr/maladies/systeme-nerveux/sclerose-plaques-sep/causes.html ; https://www.sciencesetavenir.fr/archeo-paleo/anthropologie/comment-est-apparue-la-sclerose-en-plaques-une-etude-d-ampleur-retrace-les-origines-de-cette-maladie_176003
+
+
+
+
+
+
 
