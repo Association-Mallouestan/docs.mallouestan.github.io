@@ -46,7 +46,25 @@ Le début de la sédentarisation voit l'apparition d'un environnement nouveau po
 
 La métropole, notamment, est l'expression paradigmatique [typique d'une approche intellectuelle, d'un système de pensée] de cette réalité. Desmond Morris le décrit bien dans _Le zoo humain_. En effet, il met en avant le fait que l'environnement artificiel au sein duquel évolue Homo Sapiens perturbe ses instincts naturels tout comme pour les animaux non humains enfermés dans des zoos, avec pour conséquences de provoquer des comportements au mieux étranges et au pire criminels.
 
-Le rythme de la vie urbaine, par exemple, crée du stress de manière plus ou moins intense en fonction des individus et des autres nuisances auxquelles ils font face. La surcharge cognitive, la surstimulation sensorielle en sont aussi des causes importantes. Ce stress peut s'envenimer en agressivité ou causer des dépressions. La pression de la charge de travail, des échéances de rendus de dossier, de la pression par la hiérarchie 
+Le rythme de la vie urbaine, par exemple, crée du stress de manière plus ou moins intense en fonction des individus et des autres nuisances auxquelles ils font face. La surcharge cognitive, la surstimulation sensorielle en sont aussi des causes importantes. Ce stress peut s'envenimer en agressivité ou causer des dépressions. La pression de la charge de travail, des échéances de rendus de dossier, de la pression par la hiérarchie pour certain.es, de l'obligation de se lever tôt, de prendre le métro, d'arriver à l'usine ou à la gare routière (pour conduire ou faire le ménage) pour les autres, tous ces travaux typiques de la vie urbaine sont nocifs pour a minima le système nerveux. La lumière blanche dans les magasins, les bruits, les écrans causent des insomnies et des troubles du sommeil, favorisant la dépression.
+
+Les codes de la vie urbaine frustrent eux aussi les instincts humains. Dans la rue, peu de gens oserait se mettre à courir, comme ça, juste pour le kiff, ou à monter sur les bancs et les poteaux, excepté quand on a le passing de l'artiste ou de l'athlète. La curiosité, l'étonnement et la réactivité esthétique [au sens strict, ce qui touche les sens] font assez peu partie du quotidien des urbain.es : un concert se donne devant mes yeux dans la rue ? Je passe mon chemin. Une personne se fait agresser dans le métro ? Pas mon problème. Une affiche publicitaire géante sur un building ? Déjà vu à la télé. Une nouvel œuvre de street art dans mon quartier ? Un phénomène de mode. En quelques sortes, le citadin est "blasé" (_Les grandes villes et la vie de l'esprit_, Georg Simmel, 1903), du fait de la quantité d'informations continuelles que ne peut tout simplement pas supporter le cerveau, créant une résistance à l'attention. On ne sourit plus aux autres, on ne les regarde pas, même si on n'est que deux dans la rue, et on est finalement seul.e dans la foule.
+
+L'isolement social est, d'ailleurs, un phénomène étrange et triste de la vie urbaine. Comment les espaces où la population est la plus dense pourrait, en effet, permettre de l'isolement ? C'est pourtant un fait avéré, chez les personnes âgées, handicapées, migrantes, autant que chez les jeunes adultes pourtant hors de ces catégories<sup>20</sup>, et il cause lui aussi des dépressions et du mal-être individuel, tout autant que politique et communautaire ; les gens n'étant pas facilement à même de s'organiser localement. 
+
+Microapartment, one room mansion Tokyo, pas de prise sur nos logements étoussa, pas simple d'aller dehors faire ses bails, y a des parcs mais interdit de faire ougabounga...
+
+(continuer sur isolement, pbs psy, mal-être des relations sociales telles qu'organisées en ville; hiérarchie, injustice de la vie en ville / cité / empire, réseaux, dépendance, relation polis/campagne, donc centre/périphérie exploitée, ajd avec des esclaves, et dc guerres comme phénomène nécessaire à la civilisation étoussa)
+
+théorie des groupes sociaux de Georg Simmel, dissolution des relations sociales et injonctions contradictoires.
+
+dépendance accrue (pas unique) des urbaine.es à des réseaux d'alimentation, à un tas d'infrastructure là pour elleux (ascenseur, ...) et peu d'emprise dessus (choix alimentaire, aménagement du logement), et finalement dépendance accrue au système tel un animal domestique envers son maître.
+
+Organisation sociale de la civilisation 
+Obligation matérielle, ne peut pas être autre que hiérarchisé (car demande a minima élite scientifique sur main d'oeuvre, le communisme à tel échelle n'existe pas, cf l'échec des SCOP). Division du travail, gens font de la politique, de l'urbanisme étoussa, d'autres travaillent, etc. et hiérarchie du coup, détachement de la politique. 
+
+guerre, ctxt propice à l'escalade armée, homicides de masse, guerres organisées, l'Etat fait la guerre et la guerre fait l'Etat, parler de guerre dans les constats?
+
 
 
 
@@ -102,6 +120,8 @@ lire nos textes
 <sup>18</sup> : https://www.gastrojournal.org/article/S0016-5085(04)00462-7/fulltext
 
 <sup>19</sup> : https://www.ameli.fr/assure/sante/themes/sclerose-en-plaques/comprendre-sclerose-plaques ; https://www.vidal.fr/maladies/systeme-nerveux/sclerose-plaques-sep/causes.html ; https://www.sciencesetavenir.fr/archeo-paleo/anthropologie/comment-est-apparue-la-sclerose-en-plaques-une-etude-d-ampleur-retrace-les-origines-de-cette-maladie_176003
+
+<sup>20</sup> : https://www.sciencedirect.com/science/article/pii/S2666558123000453 ; https://www.weforum.org/stories/2022/01/lonely-study-green-space-city/
 
 
 
