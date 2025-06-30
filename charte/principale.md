@@ -78,6 +78,7 @@ Il y a trois rôles sur le lieu :
 1. Visiteuse•eur
 2. Résident•e
 3. Arrimé•e
+4. Résident•e non-autonome
 
 Ci dessous les responsabilités et droits des visiteurs, pour l'ensemble des rôles c'est dans l'annexe [Annexe: responsabilités et droits des différents rôles](./annexe--responsabilites-droits).
 
