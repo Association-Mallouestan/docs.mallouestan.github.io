@@ -60,7 +60,7 @@ Le phénomène urbain dissout les relations sociales et constitue un choc pour l
 
 Dans le cas des sociétés paysannes, les cerlces sociaux sont organisés majoritairement de manière concentrique autour d'égo [en anthropologie, l'individu pris comme référence pour étudier des relations], c'est-à-dire que la famille, les amis, les voisin.es, la communauté religieuse, les collègues, etc., forment des groupes imbriqués les uns dans les autres comme des poupées russes. Les normes qui s'appliquent au groupe le plus large s'appliquent aussi aux plus petits groupes, tout le monde partage un grand socle commun de règles et elles entrent rarement en conflit, surtout sur des questions fondamentales.
 
-![Illustration des cercles sociaux urbains par Georg Simmel](../ressources/cerlces-sociaux-simmel-2.jpg)
+![Illustration des cercles sociaux urbains par Georg Simmel](../ressources/cerlces-sociaux-Simmel-2.jpg)
 
 (continuer sur isolement, pbs psy, mal-être des relations sociales telles qu'organisées en ville; hiérarchie, injustice de la vie en ville / cité / empire, réseaux, dépendance, relation polis/campagne, donc centre/périphérie exploitée, ajd avec des esclaves, et dc guerres comme phénomène nécessaire à la civilisation étoussa)
 
