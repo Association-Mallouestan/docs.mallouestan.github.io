@@ -1,7 +1,21 @@
+---
+title: Les questions du genre
+date: 2025-02-05 00:00:00
+tags:
+  - vision
+  - specifique
+image: '/images/ressources/licorne.jpg'
+author: mallouestan
+message:
+  content: C'est tout nouveau
+  icon: flame
+  color: 218380
+---
 
 ## Les questions autour du genre
 
 ### Pourquoi écrire ce texte?
+
 Ce texte fait partie d'une série de textes répondant à des sujets spécifiques. Effectivement, à travers des échanges sur le lieu nous abordons de nombreux sujets et notamment ceux liés aux injustices et dominations sociales. La question du genre apparaît donc incontournable dans ce contexte. Ces échanges ont rarement la capacité d'être à la hauteur de la complexité des sujets. Ils ont tendance à s'éterniser sur les désaccords et ces derniers, à leur tour, écrasent souvent les points d'analyse partagés par les différent•es interlocuteur•ices 
 
 Ce texte cherche donc à expliciter les fondements de notre vision de la question du genre. Il a plusieurs raisons d'être. Il cherche à rendre accessibles et claires nos positions, dans une optique de partage et de transmission, mais également dans une optique de remise en question et de critique permanente. Effectivement, le collectif valorise les échanges se voulant constructifs avec comme objectif de questionner nos positions. Notre vision et idées rendues accessibles par ce texte sont également rendues abordables et critiquables.
@@ -28,7 +42,7 @@ Dans cette approche binaire, la manifestation physique du sexe biologique est vu
 #### L'approche libérale
 La binarité des genres est un concept essentiel pour aborder notre première approche, que nous allons décrire comme libérale. C'est une vision très répandue dans les milieux militants et queers. Le genre, dans cette approche, est avant tout un ressenti (identitaire, profond, sentimental, d'un rôle social vécu ou désiré, etc). Quel que soit ce ressenti, il est considéré comme valide ou vrai, du moment qu'il concerne les comportements que la binarité des genres encadre [des pratiques ou des attitudes genrées]. Autrement dit, le genre est détaché de tout attribut physique : il ne dépend plus du corps des individu•es ou de leur biologie, mais d'un ressenti. L'approche libérale valorise donc ce ressenti individuel, qui ne doit pas être, selon cette approche, limité par un cadre binaire arbitraire. Vu ainsi, être femme ou homme veut dire se sentir femme ou homme. Plus généralement, être de tel ou tel genre veut dire se ressentir de ce genre. Cette vision défend la possibilité de ne pas se ressentir représenté•e ni par les genres femme ou homme, et ainsi d'être non-binaire ou par d'autres genres et rapports à ces genres.
 
-![Illustration licorne du genre](../ressources/licorne.jpg)
+![Illustration licorne du genre](/images/ressources/licorne.jpg)
 
 > Ci-dessus "La licorne du genre" régulièrement utilisée pour illustrer l'approche libérale
 
