@@ -54,17 +54,18 @@ Les codes de la vie urbaine en plus des infrastructures frustrent les instincts 
 
 L'isolement social est, d'ailleurs, un phénomène étrange et triste de la vie urbaine. Comment les espaces où la population est la plus dense pourrait, en effet, permettre de l'isolement ? C'est pourtant un fait avéré, chez les personnes âgées, handicapées, migrantes, autant que chez les jeunes adultes situé.es hors de ces catégories<sup>21</sup>, et il cause lui aussi des dépressions et du mal-être individuel, tout autant que politique et communautaire ; les gens n'étant pas facilement à même de s'organiser localement.
 
-Le phénomène urbain dissout les relations sociales et constitue un choc pour les néo-urbain.es, mais il constitue aussi une anomalie des relations sociales à l'échelle de l'humanité. Encore une fois, Goeorg Simmel (_Sociologie, étude sur les formes de la socialisation_, 1908) est lumineux sur cette question. Il est témoin de grands boulversements sociaux liés à l'urbanisation de l'Allemagne et de l'Europe en général, et voit comment les "cercles sociaux" se structurent en ville en comparaison avec les structurations des groupes sociaux dans les campagnes.
+Le phénomène urbain dissout les relations sociales et constitue un choc pour les néo-urbain.es, mais il constitue aussi une anomalie des relations sociales à l'échelle de l'humanité. Encore une fois, Goeorg Simmel (_Sociologie, étude sur les formes de la socialisation_, 1908) est lumineux sur cette question. Il est témoin de grands boulversements sociaux liés à l'urbanisation de l'Allemagne et de l'Europe en général, et voit comment les "cercles sociaux" se structurent en ville en comparaison avec les structurations des groupes sociaux dans les campagnes. Deux schémas très simplifiés peuvent exemplifier cette idée, sachant qu'ils n'expriment que des tendances générales et qu'ils peuvent s'articuler partiellement.
 
 ![Illustration cercles sociaux paysans par Georg Simmel](../ressources/cercles-sociaux-Simmel-1.jpg)
 
-Dans le cas des sociétés paysannes, les cerlces sociaux sont organisés majoritairement de manière concentrique autour d'égo [en anthropologie, l'individu pris comme référence pour étudier des relations], c'est-à-dire que la famille, les amis, les voisin.es, la communauté religieuse, les collègues, etc., forment des groupes imbriqués les uns dans les autres comme des poupées russes. Les normes qui s'appliquent au groupe le plus large s'appliquent aussi aux plus petits groupes, tout le monde partage un grand socle commun de règles et elles entrent rarement en conflit, surtout sur des questions fondamentales.
+Dans le cas des sociétés paysannes, les cerlces sociaux sont organisés majoritairement de manière concentrique autour d'égo [en anthropologie, l'individu pris comme référence pour étudier des relations], c'est-à-dire que la famille, les amis, les voisin.es, la communauté religieuse, les collègues, etc., forment des groupes imbriqués les uns dans les autres comme des poupées russes. Chaque cercle constitue aussi un ensemble de normes, et celles qui s'appliquent au groupe le plus large s'appliquent aussi aux plus petits groupes. Tout le monde partage alors un grand socle commun de règles et elles entrent rarement en conflit, surtout sur des questions fondamentales.
 
 ![Illustration des cercles sociaux urbains par Georg Simmel](../ressources/cercles-sociaux-Simmel-2.jpg)
 
-(continuer sur isolement, pbs psy, mal-être des relations sociales telles qu'organisées en ville; hiérarchie, injustice de la vie en ville / cité / empire, réseaux, dépendance, relation polis/campagne, donc centre/périphérie exploitée, ajd avec des esclaves, et dc guerres comme phénomène nécessaire à la civilisation étoussa)
+Dans le mode de vie urbain, les cercles sociaux sont différemment agencés, n'étant plus concentriques mais enchevêtrés autour d'égo. Le cadre familial ne correspond pas à celui des collègues. Le groupes de fans du club de football local ne se recoupe pas avec celui des voisin.es. Chaque cercle comprenant des normes différentes, l'individu<sup>22</sup> se trouve alors pris dans des injonctions contradictoires. L'attente de la part de la famille d'être à table à l'heure du repas, d'un autre côté l'obligation de rendre des dossiers importants, de faire ses devoirs ou de boire un verre avec les ami.es. Les règles ne sont pas les mêmes partout, et quand des accomodations ne sont pas trouvées, on se retrouve alors à mentir, à ne pas obéir aux règles. Ces injonctions contradictoires sont alors source de mal-être, de rupture de liens sociaux et donc de vulnérabilité.
 
-théorie des groupes sociaux de Georg Simmel, dissolution des relations sociales et injonctions contradictoires.
+
+(continuer sur isolement, pbs psy, mal-être des relations sociales telles qu'organisées en ville; hiérarchie, injustice de la vie en ville / cité / empire, réseaux, dépendance, relation polis/campagne, donc centre/périphérie exploitée, ajd avec des esclaves, et dc guerres comme phénomène nécessaire à la civilisation étoussa)
 
 dépendance accrue (pas unique) des urbaine.es à des réseaux d'alimentation, à un tas d'infrastructure là pour elleux (ascenseur, ...) et peu d'emprise dessus (choix alimentaire, aménagement du logement), et finalement dépendance accrue au système tel un animal domestique envers son maître.
 
@@ -132,6 +133,8 @@ lire nos textes
 <sup>20</sup> : https://www.3darchidesigner.com/archidesignerjp/the-japanese-home/jp-home_009/
 
 <sup>21</sup> : https://www.sciencedirect.com/science/article/pii/S2666558123000453 ; https://www.weforum.org/stories/2022/01/lonely-study-green-space-city/
+
+<sup>22</sup> : L'autre conséquence de cette théorie des cerlces sociaux selon Simmel, c'est que l'agencement des cercles dans un cadre urbain est l'une des sources du phénomène d'"individuation", c'est-à-dire de l'apparition de la figure de l'individu, chose relativement inédite dans des sociétés où le groupe était auparavant pris comme la base pour penser les sociétés et pour se penser en tant qu'individu. En effet, en ville, le type, le nombre et la taille des cerles sociaux varie d'un individu à un autre --chacun.e étant le résultat d'une combinaison de croisements quasiment unique. Parler de soi en tant qu'individu n'était pas une évidence dans les sociétés paysannes, et concevoir l'autre comme un individu non plus.
 
 
 
