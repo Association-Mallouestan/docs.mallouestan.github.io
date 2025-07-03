@@ -1,4 +1,19 @@
-> [Accueil](../../) > [Portail philosophique](../) > Risques et périls
+---
+date: 2025-05-24 2:00:00
+title: Risques et périls
+description: >-
+  Présentation de notre vision des risques et périls 
+tags:
+  - fondamentaux
+  - vision
+image: /images/ressources/pollution.jpg
+author: mallouestan
+
+message:
+  content: C'est tout nouveau
+  icon: flame
+  color: 218380
+---
 
 # Risques et périls
 

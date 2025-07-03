@@ -15,10 +15,10 @@ Pour mieux comprendre notre vision, nous avons rédigé différents textes, acce
 Ces objectifs dépassent donc les intérêts premiers des membres du collectif. Les activités, actions et efforts du Mallouestan à leur égard sont portés par l’**association loi 1901** du même nom, qui constitue l’organe public et de mécénat regroupant le collectif et d’autres adhérent·e·s partageant les mêmes valeurs.
 
 Pour mieux comprendre notre vision de ces objectifs, **quatre textes** ont été écrits :
-- **[La recherche](./objectifs/recherche.md)**
-- **[Partage et transmission](./objectifs/transmission.md)**
-- **[Solidarité](./objectifs/solidarite.md)**
-- **[Autonomie](./objectifs/autonomie.md)**
+- **[La recherche](/r/philosophie-objectifs-recherche)**
+- **[Partage et transmission](/r/philosophie-objectifs-transmission)**
+- **[Solidarité](/r/philosophie-objectifs-solidarite)**
+- **[Autonomie](/r/philosophie-objectifs-autonomie)**
 
 
 ## **Notre cadre éthique**
@@ -26,11 +26,11 @@ Pour mieux comprendre notre vision de ces objectifs, **quatre textes** ont été
 Les actions du collectif, qu’elles découlent de ses objectifs ou simplement de la vie quotidienne, sont soumises à un **cadre éthique**. Sa création, son exploration et son expérimentation sont au cœur de notre quotidien.
 
 Ce cadre repose sur **trois couches principales**, devant être respectées pour qu’une action, quelle qu’elle soit, soit considérée comme souhaitable ou non. Ces trois couches, ainsi que les textes qui expliquent plus amplement notre vision, sont les suivantes, par ordre d’importance :
-1. **[Écocentrisme végan opposé à la domestication](./cadre/ethique-environnementale.md)**
-2. **[Anti-libéralisme](./cadre/liberalisme.md)**
-3. **[Anarcho-communisme](./cadre/anarchisme.md)**
+1. **[Écocentrisme végan opposé à la domestication](/r/philosophie-cadre-ethique-environnementale)**
+2. **[Anti-libéralisme](/r/philosophie-cadre-antiliberalisme)**
+3. **[Anarcho-communisme](/404)**
 
-Ce cadre éthique s'appuie sur un rapport au monde matérialiste explicité dans le texte **[sur notre rapport ontologique au monde](./cadre/metaphysique.md)**.
+Ce cadre éthique s'appuie sur un rapport au monde matérialiste explicité dans le texte **[sur notre rapport ontologique au monde](/r/philosophie-cadre-meta-physique)**.
 
 De nombreux textes détaillent d’autres objectifs et cadres éthiques chers au collectif. Ces aspects découlent des points mentionnés ci-dessus. Nous encourageons donc toute personne cherchant à comprendre nos fondements et nos raisons d’être à lire les textes listés ci-dessus.
 
@@ -40,26 +40,26 @@ Les sections suivantes permettront d’approfondir ces compréhensions.
 
 Découlant respectivement de nos objectifs de recherche et d’autonomie, nous avons également les objectifs suivants :
 
-- **[Créer des espaces de discussion sans tabou ni dogmatisme](./objectifs/sans-taboo-dogme.md)**, qui prennent plusieurs formes détaillées dans un texte associé.
-- **[Créer un lieu de vie et un mode de vie viable et enviable](./objectifs/vie-enviable.md)**, mêlant richesse de vie, satisfaction, moments culturels et temps d’oisiveté, tant que cela ne se fait pas au détriment des autres ou des conditions d’habitabilité de notre planète.
+- **[Créer des espaces de discussion sans tabou ni dogmatisme](/404)**, qui prennent plusieurs formes détaillées dans un texte associé.
+- **[Créer un lieu de vie et un mode de vie viable et enviable](/404)**, mêlant richesse de vie, satisfaction, moments culturels et temps d’oisiveté, tant que cela ne se fait pas au détriment des autres ou des conditions d’habitabilité de notre planète.
 
 Découlant de notre vision éthique, plusieurs sujets ont été abordés dans les textes suivants :
 
-- **[La vision de la liberté et du travail](./cadre/travail-liberte.md)**, notamment dans notre approche anti-libérale et notre conception de la délégation de l’effort nécessaire à notre subsistance (travail).
-- **[La vision de la condition humaine](./cadre/condition-humaine.md)**, qui explicite notre analyse de différentes réalités de notre existence dans le monde moderne.
-- **[Notre approche des risque et périls](./cadre/risques-perils.md)**, qui n'est ni collapsologique ni survivaliste mais qui admet différents dangers collectifs externes que nous devons prendre en compte.
-- **[Notre position anti-tech](./cadre/anti-tech.md)**, découlant de notre vision écocentriste et sociale.
-- **[La culture et sa place dans nos vies](./cadre/vie-culturel.md)**, en lien avec notre vision du libéralisme et de l’anarcho-communisme.
+- **[La vision de la liberté et du travail](/r/travail-liberte)**, notamment dans notre approche anti-libérale et notre conception de la délégation de l’effort nécessaire à notre subsistance (travail).
+- **[La vision de la condition humaine](/r/philosophie-cadre-condition-humaine)**, qui explicite notre analyse de différentes réalités de notre existence dans le monde moderne.
+- **[Notre approche des risque et périls](/r/philosophie-cadre-risques-perils)**, qui n'est ni collapsologique ni survivaliste mais qui admet différents dangers collectifs externes que nous devons prendre en compte.
+- **[Notre position anti-tech](/r/philosophie-specifiques-anti-tech.md)**, découlant de notre vision écocentriste et sociale.
+- **[La culture et sa place dans nos vies](/r/philosophie-cadre-vie-culturel)**, en lien avec notre vision du libéralisme et de l’anarcho-communisme.
   
 ## **Sujets plus spécifiques**
 
 Nous avons aussi rédigé des textes sur des sujets souvent abordés par les visiteur·euse·s. Voici ceux que nous recommandons, dans cet ordre :
 
-- **[Notre positionnement politique global](./specifiques/echiquier.md)**, clarifiée pour plus de transparence.
-- **[Le confort](./specifiques/confort.md)**, en lien avec notre opposition au libéralisme.
-- **[La limitation de la liberté individuelle sur le lieu](./specifiques/consommation.md)**, notamment l’interdiction des drogues, de la nourriture ultra-transformée et d’autres pratiques.
-- **[La sexualité](./specifiques/sexualite.md)**, expliquée dans un texte spécifique.
-- **[Le genre](./specifiques/genre.md)**, selon notre approche anti-libérale.
-- **[Notre vision du militantisme actuel](./specifiques/militantisme.md)**, et pourquoi nous privilégions le travail au sein du collectif et sur le lieu plutôt que sur « le front ».
-- **[Les industries médiatiques](./specifiques/media-industrie.md)**, en lien avec notre position contre la technologie.
-- **[Les sanctuaires antispécistes](./specifiques/sanctuaires.md)**, et pourquoi nous avons reconnu leur mise en place comme une erreur stratégique et politique.
+- **[Notre positionnement politique global](/r/philosophie-specifiques-echiquier)**, clarifiée pour plus de transparence.
+- **[Le confort](/r/philosophie-specifiques-confort)**, en lien avec notre opposition au libéralisme.
+- **[La limitation de la liberté individuelle sur le lieu](/r/philosophie-specifiques-consommation)**, notamment l’interdiction des drogues, de la nourriture ultra-transformée et d’autres pratiques.
+- **[La sexualité](/r/philosophie-specifiques-sexualite)**, expliquée dans un texte spécifique.
+- **[Le genre](/r/philosophie-specifiques-genre)**, selon notre approche anti-libérale.
+- **[Notre vision du militantisme actuel](/r/philosophie-specifiques-militantisme)**, et pourquoi nous privilégions le travail au sein du collectif et sur le lieu plutôt que sur « le front ».
+- **[Les industries médiatiques](/r/philosophie-specifiques-media-industrie)**, en lien avec notre position contre la technologie.
+- **[Les sanctuaires antispécistes](/r/philosophie-specifiques-sanctuaires)**, et pourquoi nous avons reconnu leur mise en place comme une erreur stratégique et politique.
