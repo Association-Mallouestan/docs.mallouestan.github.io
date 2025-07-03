@@ -56,7 +56,7 @@ L'isolement social est, d'ailleurs, un phénomène étrange et triste de la vie 
 
 Le phénomène urbain dissout les relations sociales et constitue un choc pour les néo-urbain.es, mais il constitue aussi une anomalie des relations sociales à l'échelle de l'humanité. Encore une fois, Goeorg Simmel (_Sociologie, étude sur les formes de la socialisation_, 1908) est lumineux sur cette question. Il est témoin de grands boulversements sociaux liés à l'urbanisation de l'Allemagne et de l'Europe en général, et voit comment les "cercles sociaux" se structurent en ville en comparaison avec les structurations des groupes sociaux dans les campagnes.
 
-![Illustration cercles sociaux paysans par Georg Simmel](../ressources/groupes-sociaux-simmel.jpg)
+![Illustration cercles sociaux paysans par Georg Simmel](../ressources/cercles-sociaux-Simmel-1.jpg)
 
 Dans le cas des sociétés paysannes, les cerlces sociaux sont organisés majoritairement de manière concentrique autour d'égo [en anthropologie, l'individu pris comme référence pour étudier des relations], c'est-à-dire que la famille, les amis, les voisin.es, la communauté religieuse, les collègues, etc., forment des groupes imbriqués les uns dans les autres comme des poupées russes. Les normes qui s'appliquent au groupe le plus large s'appliquent aussi aux plus petits groupes, tout le monde partage un grand socle commun de règles et elles entrent rarement en conflit, surtout sur des questions fondamentales.
 
