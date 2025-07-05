@@ -1,4 +1,12 @@
-> [Accueil](../../) > [Portail philosophique](../) > Texte sur les medias et industries
+---
+title: Medias
+date: 2024-10-05 00:00:00
+tags:
+  - vision
+  - specifique
+image: '/images/ressources/sanctuaire.jpg'
+author: mallouestan
+---
 
 ## Réponse concernant la musique, les vidéos/cinéma, et les réseaux sociaux
 

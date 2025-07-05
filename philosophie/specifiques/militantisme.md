@@ -1,4 +1,12 @@
-> [Accueil](../../) > [Portail philosophique](../) > Texte sur le militantisme
+---
+title: Militantisme
+date: 2024-10-05 00:00:00
+tags:
+  - vision
+  - specifique
+image: '/images/ressources/sanctuaire.jpg'
+author: mallouestan
+---
 
 ## Le militantisme
 
