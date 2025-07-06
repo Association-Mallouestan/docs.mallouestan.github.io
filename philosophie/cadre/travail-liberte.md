@@ -52,28 +52,27 @@ Prenons un exemple : imaginons une communauté qui définit l'effort en maraîch
 
 Cela ne veut pas dire pour autant qu'il n'y a pas différents types de travail ou que le travail ne peut pas être quelque chose de subi. Au contraire, dans la société capitaliste, où le travail est reconnu souvent au travers du salaire, soit des trimestres cotisés à la retraite par exemple en France, nous sommes bien dans un rapport autoritaire. Effectivement, à l'échelle locale ou même nationale, ce qui est considéré comme du travail n'est pas choisi démocratiquement. Il y a évidemment l'esclavage, qui est tout à fait compatible avec notre définition mais qui, pour autant, n'est pas souhaitable. _André Gorz distinguait <sup>10</sup>_ ```10. Voir Métamorphoses du travail de André Gorz``` les _activités autonomes_ (choisies, créatives, épanouissantes) du _travail hétéronome_ (imposé, répétitif, aliénant). Il estimait que la société devait faire évoluer son système de valeurs en faveur des premières. Dans notre cas, nous faisons cette distinction entre **travail autonome** et **travail hétéronome**. Effectivement, la définition ci-dessus ne cherche pas à exclure les configurations où le travail ainsi que les rapports le sous-tendant ne sont pas souhaitable, mais à fournir une base solide pour les différentes analyses et réflexions nécessitant le travail.
 
+## Différentes approches de la liberté ?
 
+La liberté telle que nous l’envisageons aujourd’hui, et qui nous semble évidente, est une conception assez récente. Cette vision de la liberté est souvent appelée la liberté des modernes, ainsi nommée par le penseur libéral Benjamin Constant. Constant oppose la liberté des modernes à celle qu’il nomme la liberté des Anciens.
 
----
+Dans la vision dite « des modernes », la liberté réside dans le fait de pouvoir « faire ce que l’on veut ». C’est donc une liberté nécessairement individuelle : ce que veulent les autres, leurs besoins et leurs demandes, paraît contraire au pouvoir d’agir individuel. L’expression selon laquelle « la liberté se termine là où commence celle d’autrui » est individuelle et négative. La société et la vie en collectif sont perçues comme des cadres contraignants, par leurs règles et par leurs normes : la présence des autres empiète sur la liberté individuelle.
 
----
+Les modernes cherchent à diminuer le poids des règles sociales, car, selon eux, elles pèsent négativement sur les échanges sociaux. Réduire au minimum le nombre des obligations individuelles permettrait à une société de mieux fonctionner, par exemple en diminuant les impôts pour que le don soit un « choix » rationnel, ou en favorisant la concurrence pour faire émerger les meilleurs produits à consommer, sans imposer un modèle a priori. De la même façon, les individus seraient plus « libres » si personne ne leur prescrivait une manière d’être à l’intérieur de leur logement privé individuel, car dans cet espace, chacun mène sa vie selon ses désirs.
 
-## Quels sont les différentes approches de la liberté ?
+Recevoir un salaire et le dépenser selon sa propre volonté constitue une part importante de la liberté des modernes : la monnaie permet d’abstraire les dépendances sociales et d’éviter d’avoir à entretenir de bonnes relations avec un·e commerçant·e, par exemple, puisqu’on peut facilement aller voir la concurrence. Le fait de déléguer le travail, dans la vision des modernes, nous permettrait d’augmenter notre liberté.
 
-La liberté des modernes est une manière récente de définir la liberté. Dans la vision dite "des modernes", la liberté résiderait dans le fait de pouvoir "faire ce que l'on veut". C'est donc une liberté nécessairement individuelle : ce que veulent les autres, leurs besoins et leurs demandes, paraît contraire au pouvoir d'agir individuel. L'expression selon laquelle "la liberté se termine là où commence celle d'autrui" est individuelle et négative. La société et la vie en collectif sont perçu.es comme des cadres qui contraignent, par leurs règles et par leurs normes : cela signifie que par la présence des "autres" empiète sur la liberté individuelle. Les modernes cherchent la diminution du poids des règles sociales, car, de leur avis, elles pèsent négativement sur les échanges sociaux. Réduire au minimum le nombre des obligations individuelles permettrait à une société de mieux fonctionner, par exemple en diminuant les impôts pour que le don soit un "choix" rationnel, de favoriser la concurrence pour faire émerger les meilleur.es produits à consommer, sans imposer un modèle a priori. De la même façon, les individu.es seraient plus "libres" si personne ne leur prescrit une manière d'être à l'intérieur de leur logement individuel privé, car dans cet espace chacun.e mène sa vie selon ses désirs. Recevoir un salaire et le dépenser selon sa propre volonté constitue une part importante de la liberté des modernes : la monnaie permet d'abstraire les dépendances sociales, et de ne pas avoir à entretenir de bonnes relations avec un.e commerçant.e, par exemple, puisqu'on peut facilement aller voir chez la concurrence. Le fait de déléguer le travail, **dans la vision des modernes, nous permettrait d'augmenter notre liberté**. 
+Ainsi, la liberté implique d’étendre son pouvoir d’agir pour surmonter les obstacles matériels et naturels. Ce pouvoir, dans la vision moderne, est rendu possible grâce à la technique. C’est grâce à cette dernière que l’on surmonte les contraintes propres à notre existence : manger, dormir, se protéger des catastrophes naturelles et des maladies. C’est au travers de cette stratégie et de la technique que l’individu pourra être délivré d’un maximum de contraintes, lui garantissant une liberté d’agir et la possibilité de bâtir un cadre privé où il peut espérer répondre à tous ses désirs.
 
-Pour définir le concept de liberté, nous nous basons sur le travail d'Aurélien Berlan, que l'on trouve notamment dans son ouvrage /////////// >[footnote : et dans un podcast de Floraisons intitulé Terres et liberté]. Dans le texte qui explique notre [[Anti-libéralisme]], nous expliquons en quoi nous nous écartons de la vision des modernes pour rejoindre la liberté des ancien.nes. 
+C’est notamment cette vision bourgeoise que Marx adopte, malgré son rejet par ailleurs du libéralisme, lorsqu’il appelle à dépasser ce qu’il nomme le règne de la nécessité par le règne de la liberté<sup>11</sup> 11. Voir Terre et Liberté d’Aurélien Berlan
 
-La liberté peut être (re)définie comme atteignable en communauté, et non comme une caractéristique individuelle.
+Cette vision de la liberté est au cœur de la civilisation thermo-industrielle, qu’elle soit capitaliste ou communiste, et elle résonne avec l’idée chrétienne de l’homme condamné à travailler pour subvenir à ses besoins suite à la transgression d’Ève : désormais, « c’est à la sueur de ton visage que tu mangeras du pain ».
 
-La "**liberté des ancien.nes**" peut être définie de la manière suivante : être sans ami.es ou sans famille signifie que l'on ne peut compter sur personne pour être protégé.e. L'esclave est cellui qui est arraché.e à sa famille, à ses ami.es et à son village, afin de lae priver de ce soutien. En ce sens, la liberté n'est réalisable que collectivement. Lorsque l'on appartient à un groupe qui est collectivement autonome, cela signifie que l'on participe à la discussion et à la définition des besoins et des manières d'y répondre, ainsi qu'au travail réel qui doit être fourni pour y répondre (voir notre texte [[une autonomie riche]]). Le fait de s'organiser politiquement et de définir une organisation du travail dont le collectif retire le résultat 
- - n'exclue pas la dépendance (à la nature et aux autres) et permet de ne pas poser inter-dépendance et liberté comme antinomiques
- - contient la possibilité d'échanger de manière _symétrique_ avec d'autres groupes mais sans en dépendre pour sa survie, et sans exploiter d'autres groupes.
+Dans la vision dite « des Anciens », la liberté est collective et positive. Elle est liée à l’idée de vivre ensemble, de prendre soin les un·es des autres, de partager des valeurs communes et de construire une communauté.
 
-Plus un collectif maîtrise la production de ses conditions matérielles, plus sa proximité avec la nature est grande, et plus ce collectif est _collectivement libre_. L'autonomie collective est un type d'organisation sociale du travail, qui contient comme principe la diminution du nombre de dépendances asymétriques, et de rapports de pouvoir. Les individu.es ne peuvent ainsi trouver de liberté qu'en tant qu'iels sont inscrit.es dans un collectif, et non en tant qu'iels exploiteraient beaucoup de personnes pour satisfaire des besoins démesurés. 
+La vision de la liberté qui précède celle des modernes valorisait l’appartenance à une communauté, une famille ou un groupe. C’était une vision dans laquelle on est libre uniquement si l’on appartient à un groupe qui peut nous défendre et, de fait, défendre nos droits. Elle valorisait une approche démocratique directe de la gestion politique de ce groupe. Enfin, elle mettait en avant la notion d’autonomie collective, que nous aborderons à la fin de ce texte.
 
-
-L'autonomie collective existe nécessairement à relativement petite échelle, puisque l'autonomie politique est une manière de prendre des décisions quant aux conditions matérielles du groupe, et donc cela demande un travail de discussion bien plus soutenu que dans la vision des modernes, où la décision politique est déléguée à une classe sociale spécifique. Cette classe politique est la seule à posséder la fonction sociale légitime de débat et de décision, qui se déroule dans des bâtiments précis où certains noms sont inscrits sur les chaises. C'est l'idée que le travail et la liberté seraient antinomiques qui fait apparaître la délégation du pouvoir politique comme désirable. Les réunions et le processus de décision demandent beaucoup de temps, et les énormes sociétés industrielles ont seules une échelle qui permet la production d'un maximum de confort technologique et de maisons individuelles sans collectiviser les équipements. Dans la vision des **modernes**, la propriété privée étant l'espace de liberté par exellence, un système reposant sur l'autonomie collective serait l'opposé de ce qu'iels entendent par "liberté", puisque l'autonomie matérielle signifie qu'une communauté ne délègue pas les tâches de (re)production qui lui sont nécessaires.
+C’est cette vision-là de la liberté que nous souhaitons mettre en avant ici, cohérente avec notre perspective anarcho-communiste (voir notre texte « Anarcho-communisme »), notre matérialisme (voir notre texte « Méta-physique ») et notre antilibéralisme (voir notre texte « Anti-libéralisme »).
 
 ## Le travail et la validité
 
@@ -111,36 +110,6 @@ Il nous semble donc que cette délégation d’efforts doit être au minimum loc
 
 ## Conclusion 
 
-Dans la société productiviste extractiviste néocolonial et patriarcale moderne la délégation d'efors est oppressive et insoutenable. Il faut donc étendre la définition du travail pour inclure toutes les strates de délégation deforts et combiné avec une approche non libérale de la liberté replacer ses notions au centre des questions sociales. Il faut développer une approche du travail inclusive permettant la solidarité auquel nous prétendons. Le travail devient un vecteur d'émancipation à l'égard du capitalisme et deux autres isme qu'il faut rejeter. 
+Nous avons vu dans ce texte à quel point elle est centrale dans l’organisation sociale et la création d’alternatives, qu’elles soient concrètes, comme des communautés intentionnelles, ou fictives, dans l’optique de réfléchir à des idéaux. Le travail est indissociable de la liberté. Ainsi, les deux doivent s’articuler politiquement pour créer un tout cohérent et conforme à nos attentes éthiques. Dans la société productiviste, extractiviste et patriarcale moderne, la délégation des forts est oppressive et insoutenable. L’organisation sociale actuelle du travail crée des conditions aussi toxiques que les rapports sociaux que cette organisation implique. Contrairement au fétichisme anthropocentrique d’un monde abstrait des contraintes de subsistance — ce que Marx appelait le règne de la nécessité — nous avons vu qu’il est essentiel de voir le travail comme souhaitable et comme un vecteur d’émancipation à l’égard de nos ennemis politiques actuels. Nous avons donc, dans cette optique, appelé à prendre conscience que le travail est une question collective et n’a de sens que s’il est abordé de la sorte.
 
-Prenons conscience que le travail est une question collective et n'a que du sens si elle est abordé de la sorte. Au-delà d'une réappropriation des infrastructures de production devenant autonome sur la subsistance au travers d'une autonomie sur le travail.
-
----
-
-## BIBLIOGRAPHIE
-  Carey, Allison C. (2022). _Disability and the Sociological Imagination_, SAGE Publications.
-  Casilli, Antonio A. (2019). _En attendant les robots. Enquête sur le travail du clic_, Paris, Seuil.
-  Coppola de Miranda, A.-C. et Gourgues, G. (2023). Les épouses méritent-elles leur salaire ? Politisation du salaire et assignation de genre dans la Communauté de travail Boimondau (1944-1946) Salariat, 2(1), 49-76. https://doi.org/10.3917/sala.002.0049.
-  
-  Mark, Karl (::::::::::::). Le Capital. ::::::::::::::::::::::::::::::::
-  Petit, Thibault (2022). _Handicap à vendre_, Paris, Les Arènes.
-  
-
-
-
-## SITOGRAPHIE
-https://en.wikipedia.org/wiki/Wages_for_Housework
-https://www.senat.fr/leg/ppl24-127.html
-https://www.maison-travaux.fr/actualites/remuneration-travail-domestique-taches-menageres-inegalites-584467.html
-https://fr.wikipedia.org/wiki/Boimondau
-https://www.editions-lignes.com/MANIFESTE-CONTRE-LE-TRAVAIL.html#:~:text=Dans%20le%20cadre%20de%20cette%20analyse%2C%20le%20Manifeste,%C2%AB%20ressource%20humaine%20%C2%BB%20de%20cette%20auto-reproduction%20infinie.
-
-
----
-
-## NOTES / IDEES
-[BAS] ARRENDT trois formes de travail et le drame dans les sociétés totalitaristes c'est qu'on ne fait plus que _labor_, et non _work_ et _action_.
-- le travail (_labor_) : activités quotidiennes liées à la survie biologique, épémère et cycloique, liées à l'être humain etq animal (cuisiner, cultiver des patates, manger, se reproduire, etc)
-- l'oeuvre (_work_) : conectionner des objets durables (art, outils, ville | statue, panier, construire une maison) = créer un monde artificiel qui donne de la stabilité à l'existence humaine
-- action (_action_) = activité dpolitique (parler, décide ensemble, fonder une cité...)
-
+Nous avons explicité et étayé l’importance d’une liberté collective basée sur l’idée du vivre-ensemble et de l’entraide, et nous appelons à créer des communautés où l’on est libre parce que nous pouvons compter les uns sur les autres. Nous pouvons compter sur les autres même dans les moments de difficulté, lorsque nous-mêmes ne serions pas aptes à participer à l’effort collectif — du moins, pas aussi aptes. Nous avons donc esquissé le besoin d’organiser le travail et la communauté en faisant abstraction de la notion de validité, et en privilégiant celle d’autonomie.
