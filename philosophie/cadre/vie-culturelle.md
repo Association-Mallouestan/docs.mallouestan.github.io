@@ -7,6 +7,18 @@
 
 Dans un contexte de quête d'autonomie et d'émancipation collective, la vie culturelle nous semble être un pilier important. Par ce texte, nous souhaitons donc expliciter ce que nous entendons par vie culturelle ainsi que ses enjeux. Il sera donc nécessaire, dans un premier temps, d'identifier les dérives et problèmes de la culture dominante et, ainsi, expliquer la nécessité de s'en distancer.Pour nous, ce texte est un moyen de mettre en lumièrele besoin de développer une culture indépendante dans un projet de vie collective et alternative.
 
+## Pourquoi la culture est-elle importante ? 
+
+La culture regroupe un ensemble de moyens (écrits, oeuvres, techniques, pratiques etc.), de disciplines et de savoirs favorables au développement de la réflexion, de la remise en question, du discenement et du sens critique. Ainsi, les personnes qui s'y adonnent, la culture est un outil permettant la diffusion d'idées, de pensées, d'esthétismes et de normes. 
+Si à priori, la culture est génératrice de découvertes et de renouvellement, elle peut en être tout autre lorsqu'elle est utilisée à des fins de domination et d'uniformisation. En effet, si une culture est répandue à grande échelle, cloisonne les modes de pensées et diffuse un panel d'images, de symboles et d'idées étriqués, elle sabote sa fonction première et devient un outil d'opression et de conformisme. Ainsi, si la culture est initalement un outil d'émancipation individuelle et collective, elle en est tout autre dès lors qu'elle est imposée à grande échelle (culture hégémonique) et qu'elle facilite l'existence des personnes au pouvoir (culture dominante).
+Ainsi, dans une optique de chercher à s'autonomiser du système* à développer un mode de pensée cohérent et des pratiques plus respectueuses de notre environnement, la cutlure semble être un levier significatif à actionner dans notre démarche. D'autant plus que l'Etat s'accapare de plus en plus les moyens cutlurels pour diffuser ses idées et façonner le sens commun.
+
+
+
+
+ En effet, dans notre société actuelle, bien que des courants culturels cherchent à se développer, une culture prédomine. On parle de culture hégémonique.
+
+Une culture est dite hégémonique lorsque les idéologies et visions qu'elle diffuse rassemblent le plus grand nombre de personnes. De là, une unfication des conscicences et un façonnage du sens-commun* s'opèrent rendant cette culture hégémonique plus forte et influente. On parlera de culture dominante pour la culture qui détient le pouvoir, aujourd'hui, la culture exercée par l'Etat.
 ## Qu'est-ce qui ne va pas dans la culture moderne/dominante ? 
 
 Aujourd'hui,bien que le milieu culturel crie au manque de moyens et au mépris de la culture, cette dernière semble présente partout dans notre société. Que ce soit dans les lieux pubics, les commerces, les transports publics, ou bien les smartphones ou la télévision, les contenus audios et visuels sont facilements accessibles et très utilisés.Ces outils et médiums forgent la culture dominante [la plus partagée de tous-tes]. En effet, en devenant si présents sans que l'on s'en rendre vraiment compte, ces outils véhiculent des images, valeurs et modèles auprès du plus grand nombre. On parle alors d'uniformisation et de formatage. Nous sommes conditionné-es, plus ou moins à notre insu, par des contenus sélectionnés par le système<sup>1</sup>. La culture est devenue une industrie, au même titre que d'autres secteurs, sur laquelle le système capitalise et avec laquelle il peut facilement manipuler les gens. 
