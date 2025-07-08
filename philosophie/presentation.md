@@ -1,4 +1,14 @@
-> <a href="../">Accueil</a> > Portail Philosophique
+---
+date: 2024-10-27 2:08:00
+title: Présentation du Mallouestan
+description: >-
+  Présentation du collectif Mallouestan, de ses objectifs et de son cadre éthique. 
+tags:
+  - visite
+  - vision
+image: /images/ressources/avocats.jpg
+author: mallouestan
+---
 
 ## **Présentation**
 
