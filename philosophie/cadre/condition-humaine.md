@@ -76,9 +76,9 @@ La dépendance accrue aux infrastructures réduit les pratiques aux seules activ
 	
 De plus, ces problèmes trouvent des explications d'ordre culturelles et idéologiques. Notamment, la fameuse "quête du bonheur", qui représente une immense supercherie et une hypocrisie sans nom. En effet, l'injonction au bonheur est omniprésente dans nos sociétés, et nous constatons, cependant, une augmentation du mal-être couplé à un renforcement des oppressions systémiques, de la suprématie de l'État et du capitalisme sur nos vies. Cette injonction toute libérale [voir le texte sur notre critique du Libéralisme pour une définition plus complète] est le signe, pour nous, que le système [voir notre texte sur le Système pour une définition de celui-ci] a besoin de susciter un espoir de bonheur futur ​et de donner quelques miettes de temps en temps aux gens -- par la consommation de services ou de produits -- dans le but de mieux canaliser le mécontentement potentiel ; le but final étant de mieux les faire consommer et de mieux les mettre au travail salarié. En quelques sortes, le bonheur tel qu'il est vendu ou suscité par le système est un instrument d'exercice du pouvoir que nous appelons "happycratie" (Eva Illouz, qui combine l'anglais "heureux" avec le suffixe "-cratie" ayant pour racine grecque *kratos* signifiant "pouvoir" ou "gouvernement").
 
-Cette idéologie libérale trouve son incarnation dans différents mythes contemporains et dans l'imaginaire répandu.
+Cette idéologie libérale trouve son incarnation dans différents mythes contemporains et dans l'imaginaire répandu. Être dans une voiture décapotable, les cheveux dans le vent sur une route sinueuse menant au soleil ; vivre sa vie dans un pavillon de quartier résidentiel, avoir son job bien tranquille, devenir mari ou femme, devenir parent, devenir retraité.e, mourir paisiblement ; faire des vidéos dans son coin, lancer sa chaîne YouTube, percer au bout d'un moment, rencontrer des gens connus, devenir riche et célèbre ; avoir une idée de start-up, la lancer, avoir des locaux en open-space, gérer sa boîte en tant que jeune patron.ne dynamique en polo et en baskets ; bien d'autres exemples de mythes de la société occidentale existent. Dans _Mythologies_, Roland Barthes analyse différents discours et phénomènes bourgeois qui forment la mythologie française du milieu du XXe siècle. La Citroën DS comme fétichisme technologique, le Tour de France comme mise en scène du héros populaire viril et de la géographie sacrée de la France, l'abbé Pierre comme figure de la charité apolitique, et 49 autres mythes y sont développés. Selon Roland Barthes, ces mythes servent à faire passer pour naturel, évident, normal, des idéologies découlant de processus socio-historiques. Ces mythes sont l'un des piliers qui asseoient la domination bourgeoise sur la société, en vendant du rêve aux masses et en produisant de l'ignorance à propos des réalités sociales<sup>30</sup>.
 
-ignorance déjà hein (récit dominant sous-jacent Ishmael), mythologies, activités de substitution, culture libérale/happycratie
+(récit dominant sous-jacent Ishmael), activités de substitution
 
 ### Notre proposition authentique et antilibérale
 
@@ -152,5 +152,7 @@ lire nos textes
 <sup>28</sup> : https://www.pariszigzag.fr/insolite/histoire-insolite-paris/quand-les-bidonvilles-ceinturaient-paris
 
 <sup>29</sup> : Pour une vue d'ensemble, voir le documentaire _Le Temps des ouvriers_ à 9 minutes sur Arte qui évoque ce phénomène.
+
+<sup>30</sup> : Pour en savoir plus sur la production de l'ignorance dans les sociétés et sur l'agnatologie [étude de la production de l'ignorance et du doute] : _Cancer Wars_, Robert Proctor, _Pesticides_, Jean-Noël Jouzel.
 
 
