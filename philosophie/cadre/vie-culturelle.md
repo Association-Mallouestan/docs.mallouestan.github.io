@@ -5,11 +5,25 @@
 
 ## Pourquoi écrire ce texte ?
 
-Dans un contexte de quête d'autonomie et d'émancipation collective, la vie culturelle nous semble être un pilier important. Par ce texte, nous souhaitons donc expliciter ce que nous entendons par vie culturelle ainsi que ses enjeux. Il sera donc nécessaire, dans un premier temps, d'identifier les dérives et problèmes de la culture dominante et, ainsi, expliquer la nécessité de s'en distancer.Pour nous, ce texte est un moyen de mettre en lumièrele besoin de développer une culture indépendante dans un projet de vie collective et alternative.
+Dans un contexte de quête d'autonomie et d'émancipation collective, penser une vie culturelle nous semble être un pilier important et incontournable. Par ce texte, nous souhaitons donc expliciter ce que nous entendons par culture, ce qu'elle permet et pourquoi nous lui accordons une si grande importance. Néanamoins, il sera aussi nécessaire de mettre en lumière le revers de la médaille et d'expliquer pourquoi la culture est un outil très efficace pour dominer et opprimer. D'autre part, nous verrons que le système ne manque pas de faire de l'argent en utilisant la culture comme génératrice de nouveaux marchés.
+Pour nous, ce texte est un moyen de mettre en avant le besoin de développer une culture indépendante dans un projet de vie collective et alternative ainsi que de dénoncer l'usage de la culture hégémonique actuelle.
 
-## Pourquoi la culture est-elle importante ? 
+## La culture, médium d'émancipation 
 
-La culture regroupe un ensemble de moyens (écrits, oeuvres, techniques, pratiques etc.), de disciplines et de savoirs favorables au développement de la réflexion, de la remise en question, du discenement et du sens critique. La culture a donc un potentiel émancipateur fort. Ce dernier est un levier non négligeable dans une démarche d'autonomisation collective, de création d'alternative et de réflexions sortant des normes.
+Selon nous, la culture est un vecteur d'émancipation individuelle et collective. Si la première ne nous semble pas pertinente seule, elle est néanmoins importante pour la seconde. En effet, la culture regroupe un ensemble de moyens (écrits, oeuvres, techniques, pratiques etc.), de disciplines (artistiques, philosophiques, littéraires, idéologiques etc.) et de savoirs. En explorant ces différents domaines et médiums, il est possible de développer des connaissances et des compétences nécessaires à une émancipation. De fait, si une personne s'adonne à l'écriture et développe des compétences d'analyse, de rédaction et de réflexion, celle-ci aura alors une plus grande facilité à articuler ses idées et à en questionner d'autres.
+
+ Par cette pluralité de composantes, la culture participe au développement de la réflexion, de la création, de la remise en question, du discenement ainsi que du sens critique.
+Ce dernier point est un des principaux que nous retenons de cette définition de la culture. En effet, au travers de tous les outils qu'elle regroupe, la culture peut permettre d'observer les choses sous un autre angle, de prendre le temps d'étudier comment une idée, une pensée se construit et, ainsi, être en mesure de prendre du recul sur ce qui est. De cette prise de recul, et de ce temps consacré à la réflexion, il est alors plus possible de constituer une alternative à ce qui est, à ce qui nous entoure. 
+
+cette exploration ne peut se faire qu'en questionnant ce qui est déjà afin de composer avec, de composer contre ou de composer à partir de. Ainsi, si la culture invite à questionner et à explorer l'ailleurs et le différent
+
+ en écrivant sous différentes formes
+
+
+
+
+
+ La culture a donc un potentiel émancipateur fort. Ce dernier est un levier non négligeable dans une démarche d'autonomisation collective, de création d'alternative et de réflexions sortant des normes.
 D'autre part, la culture rassemble. En effet, elle appartient à groupe d'individus plus ou moins étendu. Elle participe au façonnage d'un paradigme commun ainsi que d'un sens commun propre à ce groupe. Ainsi, le dit groupe qui partage une culture commune se rejoint sur un certain mode de pensées, certaines habitudes et coutumes. La culture permet donc de fédérer un groupe et de faciliter son identification.
 Ensuite, la culture peut être un outils utile dans l'évolution idéologique et politique. En effet, la culture permet de diffuser des idées, des esthétismes ou encore des normes.
 Si la culture offre un terreau propice à la réflexion et l'émancipation, permet de fédérer et de diffuser de nouveaux modes de pensées, elle est aussi un puissant outil de contrôle. En effet, dès lors qu'une culture prend une ampleur à grande échelle, qu'elle façonne le sens commun* souhaité par les personnes au pouvoir, elle peut alors être très utile pour conditionner les mentalités et empeĉher l'émergence de pensées alternatives. La culture devient donc un outil d'opression qui définit les nouvelles normes et le "naturel".
