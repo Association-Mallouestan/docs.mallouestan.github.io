@@ -78,7 +78,7 @@ De plus, ces problèmes trouvent des explications d'ordre culturelles et idéolo
 
 Cette idéologie libérale trouve son incarnation dans différents mythes<sup>30</sup> contemporains et dans l'imaginaire répandu. Être dans une voiture décapotable, les cheveux dans le vent sur une route sinueuse menant au soleil ; vivre sa vie dans un pavillon de quartier résidentiel, avoir son job bien tranquille, devenir mari ou femme, devenir parent, devenir retraité.e, mourir paisiblement ; faire des vidéos dans son coin, lancer sa chaîne YouTube, percer au bout d'un moment, rencontrer des gens connus, devenir riche et célèbre ; avoir une idée de start-up, la lancer, avoir des locaux en open-space, gérer sa boîte en tant que jeune patron.ne dynamique en polo et en baskets ; bien d'autres exemples de mythes de la société occidentale existent. Dans _Mythologies_, Roland Barthes analyse différents discours et phénomènes bourgeois qui forment la mythologie française du milieu du XXe siècle. La Citroën DS comme fétichisme technologique, le Tour de France comme mise en scène du héros populaire viril et de la géographie sacrée de la France, l'abbé Pierre comme figure de la charité apolitique, et 49 autres mythes y sont développés. Selon Roland Barthes, ces mythes servent à faire passer pour naturel, évident, normal, des idéologies découlant de processus socio-historiques. Ces mythes sont l'un des piliers qui asseoient la domination bourgeoise sur la société, en vendant du rêve aux masses et en produisant de l'ignorance à propos des réalités sociales<sup>31</sup>.
 
-(récit dominant sous-jacent Ishmael), activités de substitution
+(récit dominant sous-jacent Ishmael), activités de substitution, hégémonie Gramsci
 
 ### Notre proposition authentique et antilibérale
 
