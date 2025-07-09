@@ -88,6 +88,8 @@ Il nous faut donc retravailler sur les limites de la réponse à ces besoins de 
 
 vigilence sur le plaisir, moteur de l'histoire et levier sur lequel le libéralisme peut jouer
 
+hégéméonie bourgeoise vs culture de résistance
+
 ### Conclusion
 
 blabla
