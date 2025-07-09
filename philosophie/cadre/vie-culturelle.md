@@ -10,46 +10,23 @@ Pour nous, ce texte est un moyen de mettre en avant le besoin de développer une
 
 ## La culture comme source d'émancipation
 
-Au delà du fait que la culture induit une réflexion et une créativité de la part de celleux qui oeuvrent dans différents domaines culturels (artisanat, arts, littérature etc.) et qu'iels acquirèrent des compétences utiles à l'émancipation à une échelle individuelle (échelle qui n'est pas celle qui nous inteéresse). La  culture est surtout vecteur d'émancipation collective car elle rassemble. En effet, une culture se contruit au sein d'un groupe d'individus plus ou moins étendu. Selon Gramsci, philosophe italien du 20è sicècle, la culture participe au façonnage du sens commun propre à ce groupe. Le sens commun est le paradigme partagé par un groupe, c'est-à-dire l'ensemble d’idées, de croyances, de préjugés et de valeurs au travers desquel-les le groupe appréhende le monde.  
-Ainsi, le dit groupe qui partage une culture commune se rejoint autour d'un sens commun. De cette façon, les individus qui composent ce groupe trouvent une identité culturelle collective et développent un sentiment d'appartenance. 
-D'autre part, plus une culture rassemblera d'individus, plus la propagation des idées, de l'idéologie ou de la politique qu'elle porte sera importante. Gramsi parle de culture hégémonique pour décrire la culture partagée par le plus grand nombre. Lorsque l'hégémonie est atteinte, alors les perspectives d'évolution et de renversement idéologiques et politiques sont grandes.
+Au delà du fait que la culture induit une réflexion et une créativité de la part de celleux qui oeuvrent dans différents domaines culturels (artisanat, arts, littérature etc.) et qu'iels acquirèrent des compétences utiles à l'émancipation à une échelle individuelle (échelle qui n'est pas celle qui nous inteéresse). La  culture est surtout vecteur d'émancipation collective car elle rassemble. En effet, une culture se contruit au sein d'un groupe d'individus plus ou moins étendu. Selon Gramsci, philosophe italien du 20è sicècle, la culture participe au façonnage du sens commun propre à ce groupe. Le sens commun est le paradigme partagé par un groupe, c'est-à-dire l'ensemble d’idées, de croyances, de préjugés et de valeurs au travers desquel-les le groupe appréhende le monde. Au travers de ce sens commun, les individus qui composent ce groupe trouvent une identité culturelle collective et développent un sentiment d'appartenance. 
+D'autre part, plus une culture rassemblera d'individus, plus la propagation des idées, de l'idéologie ou de la politique qu'elle porte sera importante. Gramsci parle de culture hégémonique pour décrire la culture partagée par le plus grand nombre et qui incarne ce qui s'impose comme la nrome. De ce fait,lorsque l'hégémonie est atteinte, alors il devient possible d'initier une évolution voire un renversement idéologiques et politiques nécessaire à une émancipation collective.
 
+## La culture à des fins de contrôle
 
-Ensuite, la culture peut être un outils utile dans l'évolution idéologique et politique. En effet, la culture permet de diffuser des idées, des esthétismes ou encore des normes.
-Si la culture offre un terreau propice à la réflexion et l'émancipation, permet de fédérer et de diffuser de nouveaux modes de pensées, elle est aussi un puissant outil de contrôle. En effet, dès lors qu'une culture prend une ampleur à grande échelle, qu'elle façonne le sens commun* souhaité par les personnes au pouvoir, elle peut alors être très utile pour conditionner les mentalités et empeĉher l'émergence de pensées alternatives. La culture devient donc un outil d'opression qui définit les nouvelles normes et le "naturel".
-
-
-
-
+Si la culture fédère et contribue au façonnage d'un prisme commun, elle devient, de fait, un puissant outil de contrôle des masses. En effet, dès lors qu'une culture prend une ampleur à grande échelle, qu'elle façonne le sens commun souhaité par les personnes au pouvoir, elle peut alors être très utile pour conditionner les mentalités et empêcher l'émergence de pensées alternatives. La culture devient donc un outil d'opression qui définit les nouvelles normes et le "naturel".
+Une fois ce "naturel" en place, la culture dominante doit le maintenir. Or, pour cela, elle doit continuer de fédérer et ne pas se faire renverser par une autre culture. Selon Gramsci, la culture possède un pouvoir d'attraction qu'il faut entrenir à coup de divers persuasions idéologique et de compromis sociaux et économiques. On l'aura compris, le pouvoir utilise divers méthodes pour garantir le "consentement des masses" et ainsi, préserver l'hégémonie. Cluscard, lui parle de "carotte" tendue vers les masses pour attirer leur attention et les garder fidèles. Cette tactique de diversion est de plus en plus présente dans la culture hégémonique dominante actuelle. En effet, la sur-représentation de la culture "divertissante" en est la preuve. Aujourd'hui, les médias et les espaces publis regorgent de contenus culturels "mainstream" [grand public] qui sont controlés par l'Etat et les milliardaires détenteurs-ices des principaux médias occidentaux.
+De ce fait, la culture à laquelle nous avons véritablement accès est régie par les dynamiques consuméristes, capitalistes et fascistes du système occidental actuel.
 
 
 
-
-regroupe un ensemble de moyens (écrits, oeuvres, techniques, pratiques etc.), de disciplines (artistiques, philosophiques, littéraires, idéologiques etc.) et de savoirs. En explorant ces différents domaines et médiums, il est possible de développer des connaissances et des compétences nécessaires à une émancipation. De fait, si une personne s'adonne à l'écriture et développe des compétences d'analyse, de rédaction et de réflexion, celle-ci aura alors une plus grande facilité à articuler ses idées et à en questionner d'autres.
-
-Par cette pluralité de composantes, la culture participe au développement de la réflexion, de la création, de la remise en question, du discenement ainsi que du sens critique.
-Ce dernier point est un des principaux que nous retenons de cette définition de la culture. En effet, au travers de tous les outils qu'elle regroupe, la culture peut permettre d'observer les choses sous un autre angle, de prendre le temps d'étudier comment une idée, une pensée se construit et, ainsi, être en mesure de prendre du recul sur ce qui est. De cette prise de recul, et de ce temps consacré à la réflexion, il est alors plus possible de constituer une alternative à ce qui est, à ce qui nous entoure. 
-
-cette exploration ne peut se faire qu'en questionnant ce qui est déjà afin de composer avec, de composer contre ou de composer à partir de. Ainsi, si la culture invite à questionner et à explorer l'ailleurs et le différent
-
- en écrivant sous différentes formes
-
-
-
-
-
- La culture a donc un potentiel émancipateur fort. Ce dernier est un levier non négligeable dans une démarche d'autonomisation collective, de création d'alternative et de réflexions sortant des normes.
-D'autre part,
-Ainsi, si la culture possède un fort potentiel d'émancipation individuelle et collective, elle en est tout autre lorsqu'elle est imposée à grande échelle sans laisser de réelle place à d'autres (culture hégémonique), et qu'elle facilite l'existence des personnes au pouvoir (culture dominante).
-
-## La culture dépolitisée
 
 Dans sa fonction réfelexive, la culture peut jouer un rôle politique crucial. En effet, si les forces au pouvoir voient leur culture fragilisée et de moins en moins apte à fédérer alors un renversement politique peut être espérer. Car si le pouvoir d'attraction de la culture dominante décline, alors, une culture alternative plus rassembleuse pourrait prendre le pas et définir un nouvelle approche idéologique et politique. 
 Aujourd'hui, ce pouvoir poilitque est complètement abrogé par l'Etat capitaliste libéral. En effet, bien que le milieu culturel crie au manque de moyens et au mépris de la culture, cette dernière est pourtant présente partout dans notre société. Que ce soit dans les lieux pubics, les commerces, les transports publics, ou bien les smartphones ou la télévision, les contenus audios et visuels sont facilement accessibles et très utilisés. De cette façon, la culture du pouvoir en place devient hégémonique et se répand partout. Elle normalise la consommation et et valorise le plaisir et le divertissement, piliers de la société actuelle où l'idée de plaisir est réduite à une approche d'intsantanéité, d'individualisme et de consommation.
 
 Audelà de créer l'hégémonie idéologique souhaitée par l'Etat, la culture agit comme maintient des dominant-es. En effet, selon Gramsci, la culture a un pouvoir d'attraction et joue le rôle d'appât pour qu'un plus grand nombre de personnes adhèrent à la culture dominante et restent fidèles. Cluscard en parle également en utilisant l'image de "la carotte" qu'est le divertissement et la culture pour "satisfaire" le plus grand nombre de personnes et détourner leur attention. Ce procédé permet le maintient de la culture en place (culture dominante) car elle multiplie ses allié-es. Ainsi, la culture qui dénonce, s'engage et milite n'est pas ou extrêmement peu relayée et est censurée. Toute concurrence à la culture dominante est donc neutralisée.
-En effet, la diffusion de la culture d'aujourd'hui repose principalement sur les médias et les espaces publics. Or ces derniers sont controlés par l'Etat et milliardaires détenteurs-ices des principaux médias occidentaux.
-Ainsi, la culture à laquelle nous avons véritablement accès est régie par les dynamiques consuméristes, capitalistes et fascistes du système occidental actuel. La culture en place et permise n'a donc aucun pouvoir politique si ce n'est celui de valider et pérenniser le système politique oppressif actuel.
+ La culture en place et permise n'a donc aucun pouvoir politique si ce n'est celui de valider et pérenniser le système politique oppressif actuel.
 
 ## La culture capitalisée
 
