@@ -4,11 +4,9 @@
 
 ### Pourquoi écrire ce texte ?
 
-Ce texte s'inscrit dans l'ensemble des écrits du Mallouestan qui expliquent la manière avec laquelle nous cadrons nos activités et une éthique que nous pensons la plus juste. En l'occurrence, ce texte s'attèle à expliquer notre vision de la condition humaine. L'intérêt de rédiger un texte sur cette thématique n'est pas de faire un exercice abstrait de définition de l'être humain qui n'aurait pas de suite politiquement. Il s'agit avant tout de déterminer ce qui est nécessaire à l'être humain -- et donc ce avec quoi nous devons composer --, et ce qui lui est contingent (qui pourrait ne pas exister) -- et donc ce dont nous devons nous départir dans la mesure du possible. A partir de là, il deviendra alors possible d'entrevoir dans une certaine mesure comment bâtir des sociétés adaptées aux êtres humains, et comment concilier l'existence de ces derniers avec celle des écosystèmes. Ce contenu théorique sert donc de base pour poser des règles aux comportements humains et sert de base pour dessiner un contexte au sein duquel l'épanchement des besoins de plaisir, par exemple, puisse être répondu de manière éthique. 
+Ce texte s'inscrit dans l'ensemble des écrits du Mallouestan qui expliquent la manière avec laquelle nous cadrons nos activités et une éthique que nous pensons la plus juste. En l'occurrence, ce texte s'attèle à expliquer notre vision de la condition humaine. L'intérêt de rédiger un texte sur cette thématique est avant tout de déterminer ce qui est nécessaire à l'être humain -- et donc ce avec quoi nous devons composer --, et ce qui lui est contingent (qui pourrait ne pas exister) -- et donc ce dont nous devons nous départir dans la mesure du possible. A partir de là, il deviendra alors possible d'entrevoir dans une certaine mesure comment bâtir des sociétés adaptées aux êtres humains, et comment concilier l'existence de ces derniers avec celle des écosystèmes. Ce contenu théorique sert donc de base pour poser des règles aux comportements humains et sert de base pour dessiner un contexte au sein duquel l'épanchement des besoins de plaisir, par exemple, puisse être répondu de manière éthique. 
 
-Ce texte a donc pour objectif analytique de mettre en exergue la contradiction fondamentale entre un mode de vie qui correspondrait aux êtres humains et le système actuel. Pour ce faire, il faudra se prêter à l'analyse de ce dernier et de ce qu'il cause aux individus humains et aux sociétés, sans évoquer particulièrement les conséquences sur les écosystèmes.
-
-Surtout sociétés urbaines priviliégiées occidentales étou
+Ce texte a donc pour objectif analytique de mettre en exergue la contradiction fondamentale entre un mode de vie qui correspondrait aux êtres humains et le système actuel. Pour ce faire, il faudra se prêter à l'analyse de ce dernier et de ce qu'il cause aux individus humains et aux sociétés, sans évoquer particulièrement les conséquences sur les écosystèmes. Pour cela, nous allons notamment nous attarder sur les sociétés les plus favorisées, car il est plus facile de dire qu'il y a des problèmes dans une société en guerre, en famine ou en régime totalitaire que de dire la même chose de sociétés où tout semble aller pour le mieux. D'autant plus que ces dernières sociétés sont parmi les plus déterminantes de l'ordre mondial actuel, car ce sont des pays coloniaux, avec de grands groupes industriels et des armées en moyenne parmi les plus puissantes.
 
 ### Constats généraux
 
@@ -18,7 +16,7 @@ Le capitalisme industriel s'est développé depuis la fin du XVIIIe siècle, et 
 
 L'humanité vit aujourd'hui majoritairement en ville, et ce phénomène va croissant<sup>3</sup>. Pourtant, le mode de vie urbain semble être la cause de bien des maux actuels. Le bruit des moteurs, celui de la VMC, la lumière des lampadaires la nuit, celle blanche des magasins, les bouchons au sortir du travail, la queue pour faire les courses, les visages impassibles dans la rue, la grisaille partout, les prairies nulle part, les déchets dans les cours d'eau, l'air pollué, la petitesse des appartements, la pollution intérieure<sup>4</sup>, l'isolement... L'ensemble des désaggréments de la ville sont innombrables et certains sont propres à chacun.e d'entre nous. Ils sont cause de différents troubles sociaux et individuels tels que les dépressions<sup>5</sup>, les maladies cardio-vasculaires et respiratoires, le diabète de type 2, les perturbateurs endocriniens<sup>6</sup>, l'anxiété, l'obésité, l'ennui (cassé par les écrans en général), etc. Tout porte à croire que la ville n'est pas un environnement adapté aux êtres humains, et nous sommes tristes de voir les effets de la vie urbaine sur nos ami.es et nos familles. Ces constats vont à l'encontre de ce que la propagande libérale veut nous faire croire, que la ville est le lieu de tous les possibles, de la réalisation des rêves et de la consommation facile, du divertissement, de la culture, des arts, des loisirs, et il nous faudra développer plus longuement plus bas dans le texte<sup>7</sup>.
 
-### De l'inadéquation entre la "nature humaine" (revoir le terme) et le développement civilisationnel
+### De l'inadéquation entre la nature humaine et le développement civilisationnel
 
 Selon nous, la plupart des malheurs non nécessaires que subissent les êtres humains sont dûs au processus de civilisation dont ils sont victimes, autant dans leurs corps que dans l'environnement au sein duquel ils évoluent. 
 
@@ -94,24 +92,36 @@ Le problème est que ces activités remplissent de manière tronquée leurs fonc
 
 Au Mallouestan, nous faisons la promotion d'un autre modèle de société qui s'oppose à celui du système.
 
-Tout d'abord, nous refusons de penser qu'il serait souhaitable de vivre dans une société "happycrate" qui suscite un espoir vain et pervers d'un bonheur que l'on pourrait atteindre par notre bonne volonté et notre mérite, d'autant plus qu'il est fondé sur une axiologie [ensemble de valeurs] bancale. En l'occurrence, nous refusons une société et une axiologie qui promet du bien-être via des publicités ou des produits culturels et agréables sensoriellement et qui, grâce au même processus, asservit ces populations. Nous refusons en bloc les valeurs libérales et tous les processus matériels qui les sous-tendent.
+Tout d'abord, nous refusons de penser qu'il serait souhaitable de vivre dans une société "happycrate" qui suscite un espoir vain et pervers d'un bonheur que l'on pourrait atteindre par notre bonne volonté et notre mérite, d'autant plus qu'il est fondé sur une axiologie [ensemble de valeurs] bancale. En l'occurrence, nous refusons une société et une axiologie qui promet du bien-être via des publicités ou des produits culturels agréables sensoriellement et qui, grâce au même processus, asservit ces populations. Nous refusons en bloc les valeurs libérales et tous les processus matériels qui les sous-tendent. Nous n'érigeons pas le plaisir comme valeur cardinale, mais nous ne trouvons pas souhaitable non plus de refuser ce qui est une composante fondamentale des êtres humains, par conséquent de répondre aux besoins associés.
 
-Nous tâchons de créer un contexte enviable, sur le plan éthique et sur le plan vécu, qui vise à ce que les humain.es qui y vivent soient sincèrement attirées par le mode de vie du Mallouestan, en s'éloignant des nuisances urbaines et du travail capitaliste.
+Nous tâchons de créer un contexte enviable, sur le plan éthique et sur le plan vécu, qui vise à ce que les humain.es qui y vivent soient sincèrement attiré.es par le mode de vie du Mallouestan, en s'éloignant des nuisances urbaines et du travail capitaliste, et en venant vivre un quotidien riche. Nous visons à répondre aux besoins d'épanouissement qui soient les moins mortifères possibles en retravaillant sur les limites de ces réponses aux besoins ; à la fois pour le bien des écosystèmes, mais aussi pour le bien des humain.es elleux-mêmes, qui trouveraient leur compte à se passer d'activités plaisantes mais nocives pour la santé, addictives et déstructrices des liens sociaux.
 
-Il nous faut donc retravailler sur les limites de la réponse à ces besoins de plaisir et de repos pour les ancrer dans une éthique viable et des pratiques les moins destructrices possible
-
-vigilence sur le plaisir, moteur de l'histoire et levier sur lequel le libéralisme peut jouer
-
-hégéméonie bourgeoise vs culture de résistance
-
-Autrement dit, les activités de subsistance et les activités de loisir à échelle naturelle pour Homo Sapiens, qui remplissaient à la fois des fonctions de bien être physiologique, psychologique, social et écologique assurant la vie saine des populations, ont été scindées en deux pôles dans la plupart des cas : le pôle des fonctions économique de subsistance et le pôle des activités de substitution ; et ces dernières ne remplissent en général pas bien leurs fonctionnalités. Etre assis devant un écran pour combler la fadeur d'une journée pluvieuse, pousser de la fonte à la salle parce que notre travail consiste à être assis devant un écran, aller dans des parcs d'attraction parce qu'on ne ressent pas grand chose d'autre intense dans la vie ; toutes ces activités sont des fléaux trouvant des causes systémiques que nous souhaitons voir disparaître pour le plus grand bien de nos congénères enfermés en ville
-
-Aujourd'hui, le besoin d'activité physique trouve une grande part de sa réponse dans les salles de sport, dans le footing dans les parcs urbains ou encore dans les stimulateurs musculaires électriques. Ces activités ont remplacé les activités de subsistance pour ce qui est de combler les mêmes besoins. Toutes ces stratégies de réponse au besoin d’activité physique ont un sens dans une société où ce ne sont plus ces activités qui permettent la subsistance, mais le travail de bureau ou le travail presque immobile à la chaîne. Toutes ces activités modernes de loisir, de se dépenser ou de se divertir décorrélées des activités de subsistance, nous les appelons *activités de substitution* [Theodore Kaczynski], étant donné qu'elles sont venues remplacer des fonctions perdues qui étaient autrefois intriquées dans les activités de subsistance.
+Nous développons davantage ces aspects dans notre texte Vie enviable.
 
 ### Conclusion
 
-blabla
-lire nos textes
+Ce texte a, nous l'espérons, montré comment nous voyons la condition humaine actuelle, déchirée entre ses composantes fondamentales et le monde dans lequel il vit, industriel, capitliste, colonial, civilisé. Tant pour des raisons de santé, de fonctionnement collectif que d'épanouissement, la civilisation est une calamité pour Homo Sapiens. Elle détruit son corps, son psyché, ses sociétés, son écosystème. Et la manière avec laquelle le système répond aujourd'hui aux besoins n'est plus en adéquation avec les fonctions qu'elle devrait recouvrir. Elle est à la fois perverse, distordue, moins sensée, exagérée et ne s'articule guère avec le reste de ce qui fait les sociéts humaines.
+Par opposition, nous créons au Mallouestan un contexte de vie en opposition au libéralisme, et qui cherche à correspondre dans une encore trop mince mesure à ce qui est vraiment nécessaire à Homo Sapiens.
+
+Pour aller plus loin dans la réflexion, nous vous conseillons la lecture de nos textes suivants :
+
+Vie enviable : dans la ligne directe de ce texte et qui explique notre objectif de réponse aux besoins d'épanouissement ;
+Antilibéralisme : où nous critiquons la société libérale, ses valeurs et ses fondements ;
+Travail et libertés : où nous expliquons en quoi le travail participe à la liberté de manière nécessaire ;
+Vie culturelle : où nous expliquons notre vision de la culture souhaitable et non souhaitable ;
+Anti-tech : où nous expliquons en quoi le système techno-industriel détruit nos vies ;
+Consommation et libertés individuelles : où nous expliquons pourquoi nous limitons les libertés individuelles.
+
+### Principales références:
+
+Hannah Arendt, _La Condition de l'homme moderne_
+Roland Barthes, _Mythologies_
+Eva Illouz, _Happycratie_
+Theodore Kaczynski, _La Société industrielle et son avenir_
+Ibn Khaldûn, _Le Livre des exemples_
+Desmond Morris, _Le Zoo humain_, _Le Singe nu_
+Christopher Ryan, _Civilisés à en mourir_
+James C. Scott, _Homo Domesticus_
 
 ### Notes 
 
