@@ -6,7 +6,7 @@
 
 Ce texte s'inscrit dans l'ensemble des écrits du Mallouestan qui expliquent la manière avec laquelle nous cadrons nos activités et une éthique que nous pensons la plus juste. En l'occurrence, ce texte s'attèle à expliquer notre vision de la condition humaine. L'intérêt de rédiger un texte sur cette thématique est avant tout de déterminer ce qui est nécessaire à l'être humain -- et donc ce avec quoi nous devons composer --, et ce qui lui est contingent (qui pourrait ne pas exister) -- et donc ce dont nous devons nous départir dans la mesure du possible. A partir de là, il deviendra alors possible d'entrevoir dans une certaine mesure comment bâtir des sociétés adaptées aux êtres humains, et comment concilier l'existence de ces derniers avec celle des écosystèmes. Ce contenu théorique sert donc de base pour poser des règles aux comportements humains et sert de base pour dessiner un contexte au sein duquel l'épanchement des besoins de plaisir, par exemple, puisse être répondu de manière éthique. 
 
-Ce texte a donc pour objectif analytique de mettre en exergue la contradiction fondamentale entre un mode de vie qui correspondrait aux êtres humains et le système actuel. Pour ce faire, il faudra se prêter à l'analyse de ce dernier et de ce qu'il cause aux individus humains et aux sociétés, sans évoquer particulièrement les conséquences sur les écosystèmes. Pour cela, nous allons notamment nous attarder sur les sociétés les plus favorisées, car il est plus facile de dire qu'il y a des problèmes dans une société en guerre, en famine ou en régime totalitaire que de dire la même chose de sociétés où tout semble aller pour le mieux. D'autant plus que ces dernières sociétés sont parmi les plus déterminantes de l'ordre mondial actuel, car ce sont des pays coloniaux, avec de grands groupes industriels et des armées en moyenne parmi les plus puissantes.
+Ce texte a donc pour objectif analytique de mettre en exergue la contradiction fondamentale entre un mode de vie qui correspondrait aux êtres humains et le système actuel. Pour ce faire, il faudra se prêter à l'analyse de ce dernier et de ce qu'il cause aux individus humains et aux sociétés, sans évoquer particulièrement les conséquences sur les écosystèmes. Pour cela, nous allons notamment nous attarder sur les sociétés les plus favorisées, où tout semble aller pour le mieux, et moins sur les sociétés en guerre, en famine ou en régime totalitaire. D'autant plus que ces sociétés favorisées sont parmi les plus déterminantes de l'ordre mondial actuel, car ce sont des pays coloniaux, avec de grands groupes industriels et des armées en moyenne parmi les plus puissantes.
 
 ### Constats généraux
 
@@ -14,7 +14,7 @@ Tout d'abord, quelques constats généraux peuvent être présentés pour saisir
 
 Le capitalisme industriel s'est développé depuis la fin du XVIIIe siècle, et le florissement des civilisations occidentales par l'exploitation des ressources ne s'est pas seulement fait avec un progrès dans le rendement des machines, il s'est aussi fait par un accroissement de la mise au travail des humain.es<sup>1</sup>. Quand bien même on peut observer une relative amélioration des conditions du travail ouvrier en Occident sur certains aspects, avec la baisse du temps de travail ou le développement de l'ergonomie en usine, les conditions de travail dans lesquelles évoluent une grosse partie de l'humanité sont déplorables. Surchage, salaires bas, mauvaise posture, actions répétitives, ennui, pollutions, bruit, horaires inadaptées... sont courantes dans des emplois de nuit, sur une chaise, avec des pesticides, à la chaîne, "au cul d'une machine", dans le BTP, aux vendanges et bien d'autres. Elles engendrent des maladies neurodégénératives<sup>2</sup>, de la dépression, des troubles musculo-squelettiques, du stress, des burn-outs, etc. Il ne s'agit pas de dire que le travail de tout temps était bénéfique et sain -- l'esclavage n'est pas apparu au XVIIIe siècle -- mais que le capitalisme est aujourd'hui la forme dominante de l'organisation économique mondiale, qui ne laisse que très peu de place à des formes plus souhaitables et adaptables du travail.
 
-L'humanité vit aujourd'hui majoritairement en ville, et ce phénomène va croissant<sup>3</sup>. Pourtant, le mode de vie urbain semble être la cause de bien des maux actuels. Le bruit des moteurs, celui de la VMC, la lumière des lampadaires la nuit, celle blanche des magasins, les bouchons au sortir du travail, la queue pour faire les courses, les visages impassibles dans la rue, la grisaille partout, les prairies nulle part, les déchets dans les cours d'eau, l'air pollué, la petitesse des appartements, la pollution intérieure<sup>4</sup>, l'isolement... L'ensemble des désaggréments de la ville sont innombrables et certains sont propres à chacun.e d'entre nous. Ils sont cause de différents troubles sociaux et individuels tels que les dépressions<sup>5</sup>, les maladies cardio-vasculaires et respiratoires, le diabète de type 2, les perturbateurs endocriniens<sup>6</sup>, l'anxiété, l'obésité, l'ennui (cassé par les écrans en général), etc. Tout porte à croire que la ville n'est pas un environnement adapté aux êtres humains, et nous sommes tristes de voir les effets de la vie urbaine sur nos ami.es et nos familles. Ces constats vont à l'encontre de ce que la propagande libérale veut nous faire croire, que la ville est le lieu de tous les possibles, de la réalisation des rêves et de la consommation facile, du divertissement, de la culture, des arts, des loisirs, et il nous faudra développer plus longuement plus bas dans le texte<sup>7</sup>.
+L'humanité vit aujourd'hui majoritairement en ville, et ce phénomène va croissant<sup>3</sup>. Pourtant, le mode de vie urbain semble être la cause de bien des maux actuels. Le bruit des moteurs, celui de la VMC, la lumière des lampadaires la nuit, celle blanche des magasins, les bouchons au sortir du travail, la queue pour faire les courses, les visages impassibles dans la rue, la grisaille partout, les prairies et les forêts nulle part, l'isolement, les déchets dans les cours d'eau, l'air pollué, la petitesse des appartements, la pollution intérieure<sup>4</sup>... L'ensemble des désaggréments de la ville sont innombrables et certains sont propres à chacun.e d'entre nous. Ils sont cause de différents troubles sociaux et individuels tels que les dépressions<sup>5</sup>, les maladies cardio-vasculaires et respiratoires, le diabète de type 2, les perturbateurs endocriniens<sup>6</sup>, l'anxiété, l'obésité, l'ennui (cassé par les écrans en général), etc. Tout porte à croire que la ville n'est pas un environnement adapté aux êtres humains, et nous sommes tristes de voir les effets de la vie urbaine sur nos ami.es et nos familles. Ces constats vont à l'encontre de ce que la propagande libérale veut nous faire croire, que la ville est le lieu de tous les possibles, de la réalisation des rêves et de la consommation facile, du divertissement, de la culture, des arts, des loisirs, et il nous faudra développer cela plus longuement plus bas dans le texte<sup>7</sup>.
 
 ### De l'inadéquation entre la nature humaine et le développement civilisationnel
 
@@ -125,71 +125,69 @@ James C. Scott, _Homo Domesticus_
 
 ### Notes 
 
-<sup>1</sup> : https://www.monde-diplomatique.fr/publications/manuel_d_histoire_critique/a53150 ; _La condition ouvrière_, Simone Weil
+1 : https://www.monde-diplomatique.fr/publications/manuel_d_histoire_critique/a53150 ; _La condition ouvrière_, Simone Weil
 
-<sup>2</sup> : https://www.inserm.fr/dossier/parkinson-maladie/#parkinson-maladie-d%E2%80%99origine-centrale-ou-p%C3%A9riph%C3%A9rique-
+2 : https://www.inserm.fr/dossier/parkinson-maladie/#parkinson-maladie-d%E2%80%99origine-centrale-ou-p%C3%A9riph%C3%A9rique-
 
-<sup>3</sup> : https://fr.statista.com/infographie/26877/urbanisation-monde-evolution-part-de-la-population-urbaine-par-continent/
+3 : https://fr.statista.com/infographie/26877/urbanisation-monde-evolution-part-de-la-population-urbaine-par-continent/
 
-<sup>4</sup> : https://www.airparif.fr/la-qualite-de-lair-interieur-au-domicile
+4 : https://www.airparif.fr/la-qualite-de-lair-interieur-au-domicile
 
-<sup>5</sup> : https://www.la-depression.org/comprendre-la-depression/la-depression-en-chiffre/ ; https://dailygeekshow.com/grande-ville-impact-sante-mental/
+5 : https://www.la-depression.org/comprendre-la-depression/la-depression-en-chiffre/ ; https://dailygeekshow.com/grande-ville-impact-sante-mental/
 
-<sup>6</sup> : https://www.santepubliquefrance.fr/determinants-de-sante/pollution-et-sante/air/articles/pollution-atmospherique-quels-sont-les-risques
+6 : https://www.santepubliquefrance.fr/determinants-de-sante/pollution-et-sante/air/articles/pollution-atmospherique-quels-sont-les-risques
 
-<sup>7</sup> : Voir aussi d'autres arguments, exemples et analyses dans notre texte sur le Libéralisme, notre texte sur la Culture, et notre texte Travail et libertés
+7 : Voir aussi d'autres arguments, exemples et analyses dans notre texte sur le Libéralisme, notre texte sur la Culture, et notre texte Travail et libertés.
 
-<sup>8</sup> : https://www.courrierinternational.com/grand-format/carte-commentee-les-principaux-conflits-qui-dechirent-la-planete
+9 : https://books.openedition.org/ifpo/3750?lang=fr ; _Homo Domesticus_, James C. Scott ; _L'aube des moissonneurs_, Jean Guilaine ; _Age de pierre, âge d'abondance_, Marshall Sahlins.
 
-<sup>9</sup> : https://books.openedition.org/ifpo/3750?lang=fr ; _Homo Domesticus_, James C. Scott ; _L'aube des moissonneurs_, Jean Guilaine ; _Age de pierre, âge d'abondance_, Marshall Sahlins.
+10 : https://dentakay.com/fr/dents-de-sagesse/
 
-<sup>10</sup> : https://dentakay.com/fr/dents-de-sagesse/
+11 : _Biological changes in human populations with agriculture_, Clark S. Larsen
 
-<sup>11</sup> : _Biological changes in human populations with agriculture_, Clark S. Larsen
+12 : James C. Scott, op. cit.
 
-<sup>12</sup> : James C. Scott, op. cit.
+13 : Ibid.
 
-<sup>13</sup> : Ibid.
+14 : https://www.sciencedirect.com/science/article/pii/S0277379118307261?via%3Dihub
 
-<sup>14</sup> : https://www.sciencedirect.com/science/article/pii/S0277379118307261?via%3Dihub
+15 : https://www.persee.fr/doc/etnor_0014-2158_2007_num_56_1_1664
 
-<sup>15</sup> : https://www.persee.fr/doc/etnor_0014-2158_2007_num_56_1_1664
+16 : https://www.futura-sciences.com/sante/actualites/pandemie-ere-pandemies-ne-fait-elle-commencer-80160/
 
-<sup>16</sup> : https://www.futura-sciences.com/sante/actualites/pandemie-ere-pandemies-ne-fait-elle-commencer-80160/
+17 : _L'Histoire du corps humain_, Daniel E. Lieberman
 
-<sup>17</sup> : _L'Histoire du corps humain_, Daniel E. Lieberman
+18 : https://www.gastrojournal.org/article/S0016-5085(04)00462-7/fulltext
 
-<sup>18</sup> : https://www.gastrojournal.org/article/S0016-5085(04)00462-7/fulltext
+19 : https://www.ameli.fr/assure/sante/themes/sclerose-en-plaques/comprendre-sclerose-plaques ; https://www.vidal.fr/maladies/systeme-nerveux/sclerose-plaques-sep/causes.html ; https://www.sciencesetavenir.fr/archeo-paleo/anthropologie/comment-est-apparue-la-sclerose-en-plaques-une-etude-d-ampleur-retrace-les-origines-de-cette-maladie_176003
 
-<sup>19</sup> : https://www.ameli.fr/assure/sante/themes/sclerose-en-plaques/comprendre-sclerose-plaques ; https://www.vidal.fr/maladies/systeme-nerveux/sclerose-plaques-sep/causes.html ; https://www.sciencesetavenir.fr/archeo-paleo/anthropologie/comment-est-apparue-la-sclerose-en-plaques-une-etude-d-ampleur-retrace-les-origines-de-cette-maladie_176003
+20 : https://www.sciencedirect.com/science/article/pii/S2666558123000453 ; https://www.weforum.org/stories/2022/01/lonely-study-green-space-city/
 
-<sup>20</sup> : https://www.sciencedirect.com/science/article/pii/S2666558123000453 ; https://www.weforum.org/stories/2022/01/lonely-study-green-space-city/
+21 : L'autre conséquence de cette théorie des cerlces sociaux selon Simmel, c'est que l'agencement des cercles dans un cadre urbain est l'une des sources du phénomène d'"individuation", c'est-à-dire de l'apparition de la figure de l'individu, chose relativement inédite dans des sociétés où le groupe était auparavant pris comme la base pour penser les sociétés et pour se penser en tant qu'individu. En effet, en ville, le type, le nombre et la taille des cerles sociaux varie d'un individu à un autre --chacun.e étant le résultat d'une combinaison de croisements quasiment unique. Parler de soi en tant qu'individu n'était pas une évidence dans les sociétés paysannes, et concevoir l'autre comme un individu non plus.
 
-<sup>21</sup> : L'autre conséquence de cette théorie des cerlces sociaux selon Simmel, c'est que l'agencement des cercles dans un cadre urbain est l'une des sources du phénomène d'"individuation", c'est-à-dire de l'apparition de la figure de l'individu, chose relativement inédite dans des sociétés où le groupe était auparavant pris comme la base pour penser les sociétés et pour se penser en tant qu'individu. En effet, en ville, le type, le nombre et la taille des cerles sociaux varie d'un individu à un autre --chacun.e étant le résultat d'une combinaison de croisements quasiment unique. Parler de soi en tant qu'individu n'était pas une évidence dans les sociétés paysannes, et concevoir l'autre comme un individu non plus.
+22 : https://www.3darchidesigner.com/archidesignerjp/the-japanese-home/jp-home_009/
 
-<sup>22</sup> : https://www.3darchidesigner.com/archidesignerjp/the-japanese-home/jp-home_009/
+23 : https://www.universalis.fr/encyclopedie/grece-antique-civilisation-urbanisme-et-architecture/
 
-<sup>23</sup> : https://www.universalis.fr/encyclopedie/grece-antique-civilisation-urbanisme-et-architecture/
+24 : Plus de détails à ce propos dans notre texte Risques et périls.
 
-<sup>24</sup> : Plus de détails à ce propos dans notre texte Risques et périls.
+25 : https://www.lemonde.fr/planete/article/2019/10/14/pertes-et-gaspillage-alimentaires-14-de-la-nourriture-est-perdue-avant-d-atteindre-les-etals_6015481_3244.html
 
-<sup>25</sup> : https://www.lemonde.fr/planete/article/2019/10/14/pertes-et-gaspillage-alimentaires-14-de-la-nourriture-est-perdue-avant-d-atteindre-les-etals_6015481_3244.html
+26 : https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/contre-la-pauvrete-l-urbanisation-a-marche-forcee-7684664
 
-<sup>26</sup> : https://www.radiofrance.fr/franceculture/podcasts/entendez-vous-l-eco/contre-la-pauvrete-l-urbanisation-a-marche-forcee-7684664
+27 : Un important mouvement de résistance à l'accaparement des terres paysannes pour les grands propriétaires terriens existe, le Mouvement des Sans Terres (MST), mais il est violemment réprimé et il est très loin de contre-balancer ce phénomène.
 
-<sup>27</sup> : Un important mouvement de résistance à l'accaparement des terres paysannes pour les grands propriétaires terriens existe, le Mouvement des Sans Terres (MST), mais il est violemment réprimé et il est très loin de contre-balancer ce phénomène.
+28 : https://www.pariszigzag.fr/insolite/histoire-insolite-paris/quand-les-bidonvilles-ceinturaient-paris
 
-<sup>28</sup> : https://www.pariszigzag.fr/insolite/histoire-insolite-paris/quand-les-bidonvilles-ceinturaient-paris
+29 : Pour une vue d'ensemble, voir le documentaire _Le Temps des ouvriers_ à 9 minutes sur Arte qui évoque ce phénomène.
 
-<sup>29</sup> : Pour une vue d'ensemble, voir le documentaire _Le Temps des ouvriers_ à 9 minutes sur Arte qui évoque ce phénomène.
+30 : Mythe ne signifie pas un récit proche du merveilleux qui ferait intervenir des personnages légendaires doués de pouvoirs magiques. Il ne faut pas comprendre non plus par là des histoires fausses qui donneraient seulement une explication du réel. Dans _Ishmael_, chapitre 2 section è et chapitre 3 section 3, Daniel Quinn donne une bonne manière de concevoir le mythe. Si un anthropologue arrive chez un peuple, il ne va pas demander "bonjour, racontez-moi vos mythes s'il vous plaît", car il risque d'avoir comme réponse "nous n'avons pas de mythe ou de choses de ce genre". Mais quand l'anthropologue demande "racontez-moi l'histoire de l'univers", les récits des gens peuvent révéler leurs mythes sous-jacents, par exemple le fait que la création de l'univers aboutit avec l'apparition de l'être humain, apte de transformer le chaos universel en monde sensé et civilisé, révélant la place de l'être humain et son rôle dans la nature.
 
-<sup>30</sup> : Mythe ne signifie pas un récit proche du merveilleux qui ferait intervenir des personnages légendaires doués de pouvoirs magiques. Il ne faut pas comprendre non plus par là des histoires fausses qui donneraient seulement une explication du réel. Dans _Ishmael_, chapitre 2 section è et chapitre 3 section 3, Daniel Quinn donne une bonne manière de concevoir le mythe. Si un anthropologue arrive chez un peuple, il ne va pas demander "bonjour, racontez-moi vos mythes s'il vous plaît", car il risque d'avoir comme réponse "nous n'avons pas de mythe ou de choses de ce genre". Mais quand l'anthropologue demande "racontez-moi l'histoire de l'univers", les récits des gens peuvent révéler leurs mythes sous-jacents, par exemple le fait que la création de l'univers aboutit avec l'apparition de l'être humain, apte de transformer le chaos universel en monde sensé et civilisé, révélant la place de l'être humain et son rôle dans la nature.
+31 : Sur la notion d'hégémonie, voir notre texte "Culturel".
 
-<sup>31</sup> : Sur la notion d'hégémonie, voir notre texte "Culturel".
+32 : Pour en savoir plus sur la production de l'ignorance dans les sociétés et sur l'agnatologie [étude de la production de l'ignorance et du doute] : _Cancer Wars_, Robert Proctor, _Pesticides_, Jean-Noël Jouzel.
 
-<sup>32</sup> : Pour en savoir plus sur la production de l'ignorance dans les sociétés et sur l'agnatologie [étude de la production de l'ignorance et du doute] : _Cancer Wars_, Robert Proctor, _Pesticides_, Jean-Noël Jouzel.
+33 : https://cliniquepsychologiequebec.com/la-dependance-aux-jeux-video-la-reconnaitre-et-la-prevenir/ ; https://aidejeu.ca/articles/jeux-video-divertissement-dependance/
 
-<sup>33</sup> : https://cliniquepsychologiequebec.com/la-dependance-aux-jeux-video-la-reconnaitre-et-la-prevenir/ ; https://aidejeu.ca/articles/jeux-video-divertissement-dependance/
-
-<sup>34</sup> : https://www.franceinfo.fr/sante/maladie/coronavirus/meme-s-il-est-necessaire-le-port-du-masque-brouille-enormement-les-relations-sociales-pourquoi-ne-plus-voir-les-visages-n-a-rien-d-une-evidence_3948083.html
+34 : https://www.franceinfo.fr/sante/maladie/coronavirus/meme-s-il-est-necessaire-le-port-du-masque-brouille-enormement-les-relations-sociales-pourquoi-ne-plus-voir-les-visages-n-a-rien-d-une-evidence_3948083.html
 
