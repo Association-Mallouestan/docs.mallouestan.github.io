@@ -42,7 +42,7 @@ Tous ces problèmes de santé liés au processus de civilisation sont dûs à l'
 
 Le début de la sédentarisation voit l'apparition d'un environnement nouveau pour Homo Sapiens. Champs, forêts rasées, densité de batiments, densité de congénères et d'autres animaux, enfermement (dans les maisons si ce n'est dans les prisons), etc. ; et plus récemment : usines, grisaille, lumières artificielles, écrans, moteurs, etc. Ce contexte n'est, lui non plus, pas adapté à la génétique humaine et à ses sociétés.
 
-#### Mal être individuel
+##### Mal être individuel
 
 La métropole, notamment, est l'expression paradigmatique [typique d'une approche intellectuelle, d'un système de pensée ; constitue un exemple quasiment parfait pour une démonstration] de cette réalité. Desmond Morris le décrit bien dans _Le zoo humain_. En effet, il met en avant le fait que l'environnement artificiel au sein duquel évolue Homo Sapiens perturbe ses instincts naturels tout comme pour les animaux non humains enfermés dans des zoos, avec pour conséquences de provoquer des comportements au mieux étranges et au pire criminels.
 
@@ -50,7 +50,7 @@ Le rythme de la vie urbaine, par exemple, crée du stress de manière plus ou mo
 
 Les codes de la vie urbaine en plus des infrastructures frustrent les instincts humains. Dans la rue, peu de gens oserait se mettre à courir, comme ça, juste pour s'amuser, ou à monter sur les bancs et les poteaux, excepté quand on a l'étiquette d'artiste ou d'athlète. La curiosité, l'étonnement et la réactivité esthétique [au sens strict, ce qui touche les sens] font assez peu partie du quotidien des urbain.es : un concert se donne devant mes yeux dans la rue ? Je passe mon chemin. Une personne se fait agresser dans le métro ? Pas mon problème. Une affiche publicitaire géante sur un building ? Déjà vu à la télé. Une nouvel œuvre de street art dans mon quartier ? Un phénomène de mode. En quelques sortes, le citadin est "blasé" (_Les grandes villes et la vie de l'esprit_, Georg Simmel, 1903), du fait de la quantité d'informations continuelles que ne peut tout simplement pas supporter le cerveau, créant une résistance à l'attention. On ne sourit plus aux autres, on ne les regarde pas, même si on n'est que deux dans la rue, et on est finalement seul.e dans la foule.
 
-#### Désaggréments sociaux 
+##### Désaggréments sociaux 
 
 L'isolement social est, d'ailleurs, un phénomène étrange et triste de la vie urbaine. Comment les espaces où la population est la plus dense pourrait, en effet, permettre de l'isolement ? C'est pourtant un fait avéré, chez les personnes âgées, handicapées, migrantes, autant que chez les jeunes adultes situé.es hors de ces catégories<sup>19</sup>, et il cause lui aussi des dépressions et du mal-être individuel, tout autant que politique et communautaire ; les gens n'étant pas facilement à même de s'organiser localement.
 
@@ -64,7 +64,7 @@ Dans le cas des sociétés paysannes, les cerlces sociaux sont organisés majori
 
 Dans le mode de vie urbain, les cercles sociaux sont différemment agencés, n'étant plus concentriques mais enchevêtrés autour d'égo. Le cadre familial ne correspond pas à celui des collègues. Le groupes de fans du club de football local ne se recoupe pas nécessairement avec celui des voisin.es. Chaque cercle comprenant des normes différentes, l'individu<sup>21</sup> se trouve alors pris dans des injonctions contradictoires. L'attente de la part de la famille d'être à table à l'heure du repas, d'un autre côté l'obligation de rendre des dossiers importants, de faire ses devoirs ou de boire un verre avec les ami.es. Les règles ne sont pas les mêmes partout, et quand des accomodations ne sont pas trouvées, on se retrouve alors à mentir, à ne pas obéir aux règles. Ces injonctions contradictoires sont alors source de mal-être, de rupture de liens sociaux, d'isolement, de vulnérabilité.
 
-#### La ville : un environnement sur lequel on a peu de prise
+##### La ville : un environnement sur lequel on a peu de prise
 
 La ville est fondamentalement un milieu sur lequel nous avons peu de prise et peu de pouvoir. L'ensemble des infrastructures urbaines illustre bien cela, surtout pour les plus défavorisé.es. La taille des logements, la condition de locataire empêchant de l'aménager comme il nous paraît bon ; le peu de jardins et parcs et les restrictions légales qui les concernent nous empêchant d'utiliser les matériaux à disposition pour bricoler ou s'amuser. Le phénomène des _microapartments_ comme les "_one-room mansion_" tokyoïtes<sup>22</sup> est dans le prolongement de la logique économique que représente le marché du logement, de la practicité d'habiter proche de son lieu de travail, croisé avec les problématiques de l'urbanisation et de la culture libérale.
 
