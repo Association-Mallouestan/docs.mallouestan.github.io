@@ -20,7 +20,7 @@ L'humanité vit aujourd'hui majoritairement en ville, et ce phénomène va crois
 
 Selon nous, la plupart des malheurs non nécessaires que subissent les êtres humains sont dûs au processus de civilisation dont ils sont victimes, autant dans leurs corps que dans l'environnement au sein duquel ils évoluent. 
 
-En effet, il y a plusieurs milliers d'années, à partir de quelques endroits du globe comme l'actuelle Turquie ou la région du Fleuve Jaune en Chine, les premières cités sédentaires ont vu le jour, accompagnées de grandes infrastructures, de grands travaux d'aménagement hydroliques, de l'accroissement des hiérarchies sociales, de carences alimentaires, de la colonisation, de l'exploitation massive des forêts et des mines, de la domestication massive de bétail, de l'impôt<sup>8</sup>... Ce processus a conduit à nos sociétés actuelles avec plus ou moins d'intensité selon les périodes et selon les régions, et nous sommes aujourd'hui les dépositaires d'une histoire d'urbanisation, de sédentarisation, d'intégration à l'appareil d'Etat et de mise au travail au service d'une classe dominante. 
+En effet, il y a plusieurs milliers d'années, à partir de quelques endroits du globe comme l'actuelle Turquie ou la région du Fleuve Jaune en Chine, les premières cités sédentaires ont vu le jour, accompagnées de grandes infrastructures, de grands travaux d'aménagement hydroliques, de l'accroissement des hiérarchies sociales, de carences alimentaires, des empires et de la colonisation<sup>8</sup>, de l'exploitation massive des forêts et des mines, de la domestication massive de bétail, de l'impôt<sup>8</sup>... Ce processus a conduit à nos sociétés actuelles avec plus ou moins d'intensité selon les périodes et selon les régions, et nous sommes aujourd'hui les dépositaires d'une histoire d'urbanisation, de sédentarisation, d'intégration à l'appareil d'Etat et de mise au travail au service d'une classe dominante. 
 
 #### Conséquences sur les corps et la santé
 
@@ -149,7 +149,9 @@ James C. Scott, _Homo Domesticus_
 
 7 : Voir aussi d'autres arguments, exemples et analyses dans notre texte sur le Libéralisme, notre texte sur la Culture, et notre texte Travail et libertés.
 
-8 : https://books.openedition.org/ifpo/3750?lang=fr ; _Homo Domesticus_, James C. Scott ; _L'aube des moissonneurs_, Jean Guilaine ; _Age de pierre, âge d'abondance_, Marshall Sahlins.
+8 : Le phénomène d'empire et d'expansion territoriale n'est pas propre à des puissances très étendues territorialelement, comme l'empire britannique ou l'empire russe. On appelle empire un état multi-ethnique ayant un pouvoir centralisé et fort. L'empire sous-entend qu'il y a eu conquêtes. En général les empires se sont constitués après les victoires militaires d'un Etat puissant qui intègre les territoires conquis dans un ensemble plus vaste qui reste sous la domination de l'Etat originel. Voir : https://www.toupie.org/Dictionnaire/Empire.htm
+
+https://books.openedition.org/ifpo/3750?lang=fr ; _Homo Domesticus_, James C. Scott ; _L'aube des moissonneurs_, Jean Guilaine ; _Age de pierre, âge d'abondance_, Marshall Sahlins.
 
 9 : https://dentakay.com/fr/dents-de-sagesse/
 
