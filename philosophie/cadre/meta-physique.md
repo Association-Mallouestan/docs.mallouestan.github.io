@@ -8,10 +8,6 @@ tags:
   - vision
 image: /images/ressources/galaxy.jpg
 author: mallouestan
-message:
-  content: C'est tout nouveau
-  icon: flame
-  color: 218380
 ---
 
 

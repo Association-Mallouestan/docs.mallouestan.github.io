@@ -8,11 +8,6 @@ tags:
   - vision
 image: /images/ressources/pollution.jpg
 author: mallouestan
-
-message:
-  content: C'est tout nouveau
-  icon: flame
-  color: 218380
 ---
 
 # Risques et périls
