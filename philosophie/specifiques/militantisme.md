@@ -49,7 +49,7 @@ Mais l’hégémonie peut aussi être le fait d’un autre groupe que celui des 
 
 Nous pouvons combiner ces concepts avec les notions d’**offensif** et de **défensif** pour obtenir une grille d’analyse riche du militantisme :
 
-| Offensive                    | Défensive                                         |
+|                        | Défensive                    | Offensive                                         |
 |------------------------|--------------------------------------------------|
 | **Guerre de positions** | Maintenir dans le sens commun des valeurs chères | Atteindre l’hégémonie ou y tendre, changer l’axiologie structurelle           |
 | **Guerre de mouvement** | Barricades, manifestations dans la rue…          | Révolution, renversement d’une oppression structurelle par la coercition      |
