@@ -35,3 +35,16 @@ Les sanctions suite à un non-respect d'un ultimatum peuvent être:
 - Bannissement temporaire ou définitive du lieu
 - Travaux obligatoires pour le collectif
 
+### Gestion de conflit complexe
+
+Lors d’une procédure de gestion de conflit, si la cohabitation devient difficile et nuit aux différentes parties, le groupe peut demander à des personnes de quitter temporairement le lieu, mais seulement si les conditions suivantes sont remplies :
+
+Une majorité absolue d’habitant·es (plus de 50 % des résident·es et des arrimé·es) est d’accord sur les personnes concerné·es par cette exclusion temporaire.
+
+Les personnes concerné·es disposent de solutions de subsistance et de logement pendant toute la durée de l’exclusion.
+
+La durée de l’exclusion ne peut excéder un trimestre, doit être la plus courte possible, et ne peut dépasser la durée de la procédure de gestion de conflit.
+
+Les parties doivent tout mettre en œuvre pour organiser, dans le pire des cas, une médiation par une tierce partie avant la fin de la période d’exclusion.
+
+Une fois cette période terminée, que le conflit soit résolu ou non, l’exclusion ne peut être reconduite que si toutes les personnes, à l’exception d’une seule, sont d’accord. Cette reconduction doit scrupuleusement respecter les mêmes conditions que celles présentées ci-dessus.
