@@ -13,6 +13,11 @@ La communication est intrinsèquement complexe et varie en fonction des individu
 - La présence ou l'absence des personnes hébergées sur le lieu
 - Tout état de santé entraînant un risque ou un danger
 - Tout élément mettant en danger la santé d'autrui (humain·es comme non-humain·es)
+
+### Espace personnel
+
+Des espaces sont mis à disposition des habitant-es (résident-es et arrimé-es) qui en ont un droit d'usage. Les occupant-es "officiels" de ces espaces doivent être consulté-es et consentir pour toute utilisation ou changement de leur espace. Pendant que les espaces personnels ne sont pas occupé-e par ces occupant-es "officiels", la gouvenance repose également sur le collectif. Autrement dit, si une personne s'absente du lieu, elle ne peut décider seule de qui occupe cet espace personnel et doit avoir l'accord de l'ensemble du groupe.
+
 ### Occupation d'espace 
 Les espaces suivants sur le lieu peuvent être réservés pour un usage exclusif.
 - La salle a'tout
