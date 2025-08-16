@@ -1,4 +1,14 @@
-> [Accueil](../../) > [Portail philosophique](../) > Risques et périls
+---
+date: 2025-05-24 2:00:00
+title: Risques et périls
+description: >-
+  Présentation de notre vision des risques et périls 
+tags:
+  - fondamentaux
+  - vision
+image: /images/ressources/pollution.jpg
+author: mallouestan
+---
 
 # Risques et périls
 
@@ -33,7 +43,7 @@ Selon nous, l'incompatibilité d'intérêts de pays comme les États-Unis et la 
 
 Voilà donc les principaux secteurs que nous prenons en compte lorsque nous parlons des risques et périls qui font partie de nos réflexions au Mallouestan. Qu'il s'agisse d'une crise énergétique, d'une rupture de la chaîne alimentaire mondiale, de catastrophes environnementales, d'un accès difficile aux soins ou encore de guerres bouleversant le contexte mondial, les facteurs de risque sont nombreux et difficiles à prédire dans leur entièreté. Pour autant, ils existent et méritent d'être pris au sérieux selon nous.
 
-Nous ne prétendons pas avoir une idée précise de ce qui nous attend. Néanmoins, nous pensons qu'il est nécessaire d'y réfléchir et de mettre à profit les outils qui sont à notre portée (propres à nos conditions matérielles) pour minimiser l'impact de ces crises futures sur nous et ce qui nous entoure.
+Nous ne prétendons pas avoir une idée précise de ce qui nous attend. Néanmoins, nous pensons qu'il est nécessaire d'y réfléchir et de mettre à profit les outils qui sont à notre portée (propres à nos conditions matérielles) pour minimiser l'impact de ces crises futures sur nous et sur ce qui nous entoure.
 
 Au Mallouestan, nous défendons le projet d'un mode de vie alternatif et résilient. Cependant, nous ne pensons pas qu'il soit possible de rompre totalement avec le système<sup>14</sup>, notamment parce que la cohabitation avec lui est inévitable. En effet, même si nos conditions matérielles permettaient que l'on rompe totalement avec le système, le fait que nous vivions sur la même planète implique que les conséquences de l'existence des sociétés modernes nous touchent (par exemple, les dommages environnementaux). En partant de ce constat, nous sommes contraint·es d'anticiper les risques qui découlent de ce système.
 

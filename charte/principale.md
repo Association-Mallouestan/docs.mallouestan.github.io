@@ -1,3 +1,14 @@
+---
+date: 2025-04-04 2:05:00
+title: La charte
+description: La charte définissant le contexte partagé par toustes sur le lieu 
+tags:
+  - visite
+  - charte
+image: /images/logo.jpg
+author: mallouestan
+---
+
 # Charte du Mallouestan 
 ## Préface
 Tendre vers un idéal est complexe. C’est pourquoi nous sommes contraint·es d’établir une charte de vie commune. 
@@ -67,6 +78,7 @@ Il y a trois rôles sur le lieu :
 1. Visiteuse•eur
 2. Résident•e
 3. Arrimé•e
+4. Résident•e non-autonome
 
 Ci dessous les responsabilités et droits des visiteurs, pour l'ensemble des rôles c'est dans l'annexe [Annexe: responsabilités et droits des différents rôles](./annexe--responsabilites-droits).
 

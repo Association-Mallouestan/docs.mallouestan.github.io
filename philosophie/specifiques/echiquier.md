@@ -1,4 +1,15 @@
-> [Accueil](../../) > [Portail philosophique](../) > Vue globale sur nos positionnements politiques
+---
+date: 2025-03-01 2:05:00
+title: Nos positionnements politiques
+description: Notre vision de nombreux sujets dans une optique d'éclaircir notre projet politique  
+tags:
+  - vision
+  - specifique
+image: /images/ressources/guide.jpg
+author: mallouestan
+pdf_url: https://drive.google.com/file/d/1wjp0h9hrJZsYDCEncxH3pkKgpyJQbGNu/view?usp=sharing
+---
+
 
 # Vue globale sur nos positionnements politiques
 
@@ -93,7 +104,7 @@ Cette idée nous amène à notre dernier dualisme, qui concerne l’inclusion ou
 
 ## Conclusions
 
-Les différentes positions énoncées dans ce texte ne sont pas caractéristiques de la gauche hégémonique ni de l’extrême gauche, mais, pour autant, comme nous l’avons explicité, nous rejetons fermement l’axiologie de la droite et de l’extrême droite. Nous avons montré que ce dualisme gauche-droite était questionné et questionnable. Nous sommes loin d’être les premier.ères à le faire. Dans ce sens, nous rejoignons la revendication de "post-gauche", terme très peu utilisé dans le monde francophone mais défendu dans le monde anglophone comme "*Post-Left*". Cette position est critique de la gauche, de son axiologie, et pense notamment que le gauchisme est trop centré sur le syndicalisme, l’avant-gardisme [ici dans le sens marxiste<sup>21</sup>] et le parlementarisme<sup>22</sup>, et critique par ailleurs les politiques identitaires, les tactiques militantes ainsi que les compromis faits avec le capitalisme (pour notre critique voir le texte "militantisme"), et que, pour toutes ces raisons, il est, de fait, obsolète et nuisible.
+Les différentes positions énoncées dans ce texte ne sont pas caractéristiques de la gauche hégémonique ni de l’extrême gauche, mais, pour autant, comme nous l’avons explicité, nous rejetons fermement l’axiologie de la droite et de l’extrême droite. Nous avons montré que ce dualisme gauche-droite était questionné et questionnable. Nous sommes loin d’être les premier.ères à le faire. Dans ce sens, nous rejoignons la revendication de "post-gauche", terme très peu utilisé dans le monde francophone mais défendu dans le monde anglophone comme "*Post-Left*". Cette position est critique de la gauche, de son axiologie, et pense historiquement que le gauchisme est trop centré sur le syndicalisme, l’avant-gardisme [ici dans le sens marxiste<sup>21</sup>] et le parlementarisme<sup>22</sup>. Depuis ce mouvement à évolué laissant plus de place à une critique des politiques identitaires, des tactiques militantes ainsi que des compromis faits avec le capitalisme (pour notre critique voir le texte "militantisme"), et que, pour toutes ces raisons, que la gauche traditionnelle est, de fait, obsolète et nuisible.
 
 Le mouvement de post-gauche regroupe divers courants, et notamment, de façon très représentée, l’égoïsme stirnerien (que nous rejetons). Les courants primitivistes et anti-civilisationnels sont beaucoup moins représentés. Nos divers positionnements exprimés dans ce texte suffisent à clarifier notre position en permettant de comprendre notre positionnement proche des mouvances post-civilisationnelles et primitivistes <sup>23</sup>. Si une telle position existe, nous serions le mieux décrit.es de la manière suivante :
 
