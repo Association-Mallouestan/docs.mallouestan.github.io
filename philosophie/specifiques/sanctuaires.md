@@ -1,0 +1,64 @@
+---
+title: Les sanctuaires
+date: 2024-10-05 00:00:00
+tags:
+  - vision
+  - specifique
+image: '/images/ressources/sanctuaire.jpg'
+author: mallouestan
+---
+
+## L'opposition au sanctuaires animalistes.
+
+### Pourquoi écrire ce texte ?
+Le Mallouestan a été fondé autour d'un sanctuaire antispéciste. Le sanctuaire a ainsi été un élément central de l'identité du lieu et du collectif. Depuis cinq ans, nous avons évolué aux côtés de près de 80 non-humains domestiques accueillis dans le cadre de ce sanctuaire. Nous les avons soignés, appris à les connaître, nous nous sommes attachés à elleux, et nous avons surmonté les événements difficiles inhérents à ce cadre. Pourtant, récemment, nous avons commencé à partager nos doutes quant au bien-fondé de cette structure solidaire. Aujourd'hui, nous n'arrivons plus à justifier l'existence des sanctuaires. Ce texte cherche donc à expliquer notre argumentaire et notre cheminement de pensée.
+
+De plus, notre argumentaire a parfois été déformé ou incompris pour plusieurs raisons. L'expliciter ainsi, au travers de ce texte, permettra de le confronter plus clairement à des critiques bienvenues. Il le rendra aussi plus accessible et partageable au sens large. Il nous semble important que notre analyse des sanctuaires, développée dans ce texte, soit prise en compte dans les milieux animalistes.
+
+### De quoi allons-nous parler ?
+Nous allons nous appuyer sur quatre constats qui expliquent notre position. Nous les listons ci-dessous afin qu'ils soient plus facilement identifiables et, en cas de critique, plus facilement questionnables.
+
+- **Base 1: Les sanctuaires causent indirectement plus de souffrances et de morts qu'ils ne réussissent à en éviter.** Cette réalité est évidemment non intentionnelle, mais elle est une conséquence collatérale des soins et des besoins des individus accueillis. Par exemple, un hectare de fourrage tue entre 6 et 150 mammifères par an
+(il manque beaucoup de données mais peu de doutes existe sur le fait que de nombreux individus sont tués) <sup>1</sup>. Le labourage, les matériaux nécessaires aux soins, aux abris et aux enclos, ainsi que le transport et l’énergie utilisée sont écocides et déciment d’innombrables individus. De plus, la vie quotidienne des résident.es a un impact : que ce soit la prédation des poules sur les grenouilles ou les couleuvres, ou encore l’entretien des pâturages pour les herbivores comme les chevaux ou les vaches. De façon moins intuitive, mais tout aussi réelle, la vie d'une vache nécessite la mise à mort de plus d’êtres sentients qu’un chat domestique en liberté. Pourtant, l'impact de ces derniers est largement critiqué par de nombreuses associations, et ce à juste titre. <sup>2,3,4,5,6</sup>
+
+- **Base 2: Les sanctuaires ne permettent pas d’expérimenter un rapport souhaitable aux non-humains et ne peuvent donc pas politiser un tel rapport.** Les non-humains dans un sanctuaire sont dépendants des humains, ce qui crée inévitablement un rapport de domination. Même dans les sanctuaires les plus ouverts et dédiés à l’agentivité de leurs résidents, ces derniers restent tributaires de leurs soigneureuses. Pour réellement comprendre ce rapport, même s'il était plus horizontal, il faudrait vivre sur place plutôt que de simplement venir en visite ponctuelle. Cette relation vécue avec des individus domestiqués n'est pas transposable aux animaux sauvages. De plus, les espèces domestiquées souffrent de nombreux problèmes de santé héréditaires, conséquences de l'exploitation et de la domestication. La perpétuation de ces espèces — autrement dit, la reproduction des individus — n'est donc pas souhaitable pour les individus de ces espèces. Ainsi, le nouveau rapport développé à leur égard dans les sanctuaires a peu de transposabilité à un futur espéré sans exploitation ni domestication.
+
+- **Base 3: La lutte animaliste est en difficulté.** La répression est de plus en plus grande, notamment sous la pression des revendications agricoles. Le mouvement animaliste n’a connu aucune victoire radicale notable, et les quelques succès obtenus sont largement contrebalancés par la résistance agricole. Il y a plus d’individus en cage aujourd’hui qu’il y a dix ans. De plus, on n’observe aucune amélioration concernant la mise à mort des animaux : ce curseur n’a évolué que sur le type d’espèces tuées, mais non sur le nombre total de victimes. Par exemple, aujourd’hui, il y a plus de poules tuées et moins de vaches, mais la souffrance globale n’a fait qu’empirer. <sup>7,8,9</sup>
+
+- **Base 4: Le futur semble défavorable à la création et au fonctionnement des sanctuaires.** Les pénuries de médicaments, les problèmes liés aux cycles du carbone, de l’azote ou du phosphate dans la production de fourrage ne sont que quelques indicateurs d’une situation qui se détériore. Que ce soit économiquement, climatiquement ou humainement, l’avenir des sanctuaires paraît de plus en plus incertain.
+
+### Notre analyse au Mallouestan
+Nous avons longuement réfléchi à la question que ces constats ci-dessus posent : trouver des solutions ou des perspectives. Une complexité réside notamment dans le fait que, dans les milieux animalistes, plusieurs cadres d'analyse existent. Ci-dessous, nous allons partir de plusieurs cadres différents pour montrer une certaine convergence. Ces différents cadres ne sont pas exclusifs, et de nombreuses personnes se reconnaîtront dans plus d'une de ces grilles d'analyse.
+
+Commençons par l'utilitarisme, qui cherche à minimiser la souffrance et les morts de façon assez quantitative. La base 1, précédemment évoquée, est parfaitement incompatible avec l'utilitarisme, car plus d'individus souffrent et meurent du fait des sanctuaires. Par contre, les sanctuaires pourraient être justifiés si, sur le long terme, ils permettaient de sauver plus d'individus ; par exemple, s'ils amenaient un changement de conscience ou de rapport au non-humain de la part de la société.
+
+C'est très similaire pour notre deuxième cadre, qui est un antispécisme assez académique opposé à la discrimination entre espèces. Dans ce cadre, la base 1 est également en contradiction, car ce sont les animaux domestiques accueillis qui sont placés comme supérieurs aux animaux sauvages. Effectivement, on privilégie le bien-être des animaux accueillis dans le sanctuaire malgré les impacts collatéraux. Mais, comme pour le cadre précédent et pour les suivants, ces impacts collatéraux peuvent potentiellement être des moyens pour une fin qui les justifie. Dans ce cas, si cette fin est atteignable, les sanctuaires pourraient, malgré leurs problèmes, "valoir le coup".
+
+Pour notre troisième cadre, cette base 1 est aussi un problème. Ce cadre est celui de l'écologisme politique. L'impact des sanctuaires sur les écosystèmes n'est pas en soi acceptable dans un prisme écologiste. Cet impact est justifiable si, sur le long terme, la situation écologique bénéficie de l'existence des sanctuaires. Si les sanctuaires permettent d'améliorer la situation écologique suffisamment pour compenser leur impact présent, alors ces sanctuaires semblent souhaitables.
+
+D'un point de vue de l'animalisme se revendiquant du Care, le problème est similaire. Le rapport de soins développé avec les habitants est central dans ce cadre. Comment justifier le rapport écocidaire et meurtrier avec la faune sauvage du fait de l'existence du sanctuaire ? Cette empathie, cette attention et ces soins sélectifs ne peuvent être justifiés que si cela mène collectivement à un rapport de soins généralisé, qui aurait des bienfaits dépassant les méfaits inhérents au sanctuaire.
+
+Prenons pour notre dernier cadre celui de l'antispécisme rejetant la vision académique, prêchant un antispécisme in situ. Autrement dit, l'antispécisme, dans cette vision, ne serait pas théorique, mais vécu. L'antispécisme serait le mouvement social en tant que tel, avec les militants cherchant à renverser les dominations interespèces. Dans ce cadre, la base 1, soit l'impact négatif des sanctuaires sur la faune et flore, ne peut être acceptable que si ces sanctuaires sont une étape nécessaire dans l'atteinte des objectifs de ces mouvements militants et sociaux.
+
+Dans tous les cadres, la justification de l'impact des sanctuaires repose sur leur capacité à améliorer le futur en ce qui concerne les non-humains et notre rapport à eux. Pour les cadres où le rapport au non-humain est important, la base 2, soit l'impossibilité de démocratiser ou politiser le rapport créé au sein des sanctuaires, est à prendre en compte. Pour les cadres où ce rapport, cette maîtrise ou cette connaissance développée en sanctuaire permettraient d'améliorer notre rapport au monde non humain, la base 2 rappelle que ces connaissances sont contextuelles, limitées au sanctuaire et principalement aux non-humains domestiqués. Enfin, pour le cadre qui voit les sanctuaires comme un outil dans une lutte plus grande, la base 3, soit l'absence de victoire ou de progrès dans la lutte animaliste, amène à questionner le réalisme d'une telle vision. Il n'y aurait donc pas eu de progrès depuis 50 ans dans cette lutte, mais il faudrait quand même créer des sanctuaires ? Pour quelle raison ? Qu'est-ce qui a changé ? Les collectifs s'effondrent à l'instar de l'ALF, de 269 Libération Animale, de DXE, etc.
+
+La suite sera de plus en plus compliquée pour la lutte animaliste, comme l'explicite la base 4. Faut-il alors continuer à créer des sanctuaires et à justifier leur existence ? Selon quels critères ? Quelle variable permet de se dire : "La suite justifie le sacrifice des non-humains sauvages des sanctuaires ainsi que leur impact écologique" ?
+
+### Conclusion
+
+Au Mallouestan, aux côtés des non-humains et proche des luttes, nous ne voyons pas de futur suffisamment probable pour justifier ce sacrifice. Il nous semble donc difficile d'accepter un soi-disant bien-fondé des sanctuaires. Pourtant, avec notre vision écocentriste, un sanctuaire avec un impact sous l'échelle normale (voir le texte sur notre rapport au monde humain) ne nous poserait pas ce problème. Aujourd'hui, malgré notre travail sur l'autonomie, nous, au Mallouestan, ne voyons pas comment nous pourrions respecter cette échelle et ce cadre.
+
+Comme pour de nombreux cadres ci-dessus, nous pourrions accepter un dépassement de cette échelle si une fin le justifiait. À ce jour, nous n'en avons pas trouvé. Donc, en attendant de pouvoir accueillir des non-humains en respectant cette échelle normale ou dans une optique justifiant un dépassement de cette échelle, nous refusons d'en accueillir de nouvelleaux sur le lieu et nous refusons de défendre le bien-fondé des sanctuaires.
+
+### Notes:
+
+1. Fischer 2018, https://r.jordan.im/download/ethics/fischer2018.pdf
+2. https://www.agrifaune.fr/fileadmin/user_upload/National/004_eve-agrifaune/Publications_GTNA_Machinisme/Article_machinisme_faune_sauvage2011.pdf
+3. https://www.cnrs.fr/fr/presse/lintensification-de-lagriculture-est-lorigine-de-la-disparition-des-oiseaux-en-europe
+4. https://www.agrifaune.fr/fileadmin/user_upload/National/004_eve-agrifaune/Publications_GTNA_Machinisme/PRAIRIES_ET_CULTURES_FOURRAGERES.pdf
+5. https://professionnels.ofb.fr/sites/default/files/pdf/RevueFS/FauneSauvage308_2015_Art4.pdf
+6. https://www.gwct.org.uk/media/841551/The-impact-of-agricultural-practices-on-biodiversity.pdf
+
+7. https://www.greenpeace.fr/elevage-industriel/?fbclid=IwY2xjawJ-9P5leHRuA2FlbQIxMABicmlkETBDWHY2VG5YOFhpMmtBb1ZEAR5Q9_Vi4qOLWqHOElS3S6wYRfmGzLsiaC6msPv9I_5rz9kNhc_KTjfHmK9KEw_aem_GLF69SqH2B5SOTsGmrGntA 
+8. https://www.l214.com/animaux/chiffres-cles/statistiques-nombre-animaux-abattus-france-viande/ 
+9. https://agreste.agriculture.gouv.fr/agreste-web/disaron/GROSANIMAUX/detail/ 

@@ -1,0 +1,38 @@
+---
+title: Les sanctuaires
+date: 2024-10-05 00:00:00
+tags:
+  - vision
+  - specifique
+image: /images/ressources/guide.jpg
+author: mallouestan
+---
+## Réponse concernant la musique, les vidéos/cinéma, et les réseaux sociaux
+
+### Pourquoi écrire ce texte ?
+
+Notre position à l'égard de la technologie et de la culture dominante soulève légitimement de nombreuses questions. De nombreuses personnes nous ont demandé notre avis sur la musique, la vidéo, ainsi que les réseaux sociaux. Ce questionnement aborde notamment le sujet de l'utilité de ces outils dans les luttes ou, plus généralement, de leur capacité à produire des changements politiques. Ce texte a donc pour but d'expliquer nos positions sur ces sujets, d'un point de vue politique et social, plutôt que dans une approche écologique liée aux externalités de ces médiums (nous expliquons notre vision écologique de ces technologies dans le texte "Anti-technologies").
+
+Comme les nombreux autres textes que nous avons écrits, l'objectif est de rendre le contenu partageable et accessible. Cela pour deux raisons principales : la transmission et la remise en question. Effectivement, cela permet, entre autres, de rendre le contenu confortable et critiquable, ce qui, comme pour tous nos propos, est le bienvenu.
+
+### De quoi allons-nous parler ?
+
+Pour éviter tout quiproquo, quand il parle de musique, ce texte adresse exclusivement la musique créée, enregistrée, produite ou diffusée par "l'industrie". Ce terme, banalement utilisé par les employés, producteurs, musiciens ou techniciens, est pourtant lourd de sens. Effectivement, le terme "industrie" n'est pas un hasard. L'industrie de la musique ou l'industrie du cinéma sont des idées particulières soutenant une approche de l'art qui l'est tout autant. Nous allons donc nous concentrer dans ce texte sur les industries et les contenus produits par celles-ci, et non sur les arts vivants que nous défendons et souhaitons soutenir.
+
+### Des outils puissants ?
+
+Concernant ces sujets, l'efficacité des outils est souvent mentionnée. On nous cite un documentaire ayant créé une révolution, une musique ayant permis un déclic, ou un réseau social ayant contribué à organiser une révolte, comme ce fut le cas en Iran. On nous explique également le potentiel que ces outils ont à changer les choses, leur capacité à influencer. Autrement dit, leur capacité à amener des changements politiques. C'est pourquoi on nous les présente comme si le fait de rejeter ces outils niait leur puissance. Pourtant, bien au contraire, nous constatons leurs capacités ; elles sont pour nous évidentes.
+
+C'est surtout cette puissance qui nous inquiète. La question n'est pas la performance d'un outil, mais à qui cette puissance sert. Dans les exemples précédents, les réseaux sociaux en Iran ont permis d'identifier et de traquer des jeunes manifestants qui sont maintenant pendus. Ils seraient des martyrs si on pouvait les évoquer sur les plateformes, mais ces dernières sont censurées, contrôlées et espionnées. La révolte générée a abouti à un échec douloureux et nullement à une amélioration. Les autorités iraniennes se sont appuyées sur ces technologies pour vaincre la révolte populaire. Dans le cas de la musique, pour chaque titre engagé, il en existe davantage qui renforcent la culture dominante. Racisme, sexisme et culture de la consommation sont les gagnants dans l'industrie de la musique. Il en va de même pour les documentaires et le cinéma. Il suffit de regarder quels artistes sont les plus écoutés. CNews, Cyril Hanouna, Jul ou Tibo InShape sont bien plus suivis que n'importe quelle vidéo sur la révolte serbe ou, plus généralement, documentant le fascisme croissant.
+
+Un outil puissant l'est pour tous les camps qui y ont accès. Un outil puissant accentue les inégalités entre les camps. Le petit mouvement citoyen ne peut profiter de la "puissance" du cinéma ou d'une industrie autant que ses ennemis, comme l'État, car les moyens sont asymétriques. Effectivement, comme pour n'importe quelle industrie – d'où l'importance du terme – il est nécessaire d'utiliser des chaînes de production et des outils, qui sont, au final, réservés à ceux qui en ont les moyens. Ces moyens étaient asymétriques avant que cet outil apparaisse ; l'outil n'a fait que renforcer leur écart.
+
+La situation est en réalité pire encore, car ce sont l'État et les multinationales qui, au-delà de tout, ont aussi la mainmise sur la régulation légale de ces médiums ainsi que sur les plateformes de distribution et de diffusion. Donc, non seulement ces outils sont plus accessibles pour ces acteurs, mais en plus, ce sont eux qui décident de comment on peut les utiliser. Dans le cas des réseaux sociaux, c'est directement une source d'information facilitant le contrôle des populations, comme en Iran, mais en réalité, c'est utilisé dans tous les pays. Que ce soit la manifestation des camionneurs au Canada, les Gilets jaunes en France, l'ingérence russe dans les élections de multiples pays, ou la répression fasciste du gouvernement Orbán, les réseaux ont été utilisés et sont utilisés par ces gouvernements à leur avantage. L'exemple récent français est le blocage de certains réseau sociaux en Nouvelle-Calédonie par le gouvernement (https://www.laquadrature.net/2024/06/05/blocage-de-tiktok-en-nouvelle-caledonie-retour-sur-un-fiasco-democratique/).
+
+Dans un contexte de lutte pour ou contre l'hégémonie (voir le texte "Militantisme" et "Sur la vie Culturelle"), ces outils sont des armes dans une guerre de positionnement. Ils sont utilisés pour influencer les masses, pour les contrôler, pour les manipuler. Ils sont utilisés pour renforcer l'hégémonie de la culture dominante, pour maintenir le statu quo, et pour écraser toute révolte ou contestation comme l'a théorisé Antonio Gramsci. Dans quel guerre défend-t-on les armes qui permettent à l'ennemi de nous écraser ? L'arme nucléaire ne serait jamais défendable même si, par ailleurs, l'énergie atomique serait "propre" et "renouvelable". Pourtant, les outils médiatiques sont défendus par de nombreux mouvements, y compris ceux qui se disent révolutionnaires. Ils sont défendus comme des outils de vulgarisation, d'éducation populaire, de sensibilisation, ou de mobilisation des réalités qui suffirait à compenser leur utilisation principale: le maintien de l'hégémonie de la part de nos ennemis.
+
+### Conclusion
+
+Au-delà de la technologie sous-jacente, comme expliqué dans le texte "Anti-technologie", ainsi que de la pauvreté et de l'uniformisation culturelle, comme expliqué dans le texte sur la vie culturelle, ces outils sont dangereux de par leur efficacité. Au final, ces outils s'inscrivent dans l'héritage de l'écriture qui, à ce jour, a été source de contrôle bien plus que d'émancipation. Ces outils sont utilisés comme moyens de propagande, de manipulation, de désinformation et d'uniformisation. De façon plus générale, ce sont des outils qui servent à contrôler.
+
+Il faut se rendre à l'évidence que les personnes ayant trouvé émancipation, déclic ou libération grâce à ces outils sont rares, privilégiées, ou bien plus probablement manipulées. Effectivement, il n'y a pas plus grande victoire orwellienne que de faire croire à ses sujets que l'outil qui les maintient asservis est émancipatoire.
