@@ -1,5 +1,12 @@
-> [Accueil](../../) > [Portail philosophique](../) > Texte sur la vie culturelle
-
+---
+title: Vie culturelle  
+date: 2024-10-05 00:00:00
+tags:
+  - fondamentaux
+  - vision
+image: /images/ressources/guide.jpg
+author: mallouestan
+---
 
 # Vie culturelle  
 
