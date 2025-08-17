@@ -120,7 +120,7 @@ Cette liste d'outils n'as pas comme objectif d'être exhaustif. C'est une liste 
 
 #### Pierre de banc
 
-![Outils de frappe](./images/outils-frappe.jpg)
+![Pierre de banc](./images/pierre-de-banc.jpg)
 
 - Grâce à son poids propre élevé, la pierre repose tranquillement sur l'établi.
 - Utilisé pour l'affûtage des outils en acier forgé.
