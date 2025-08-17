@@ -1,4 +1,4 @@
-## 🪨 Identifier les outils en taille de pierre
+## Identifier les outils en taille de pierre
 
 ### Présentation
 
