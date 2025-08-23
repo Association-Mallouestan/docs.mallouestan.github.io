@@ -30,6 +30,7 @@ Nos positions et valeurs ne sont pas dépendantes d'une romantisation du passé 
 
 ## Objectifs
 Nous sommes conscient·es que beaucoup des valeurs et des objectifs ci-dessous sont difficilement atteignables. De ce fait, nous les listons humblement en acceptant que chacun·e, sur le lieu, ne peut qu’y tendre. 
+
 1. Créer une résilience/indépendance commune vis-à-vis du capitalisme, de la société extractiviste, thermo-industrielle, techno-solutioniste et de la société de consommation notamment mais non limité à :
 	- L'autonomie en fruits et légumes,
 	- L'autonomie vis-à-vis des énergies fossiles,
@@ -133,4 +134,4 @@ Pour plus d'informations sur la vie collective sur le lieu, il est encouragé de
 - [Responsabilités et droits](./annexe--responsabilites-droits.md)
 - [Économie partagée](./annexe--economie-partagee.md)
 - [Gestion de conflit](./annexe--gestion-de-conflit.md)
-- [Directives A.C.A.B](./annexe--directives-acab.md)
+- [Directives B.A.L.E.E.Z](./annexe--directives-BALEEZ.md)
