@@ -133,7 +133,7 @@ Dans le salon
 
 - Présenter l'organisation collective
     - Présentation des tableaux
-        - Lister les tâches co ou tout le monde participe
+        - Lister les tâches co où tout le monde participe
         - Expliciter les réunions et le classeur de réu
     - Présentation des attentes à l'égard des visiteuse·eurs en participation, communication, etc.
     - Présentation du fonctionnement du repas et du libre-service
@@ -179,4 +179,5 @@ Le dortoir
 - Montrer les différents rangements de literie
 - Demander que chaque chose utilisée (matelas, housse, oreiller) soit couverte d'une housse 
 - Expliciter les attentes à l'égard du dortoir (pas de bougies, respect du sommeil des autres, ménage etc)
+
 
