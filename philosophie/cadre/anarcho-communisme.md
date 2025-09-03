@@ -5,7 +5,7 @@ description: Présentation de notre vision de l'anarchisme
 tags:
   - fondamentaux
   - vision
-image: /images/ressources/pic-noir.jpg
+image: /images/ressources/picnoir.jpg
 author: mallouestan
 
 message:
