@@ -1,7 +1,7 @@
 ---
 date: 2025-03-04 2:05:00
 title: Registre de changements
-description: L'annexe sur la vie collective du Mallouestan. 
+description: Registre explicitant les changements importants de la charte
 tags:
   - charte
 image: /images/logo.jpg
@@ -9,6 +9,14 @@ author: mallouestan
 ---
 
 ## Registre de changements de la charte
+
+### 28 juillet 2025 (Majeur)
+
+1. Ajout des directives BALEEZ cadrant les matériaux et les pratiques de construction sur le lieu
+
+### 15 mai 2025 (Majeur)
+
+1. Simplication de la charte et séparation des domaines en annexes (economie partagée, vie collective, responsabilité et droits, gestion des conflits)
 
 ### 20 Septembre 2024 (Majeur)
 
