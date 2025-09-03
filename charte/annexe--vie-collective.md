@@ -3,7 +3,6 @@ date: 2025-03-04 2:05:00
 title: Annexe - Vie collective
 description: L'annexe sur la vie collective du Mallouestan. 
 tags:
-  - visite
   - charte
 image: /images/logo.jpg
 author: mallouestan

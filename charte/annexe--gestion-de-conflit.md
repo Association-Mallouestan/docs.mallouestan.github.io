@@ -3,7 +3,6 @@ date: 2025-03-04 2:05:00
 title: Annexe - Gestion de conflit
 description: L'annexe sur la gestion de conflit au Mallouestan. 
 tags:
-  - visite
   - charte
 image: /images/logo.jpg
 author: mallouestan
