@@ -81,7 +81,7 @@ Il y a trois rôles sur le lieu :
 3. Arrimé•e
 4. Résident•e non-autonome
 
-Ci dessous les responsabilités et droits des visiteurs, pour l'ensemble des rôles c'est dans l'annexe [Annexe: responsabilités et droits des différents rôles](/r/charte-annexe--responsabilites-droits).
+Ci dessous les responsabilités et droits des visiteurs, pour l'ensemble des rôles c'est dans l'annexe [Annexe: responsabilités et droits des différents rôles](/r/charte-annexe-responsabilites-droits).
 
 | Droits visiteuse•eurs                                                              |
 | ---------------------------------------------------------------------------------- | 
@@ -102,7 +102,7 @@ Un équilibre doit être trouvé entre les libertés individuelles et celles du 
 - Tout changement de la charte ou ses annexes (budget, liste de courses) ;
 - L'attribution des rôles de arrimé·e ou de résident·e ainsi que les conditions d'une période d'essai ;
 - Les dépenses exceptionnelles ou ponctuelles définies dans l'annexe pour le budget ;
-- Tout aménagement, par une personne, impactant les espaces communs qui ne peut être défait par cette même personne en 6h comme précisé dans l'annexe [Annexe: directives B.A.L.E.E.Z](/r/charte-annexe--directives-BALEEZ.md) ;
+- Tout aménagement, par une personne, impactant les espaces communs qui ne peut être défait par cette même personne en 6h comme précisé dans l'annexe [Annexe: directives B.A.L.E.E.Z](/r/charte-annexe-directives-BALEEZ.md) ;
 
 Toute autre décision, hors précision contraire dans la charte ou ces annexes, ne nécéssite aucun accord collectif. Néanmoins, une communication et une transparence sont encouragées. 
 
@@ -110,14 +110,14 @@ Toute autre décision, hors précision contraire dans la charte ou ces annexes, 
 
 > Toute exception à la charte peut être mise en place temporairement (la durée doit être précisée) sur vote unanime. L'exception est valable tant que sont présentes sur le lieu uniquement les personnes ayant participé à la mise en place de ladite exception. Les exceptions, hormis celles qui concernent les quotas humains, doivent également être validées par les arrimé·es non présent·es sur le lieu.
 
-Les nuances de gouvernance entre les rôles sont détaillées dans l'annexe [Annexe:  responsabilités et droits](/r/charte-annexe--responsabilites-droits)
+Les nuances de gouvernance entre les rôles sont détaillées dans l'annexe [Annexe:  responsabilités et droits](/r/charte-annexe-responsabilites-droits)
 
-> Certains changements suite à des discussions collectives peuvent être mis en "attentes" le temps que le processus décisionnel soit finalisé et peuvent être trouvés dans l'annexe [Annexe: décisions en attente](/r/charte-annexe--decisions-en-attente).
+> Certains changements suite à des discussions collectives peuvent être mis en "attentes" le temps que le processus décisionnel soit finalisé et peuvent être trouvés dans l'annexe [Annexe: décisions en attente](/r/charte-annexe-decisions-en-attente).
 
 ## Gestion de conflit
 Nous sommes conscient·es que nous sommes des êtres de nature imparfaite. Nous faisons donc toutes et tous des erreurs ou des écarts à nos valeurs et idéaux. Nous nous devons d’être indulgent·es, envers nous-mêmes et envers autrui. Mais nous acceptons également que tout écart qui impacte le lieu et ses membres peut être traité si une personne le souhaite. 
 
-Une annexe a cette charte cadre le gestion du conflit appelé [Annexe: gestion de conflit](/r/charte-annexe--gestion-de-conflit)
+Une annexe a cette charte cadre le gestion du conflit appelé [Annexe: gestion de conflit](/r/charte-annexe-gestion-de-conflit)
 
 ## Ultimatums 
 Plusieurs ultimatums exceptionnels sont de facto définis pour tous les membres du lieu : 
@@ -132,8 +132,9 @@ Parmis nos objectifs, nous avons toujours valorisé l'accueil de visiteuse•eur
 Pour plus d'informations sur la vie collective sur le lieu, il est encouragé de lire l'annexe correspondante.
 
 ### Annexes
-- [Vie collective](/r/charte-annexe--vie-collective.md)
-- [Responsabilités et droits](/r/charte-annexe--responsabilites-droits.md)
-- [Économie partagée](/r/charte-annexe--economie-partagee.md)
-- [Gestion de conflit](/r/charte-annexe--gestion-de-conflit.md)
-- [Directives B.A.L.E.E.Z](/r/charte-annexe--directives-BALEEZ.md)
+- [Vie collective](/r/charte-annexe-vie-collective.md)
+- [Responsabilités et droits](/r/charte-annexe-responsabilites-droits.md)
+- [Économie partagée](/r/charte-annexe-economie-partagee.md)
+- [Gestion de conflit](/r/charte-annexe-gestion-de-conflit.md)
+- [Directives B.A.L.E.E.Z](/r/charte-annexe-directives-BALEEZ.md)
+- [Annexe: décisions en attente](/r/charte-annexe-decisions-en-attente)
