@@ -5,7 +5,7 @@ description: Présentation de notre objectif de vie collective
 tags:
   - objectifs
   - vision
-image: /images/ressources/picnoir.jpg
+image: /images/ressources/pic-noir-groupe.webp
 author: mallouestan
 
 message:
