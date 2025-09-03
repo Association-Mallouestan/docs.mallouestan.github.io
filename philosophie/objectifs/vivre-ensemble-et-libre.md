@@ -1,3 +1,19 @@
+---
+date: 2025-02-09 2:00:00
+title: Vivre ensemble et libre
+description: Présentation de notre objectif de vie collective  
+tags:
+  - objectifs
+  - vision
+image: /images/ressources/picnoir.jpg
+author: mallouestan
+
+message:
+  content: C'est tout nouveau
+  icon: flame
+  color: 218380
+---
+
 ## Vivre ensemble et libre
 
 ### Avant-propos
