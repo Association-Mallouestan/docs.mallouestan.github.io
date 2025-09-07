@@ -122,7 +122,7 @@ Trois types de respiration possibles :
 - En compression continue (intervient souvent en situation de stress, s'accompagne souvent d'une apnée, les forces sont dirigées vers l'intérieur)
 
 ## Les appuis
-
+ 
 ### Les pieds
 Le pied est composé de 26 os et se divise en deux partie : le pied récepteur (extérieur) et le pied propulseur (interieur)
 La position des pieds joue un rôle crucial sur la posture et la santé de nombreuses ariculations (chevilles, genoux, hanches etc.)
