@@ -43,7 +43,7 @@ Une majorité absolue d’habitant·es (plus de 50 % des résident·es et des ar
 
 Les personnes concerné·es disposent de solutions de subsistance et de logement pendant toute la durée de l’exclusion.
 
-La durée de l’exclusion ne peut excéder un trimestre, doit être la plus courte possible, et ne peut dépasser la durée de la procédure de gestion de conflit.
+La durée de l’exclusion ne peut excéder six semaines, doit être la plus courte possible, et ne peut dépasser la durée de la procédure de gestion de conflit.
 
 Les parties doivent tout mettre en œuvre pour organiser, dans le pire des cas, une médiation par une tierce partie avant la fin de la période d’exclusion.
 
