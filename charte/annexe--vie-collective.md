@@ -34,7 +34,9 @@ Les travaux dits structurels sont à la responsabilité du groupe tandis que les
 Lorsque des occupant-es quittent définitivement l'espace mis à leur disposition, iels doivent s'assurer qu'iels laissent l'espace dans un état propre, salubre et rangé. Iels doivent signaler au collectif toute chose qui pourrait compromettre ou déranger l'installation d'une nouvelle personne. Un membre du groupe (arrimé-e ou résident-e) fera une visite de l'espace au moment du départ des occupant-es. 
 
 ### Occupation d'espace 
+
 Les espaces suivants sur le lieu peuvent être réservés pour un usage exclusif.
+
 - La salle a'tout
 - Le Mobilhome
 - Le bureau
@@ -45,6 +47,7 @@ Les tableaux de réservation sont validés, et ainsi deviennent effectifs, à ch
 Si l'espace n'est pas réservé, l'exclusivité est accordée, si elle est souhaitée, aux premièr·es venu·es.
 
 ### Pôles
+
 Le lieu est séparé en plusieurs pôles. Ces pôles servent principalement à décrire les différentes activités du lieu et de les adresser ou les organiser. À ce jour, les pôles suivants sont définis :
 
 - Culturel
@@ -56,16 +59,19 @@ Le lieu est séparé en plusieurs pôles. Ces pôles servent principalement à d
 - Autocritique et stratégie
 - Faune et flore sauvages
 
-Les décisions sont prises collectivement au moment de planification pour chaque pôle où un budget et des objectifs sont définis pour le trimestre suivant. 
+Les décisions sont prises collectivement au moment de planification pour chaque pôle où un budget et des objectifs sont définis pour le trimestre suivant.
 
 ### Événements
 
 Nous sommes amené-es à organiser ou accueillir des événements sur le lieu comme, mais non limité à, des formations, des rencontres diverses, des expositions ou des concerts. Ces évènements, incluant les évènements externes (organisés par d'autres collectifs) permis par la mise à disposition du lieu, se doivent d'être à prix libre.   
 
 ### Communication extérieure
-Toute communication au nom du Mallouestan se doit d'être en accord avec cette charte et ne doit qu'exprimer des positions politiques, militant·es ou philosophiques présentes dans cette charte (anarchisme, écocentrisme vegan, ...). Toute prise de position du communicant non présente dans cette charte doit ne pas être exprimée au nom du Mallouestan.
+
+Toute communication au nom du Mallouestan se doit d'être en accord avec cette charte et ne doit qu'exprimer des positions politiques, militant·es ou philosophiques présentes dans cette charte (anarchisme, écocentrisme ...). Toute prise de position du communicant non présente dans cette charte ne doit pas être exprimée au nom du Mallouestan.
 
 ### Limites et quotas
-En vue de la taille et des ressources à disposition, certaines limites et certains quotas ont été définis: 
-- Un nombre maximum de 6 espaces personnels est fixé sur le lieu, à ce jour, permettant à 6 personnes/couples/familles de vivre sur le lieu. 
+
+En vue de la taille et des ressources à disposition, certaines limites et certains quotas ont été définis:
+
+- Un nombre maximum de 6 espaces personnels est fixé sur le lieu, à ce jour, permettant à 6 personnes/couples/familles de vivre sur le lieu.
 - Un nombre maximum de 16 visiteuse·eurs à la fois est fixé pour passer une nuit sur le lieu
