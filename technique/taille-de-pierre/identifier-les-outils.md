@@ -1,3 +1,14 @@
+---
+date: 2025-02-09 2:00:00
+title: Identifier les outils
+description: Identifier les outils de taille de pierre
+tags:
+  - techniques
+  - taille-de-pierre
+image: /images/techniques/construction/arc.b.tp.jpg
+author: mallouestan
+---
+
 ## Identifier les outils en taille de pierre
 
 ### Présentation
