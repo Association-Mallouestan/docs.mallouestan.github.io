@@ -57,7 +57,3 @@ Lors d’une procédure de gestion de conflit, si la cohabitation devient diffic
 Les parties doivent tout mettre en œuvre pour organiser, dans le pire des cas, une médiation par une tierce partie avant la fin de la période d’exclusion.
 
 Une fois cette période terminée, que le conflit soit résolu ou non, l’exclusion ne peut être reconduite que si toutes les personnes, à l’exception d’une seule, sont d’accord. Cette reconduction doit scrupuleusement respecter les mêmes conditions que celles présentées ci-dessus.
-
-#### Le cas des habitant·es (résident·es et arrimé·es)
-
-Dans le cas où un·e habitant·e (résident·e ou arrimé·e) est concerné·e par une exclusion temporaire, 
