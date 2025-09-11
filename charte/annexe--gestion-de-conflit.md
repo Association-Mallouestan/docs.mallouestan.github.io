@@ -12,9 +12,20 @@ author: mallouestan
 
 > Cette annexe est un document vivant et évolutif. Elle est à lire et à respecter comme la charte elle-même. Elle est à compléter, modifier ou corriger par le collectif du Mallouestan.
 
-### Procédure de cadrage de conflit
+### Procédure de gestion de conflit interpersonnel ou social
 
-1. Dans le cas d'un conflit, les comportements ou mécanismes doivent être adressés aux protagonistes au plus vite une fois qu'ils sont identifiés comme problématiques
+Dans le cas d'un conflit interpersonnel ou social, les protagonistes doivent tenter de résoudre le conflit par eux-mêmes en communiquant directement. Si cela n'est pas possible ou si le conflit persiste, une gestion de conflit collective peut être lancée. Cette gestion de conflit peut passer par différents outils:
+
+- Cercles de parole
+- Procédure en plusieurs étapes sur plusieurs jours:
+  - Echanges interpersonnels avec témoin
+  - L'établissement d'un ordre du jour
+  - Discussion en groupe respectant scrupuleusement l'ordre du jour
+- Médiation par une tierce partie
+
+### Procédure de cadrage de conflit lié au non-respect de la charte
+
+1. Dans le cas d'un conflit où le non-respect de la charte est constaté, les comportements ou mécanismes doivent être adressés aux protagonistes au plus vite une fois qu'ils sont identifiés comme problématiques
 2. En cas de réitération de ces comportements une gestion de conflit collective peut être lancée
 3. Les arrimé·es et résident·es volontaires (hors personnes visées par la procédure) se concertent pour essayer de trouver des solutions comme, mais non limitées à, l'articulation des besoins du collectif à l'égard des protagonistes
 4. Ce comité peut initier une procédure de sanctions impliquant la mise en place d'ultimatums
@@ -39,12 +50,14 @@ Les sanctions suite à un non-respect d'un ultimatum peuvent être:
 
 Lors d’une procédure de gestion de conflit, si la cohabitation devient difficile et nuit aux différentes parties, le groupe peut demander à des personnes de quitter temporairement le lieu, mais seulement si les conditions suivantes sont remplies :
 
-Une majorité absolue d’habitant·es (plus de 50 % des résident·es et des arrimé·es) est d’accord sur les personnes concerné·es par cette exclusion temporaire.
-
-Les personnes concerné·es disposent de solutions de subsistance et de logement pendant toute la durée de l’exclusion.
-
-La durée de l’exclusion ne peut excéder six semaines, doit être la plus courte possible, et ne peut dépasser la durée de la procédure de gestion de conflit.
+- Une majorité absolue d’habitant·es (plus de 50 % des résident·es et des arrimé·es) est d’accord sur les personnes concerné·es par cette exclusion temporaire.
+- Les personnes concerné·es disposent de solutions de subsistance et de logement pendant toute la durée de l’exclusion.
+- La durée de l’exclusion ne peut excéder six semaines, doit être la plus courte possible, et ne peut dépasser la durée de la procédure de gestion de conflit. Autrement dit, si la procédure de gestion de conflit se termine avant la fin de la période d’exclusion, les personnes concerné·es doivent être réintégré·es immédiatement.
 
 Les parties doivent tout mettre en œuvre pour organiser, dans le pire des cas, une médiation par une tierce partie avant la fin de la période d’exclusion.
 
 Une fois cette période terminée, que le conflit soit résolu ou non, l’exclusion ne peut être reconduite que si toutes les personnes, à l’exception d’une seule, sont d’accord. Cette reconduction doit scrupuleusement respecter les mêmes conditions que celles présentées ci-dessus.
+
+#### Le cas des habitant·es (résident·es et arrimé·es)
+
+Dans le cas où un·e habitant·e (résident·e ou arrimé·e) est concerné·e par une exclusion temporaire, 

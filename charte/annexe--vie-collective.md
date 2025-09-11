@@ -12,7 +12,8 @@ author: mallouestan
 
 > Cette annexe est un document vivant et évolutif. Elle est à lire et à respecter comme la charte elle-même. Elle est à compléter, modifier ou corriger par le collectif du Mallouestan.
 
-### Communication sur le lieu 
+### Communication sur le lieu
+
 Les événements ponctuels ou quotidiens qui sont destinés à être collectifs (repas, réunions...) nécessitent une communication claire et fonctionnelle passant par des moyens de communication ubiquitaires (partagés par toustes). L'objectif de cette communication est de permettre à chacun·e de participer ou d'être informé·e afin que toustes soit inclus·es dans la vie collective.
 
 > Exemple: Pour les repas, prévenir toutes les personne du lieu
@@ -27,6 +28,10 @@ La communication est intrinsèquement complexe et varie en fonction des individu
 ### Espace personnel
 
 Des espaces sont mis à disposition des habitant-es (résident-es et arrimé-es) qui en ont un droit d'usage. Les occupant-es "officiels" de ces espaces doivent être consulté-es et consentir pour toute utilisation ou changement de leur espace. Pendant que les espaces personnels ne sont pas occupé-e par ces occupant-es "officiels", la gouvenance repose également sur le collectif. Autrement dit, si une personne s'absente du lieu, elle ne peut décider seule de qui occupe cet espace personnel et doit avoir l'accord de l'ensemble du groupe.
+
+Les travaux dits structurels sont à la responsabilité du groupe tandis que les travaux mineurs tels que décoratifs à l'intérieur (peinture, revêtement de sol amovible, etc.) ou le fauchage sont à la responsabilité de l'occupant-e.
+
+Lorsque des occupant-es quittent définitivement l'espace mis à leur disposition, iels doivent s'assurer qu'iels laissent l'espace dans un état propre, salubre et rangé. Iels doivent signaler au collectif toute chose qui pourrait compromettre ou déranger l'installation d'une nouvelle personne. Un membre du groupe (arrimé-e ou résident-e) fera une visite de l'espace au moment du départ des occupant-es. 
 
 ### Occupation d'espace 
 Les espaces suivants sur le lieu peuvent être réservés pour un usage exclusif.
@@ -52,13 +57,6 @@ Le lieu est séparé en plusieurs pôles. Ces pôles servent principalement à d
 - Faune et flore sauvages
 
 Les décisions sont prises collectivement au moment de planification pour chaque pôle où un budget et des objectifs sont définis pour le trimestre suivant. 
-
-### Mise à disposition d'espace personnel
-Dans le contexte d'accueil et d'hébergement, en dehors des dortoirs, nous pouvons mettre à disposition des espaces s'apparentant à des espaces personnels. Pour autant, les règles des espaces communs s'appliquent dans ces espaces sauf exception convenue avec le collectif en amont.
-
-Les travaux dits structurels sont à la responsabilité du groupe tandis que les travaux mineurs tels que décoratifs à l'intérieur (peinture, revêtement de sol amovible, etc.) ou le fauchage sont à la responsabilité de l'occupant-e.
-
-Lorsque des occupant-es quittent définitivement l'espace mis à leur disposition, iels doivent s'assurer qu'iels laissent l'espace dans un état propre, salubre et rangé. Iels doivent signaler au collectif toute chose qui pourrait compromettre ou déranger l'installation d'une nouvelle personne. Un membre du groupe (arrimé-e ou résident-e) fera une visite de l'espace au moment du départ des occupant-es. 
 
 ### Événements
 
