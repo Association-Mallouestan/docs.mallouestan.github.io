@@ -5,7 +5,7 @@
 #### Nom du projet
 
 ```
-
+1) Osiériculture 1/? 2) Vannerie torsadée : familiarisation en vue d'ateliers autour du seigle
 ```
 
 > Exemple : Comprendre la taille des fruitiers
