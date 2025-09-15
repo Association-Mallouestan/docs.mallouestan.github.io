@@ -29,8 +29,10 @@ La création d'une formation taille de pierre sur deux jours
 
 #### Quel est le budget nécessaire ?
 
-Des ciseaux et une massette portugaise:     198,95 € 
+Des ciseaux et une massette portugaise:     198,95 €
+
 Une chasse:                                  50,00 €
+
 Une pierre de banc env. 20 x 30 x 4 cm:      16,00 €
 
 Total:                                      264,95 €
