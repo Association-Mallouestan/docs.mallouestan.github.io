@@ -13,7 +13,9 @@
 #### Description du projet
 
 ```
-
+Première phase d'apprentissage sur la gestion de l'osier.
+Apprendre et expérimenter sur la mise en place d'une oseraie, sur son entretien, les conditions du sol, l'orientation et tout ce qui concerne le début de l'oseraie durant l'automne/hiver en priorité, durant les premières années en deuxième priorité, et apprendre sur tout le reste de la durée de vie d'une oseraie en troisième priorité.
+Voir quelles essences intéressantes mettre en place (salix alba, salix viminalis, salix purpurea, saule rouge belge/saule cassant bourdaine, etc.).
 
 
 
