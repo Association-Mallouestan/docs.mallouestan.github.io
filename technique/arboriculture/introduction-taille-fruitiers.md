@@ -1,66 +1,20 @@
 ---
-date: 2025-09-14 2:00:00
-title: Période de taille des fruitiers 
-description: Un calendrier qui permet de se souvenir des périodes les plus propices pour tailler les fruitiers.
+date: 2025-14-09 2:00:00
+title: Premières notions sur la taille des fruitiers
+description: Quelques éléments d'introduction à prendre en compte avant de taille des fruitiers
 tags:
   - techniques
   - arboriculture
-image: /images/techniques/arboriculture/calendrier-reperes-taille-fruitiers.jpg
+image: /images/techniques/arboriculture/pommier-du-mallouestan-1.jpg
 author: mallouestan
 ---
 
 _Ces ressources sont le fruit de nos recherches et débuts d'expérimentation en arboriculture. N'hésitez pas à vérifier et à croiser les informations ! Si vous avez d'autres pratiques et êtes en désaccord sur certains points, n'hésitez pas à nous faire des retours critiques._
 
-## Période de taille
-
-![Tableau indiquant les périodes de taille d'abres et d'arbustes fruitiers](/images/techniques/arboriculture/calendrier-reperes-taille-fruitiers.jpg) 
-
-Ce tableau a été réalisé à partir de [l'ouvrage de Jean-Yves Prat et Denis Retournard (1999), L'ABC de la taille](https://www.rusticaeditions.com/9782840389606-l-abc-de-la-taille.html#:~:text=Accessible%20%C3%A0%20tous%20gr%C3%A2ce%20%C3%A0%20son%20langage%20simple,bons%20gestes%20et%20les%20meilleures%20p%C3%A9riodes%20pour%20tailler.).
-
-
-La colonne du tableau avec des émoticones sur fond noir signifie les repères visuels à prendre sur l'arbre pour savoir quand le tailler. 
- 
- - Fleur 🌸 : état de la floraison
- - Pomme 🍎 : état de la fructification (pas seulement des pommiers)
- - Feuille 🌿 : état de la végétation (stade de développement des boutons et du feuillage)
-
- - Flèche vers la gauche : tailler avant l'apparition de l'élément indiqué. 
-Exemple : ⬅🌿 signifie "tailler avant le départ de végétation".
- - Flèche vers la droite : tailler pendant la présence de l'élément indiqué. 
- Exemple : 🍎➡ signifie "tailler pendant la fructification".
- - Croix : tailler après la disparition de l'élément indiqué. 
- Exemple : 🌿❌ signifie "tailler après que les feuilles sont tombées".
- 
- Cas particulier de combinaison : 🍎➡❌ signifie "tailler pendant la fructification et/ou après la fructification".
-
-Exception : les cases sur fond noir concernant la vigne signifient 
- - Raisin : cette ligne indique la période procice à la *taille de fructification* de la vigne.
- - Corde nouée : cette ligne indique la période procipe au *palissage* de la vigne.
- - Ciseaux : cette ligne indique la période propice à la *taille de formation* de la vigne.
-
-
-## Taille de formation : cas particulier des premières années suivant la plantation 
-
-Ne vous fiez pas au tableau si vous venez de planter un arbrisseau. L'année (ou les quelques années) suivant la plantation, les recommandations de taille dite "de formation", en termes de période comme de technique, divergent souvent des conseils appliquables à un arbre adulte. En attendant des ressources techniques ici sur ce point, vous pouvez notamment consulter _L'ABC de la taille_ (_op.cit._) ainsi que d'autres ressources en bibliothèque ou en ligne.
-
-Pour la taille des arbres pallisés ou en palmette, les périodes propices sont indiquées dans le tableau ci-dessus. Cependant, la logique de taille de ces formes anciennes est particulièrement complexe et demande une connaissance approfondie du fontionnement des abres. Ressources techniques à venir à ce sujet !
-Vous pouvez vous renseigner auprès de l'Ecole du Breuil pour une formation professionnalisante, ou bien auprès de l'association Sens de l'Humus, qui a proposé pendant de nombreuses années des formations au sujet de la taille des pommmiers, poiriers et pêchés palissés, aux Jardin des Murs à Pêche à Montreuil.
-
-
-## Taille de restauration : cas particulier des abres/arbustes sénécents ou laissés à l'abandon
-
-Les périodes de taille de restauration ne sont parfois pas la même que pour une simple taille d'entretien. 
-
-Nous produirons bientôt un tableau des périodes recommandées pour ce type de taille, ainsi qu'une ressource décrivant des pratiques de la taille dite "de restauration" de différents arbres/arbustes.
-
-Certains fruitiers en fin de vie peuvent être rajeunis, et leur durée de vie ainsi ralongée. Par exemple, un arbre qui produit une floraison extrêmement disproportionnée par rapport au volume de son feuillage peut-être scénécent. Alors qu'on pourrait anticiper une fuctification gigantesque en voyant sa floraison généreuse, il est en train de tenter de se reproduire avant de mourir. N'ayant pas assez de feuillage, la fructification intense l'épuisera certainement, et ses fruits tomberont avant d'arriver à maturité.
-
-Si vous souhaitez vous occuper d'un arbre scénécent, renseignez-vous sur les spécificité de son espèce et de cet individu particulier : vous pouvez redonner une nouvelle jeunesse à un arbre en le taillant très sévèrement, mais il faut être précautionneux.se. Certains arbres, comme les pêchers, ne peuvent pas reprendre si on les coupe trop bas. De même, prenez garde à la hauteur de vos porte-greffes et greffons : si vous coupez en dessous du greffon, les fruits obtenus seront ceux du porte-greffe. Le porte-greffe est choisi pour être adapté à la nature de votre sol, mais ses fruits peuvent avoir une saveur inintéressante.
-
 
 ## Ressources supplémentaires
 
-Vous pouvez consulter notre ressource technique : "Premières notions sur la taille des fruitiers".
+Vous pouvez consulter notre ressource technique : "".
 
 La taille de chaque fruitier a ses spécificités. Pour trouver des informations pratiques, vous pouvez consulter ce livre (disponible dans la bibliothèque physique du Mallouestan) et d'autres - nombreuses - ressources sur d'autres sites web. Un ensemble de ressources de ce type sont en cours de création pour partager nos connaissances et apprentissages sur la taille de quelques fruitiers. Dans les années à venir, le Mallouestan pourra proposer des formations sur diverses techniques arboricoles ! Vous pouvez nous suivre et vous abonner à la newsletter pour recevoir ces informations et les dates des formations à venir.
 
