@@ -96,6 +96,8 @@ Pour vos prochains raboutages, vous pouvez ficher les brins dans les interstices
 
 (photo)
 
+😉 Astuce : faites en sortes que les parties en trop qui dépassent soient toutes du même côté. La dernière étape consiste à les couper et votre fond croisé sera plus beau d'un côté que de l'autre : ce sera la partie visible.
+
 ### Finir le tressage
 
 Pour finir votre fond croisé, fichez les derniers brins dans les interstices le long des bâtons.
@@ -109,3 +111,4 @@ L'épluchage consiste à enlever les parties non voulues dûes qui résultent du
 🥳 Bravo ! Vous avez réalisé un fond croisé !
 
 (photo)
+
