@@ -13,7 +13,7 @@ author: mallouestan
 
 ### Présentation
 
-Cette liste d'outils n'as pas comme objectif d'être exhaustif. C'est une liste orienté pour la taille de pierre traditionnelle sans outils éléctrique ou thermique.
+Cette liste d'outils n'a pas comme objectif d'être exhaustive. C'est une liste orientée pour la taille de pierre traditionnelle sans outils éléctriques ou thermiques.
 
 ### 🔧 Outils de taille
 
@@ -21,7 +21,7 @@ Cette liste d'outils n'as pas comme objectif d'être exhaustif. C'est une liste 
 
 #### Ciseau
 
-> 6 sur l'image çi-dessus
+> 6 sur l'image ci-dessus
 
 - Outil de base pour tailler la pierre.
 - Utilisé pour les ciselures, les finitions et les coupes précises.
@@ -29,7 +29,7 @@ Cette liste d'outils n'as pas comme objectif d'être exhaustif. C'est une liste 
 
 #### Gradine
 
-> 4 sur l'image çi-dessus
+> 4 sur l'image ci-dessus
 
 - Ciseau dentelé à dents pointues ou plates.
 - Sert à dégrossir la pierre et à créer une texture striée.
@@ -127,7 +127,7 @@ Cette liste d'outils n'as pas comme objectif d'être exhaustif. C'est une liste 
 - Composée d’un talon et d’une lame mobile avec vis de blocage.
 - Utilisée pour reproduire des angles complexes ou irréguliers.
 
-### Outil d'entretient et de maintenance
+### Outil d'entretien et de maintenance
 
 #### Pierre de banc
 
@@ -150,4 +150,5 @@ Cette liste d'outils n'as pas comme objectif d'être exhaustif. C'est une liste 
 #### C'est mieux
 
 - Chaussure de sécurité
+
 - Gants
