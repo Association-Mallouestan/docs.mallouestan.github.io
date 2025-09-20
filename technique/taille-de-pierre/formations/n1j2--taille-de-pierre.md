@@ -5,10 +5,10 @@
 - Comprendre les types de pierre (calcaire, grès, granite, etc.)
 - Identifier les outils de base
 
-### Contenue :
+### Contenu :
 
 - Présentation des pierres utilisées en taille
-- Visite de batiments avec des pierre de taille
+- Visite de bâtiments avec des pierre de taille
 - Manipulation des outils : massette, ciseaux, gradines
 - Sécurité : lunettes, gants, posture
 
