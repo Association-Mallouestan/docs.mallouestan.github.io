@@ -14,7 +14,7 @@ author: mallouestan
 
 ### Communication sur le lieu
 
-Les événements ponctuels ou quotidiens qui sont destinés à être collectifs (repas, réunions...) nécessitent une communication claire et fonctionnelle passant par des moyens de communication ubiquitaires (partagés par toustes). L'objectif de cette communication est de permettre à chacun·e de participer ou d'être informé·e afin que toustes soit inclus·es dans la vie collective.
+Les événements ponctuels ou quotidiens qui sont destinés à être collectifs (repas, réunions...) nécessitent une communication claire et fonctionnelle passant par des moyens de communication ubiquitaires (partagés par toustes). L'objectif de cette communication est de permettre à chacunce de participer ou d'être informé·e afin que toustes soit inclus·es dans la vie collective.
 
 > Exemple: Pour les repas, prévenir toutes les personne du lieu
 
@@ -27,11 +27,11 @@ La communication est intrinsèquement complexe et varie en fonction des individu
 
 ### Espace personnel
 
-Des espaces sont mis à disposition des habitant-es (résident-es et arrimé-es) qui en ont un droit d'usage. Les occupant-es "officiels" de ces espaces doivent être consulté-es et consentir pour toute utilisation ou changement de leur espace. Pendant que les espaces personnels ne sont pas occupé-e par ces occupant-es "officiels", la gouvenance repose également sur le collectif. Autrement dit, si une personne s'absente du lieu, elle ne peut décider seule de qui occupe cet espace personnel et doit avoir l'accord de l'ensemble du groupe.
+Des espaces sont mis à disposition des habitantes (résident·es et arrimé·es) qui en ont un droit d'usage. Les occupant·es "officiel·les" de ces espaces doivent être consulté·es et consentir pour toute utilisation ou changement de leur espace. Pendant que les espaces personnels ne sont pas occupés par ces occupant·es "officiel·les", la gouvenance repose également sur le collectif. Autrement dit, si une personne s'absente du lieu, elle ne peut décider seule de qui occupe cet espace personnel, et doit avoir l'accord de l'ensemble du groupe.
 
-Les travaux dits structurels sont à la responsabilité du groupe tandis que les travaux mineurs tels que décoratifs à l'intérieur (peinture, revêtement de sol amovible, etc.) ou le fauchage sont à la responsabilité de l'occupant-e.
+Les travaux dits structurels sont à la responsabilité du groupe, tandis que les travaux mineurs tels que décoratifs à l'intérieur (peinture, revêtement de sol amovible, etc.) ou le fauchage sont à la responsabilité de l'occupant·e.
 
-Lorsque des occupant-es quittent définitivement l'espace mis à leur disposition, iels doivent s'assurer qu'iels laissent l'espace dans un état propre, salubre et rangé. Iels doivent signaler au collectif toute chose qui pourrait compromettre ou déranger l'installation d'une nouvelle personne. Un membre du groupe (arrimé-e ou résident-e) fera une visite de l'espace au moment du départ des occupant-es. 
+Lorsque des occupant·es quittent définitivement l'espace mis à leur disposition, iels doivent s'assurer qu'iels laissent l'espace dans un état propre, salubre et rangé. Iels doivent signaler au collectif toute chose qui pourrait compromettre ou déranger l'installation d'une nouvelle personne. Un·e membre du groupe (arrimé·e ou résident·e) fera une visite de l'espace au moment du départ des occupant·es. 
 
 ### Occupation d'espace 
 
@@ -55,7 +55,7 @@ Le lieu est séparé en plusieurs pôles. Ces pôles servent principalement à d
 - Gestion des ressources premières
 - Construction
 - Soins aux animaux non-humains
-- Vie co
+- Vie collective (Vie co)
 - Autocritique et stratégie
 - Faune et flore sauvages
 
@@ -63,11 +63,11 @@ Les décisions sont prises collectivement au moment de planification pour chaque
 
 ### Événements
 
-Nous sommes amené-es à organiser ou accueillir des événements sur le lieu comme, mais non limité à, des formations, des rencontres diverses, des expositions ou des concerts. Ces évènements, incluant les évènements externes (organisés par d'autres collectifs) permis par la mise à disposition du lieu, se doivent d'être à prix libre.   
+Nous sommes amené·es à organiser ou accueillir des événements sur le lieu comme, mais non limité à, des formations, des rencontres diverses, des expositions ou des concerts. Ces évènements, incluant les évènements externes (organisés par d'autres collectifs) permis par la mise à disposition du lieu, se doivent d'être à prix libre.   
 
 ### Communication extérieure
 
-Toute communication au nom du Mallouestan se doit d'être en accord avec cette charte et ne doit qu'exprimer des positions politiques, militant·es ou philosophiques présentes dans cette charte (anarchisme, écocentrisme ...). Toute prise de position du communicant non présente dans cette charte ne doit pas être exprimée au nom du Mallouestan.
+Toute communication au nom du Mallouestan se doit d'être en accord avec cette charte et ne doit qu'exprimer des positions politiques, militantes ou philosophiques présentes dans cette charte (anarchisme, écocentrisme ...). Toute prise de position d'un·e communicant·e non présente dans cette charte ne doit pas être exprimée au nom du Mallouestan.
 
 ### Limites et quotas
 
