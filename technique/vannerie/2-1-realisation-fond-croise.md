@@ -112,3 +112,10 @@ L'épluchage consiste à enlever les parties non voulues dûes qui résultent du
 
 (photo)
 
+## Poursuivre
+
+Vous pouvez tout à fait vous arrêter là pour avoir déjà un objet utile. 
+
+Mais vous pouvez poursuivre vers la réalisation d'une corbeille ou d'un panier ici : (lien)
+
+
