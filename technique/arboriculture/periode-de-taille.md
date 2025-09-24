@@ -13,7 +13,7 @@ _Ces ressources en arboriculture proviennent d'apprentissages comme des lectures
 
 ## Période de taille
 
-![Tableau indiquant les périodes de taille d'abres et d'arbustes fruitiers](/images/techniques/arboriculture/calendrier-reperes-taille-fruitiers.jpg) 
+![Tableau indiquant les périodes de taille d'arbres et d'arbustes fruitiers](/images/techniques/arboriculture/calendrier-reperes-taille-fruitiers.jpg) 
 
 Ce tableau a été réalisé à partir de [l'ouvrage de Jean-Yves Prat et Denis Retournard (1999), L'ABC de la taille](https://www.rusticaeditions.com/9782840389606-l-abc-de-la-taille.html#:~:text=Accessible%20%C3%A0%20tous%20gr%C3%A2ce%20%C3%A0%20son%20langage%20simple,bons%20gestes%20et%20les%20meilleures%20p%C3%A9riodes%20pour%20tailler.).
 
