@@ -5,7 +5,7 @@ description: Piquetages et géométries primitives
 tags:
   - techniques
   - construction
-image: /images/techniques/construction/arc.b.tp.jpg
+image: /images/technique/construction/arc.b.tp.jpg
 author: mallouestan
 ---
 
@@ -30,7 +30,7 @@ On peut créer des parallélogramme avec une corde à treize noeuds comme les su
 
 On peut réaliser différents triangles avec la corde à treize noeuds avec lesquels ont peut mesurer des angles.
 
-![triangles](/images/techniques/construction/triangles.jpg)
+![triangles](/images/technique/construction/triangles.jpg)
 
 1. Triangle équilatéral (4, 4, 4) avec des angles de **60 degrés** 
 2. Triangle isocèle (5, 5, 2) avec des angles d'environ 78,5 degrés et environ 23 degrés (la majorité des clochers d'Europe sont des triangles (5, 5, 2)) 
@@ -42,7 +42,7 @@ On peut réaliser différents triangles avec la corde à treize noeuds avec lesq
 
 Une Bissectrice est une droite qui sépare un angle en deux parties égales. Dans le cas d'un segment elle sépare le segment en deux et est perpendiculaires à ce segment (l'équivalent d'une Bissectrice de 180 degrés). Construction:
 
-![triangles](/images/techniques/construction/bissectrice.jpg)
+![triangles](/images/technique/construction/bissectrice.jpg)
 
 1. Nous voulons construire la bissectrice de l'angle Â 
 2. Plaçons le compas en A et construisons C et B assurant [AC]=[AB]
@@ -51,7 +51,7 @@ Une Bissectrice est une droite qui sépare un angle en deux parties égales. Dan
 
 #### Perpendiculaire à un segment par un point pas sur la ligne
 
-![triangles](/images/techniques/construction/perpendiculairep.jpg)
+![triangles](/images/technique/construction/perpendiculairep.jpg)
 
 1. Nous avons un point P que nous souhaitons projeter de manière orthogonale sur le segment ou trait. Autrement dit nous souhaitons construire une perpendiculaire au trait en passant par P
 2. Commençons par construire A et B en plaçant le compas en P avec un écartement strictement supérieur à la distance entre P et notre trait (distance la plus petite). 
@@ -62,25 +62,25 @@ Une Bissectrice est une droite qui sépare un angle en deux parties égales. Dan
 
 #### Arc en plein cintre
 
-![triangles](/images/techniques/construction/arc.p.c.jpg)
+![triangles](/images/technique/construction/arc.p.c.jpg)
 
 #### Arc surbaissé 
 
-![triangles](/images/techniques/construction/arc.sb.jpg)
+![triangles](/images/technique/construction/arc.sb.jpg)
 
 #### Arc brisée équilatéral 
 
-![triangles](/images/techniques/construction/arc.b.e.jpg)
+![triangles](/images/technique/construction/arc.b.e.jpg)
 
 #### Arc brisée en tiers point
 
-![triangles](/images/techniques/construction/arc.b.tp.jpg)
+![triangles](/images/technique/construction/arc.b.tp.jpg)
 
 ### Division de parallélogrammes 
 
 Grâce au piquetage nous pouvons également diviser des parallélogrammes de manière extrêmement précise.
 
-![triangles](/images/techniques/construction/divisiongeo.jpg)
+![triangles](/images/technique/construction/divisiongeo.jpg)
 
 1. Prennons le parallélogramme UVZY
 2. Construisons son centre C en traçant UZ et VY
@@ -89,7 +89,7 @@ Grâce au piquetage nous pouvons également diviser des parallélogrammes de man
 
 ### Multiplication de parallélogramme 
 
-![triangles](/images/techniques/construction/multiplicationgeo.jpg)
+![triangles](/images/technique/construction/multiplicationgeo.jpg)
 
 1. Prennons un parallélogramme ABCD
 2. Divisons le pour obtenir le centres et le point milieu E de BC

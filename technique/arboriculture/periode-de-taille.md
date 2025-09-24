@@ -5,13 +5,13 @@ description: Ta desc
 tags:
   - techniques
   - arboriculture
-image: /images/techniques/arboriculture/calendrier-reperes-taille-fruitiers.jpg
+image: /images/technique/arboriculture/calendrier-reperes-taille-fruitiers.jpg
 author: mallouestan
 ---
 
 ## Période de taille
 
-![Tableau indiquant les périodes de taille d'abres et d'arbustes fruitiers](/images/techniques/arboriculture/calendrier-reperes-taille-fruitiers.jpg)
+![Tableau indiquant les périodes de taille d'abres et d'arbustes fruitiers](/images/technique/arboriculture/calendrier-reperes-taille-fruitiers.jpg)
 
 ### Notes
 

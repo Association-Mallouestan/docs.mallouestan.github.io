@@ -5,7 +5,7 @@ description: Identifier les outils de taille de pierre
 tags:
   - techniques
   - taille-de-pierre
-image: /images/techniques/construction/arc.b.tp.jpg
+image: /images/technique/construction/arc.b.tp.jpg
 author: mallouestan
 ---
 
@@ -17,7 +17,7 @@ Cette liste d'outils n'a pas comme objectif d'être exhaustive. C'est une liste 
 
 ### 🔧 Outils de taille
 
-![Outils de taille](/images/techniques/taille-de-pierre/outils-taille.jpg)
+![Outils de taille](/images/technique/taille-de-pierre/outils-taille.jpg)
 
 #### Ciseau
 
@@ -69,7 +69,7 @@ Cette liste d'outils n'a pas comme objectif d'être exhaustive. C'est une liste 
 
 ### 🔨 Outils de percussion
 
-![Outils de frappe](/images/techniques/tdp/outils-frappe.jpg)
+![Outils de frappe](/images/technique/tdp/outils-frappe.jpg)
 
 #### Massette tailleur
 
@@ -131,7 +131,7 @@ Cette liste d'outils n'a pas comme objectif d'être exhaustive. C'est une liste 
 
 #### Pierre de banc
 
-![Pierre de banc](/images/techniques/tdp/pierre-de-banc.jpg)
+![Pierre de banc](/images/technique/tdp/pierre-de-banc.jpg)
 
 - Grâce à son poids propre élevé, la pierre repose tranquillement sur l'établi.
 - Utilisé pour l'affûtage des outils en acier forgé.
