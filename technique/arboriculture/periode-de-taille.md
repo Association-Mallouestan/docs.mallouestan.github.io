@@ -9,7 +9,7 @@ image: /images/techniques/arboriculture/calendrier-reperes-taille-fruitiers.jpg
 author: mallouestan
 ---
 
-_Ces ressources sont le fruit de nos recherches et débuts d'expérimentation en arboriculture. N'hésitez pas à vérifier et à croiser les informations ! Si vous avez d'autres pratiques et êtes en désaccord sur certains points, n'hésitez pas à nous faire des retours critiques._
+_Ces ressources en arboriculture proviennent d'apprentissages comme des lectures, stages et recherches pratiques. Référez-vous à la bibliographie pour plus de sources d'informations. Si vous avez d'autres pratiques et êtes en désaccord sur certains points, n'hésitez pas à nous faire des retours._
 
 ## Période de taille
 
