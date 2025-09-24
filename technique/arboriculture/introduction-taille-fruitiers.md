@@ -9,7 +9,7 @@ image: /images/techniques/arboriculture/pommier-du-mallouestan-1.jpg
 author: mallouestan
 ---
 
-_Ces ressources sont le fruit de nos recherches et débuts d'expérimentation en arboriculture. N'hésitez pas à vérifier et à croiser les informations ! Si vous avez d'autres pratiques et êtes en désaccord sur certains points, n'hésitez pas à nous faire des retours critiques._
+_Ces ressources en arboriculture sont le fruit de nos recherches. Si vous avez d'autres pratiques et êtes en désaccord sur certains points, n'hésitez pas à nous faire des retours._
 
 
 ## Ressources supplémentaires
@@ -56,3 +56,4 @@ N'hésitez pas à reprendre les coupes des années précédentes si l'arbre a ma
 Plusieurs ressources seront prochainement créées et publiées sur ce site, à propos de l'identication et des options de traitement de divers.es maladies et parasites des arbres/arbustes fruitiers.
 
 Diverses écoles existent, avec divers raisonnements, techniques et pratiques de taille : certain.es enjoignent à utiliser du mastic ou goudron citracisant sur les plaies de taille. Si vous choisissez cette option, faite-le plutôt par temps sec pour éviter d'emprisonner de l'humidité dans le pansement ainsi créé. Une ressource sera prochainement créée sur ce site, qui compilera les divers arguments sur ce sujet ; les possibilités de fabrication autonome de ces produits cictrisants ; et nos choix et expériences à ce sujet.
+
