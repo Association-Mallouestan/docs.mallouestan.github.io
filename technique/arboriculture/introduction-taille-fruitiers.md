@@ -39,13 +39,15 @@ Repérez les bourgeons : certains sont très discrets, sur l'écorce des arbres.
 
 Généralement, on coupe les rameaux qui se développe vers le centre de l'arbre - tournez autour de l'arbre, sur ce point la persepctive peut être trompeuse - ainsi que les rameaux qui se développent vers la terre. L'apport en sève de ces derniers sera réduits : ils ne porteront pas beaucoup de fruits ni de végétation, et seront plus sujets que les autres à la sécheresse et aux maladies.
 
-Taillez en biais : la coupe ne doit pas être horizontale, car cela entrainerait un risque de stagnation d'eau sur la plaie et pourrait l'amener à pourrir ou exposer l'abre à un champignon ou une maladie.
+Taillez légèrement en biais : autant que possible, la coupe ne devrait pas être horizontale, car cela entrainerait un risque de stagnation d'eau sur la plaie et pourrait l'amener à pourrir ou exposer l'abre à un champignon ou une maladie.
 
 Sur une branche de grande ou moyenne section (>2 cm de diamètre) ou qui est alourdie par des fruits, prenez garde à effectuer une première coupe pour alléger la branche. Prenez d'autant plus large que le diamètre est gros ou les fruits nombreux. Ainsi, vous limiterez les risques d'écorçage voire de fendage de la branche. Tailler à plusieurs permet également qu'une personne soutienne la branche que vous êtes en train de coupe, lorsque cela est possible et sans danger. Vous pouvez également attacher la branche au trond de l'arbre à l'aide d'une corde : cela permet de limiter les risques, lorsqu'elle tombera, qu'elle vous blesse ou blesse une personne au sol.
 
 Si la coupe est assez bien placée mais pas très nette, par exemple si votre outil a laissé une déchirure au niveau de l'écorce et du cambium, il est possible de la corriger directement avec un petit couteau bien aiguisé (attention au sens de coupe pour éviter les blessure en forçant dans le bois dur). Vous pourrez retirer de fines épaisseur, dans le sens écorce => aubier, c'est-à-dire depuis l'extérieur vers l'intérieur de la section de bois. 
 
 N'hésitez pas à reprendre les coupes des années précédentes si l'arbre a mal cicatrisé et présente un début de sécheresse (absence de cambium sur une partie de votre coupe ; retrait de l'écorce avec ou sans formation de bourelet cicatrisant en amont de la coupe). En effet, la sécheresse va se propager dans l'abre en direction de sa base, et la réduction de l'afflux de sève en conséquence peut compromettre le développement végétatif et la fructification. De plus, le bois mort est comme une blessure, une porte d'entrée pour certain.es champignons et maladies.
+
+Diverses écoles existent, avec divers raisonnements, techniques et pratiques de taille : certain.es enjoignent à utiliser du mastic ou goudron citracisant sur les plaies de taille. Si vous choisissez cette option, faite-le plutôt par temps sec pour éviter d'emprisonner de l'humidité dans le pansement ainsi créé. Une ressource sera prochainement créée sur ce site, qui compilera les divers arguments sur ce sujet ; les possibilités de fabrication autonome de ces produits cictrisants ; et nos choix et expériences à ce sujet.
 
 
 ## Ressources supplémentaires
@@ -54,6 +56,3 @@ Vous pouvez consulter notre autre ressource technique : "[Période de taille des
 
 La taille de chaque fruitier a ses spécificités. Pour trouver des informations pratiques, vous pouvez consulter notamment l'ABC de la taille, par Jean-Yves Prat et Denis Retournard (disponible dans la bibliothèque physique du Mallouestan) et d'autres - nombreuses - ressources sur d'autres sites web. Un ensemble de ressources de ce type sont en cours de création pour partager nos connaissances et apprentissages sur la taille de quelques fruitiers. Dans les années à venir, le Mallouestan pourra proposer des formations sur diverses techniques arboricoles. Vous pouvez nous suivre et vous abonner à la newsletter pour recevoir ces informations et les dates des formations à venir.
 Plusieurs ressources seront prochainement créées et publiées sur ce site, à propos de l'identication et des options de traitement de divers.es maladies et parasites des arbres/arbustes fruitiers.
-
-
-Diverses écoles existent, avec divers raisonnements, techniques et pratiques de taille : certain.es enjoignent à utiliser du mastic ou goudron citracisant sur les plaies de taille. Si vous choisissez cette option, faite-le plutôt par temps sec pour éviter d'emprisonner de l'humidité dans le pansement ainsi créé. Une ressource sera prochainement créée sur ce site, qui compilera les divers arguments sur ce sujet ; les possibilités de fabrication autonome de ces produits cictrisants ; et nos choix et expériences à ce sujet.
