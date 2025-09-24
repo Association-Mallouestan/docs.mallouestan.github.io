@@ -69,7 +69,7 @@ Cette liste d'outils n'a pas comme objectif d'être exhaustive. C'est une liste 
 
 ### 🔨 Outils de percussion
 
-![Outils de frappe](/images/technique/tdp/outils-frappe.jpg)
+![Outils de frappe](/images/technique/taille-de-pierre/outils-frappe.jpg)
 
 #### Massette tailleur
 
@@ -131,7 +131,7 @@ Cette liste d'outils n'a pas comme objectif d'être exhaustive. C'est une liste 
 
 #### Pierre de banc
 
-![Pierre de banc](/images/technique/tdp/pierre-de-banc.jpg)
+![Pierre de banc](/images/technique/taille-de-pierre/pierre-de-banc.jpg)
 
 - Grâce à son poids propre élevé, la pierre repose tranquillement sur l'établi.
 - Utilisé pour l'affûtage des outils en acier forgé.
