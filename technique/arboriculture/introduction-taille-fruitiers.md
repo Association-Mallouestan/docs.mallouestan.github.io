@@ -12,20 +12,13 @@ author: mallouestan
 _Ces ressources en arboriculture proviennent d'apprentissages comme des lectures, stages et recherches pratiques. Référez-vous à la bibliographie pour plus de sources d'informations. Si vous avez d'autres pratiques et êtes en désaccord sur certains points, n'hésitez pas à nous faire des retours._
 
 
-## Ressources supplémentaires
-
-Vous pouvez consulter notre ressource technique : "".
-
-La taille de chaque fruitier a ses spécificités. Pour trouver des informations pratiques, vous pouvez consulter ce livre (disponible dans la bibliothèque physique du Mallouestan) et d'autres - nombreuses - ressources sur d'autres sites web. Un ensemble de ressources de ce type sont en cours de création pour partager nos connaissances et apprentissages sur la taille de quelques fruitiers. Dans les années à venir, le Mallouestan pourra proposer des formations sur diverses techniques arboricoles ! Vous pouvez nous suivre et vous abonner à la newsletter pour recevoir ces informations et les dates des formations à venir.
-
-
 ## Avant de tailler !
 
-La quatrième colonne du tableau indique la période entre deux tailles consécutives. Le nombre d'années pendant laquelle on ne taille pas varie selon les fruitiers. Généralement, les fruitiers à noyaux (abricotier, pêcher) sont affaiblis par les tailles à cause de l'écoulement de sève qui s'ensuit. A l'inverse, certains fruitiers à pépins (pommier, poirier, groseiller) supportent mieux la taille. Cela doit être pris en compte dans les pratiques de taille, ainsi que d'autres variables et techniques qui favorisent l'équilibre de la fructification et la cicatrisation des plaies créées par la taille.
+Le nombre d'années pendant laquelle on ne taille pas varie selon les fruitiers. Généralement, les fruitiers à noyaux (abricotier, pêcher) sont affaiblis par les tailles à cause de l'écoulement de sève qui s'ensuit. A l'inverse, certains fruitiers à pépins (pommier, poirier, groseiller) supportent mieux la taille. Cela doit être pris en compte dans les pratiques de taille, ainsi que d'autres variables et techniques qui favorisent l'équilibre de la fructification et la cicatrisation des plaies créées par la taille. La quatrième colonne du [tableau des périodes de taille](https://www.mallouestan.org/r/technique-arboriculture-periode-de-taille) indique la période entre deux tailles consécutives, selon le fruitier.
 
 La taille peut orienter les fruitiers dans leur forme, parfois de manière radicale, comme dans le cas des fruitiers cultivé sur pallissade ou en palmette (c'est le cas de certains pommier, poirier, pêcher). Cependant, on compose toujours avec le modèle de développement de l'arbre, c'est pourquoi il veut mieux chercher à comprendre ses tendances et son fonctionnement pour ne pas le contraindre inutilement. Par exemple, en dehors d'une taille sévère dite "de restauration", on souhaite généralement conserver la fructification : l'âge qu'un rameau doit atteindre pour pouvoir porter des fruits est alors important. La vigne est souvent taillée de manière assez sévère : elle produit du raisin sur le bois de l'année, celui qui vient tout juste de pousser. On ne taille pas un pommier de la même manière, car seuls ses rameaux qui sont dans leur troisième année, ou plus vieux, peuvent porter des fruits. Ainsi, pour le pommier, on cherche généralement à conserver un équilibre entre les branches jeunes, adultes, et vieilles.
 
-Commencez toujours par observer votre abre/arbuste, en deux à trois temps :
+Commencez toujours par observer votre abre/arbuste avant de le tailler. Ainsi, vous identifierez des priorités et éviterez de trop tailler ou de déséquilibrer son port [silhouette de l'arbre]. L'observation peut être réalisée méthodiquement, en deux à trois temps :
 
 1. Si possible, prenez plus de 10 mètres de distance avec les grands fruitiers. Faites le tour de l'arbre ou de l'arbuste. Observez son environnement ; les arbres voisins en compétition pour l'ensolleillement...
 
@@ -52,7 +45,15 @@ Sur une branche de grande ou moyenne section (>2 cm de diamètre) ou qui est alo
 
 Si la coupe est assez bien placée mais pas très nette, par exemple si votre outil a laissé une déchirure au niveau de l'écorce et du cambium, il est possible de la corriger directement avec un petit couteau bien aiguisé (attention au sens de coupe pour éviter les blessure en forçant dans le bois dur). Vous pourrez retirer de fines épaisseur, dans le sens écorce => aubier, c'est-à-dire depuis l'extérieur vers l'intérieur de la section de bois. 
 
-N'hésitez pas à reprendre les coupes des années précédentes si l'arbre a mal cicatrisé et présente un début de sécheresse (absence de cambium sur une partie de votre coupe ; retrait de l'écorce avec ou sans formation de bourelet cicatrisant en amont de la coupe). En effet, la sécheresse va se propager dans l'abre en direction de sa base, et la réduction de l'afflux de sève en conséquence peut compromettre le développement végétatif et la furctification. De plus, le bois mort est comme une blessure, une porte d'entrée pour certain.es champignons et maladies.
+N'hésitez pas à reprendre les coupes des années précédentes si l'arbre a mal cicatrisé et présente un début de sécheresse (absence de cambium sur une partie de votre coupe ; retrait de l'écorce avec ou sans formation de bourelet cicatrisant en amont de la coupe). En effet, la sécheresse va se propager dans l'abre en direction de sa base, et la réduction de l'afflux de sève en conséquence peut compromettre le développement végétatif et la fructification. De plus, le bois mort est comme une blessure, une porte d'entrée pour certain.es champignons et maladies.
+
+
+## Ressources supplémentaires
+
+Vous pouvez consulter notre autre ressource technique : "[Période de taille des fruitiers](https://www.mallouestan.org/r/technique-arboriculture-periode-de-taille)". Cette ressource est une simple sélection et mise en forme alternative de données issues de l'ouvrage de Jean-Yves Prat et Denis Retournard, l'ABC de la taille. Le tableau ainsi obtenu donne les périodes propices à la taille d'une vingtaine de fruitiers communs, la fréquence de taille, ainsi que des repères à prendre sur les arbres eux-mêmes, car les périodes de végétation, floraison et fructification peuvent varier d'une années et d'une région à l'autre.
+
+La taille de chaque fruitier a ses spécificités. Pour trouver des informations pratiques, vous pouvez consulter notamment l'ABC de la taille, par Jean-Yves Prat et Denis Retournard (disponible dans la bibliothèque physique du Mallouestan) et d'autres - nombreuses - ressources sur d'autres sites web. Un ensemble de ressources de ce type sont en cours de création pour partager nos connaissances et apprentissages sur la taille de quelques fruitiers. Dans les années à venir, le Mallouestan pourra proposer des formations sur diverses techniques arboricoles. Vous pouvez nous suivre et vous abonner à la newsletter pour recevoir ces informations et les dates des formations à venir.
 Plusieurs ressources seront prochainement créées et publiées sur ce site, à propos de l'identication et des options de traitement de divers.es maladies et parasites des arbres/arbustes fruitiers.
+
 
 Diverses écoles existent, avec divers raisonnements, techniques et pratiques de taille : certain.es enjoignent à utiliser du mastic ou goudron citracisant sur les plaies de taille. Si vous choisissez cette option, faite-le plutôt par temps sec pour éviter d'emprisonner de l'humidité dans le pansement ainsi créé. Une ressource sera prochainement créée sur ce site, qui compilera les divers arguments sur ce sujet ; les possibilités de fabrication autonome de ces produits cictrisants ; et nos choix et expériences à ce sujet.
