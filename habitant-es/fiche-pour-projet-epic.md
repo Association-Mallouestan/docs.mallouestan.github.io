@@ -20,7 +20,7 @@
 
 ```
 
-> Expliquer brièvement le domaine par exemple dans l'exemple de la taille des fruitiers, on pourrait dire que c'est un projet qui vise à comprendre les techniques de taille des arbres fruitiers pour améliorer leur santé et leur productivité ainsi que l'impact environnemental de ces pratiques.
+> Expliquer brièvement le domaine, par exemple dans l'exemple de la taille des fruitiers, on pourrait dire que c'est un projet qui vise à comprendre les techniques de taille des arbres fruitiers pour améliorer leur santé et leur productivité, ainsi que l'impact environnemental de ces pratiques.
 
 ### Intérêt collectif
 
@@ -52,7 +52,7 @@
 
 ```
 
-> Exemples: un calendrier de taille, un guide de bonnes pratiques
+> Exemples: un calendrier de taille, un guide des bonnes pratiques
 
 ### Besoins
 
