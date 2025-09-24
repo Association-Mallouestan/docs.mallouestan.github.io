@@ -14,10 +14,10 @@ author: mallouestan
 
 ### Procédure de gestion de conflit interpersonnel ou social
 
-Dans le cas d'un conflit interpersonnel ou social, les protagonistes doivent tenter de résoudre le conflit par elleux-mêmes, en communiquant directement. Si cela n'est pas possible, ou si le conflit persiste, une gestion de conflit collective peut être lancée. Cette gestion de conflit peut passer par différents outils:
+Dans le cas d'un conflit interpersonnel ou social, les protagonistes doivent tenter de résoudre le conflit par elleux-mêmes, en communiquant directement. Si cela n'est pas possible, ou si le conflit persiste, une gestion de conflit collective peut être lancée. Cette gestion de conflit peut passer par différents outils pouvant s'étaler sur plusieurs jours :
 
 - Cercles de parole
-- Procédure en plusieurs étapes sur plusieurs jours:
+- Procédure en plusieurs étapes :
   - Echanges interpersonnels avec témoin
   - L'établissement d'un ordre du jour
   - Discussion en groupe respectant scrupuleusement l'ordre du jour
