@@ -25,7 +25,7 @@ Prenez les 6 bâtons les plus gros de votre récolte. Pour cela, coupez 6 sectio
 
 Fendez dans le milieu les 3 plus gros bâton.
 
-(photo)
+![fente bâton](./images/FC10.jpg)
 
 Passez vos 3 bâtons fendus autour d'un 1er bâton à l'aide de votre couteau.
 Passez les 2 autres brins.
@@ -117,5 +117,6 @@ L'épluchage consiste à enlever les parties non voulues dûes qui résultent du
 Vous pouvez tout à fait vous arrêter là pour avoir déjà un objet utile. 
 
 Mais vous pouvez poursuivre vers la réalisation d'une corbeille ou d'un panier ici : (lien)
+
 
 
