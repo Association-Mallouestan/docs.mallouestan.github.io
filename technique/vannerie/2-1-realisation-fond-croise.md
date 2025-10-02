@@ -41,31 +41,31 @@ Passez un 1er bâton fendu autour d'un 1er bâton non fendu à l'aide de votre c
 
 ![passage 1er bâton](./images/FC12.jpg)
 
+Tordez les 4 brins restant. Vous pouvez appuyer sur votre genou par à-coups sans trop forcer, mais le mieux reste de les assouplir en les frottant sur votre genou sur la longueur (de gauche à droite sur la photo), tout en maintenant une torsion.
+
+![torsion bâton](./images/FC8.jpg)
+
 Fendez les 2 autres plus gros bâtons et passez-les autour du 1er bâton non fendu, donc parallèles au 1er bâton fendu.
 
 Passez ensuite vos 2 bâtons restant dans les fentes des 3 bâtons, de part et d'autre du 1er bâton non fendu.
 
 ![croisé](./images/FC14.jpg)
 
-Tordez les 4 bâtons extérieurs autant que faire se peut sans les casser.
-
-(photo)
+Tordez les 4 bâtons extérieurs autant que faire se peut sans les casser. Le but, idéalement, est d'arriver à réaliser un "soleil" en faisant en sorte que les angles entre les bâtons soient les mêmes. En fonction de la souplesse, vous n'y arriverez peut-être pas parfaitement, mais pas de panique, on peut élargir les écarts entre les bâtons au moment du tressage !
 
 😉 Astuce : si l'un des bâtons ou plusieurs casse(nt) partiellement mais pas complètement (qu'ils sont toujours en un morceau et pas deux), vous pouvez toujours les utiliser pour réaliser votre fond croisé. Il sera seulement moins solide et moins esthétique.
 
-(photo)
-
 ### Le début du tressage (faire un carré autour du centre)
 
-Prenez les 2 brins les plus fins - et idéalement les plus longs - de votre récolte. N'hésitez pas à les assouplir en les frottant, par exemple, sur votre jambe.
+Prenez les 2 brins les plus fins - et idéalement les plus longs - de votre récolte. N'hésitez pas à les assouplir en les frottant sur votre genou comme expliqué plus haut pour les bâtons.
 
-⚠️ Si vous utilisez de la ronce, veillez à les épépiner [enlever les épines, qui sont en fait des aiguillons au sens botanique]. Pour cela, se référer à notre ressource technique qui en parle : (lien)
+⚠️ Si vous utilisez de la ronce, veillez à les épépiner [enlever les épines, qui sont en fait des aiguillons au sens botanique]. Pour cela, se référer à notre ressource technique qui en parle : (à paraître prochainement)
 
-⚠️ Si vous utilisez des matériaux trop gros ou cassants, vous pouvez fendre les brins voire les transformer en éclisses. Pour cela, se référer à notre ressource technique qui en parle : (lien)
+⚠️ Si vous utilisez des matériaux trop gros ou cassants, vous pouvez fendre les brins voire les transformer en éclisses. Pour cela, se référer à notre ressource technique qui en parle : (à paraître prochainement)
 
 Fichez les cimes (les extrémités les plus fines de votre brin) dans l'une des fentes de votre croix.
 
-(photo)
+![brins du tressage fichés dans fente du croisé](./images/FC18.jpg)
 
 Faites passer un premier brin par dessus les trois bâtons 
 
@@ -132,6 +132,7 @@ L'épluchage consiste à enlever les parties non voulues dûes qui résultent du
 Vous pouvez tout à fait vous arrêter là pour avoir déjà un objet utile. 
 
 Mais vous pouvez poursuivre vers la réalisation d'une corbeille ou d'un panier ici : (lien)
+
 
 
 
