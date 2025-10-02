@@ -15,22 +15,37 @@ Mais le fond croisé peut servir en tant que tel, par exemple, comme dessous de 
 
 La réalisation du fond croisé se fait en 5 étapes.
 
+Vous aurez besoin d'un couteau (pas besoin d'un aiguisage de rasoir, minimisez les risques de blessure quand vous n'en avez pas besoin), d'un sécateur et éventuellement d'un poinçon ou d'un tournevis.
+
 ### Faire une croix avec 6 brins de grosse taille
 
 Ici, le matériaux utilisé n'est pas de grande importance. Certaines essences sont préférables pour des critères de torsion, de durabilité, de solidité, de résistance à la fente, mais beaucoup d'essences remplissent ces critères. Pour aller au plus simple, prenez du cornouiller, du saule ou du noisetier, si on veut rester dans des espèces fréquentes.
 
 Prenez les 6 bâtons les plus gros de votre récolte. Pour cela, coupez 6 sections au niveau des pieds de vos branches, c'est-à-dire en bas de vos branches, là où elles sont les plus grosses. Ils peuvent provenir en tout ou en partie d'une même branche. 
 
+![récolte et outils](./images/FC8.jpg)
+
 😉 Astuce : leur longueur doit être de quelques centimètres de plus que le diamètre visé pour votre ouvrage, ceci afin que vos brins utilisés pour tresser ne cherchent pas à partir lorsque vous arriverez à la fin du tressage.
 
-Fendez dans le milieu les 3 plus gros bâton.
+Fendez dans le milieu le plus gros bâton.
 
-![fente bâton](./images/FC10.jpg)
+![fente bâton 1](./images/FC9.jpg)
 
-Passez vos 3 bâtons fendus autour d'un 1er bâton à l'aide de votre couteau.
-Passez les 2 autres brins.
+![fente bâton 2](./images/FC10.jpg)
 
-(photo)
+Passez un 1er bâton fendu autour d'un 1er bâton non fendu à l'aide de votre couteau.
+
+😉 Astuce : aidez-vous de votre couteau pour écater la fente et faire la place pour le 1er bâton.
+
+![bâton écarté](./images/FC11.jpg)
+
+![passage 1er bâton](./images/FC12.jpg)
+
+Fendez les 2 autres plus gros bâtons et passez-les autour du 1er bâton non fendu, donc parallèles au 1er bâton fendu.
+
+Passez ensuite vos 2 bâtons restant dans les fentes des 3 bâtons, de part et d'autre du 1er bâton non fendu.
+
+![croisé](./images/FC14.jpg)
 
 Tordez les 4 bâtons extérieurs autant que faire se peut sans les casser.
 
@@ -117,6 +132,7 @@ L'épluchage consiste à enlever les parties non voulues dûes qui résultent du
 Vous pouvez tout à fait vous arrêter là pour avoir déjà un objet utile. 
 
 Mais vous pouvez poursuivre vers la réalisation d'une corbeille ou d'un panier ici : (lien)
+
 
 
 
