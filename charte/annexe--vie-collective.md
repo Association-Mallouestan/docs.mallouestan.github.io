@@ -14,7 +14,7 @@ author: mallouestan
 
 ### Communication sur le lieu
 
-Les événements ponctuels ou quotidiens qui sont destinés à être collectifs (repas, réunions...) nécessitent une communication claire et fonctionnelle passant par des moyens de communication ubiquitaires (partagés par toustes). L'objectif de cette communication est de permettre à chacunce de participer ou d'être informé·e afin que toustes soit inclus·es dans la vie collective.
+Les événements ponctuels ou quotidiens qui sont destinés à être collectifs (repas, réunions...) nécessitent une communication claire et fonctionnelle passant par des moyens de communication ubiquitaires (partagés par toustes). L'objectif de cette communication est de permettre à chacun·e de participer ou d'être informé·e afin que toustes soit inclus·es dans la vie collective.
 
 > Exemple: Pour les repas, prévenir toutes les personne du lieu
 

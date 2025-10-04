@@ -12,9 +12,9 @@ author: mallouestan
 
 > Cette annexe est un document vivant et évolutif. Elle est à lire et à respecter comme la charte elle-même. Elle est à compléter, modifier ou corriger par le collectif du Mallouestan.
 
-### Procédure de gestion de conflit interpersonnel ou social
+### Procédure de gestion de conflit relationnel interpersonnel ou collectif
 
-Dans le cas d'un conflit interpersonnel ou social, les protagonistes doivent tenter de résoudre le conflit par elleux-mêmes, en communiquant directement. Si cela n'est pas possible, ou si le conflit persiste, une gestion de conflit collective peut être lancée. Cette gestion de conflit peut passer par différents outils pouvant s'étaler sur plusieurs jours :
+Dans le cas d'un conflit relationnel, les protagonistes doivent tenter de résoudre le conflit par elleux-mêmes, en communiquant directement. Si cela n'est pas possible, ou si le conflit persiste, une gestion de conflit collective peut être lancée. Cette gestion de conflit peut passer par différents outils pouvant s'étaler sur plusieurs jours :
 
 - Cercles de parole
 - Procédure en plusieurs étapes :
@@ -45,6 +45,8 @@ Les sanctions suite à un non-respect d'un ultimatum peuvent être:
 - Rétrogradation de rôle
 - Bannissement temporaire ou définitive du lieu
 - Travaux obligatoires pour le collectif
+
+> Les sanctions et les ultimatums n'ont pas comme objectif de punir les protagonistes. Ces outils sont mis en place pour assurer que la charte soit dorénavant respectée et pour répondre aux besoins du lieu suite au non-respect de la celle-ci.
 
 ### Gestion de conflit complexe
 
