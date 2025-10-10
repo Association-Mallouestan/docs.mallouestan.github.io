@@ -1,9 +1,9 @@
 ---
 date: 2025-02-09 2:00:00
-title: Vivre ensemble et libre
-description: Présentation de notre objectif de vie collective  
+title: Rôles et gouvernance au Mallouestan
+description: Explication des rôles et de la gouvernance au Mallouestan  
 tags:
-  - objectifs
+  - specifique
   - vision
 image: /images/ressources/pic-noir-groupe.webp
 author: mallouestan
@@ -14,13 +14,11 @@ message:
   color: 218380
 ---
 
-## Rôles et gouvernance au Mallouestan
-
-### Pourquoi écrire ce texte ?
+## Pourquoi écrire ce texte ?
 
 À travers l'accueil sur le lieu et les nombreuses autres interactions avec l'extérieur, il est apparu que le fonctionnement de la gouvernance du lieu n'est pas si évident à comprendre. Dans ce texte, nous allons donc aborder le processus de décision que nous essayons de suivre au sein du collectif. De plus, dans une optique anarchiste, nous avons cherché à minimiser les rapports de pouvoir. Ce texte fait partie d'un ensemble rédigé dans le but de rendre accessibles les idées et les pensées du collectif. Cette accessibilité permet effectivement de partager nos réflexions, d'éclairer celles et ceux concerné·es par le fonctionnement du collectif, mais aussi de rendre nos idées critiquables. En effet, la critique constructive, la remise en question pour améliorer nos positions, et plus généralement les échanges discursifs sont valorisé·es et bienvenu·es au sein du collectif.
 
-### La gouvernance historique sur le lieu
+## La gouvernance historique sur le lieu
 
 Le collectif est confronté quotidiennement à des décisions, des interactions et à la réalisation de divers projets. Ce vivre-ensemble a toujours eu pour but de s'inscrire dans un contexte anarchiste, autrement dit, dans une optique minimisant les rapports de force, de pouvoir ou de domination, et par extension les diverses formes de hiérarchisation. Contrairement aux raccourcis parfois rencontrés dans nos milieux, nous voyons l'anarchie comme une opposition à toute forme de hiérarchie arbitraire, et non à toutes les formes de hiérarchie. Nous acceptons que certaines situations exigent une hiérarchie éphémère, qui peut parfois même contribuer à diminuer les rapports de force et de pouvoir. Pour les hiérarchies stratégiques, il est souhaitable qu'elles soient les plus éphémères possibles, composées de personnes révocables et permettant une approche aussi démocratique que possible.
 
@@ -34,13 +32,13 @@ Nous avons choisi une durée de 1 mois. Ainsi, un·e visiteuse·eur qui aurait t
 
 Pendant longtemps, nous n'avions que ces deux rôles : les visiteuse·eurs et les résident·es. Nous avons constaté que pour les personnes souhaitant rejoindre le collectif, la transition entre visiteuse·eur et résident·e était trop abrupte. En effet, les résident·es assumaient de nombreuses responsabilités sur le lieu, et passer du rôle de visiteuse·eur, avec très peu d'engagement, à celui de résident·e n'était pas accessible pour tout le monde. Ces deux rôles ne reflétaient pas non plus les différentes intrications des membres au projet.
 
-### Ajout d'un rôle
+## Ajout d'un rôle
 
 Nous avons donc introduit un troisième rôle permettant de distinguer deux rapports au projet parmi les personnes habitant sur le lieu. Nous avons ainsi créé le statut d'“arrimé·e” pour les personnes très investies et intriqué au lieu, en laissant l'ancien statut de résident·e aux personnes souhaitant y vivre avec moins de contraintes et de responsabilités. Toute personne souhaitant devenir arrimé·e doit passer par le statut de résident·e avant de pouvoir prétendre à ce rôle. La volonté du collectif est que le rôle d'arrimé·e soit accessible à toute personne souhaitant s'investir davantage dans le projet. En aucun cas ce rôle est limité aux personnes "fondatrice" ou "historique".
 
 Ces distinctions permettent une meilleure accessibilité et reflètent plus fidèlement les différents engagements des membres du collectif. Le mécanisme de veto a été utilisé aussi pour pondérer le pouvoir décisionel des résident·es afin d'éviter un rapport de force vis-à-vis des arrimé·es. Un·e résident·e a donc un veto de 6 mois, mais qui passe à 1 an si plusieurs résident·es portent le veto. La hiérarchie au Mallouestan est donc principalement dépendante de l'implication et de l'intrication au lieu de chacun·e. Si l'on est davantage concerné·e par une décision, ou dans un rôle qui devra assumer la décision à une hauteur différente, alors le pouvoir décisionnel à notre disposition est différent. 
 
-### Qu'en est-il des personne "en situation de handicap" ?
+## Qu'en est-il des personne "en situation de handicap" ?
 
 Comme expliqué dans notre texte Travail et liberté, la notion de validité, surtout considérée de manière absolue, ne nous semble pas très pertinente. Le contexte matériel et social définit autant la validité que les spécificités individuelles. Une personne qui serait valide dans un contexte ne l’est peut-être pas dans un autre. Au Mallouestan, nous utilisons plutôt la notion d’autonomie. L’autonomie d’une personne est aussi une responsabilité collective ; ainsi, nous cherchons à créer un contexte qui permette aux personnes le souhaitant de pouvoir participer et d’être intriqué·es au lieu. Autrement dit, nous cherchons à rendre les rôles d’arrimé·e et de résident·e aussi accessibles que possible.
 
@@ -48,7 +46,7 @@ Néanmoins, dans certains cas, l’effort collectif ne pourra autonomiser suffis
 
 La hiérarchie, comme imaginée au Mallouestan, doit donc, pour des raisons d’inclusivité, simplifier l’évaluation de l’intrication et de l’investissement. Pour deux personnes qui, factuellement, n’assument pas tout à fait à la même hauteur certaines décisions, il vaut mieux ne pas faire de distinction. De fait, des paliers (traduit par les rôles) doivent être définis, autorisant et acceptant les différences mineures d’autonomie entre les personnes habitant sur le lieu.
 
-### Conclusion
+## Conclusion
 
 Nous avons construit, au Mallouestan, une hiérarchie non arbitraire, fondée sur l'implication et la responsabilité des membres du collectif. Cette organisation protège chacun·e contre une ingérence des personnes moins concernées. Ces rôles reflètent les réalités du collectif, cherchant à permettre à toute personne de prétendre à n'importe quel statut, à condition que son engagement et ses responsabilités correspondent.
 
