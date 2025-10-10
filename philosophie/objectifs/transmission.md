@@ -1,11 +1,20 @@
-> [Accueil](../../) > [Portail philosophique](../) > La transmission et le partage 
+---
+date: 2025-02-09 2:00:00
+title: Transmission et partage
+description: L'importance de la transmission et du partage au Mallouestan  
+tags:
+  - objectifs
+  - vision
+image: /images/ressources/pic-noir-groupe.webp
+author: mallouestan
+---
 
-## La transmission et le partage 
+## Pourquoi écrire ce texte ?
 
-### Pourquoi écrire ce texte ? 
 Nous faisons souvent face à des questionnements de la part des visiteuses·eurs quant aux objectifs du Mallouestan et à son implication vis-à-vis du monde extérieur. Il arrive fréquemment que le Mallouestan soit vu comme un projet porté par et pour les habitant·es exclusivement ou quasiment exclusivement. Or, par ce texte, nous souhaitons éloigner le Mallouestan d'une image de communauté autharcique, reclue et auto-centrée. En effet, en tant que groupe, nous souhaitons que le Mallouestan soit un lieu accessible et un lieu ressource à hauteur de ce que nous y développons et expérimentons au quotidien. Nous ne prétendons pas détenir toutes les connaissances et considérons que la venue de personnes extérieures permet également de croiser les expériences et d'amener un contexte de partage bilatéral. Selon nous, le partage et la transmission ne sont pas des pans secondaires au projet, mais bien des piliers fondamentaux sans lesquels le Mallouestan perdrait beaucoup de sens. Il nous est donc essentiel d'expliciter l'importance de ces deux pilliers, d'en décrire les enjeux et d'illustrer comment nous souhaitons favoriser et instituer le partage et la transmission dans ce projet communautaire.
 
-### De quoi parle·t-on ? 
+## De quoi parle·t-on ?
+
 Dans ce texte, nous abordons les notions de partage et de transmission dans le cadre spécifique du partage d'expérience, de compétences, et de technique. En effet, bien qu'intriqués à ce que nous mentionnerons dans ce texte, les moments de partage et de convivialité seront abordés dans un autre écrit qui traitera spécifiquement de l'approche socio-culturelle du Mallouestan. Ainsi, le partage et la transmission, traités à travers le prisme du partage d'expériences, des compétences et de techniques, reposent sur quatre grands axes que nous avons identifiés et que nous développons au Mallouestan. 
 
 Le premier est celui qui nous a été le plus rapide à mettre en place. Il s'agit du partage de l'expérience de la vie en collectif et de ses enjeux, notamment ceux autour du choix la gouvernance, de l'organisation du quotidien, des méthodes de communication, ou encore des stratégies mises en place pour la gestion de conflits.
@@ -18,14 +27,16 @@ De plus, ces apprentissages nous menant collectivement à faire les choses par n
 
 Enfin, le quatrième point concerne le partage de notre vision et de nos valeurs aux personnes qui nous rencontrent. Nous souhaitons les sensibiliser aux raisons d'être du projet, ses enjeux, ainsi que son axiologie [ce qu'on pense être souhaitable], comme par exemple l'approche anarcho-communiste, anti·technologiste, éco-centriste ou encore anti-libérale du lieu.
 
-### Pourquoi vouloir transmettre et partager ? 
+## Pourquoi vouloir transmettre et partager ?
+
 Au Mallouestan, nous travaillons pour développer un mode de vie résilient et le plus autonome possible vis-à-vis du système actuel. En effet, nous pensons que l'autonomisation d'un collectif est essentielle à un avenir tenable. Ainsi, en encourageant le partage de nos expériences et la transmission de nos compétences, nous souhaitons diffuser cette autonomisation au-delà du Mallouestan. 
 
 Nous pensons que la vie en collectif est une condition sine qua non à un mode de vie résilient, viable et enviable. Pourtant, la société individualiste actuelle réduit drastiquement notre capacité à vivre en collectif et à en maîtriser les enjeux. Il nous semble donc indispensable de rendre possible l'expérimentation de la vie en collectif aux personnes qui le souhaitent, pour les sensibiliser à ce modèle de vie et d'organisation. 
 
 D'autre part, nous considérons que de nombreuses compétences que nous développons et découvrons au quotidien au Mallouestan sont essentielles à l'émancipation des individus. Par exemple, acquérir les compétences permettant de construire un habitat pour soi ou pour une personne qui ne peut pas le faire elle-même, d'entretenir des espaces sans énergie fossile, de réparer, voire fabriquer, des vêtements, ou encore de soigner, dans une certaine mesure, lorsqu'aucune aide médicale extérieure n'est possible tout de suite, ou bien considérée non souhaitable.<sup>2</sup> Pour nous ce sont des points clés pour minimiser la dépendance du collectif au système actuel et ainsi accroître sa résilience. Aussi, en partageant notre vision et nos valeurs, nous espérons faciliter la compréhension de notre pensée et des décisions qui en découlent et qui façonnent notre quotidien. De plus, par ce partage, nous espérons confronter nos positions aux personnes extérieures au collectif et ainsi permettre qu'elles soient questionnées, voire réfutées. Ces échanges avec l'extérieur nous permettent de prendre le recul qu'il nous serait difficile d'avoir si nous étions continuellement qu'entre nous. Ces nouveaux regards nous donnent accès à des éléments qui nous aident à affiner nos positions, valeurs et décisions. Ainsi, progresser dans la cohérence et l'intelligibilité du projet est un point clé car selon nous, plus les personnes comprendront les enjeux et les raisons d'un mode de vie comme celui-ci, plus il devient envisageable pour elleux de mettre en place des réflexions similaires dans leur quotidien.
 
-### Comment transmettre et partager ? 
+## Comment transmettre et partager ?
+
 Nous avons identifié plusieurs moyens pour mettre en place les quatre axes qui régissent notre approche du partage et de la transmission. D'abord, nous pensons que l'accessibilité du lieu est très importante. Au Mallouestan, nous ouvrons le lieu toute l'année à toute personne qui souhaite le découvrir. Par cet accueil, nous espérons permettre aux visiteuses·eurs d'expérimenter la vie en collectif, de nous poser les questions et de nous partager leur expérience éventuelle d'autres organisations en collectif. De plus, nous avons essayé d'agencer le lieu et son organisation afin de faciliter l'arrivée et la prise de repères rapides, notamment en donnant accès à un dortoir, de la nourriture et d'autres ressources communes, ainsi que des espaces communs avec des signalétiques, le tout dans une politique de prix libre. En effet, en évitant la barrière économique, nous espérons permettre à un grand nombre de personnes d'accéder au projet du Mallouestan.
 
 Ensuite, accorder du temps aux discussions et aux explications durant les chantiers ou les activités liées au projet permet de faciliter le partage d'expériences ainsi que la mètis. Au Mallouestan, nous sommes conscient·es que certains chantiers pourraient aller plus vite si nous composions seulement avec les personnes les plus compétentes dans le domaine concerné. Mais nous préférons prendre ce temps pour partager ce que nous avons appris mais aussi recevoir les expériences et connaissances des personnes extérieures. 
@@ -38,10 +49,11 @@ Depuis 2024, nous organisons au Mallouestan des Universités d'été autour de t
 
 Enfin, afin de faciliter le partage et la compréhension du cadre éthique dans lequel nous évoluons, il nous a semblé important de créer des ressources écrites qui éclaircissent et précisent les valeurs et visions autour desquelles le projet s'articule. Selon nous, ces ressources permettent également que des personnes extérieures s'en servent afin de nous questionner ou de nous exposer leurs éventuels points de désaccords. Dans un premier temps, nous avons donc rédigé la charte du lieu qui a pour rôle de poser les règles du lieu et de son fonctionnement. Ensuite, nous avons décidé de rédiger des textes autour des différentes notions clés du cadre du projet tels que l'anarchisme, l'éthique environnementale, l'approche anti technologie ou encore l'antilibéralisme. Nous souhaitons aussi écrire des textes abordant les objectifs que nous avons en tant que groupe comme par exemple, développer l'aide et la solidarité, défendre le caractère sans tabou des discussions sur le lieu ou encore développer une vie culturelle. Les textes que nous souhaitons rédiger, actuellement au nombre de dix sept, ne sont pas encore tous achevés mais leur rédaction fait partie de nos priorités car nous considérons qu'ils régissent la philosophie et la vision politique du Mallouestan qui doivent être claires et compréhensibles pour les personnes qui nous visitent mais aussi pour nous en tant que collectif.
 
-### Conclusion
+## Conclusion
+
 Pour conclure, sans le partage et la transmission, un projet comme le Mallouestan perdrait un grand pan de son essence initiale, ici celle d'être un lieu d'expérimentation et de recherche pour un mode de vie plus cohérent et viable pour le vivant et le non-vivant. Nous pensons que l'échange, le temps et la création de ressources documentaires sont indispensables à l'expérimentation, à l'enrichissement (par les recherches et le partage d'expériences) et à la diffusion d'un mode de vie détaché du système et de ses normes.
 
-### Notes
+## Notes
 
 1. Dans notre approche, nous mettons en avant la notion de mētis, terme grec renvoyant à la sagesse empirique issue des générations passées ayant évolué dans un environnement défini. On peut employer cette notion à propos de la connaissance du climat, de la meilleure période pour faire des semis, ou d’une technique efficace pour aiguiser une lame avec les pierres de la région. La mētis est ad-hoc, contextuelle ou spécifique, elle est acquise dans un contexte par la pratique et s’oppose à la technè qui à une tendance généralisante s'appuyant sur la raison, la logique et la théorie. On ne rejette pour autant la notion de technè que nous considérons aussi importante que la mētis; ce sont des notions complémentaires.
 2. Nous abordons plus en détail les limites de ce qui est souhaitable en ce qui concerne le soin dans le texte anti·tech.
