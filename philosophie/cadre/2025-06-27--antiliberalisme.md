@@ -1,5 +1,5 @@
 ---
-date: 2025-05-24 2:00:00
+date: 2025-06-27 02:00:00
 title: Anti-libéralisme
 description: >-
   Présentation de notre rejet du libéralisme 
@@ -15,9 +15,7 @@ message:
   color: 218380
 ---
 
-## Antilibéralisme
-
-### Pourquoi écrire ce texte?
+## Pourquoi écrire ce texte?
   
 Le libéralisme est aujourd’hui tellement imposant et imposé dans nos façons de voir le monde qu’il est difficile de ne pas prendre position. A l’inverse, notre antilibéralisme a été fondateur dans notre approche éthique du monde, donc de notre charte et de nos décisions collectives. Il nous paraît alors important de partager notre position face au libéralisme. Ce texte a aussi pour but d’éclaircir les justifications politiques de nos différents fonctionnements.
 
@@ -74,7 +72,6 @@ Mais ça ne s’arrête pas là. Le libéralisme a intégré nos luttes. Le lib�
 
 Le libéralisme sous toutes ses facettes nous semble aussi mal ficelé que néfaste. Nous nous y opposons de manière frontale et sans détour. Mais comment cela se traduit-il au Mallouestan?
 
-
 ### Comment devenir antilibérales·aux? En quoi le Mallouestan est-il antilibéral?
 
 Nous ne concevons pas qu’il puisse suffire d’être critiques envers le libéralisme pour s’autoproclamer antilibérales·aux. Dans notre vision matérialiste, il faut inscrire nos corps dans la lutte pour la destruction des conditions matérielles nous aliénant à ce système et dans celle de la construction de conditions matérielles favorisant notre indépendance face à ce système. Nous conseillons, pour mieux comprendre notre posture, d'aller lire notre texte sur le [militantisme](/philosophie/specifiques/militantisme.md).
@@ -96,11 +93,11 @@ On nous a rétorqué qu’interdire ces consommations serait injuste face à des
 Nous avons également pu décrire, au-delà de ce que nous ne voulons pas, le type de liberté et l’organisation politique que nous souhaitons. Pour en lire plus, nous vous conseillons comme prochaine lecture le texte [travail et liberté](/philosophie/cadre/travail-liberte.md) et [anarchocommunisme](/philosophie/cadre/anarcho-communisme.md).
 
 
-### Conclusion
+## Conclusion
 
 Ayant vu certaines des objections aux hypothèses théoriques soutenant l’existence du libéralisme, nous le considérons comme étant un courant de pensée simpliste qui ne mérite pas l’attention qu’on lui porte. A la suite du développement sur les côtés dévastateurs du libéralisme, nous pouvons considérer ce dernier, sous n’importe laquelle de ses formes, uniquement comme un système à abattre. Face à ce constat, nous nous organisons collectivement sur de nombreuses facettes pour nous extraire du libéralisme et créer de meilleures conditions matérielles. Nous souhaiterions qu'une critique du libéralisme soit faite dans les milieux militants, mais aussi dans la société en général.
 
-### Notes
+## Notes
 
 <sup>1</sup> L’anarchisme individualiste est un courant politique à l’intérieur de l’anarchie, qui centre sa pensée sur les libertés individuelles, sur la primauté de l’émancipation de l'individue plutôt que celle du groupe. L'avènement de cette pensée est souvent attribué à Max Stirner, un philosophe allemand, avec son œuvre _L’unique et sa propriété_ de 1844. Dans son ouvrage, il défend le fait que les grandes causes sont des entités abstraitesn et qu’en tant que telles elles asservissent les individus. Seul·es les individus sont concrèt·es, seul·es les individues comptent.
 

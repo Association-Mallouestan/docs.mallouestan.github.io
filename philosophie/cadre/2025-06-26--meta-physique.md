@@ -1,5 +1,5 @@
 ---
-date: 2025-06-03 2:00:00
+date: 2025-06-26 02:00:00
 title: Meta-physique
 description: >-
   Notre rapport à la pensée ésotérique et à la pensée scientifique
@@ -9,7 +9,6 @@ tags:
 image: /images/ressources/galaxy.jpg
 author: mallouestan
 ---
-
 
 ## L'ontologie, le matérialisme, et l'ésotérisme 
 

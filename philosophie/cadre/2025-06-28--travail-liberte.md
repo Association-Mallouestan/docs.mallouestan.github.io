@@ -1,5 +1,5 @@
 ---
-date: 2025-06-16 2:09:00
+date: 2025-06-28 02:00:00
 title: Travail et liberté
 description: 
   Le travail est une question collective et n'a de sens que si elle est abordée de la sorte. 

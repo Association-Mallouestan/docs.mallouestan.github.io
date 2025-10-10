@@ -1,14 +1,12 @@
 ---
 title: Vie culturelle  
-date: 2024-10-05 00:00:00
+date: 2025-06-24 02:00:00
 tags:
   - fondamentaux
   - vision
 image: /images/ressources/guide.jpg
 author: mallouestan
 ---
-
-# Vie culturelle  
 
 ## Pourquoi écrire ce texte ?
 

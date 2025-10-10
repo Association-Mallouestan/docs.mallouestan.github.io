@@ -1,5 +1,5 @@
 ---
-date: 2025-06-03 2:00:00
+date: 2025-06-25 02:00:00
 title: Anarcho-communisme
 description: Présentation de notre vision de l'anarchisme
 tags:

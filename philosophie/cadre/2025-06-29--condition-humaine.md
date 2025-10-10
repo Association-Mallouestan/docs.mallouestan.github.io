@@ -1,15 +1,23 @@
-> [Accueil](../../) > [Portail philosophique](../) > Texte sur la condition humaine
+---
+date: 2025-06-29 02:00:00
+title: Condition humaine
+description: >-
+  Un ensemble de constats et d'analyses sur la condition humaine, et comment le système actuel est en contradiction avec cette dernière.
+tags:
+  - fondamentaux
+  - vision
+image: /images/ressources/pollution.jpg
+author: mallouestan
+---
 
-## La condition humaine
-
-### Pourquoi écrire ce texte ?
+## Pourquoi écrire ce texte ?
 
 Ce texte s'inscrit dans l'ensemble des écrits du Mallouestan qui expliquent la manière avec laquelle nous cadrons nos activités et une éthique que nous pensons la plus juste. En l'occurrence, ce texte s'attèle à expliquer notre vision de la condition humaine. L'intérêt de rédiger un texte sur cette thématique est avant tout de déterminer ce qui est nécessaire à l'être humain•e -- et donc ce avec quoi nous devons composer --, et ce qui lui est contingent (qui pourrait ne pas exister) -- et donc ce dont nous devons nous départir dans la mesure du possible. A partir de là, il deviendra alors possible d'entrevoir dans une certaine mesure comment bâtir des sociétés adaptées aux êtres humain•es, et comment concilier l'existence de ces dernier•es avec celle des écosystèmes. Ce contenu théorique sert donc de base pour poser des règles aux comportements humains et dessiner un contexte au sein duquel la satisfaction des besoins de plaisir, par exemple, puisse se faire de manière éthique.
 
 
 Ce texte a donc pour objectif analytique de mettre en exergue la contradiction fondamentale entre un mode de vie qui correspondrait aux êtres humain•es et le système actuel. Pour ce faire, il faudra se prêter à l'analyse de ce dernier et de ce qu'il cause aux individu•es humain•es et aux sociétés, sans évoquer particulièrement les conséquences sur les écosystèmes. Pour cela, nous allons notamment nous attarder sur les sociétés les plus favorisées, où tout semble aller pour le mieux, et moins sur les sociétés en guerre, en famine ou en régime totalitaire. D'autant plus que ces sociétés favorisées sont parmi les plus déterminantes de l'ordre mondial actuel, car ce sont des pays coloniaux, avec de grands groupes industriels et des armées en moyenne parmi les plus puissantes.
 
-### Constats généraux
+## Constats généraux
 
 Tout d'abord, quelques constats généraux peuvent être présentés pour saisir l'importance de la situation.
 
@@ -17,13 +25,13 @@ Le capitalisme industriel s'est développé depuis la fin du XVIIIe siècle, et 
 
 L'humanité vit aujourd'hui majoritairement en ville, et ce phénomène va croissant<sup>3</sup>. Pourtant, le mode de vie urbain semble être la cause de bien des maux actuels. Le bruit des moteurs, celui de la VMC, la lumière des lampadaires la nuit, celle blanche des magasins, les bouchons au sortir du travail, la queue pour faire les courses, les visages impassibles dans la rue, la grisaille partout, les prairies et les forêts nulle part, l'isolement, les déchets dans les cours d'eau, l'air pollué, la petitesse des appartements, la pollution intérieure<sup>4</sup>... L'ensemble des désaggréments de la ville sont innombrables et certains sont propres à chacun•e d'entre nous. Ils sont cause de différents troubles sociaux et individuels tels que les dépressions<sup>5</sup>, les maladies cardio-vasculaires et respiratoires, le diabète de type 2, les perturbateurs endocriniens<sup>6</sup>, l'anxiété, l'obésité, l'ennui (cassé par les écrans en général), etc. Tout porte à croire que la ville n'est pas un environnement adapté aux êtres humain•es, et nous sommes tristes de voir les effets de la vie urbaine sur nos ami•es et nos familles. Ces constats vont à l'encontre de ce que la propagande libérale veut nous faire croire, que la ville est le lieu de tous les possibles, de la réalisation des rêves et de la consommation facile, du divertissement, de la culture, des arts, des loisirs, et il nous faudra développer cela plus longuement plus bas dans le texte<sup>7</sup>.
 
-### De l'inadéquation entre la nature humaine et le développement civilisationnel
+## De l'inadéquation entre la nature humaine et le développement civilisationnel
 
 Selon nous, la plupart des malheurs non nécessaires que subissent les êtres humain•es sont dûs au processus de civilisation, dont la grande majorité d'entre elleux sont victimes, autant dans leurs corps que dans l'environnement au sein duquel iels évoluent. 
 
 En effet, il y a plusieurs milliers d'années, à partir de quelques endroits du globe comme l'actuelle Turquie ou la région du Fleuve Jaune en Chine, les premières cités sédentaires ont vu le jour, accompagnées de grandes infrastructures, de grands travaux d'aménagement hydroliques, de l'accroissement des hiérarchies sociales, de carences alimentaires, des empires et de la colonisation<sup>8</sup>, de l'exploitation massive des forêts et des mines, de la domestication massive d'animaux pour les transformer en bétail, de l'impôt<sup>9</sup>... Ce processus a conduit à nos sociétés actuelles avec plus ou moins d'intensité selon les périodes et selon les régions, et nous sommes aujourd'hui les dépositaires d'une histoire d'urbanisation, de sédentarisation, d'intégration à l'appareil d'Etat et de mise au travail au service d'une classe dominante. 
 
-#### Conséquences sur les corps et la santé
+## Conséquences sur les corps et la santé
 
 Nos corps et nos santés en font aujourd'hui les frais. Plusieurs exemples peuvent être donnés.
 
@@ -39,11 +47,11 @@ D'autres maux sanitaires trouvent leur origine ou leur explosion quand une popul
 
 Tous ces problèmes de santé liés au processus de civilisation sont dûs à l'"incompatibilité évolutive" (Daniel E. Lieberman) ou au "désalignement évolutif" (Christopher Ryan) de notre génétique paléolithique avec le développement civilisationnel : les villes, les supermarchés, les écrans, l'agriculture, la sédentarité, etc.
 
-#### Conséquences psychiques et sociales dues à l'environnement dans lequel Homo Sapiens évolue
+## Conséquences psychiques et sociales dues à l'environnement dans lequel Homo Sapiens évolue
 
 Le début de la sédentarisation voit l'apparition d'un environnement nouveau pour Homo Sapiens. Champs, forêts rasées, densité de batiments, densité de congénères et d'autres animaux, enfermement (dans les maisons si ce n'est dans les prisons), etc. ; et plus récemment : usines, grisaille, lumières artificielles, écrans, moteurs, etc. Ce contexte n'est, lui non plus, pas adapté à la génétique humaine et à ses sociétés.
 
-##### Mal être individuel
+### Mal être individuel
 
 La métropole, notamment, est l'expression paradigmatique [typique d'une approche intellectuelle, d'un système de pensée ; constitue un exemple parfait pour démontrer une idée] de cette réalité. Dans ce qui suit, il ne s'agit pas de dresser un comparatif entre la ville et la campagne qui dépeindrait cette dernière comme pure et parfaite. Il s'agit plutôt de montrer que l'incompatibilité évolutive due au processus de civilisation et aux nuisances industrielles et capitalistes s'y trouve particulièrement exacerbée. Desmond Morris le décrit bien dans _Le zoo humain_. En effet, il met en avant le fait que l'environnement artificiel au sein duquel évolue Homo Sapiens perturbe ses instincts naturels tout comme pour les animaux non humain•es enfermé•es dans des zoos, avec pour conséquences de provoquer des comportements au mieux étranges et au pire criminels.
 
@@ -51,21 +59,21 @@ Le rythme de la vie urbaine, par exemple, crée du stress de manière plus ou mo
 
 Les codes de la vie urbaine en plus des infrastructures frustrent les instincts humains. Dans la rue, peu de gens oserait se mettre à courir, comme ça, juste pour s'amuser, ou à monter sur les bancs et les poteaux, excepté quand on a l'étiquette d'artiste, d'athlète. La curiosité, l'étonnement et la réactivité esthétique [au sens strict, ce qui touche les sens] font assez peu partie du quotidien des urbain•es : un concert se donne devant mes yeux dans la rue ? Je passe mon chemin. Une personne se fait agresser dans le métro ? Pas mon problème. Une affiche publicitaire géante sur un _building_ ? Déjà vue à la télé. Une nouvel œuvre de _street art_ dans mon quartier ? Un phénomène de mode. En quelques sortes, læ citadin•e est "blasé•e" (_Les grandes villes et la vie de l'esprit_, Georg Simmel, 1903), du fait de la quantité d'informations continuelles que ne peut tout simplement pas supporter le cerveau, créant une résistance à l'attention. On ne sourit plus aux autres, on ne les regarde pas, même si on n'est que deux dans la rue, et on est finalement seul•e dans la foule.
 
-##### Désaggréments sociaux 
+### Désaggréments sociaux 
 
 L'isolement social est, d'ailleurs, un phénomène étrange et triste de la vie urbaine. Comment les espaces où la population est la plus dense pourraient-ils, en effet, permettre de l'isolement ? C'est pourtant un fait avéré, chez les personnes âgées, handicapées, migrantes, autant que chez les jeunes adultes situé•es hors de ces catégories<sup>20</sup>, et il cause lui aussi des dépressions et du mal-être individuel, tout autant que politique et communautaire ; les gens n'étant pas facilement à même de s'organiser localement.
 
 Le phénomène urbain dissout les relations sociales et constitue un choc pour les néo-urbain•es, mais il constitue aussi une anomalie des relations sociales à l'échelle de l'humanité. Encore une fois, Goeorg Simmel (_Sociologie, étude sur les formes de la socialisation_, 1908) est lumineux sur cette question. Il est témoin de grands boulversements sociaux liés à l'urbanisation fulgurante de l'Allemagne et de l'Europe en général<sup>21</sup>, et voit comment les "cercles sociaux" se structurent en ville en comparaison avec les structurations des groupes sociaux dans les campagnes. Deux schémas très simplifiés peuvent exemplifier cette idée, sachant qu'ils n'expriment que des tendances générales et qu'ils peuvent s'articuler partiellement.
 
-![Illustration cercles sociaux paysans par Georg Simmel](../ressources/cercles-sociaux-Simmel-1.jpg)
+![Illustration cercles sociaux paysans par Georg Simmel](https://www.mallouestan.org/images/ressources/cadre/cercles-sociaux-Simmel-1.jpg)
 
 Dans le cas des sociétés paysannes, les cercles sociaux sont organisés majoritairement de manière concentrique autour d'égo [en anthropologie, égo est l'individu•e pris•e comme référence pour étudier des relations], c'est-à-dire que la famille, les ami•es, les voisin•es, la communauté religieuse, les collègues, etc., forment des groupes imbriqués les uns dans les autres comme des poupées russes. Chaque cercle constitue aussi un ensemble de normes, et celles qui s'appliquent au groupe le plus large s'appliquent aussi aux plus petits groupes. Tout le monde partage alors un grand socle commun de règles et elles entrent rarement en conflit, surtout sur des questions fondamentales.
 
-![Illustration des cercles sociaux urbains par Georg Simmel](../ressources/cercles-sociaux-Simmel-2.jpg)
+![Illustration des cercles sociaux urbains par Georg Simmel](https://www.mallouestan.org/images/ressources/cadre/cercles-sociaux-Simmel-2.jpg)
 
 Dans le mode de vie urbain, les cercles sociaux sont différemment agencés, n'étant plus concentriques mais enchevêtrés autour d'égo. Le cadre familial ne correspond pas à celui des collègues. Le groupes de fans du club de football local ne se recoupe pas nécessairement avec celui des voisin•es. Chaque cercle comprenant des normes différentes, l'individu•e<sup>22</sup> se trouve alors pris•e dans des injonctions contradictoires. L'attente de la part de la famille d'être à table à l'heure du repas, d'un autre côté l'obligation de rendre des dossiers importants, de faire ses devoirs ou de boire un verre avec les ami•es. Les règles ne sont pas les mêmes partout, et quand des accomodations ne sont pas trouvées, on se retrouve alors à mentir, à ne pas obéir aux règles. Ces injonctions contradictoires sont alors source de mal-être, de rupture de liens sociaux, d'isolement, de vulnérabilité.
 
-##### La ville : un environnement sur lequel on a peu de prise
+### La ville : un environnement sur lequel on a peu de prise
 
 La ville est fondamentalement un milieu sur lequel nous avons peu de prise et peu de pouvoir. L'ensemble des infrastructures urbaines illustre bien cela, surtout pour les plus défavorisé•es. La condition de locataire empêche d'aménager un logement comme il nous paraît bon ; le peu de jardins et parcs et les restrictions légales qui les concernent nous empêchent d'utiliser les matériaux à disposition pour bricoler ou s'amuser. Le phénomène des _microapartments_ comme les "_one-room mansion_" tokyoïtes<sup>23</sup> est dans le prolongement de la logique économique que représente le marché du logement, de la practicité d'habiter proche de son lieu de travail, croisées avec les problématiques de l'urbanisation et de la culture libérale. Les meubles et les pièces sont aménagées par les propriétaires et l'aménagement des locataires se limite à quelques meubles, quelques posters et quelques objets. Et les frontières de ce sur quoi les habitant•es ont prise se limitant à ces petits logements, la capacité d'aménagement des territoires est extrêmement limitée ; elle est du ressort de l'Etat avec le génie civil.
 
@@ -73,11 +81,11 @@ Habiter en ville, cela signifie aussi être dépendant•es d'une foule d'infras
 
 Plus largement, vivre en ville, cela signifie être dépendant•es de tout un tas d'infrastructures hors de la ville. Pour s'approvisionner en nourriture, il y a besoin de routes et d'entrepôts, pareil pour les matériaux d'entretien. Pour faire pousser ou élever cette nourriture, ou pour puiser les matériaux, il faut du terrain, des machines, de la main-d'œuvre. Ce que nous constatons, c'est que la relation ville-campagne telle que théorisée déjà par les historien•nes de la _polis_ grecque<sup>24</sup> en tant que centre-désert-vorace et périphérie-ressources-exploitée, rend les habitant•es des villes particulièrement dépendant•es du système d'acheminement des ressources, et donc particulièrement vulnérables à ses changements<sup>25</sup>. Et nous n'évoquons même pas les dégâts écologiques, l'exploitation animale (humaine et non-humaine), la logique de guerre coloniale qu'implique la ville pour l'obtention des terres et des ressources, et l'absurdité de ce mode de fonctionnement aux pertes massives<sup>26</sup>.
 
-### Comment le système rend acceptable cet état de fait 
+## Comment le système rend acceptable cet état de fait 
 
 Au vu de tous ce que le système fait à l'être humain•e, on peut légitimement se demander comment ce•tte dernièr•e devient de plus en plus un•e être urbain•e, et semble dans une certaine mesure se complaire dans cet état de fait. Pour des raisons coercitives, culturelles, de récits mythologiques occidentaux ou de pratiques instituées, il y a plusieurs explications à cela, que nous allons tâcher d'examiner de manière suffisante. 
 
-#### Raisons concrètes et coercitives
+## Raisons concrètes et coercitives
 
 D'abord, il faut évoquer les raisons coercitives qui imposent des modes de vie urbains et industriels aux gens. L'urbanisation de certaines régions du monde, comme l'ouest de la Chine, sert à mettre au pas des populations pauvres pour les intégrer à un système de production<sup>27</sup>. L'"urbanisme contre-insurrectionnel" de certaines villes d'Europe aux XIXe et XXe siècles sert à empêcher les mouvements contestataires ouvriers en permettant notamment aux forces de l'ordre de faire plus facilement leur travail (_Métropolis_, Jack Déjean). 
 
@@ -85,13 +93,13 @@ Dans un autre ordre, la confiscation des terres contraint beaucoup de gens à ve
 
 La dépendance accrue aux infrastructures réduit les pratiques aux seules activités urbaines, et elle réduit les conditions d'émergeance d'une critique à son encontre. Pour assurer sa subsistance, quasiment tout le monde fait ses courses dans des magasins, possède l'eau courante, utilise de l'électricité, prend sa voiture, utilise son téléphone, va sur les réseaux sociaux. Beaucoup de formations professionnelles consistent en des activités réduites, abstraites, répétitives, à mettre des produits en boîte, répondre à des appels, faire du secrétariat. Peu de gens savent cultiver la terre, récolter des plantes sauvages, poser des pièges, construire, faire groupe. Les gens sont matériellement enfermé•es dans ces réseaux dont il est difficile de s'extraire et il devient même compliqué d'imaginer d'autres possibles.
 
-#### Raisons culturelles
+## Raisons culturelles
 	
 De plus, ces problèmes trouvent des explications d'ordre culturel et idéologique. Notamment, la fameuse "quête du bonheur", qui représente une immense supercherie et une hypocrisie sans nom. En effet, l'injonction au bonheur est omniprésente dans nos sociétés, et nous constatons, cependant, une augmentation du mal-être couplée à un renforcement des oppressions systémiques, de la suprématie de l'État et du capitalisme sur nos vies. Cette injonction toute libérale [voir le texte sur notre critique du Libéralisme pour une définition plus complète] est le signe, pour nous, que le système a besoin de susciter un espoir de bonheur futur ​et de donner quelques miettes de temps en temps aux gens -- par la consommation de services ou de produits -- dans le but de mieux canaliser le mécontentement potentiel ; le but final étant de mieux les faire consommer et de mieux les mettre au travail salarié. En quelque sorte, le bonheur tel qu'il est vendu ou suscité par le système est un instrument d'exercice du pouvoir que nous appelons "happycratie" (Eva Illouz, qui combine l'anglais _happy_, "heureux•se", avec le suffixe "-cratie" ayant pour racine grecque _kratos_ signifiant "pouvoir" ou "gouvernement").
 
 Cette idéologie libérale trouve son incarnation dans différents mythes<sup>31</sup> contemporains et dans l'imaginaire répandu. Être dans une voiture décapotable, les cheveux dans le vent sur une route sinueuse menant au soleil ; vivre sa vie dans un pavillon de quartier résidentiel, avoir son job bien tranquille, devenir mari ou femme, devenir parent•e, devenir retraité•e, mourir paisiblement ; faire des vidéos dans son coin, lancer sa chaîne YouTube, percer au bout d'un moment, rencontrer des gens connu•es, devenir riche et célèbre ; avoir une idée de _start-up_, la lancer, avoir des locaux en _open-space_, gérer sa boîte en tant que jeune patron•ne dynamique en polo et en baskets ; bien d'autres exemples de mythes de la société occidentale existent. Dans _Mythologies_, Roland Barthes analyse différents discours et phénomènes bourgeois qui forment la mythologie française du milieu du XXe siècle. La Citroën DS comme fétichisme technologique, le Tour de France comme mise en scène du héros populaire viril et de la géographie sacrée de la France, l'abbé Pierre comme figure de la charité apolitique, et 49 autres mythes y sont développés. Selon Roland Barthes, ces mythes servent à faire passer pour naturelles, évidentes, normales, des idéologies découlant de processus socio-historiques et politiques. Ces mythes sont l'un des piliers qui asseoient l'hégémonie<sup>32</sup> bourgeoise et donc sa domination sur la société, en vendant du rêve aux masses et en produisant de l'ignorance à propos des réalités sociales<sup>33</sup>.
 
-#### Le système compense et substitue des réponses aux besoins
+## Le système compense et substitue des réponses aux besoins
 
 Une autre manière grâce à laquelle le système se maintient, c'est parce qu'il parvient tant bien que mal à répondre aux besoins d'épanouissement, de plaisir et de repos des populations, occidentales du moins, grâce à des ersatz ou des moyens exagérés qui exacerbent certains aspects de la vie humaine au détriment d'autres. En effet, nous pensons que les humain•es sont des animaux comme les autres et que, comme tous les animaux, nous avons des besoins d'épanouissement auxquels il faut répondre pour se sentir bien afin de continuer à vivre. Pour les humain•es, ces besoins sont, par exemple, le jeu, le repos, les stimulations sensorielles variées, le fait de rire avec ses congénères, ou encore l’activité physique. Prenons ce dernier cas comme exemple. Ce besoin est le fruit de l'évolution d'Homo Sapiens, des interactions entre congénères et des interactions avec son environnement qui ont fait ce qu'iel est globalement devenu•e aujourd'hui -- les quelques derniers siècles d'agriculture et d'industrialisation n'ayant que peu changé le génome humain (cf. supra). Ainsi, les mouvements que pouvaient être amenés à effectuer nos ancêtres tels que tendre son corps pour récolter des fruits en hauteur, faire des jeux demandant des aptitudes physiques, danser, marcher sur de longues distances ou autre, ont produit des besoins de mouvements dont nous sommes aujourd'hui les dépositaires. Ces activités physiques remplissent un sens tant physiologique -- en tant qu'elles permettent de s'alimenter et de faire de l'exercice -- que psychologique -- en tant qu'elles peuvent donner différents sentiments de satisfaction, de joie, mais aussi de peur ou de découragement qui forgent nos personnalités -- qu'environnemental -- en tant que ces activités ont un impact auxquels d'autres êtres se sont adapté•es pour évoluer comme, par exemple, les plantes pratiquant la zoochorie, qui trouvent un moyen de reproduction via le transport des graines au su ou à l'insu des animaux -- mais aussi un sens social -- en tant que les jeux demandant des aptitudes physiques remplissent des besoins de cohésion de groupe ou de reconnaissance sociale, par exemple.
 
@@ -99,20 +107,12 @@ Or, ces besoins trouvent, dans le contexte actuel, des réponses inappropriées,
 
 Le problème est que ces activités remplissent de manière tronquée leurs fonctionnalités, ou bien sont imbriquées dans une configuration des activités qui est mal organisée. Par exemple, les jeux vidéos remplissent aujourd'hui des fonctionnalités diverses telles que les besoins de stimulations visuelles et auditives, les besoins de divertissement, parfois les besoins de socialiser, ainsi que d'autres besoins plus spécifiques. Outre les bienfaits thérapeutiques pour certaines personnes ayant, par exemple, des problèmes de mémorisation, nous remarquons que beaucoup de jeux vidéos offrent des stimulations visuelles très colorées et lumineuses étant donné qu'ils nécessitent l'usge d'un écran, qu'ils donnent une sensation d'activité constante, qu'ils donnent la sensation quasi constante d'accomplir des choses, etc. Cependant, quand les joueuseurs retournent à la vie quotidienne, il leur arrive parfois de sentir un manque de rythme à la vie, de s'impatienter plus vite que les autres en moyenne, de trouver que les couleurs sont fades, développant petit à petit une addiction et étant plus sujet•tes à tomber en dépression à cause du manque<sup>34</sup>. Les jeux vidéos posent aussi des problèmes d'ordre social, que ce soit le fait de s'isoler de ses proches, ou de rencontrer des individu•es en ligne dont on ne verra jamais les visages -- pourtant un élément important pour le cerveau quand on socialise avec des individu•es <sup>35</sup>. Le génome et les sociétés humaines n'ont pas évolué pour que les jeux vidéos y aient une place saine ; et cela n'est pas parce qu'ils ont mal été conçus par des capitalistes cherchant à vendre du contenu surstimulant et addictif, mais parce qu'ils sont intrinsèquement générateurs de surstimulation pour certaines zones du cerveau au détriment d'autres, et parce qu'ils remplissent mal la nécessité de socialiser ; tout cela sans parler des problèmes sociaux de consacrer du temps aux jeux vidéos plutôt qu'à la subsistance et des problèmes de santé liés à la sédentarité.
 
-### Conclusion
+## Conclusion
 
 Ce texte a, nous l'espérons, montré comment nous voyons la condition humaine actuelle, déchirée entre ses composantes fondamentales et le monde dans lequel Homo sapiens vit, industriel, capitaliste, colonial, civilisé. Tant pour des raisons de santé, de fonctionnement collectif que d'épanouissement, la civilisation est une calamité pour l'être humain•e. Elle détruit son corps, son psyché, ses sociétés, ses écosystèmes. Et la manière avec laquelle le système répond aujourd'hui aux besoins n'est plus en adéquation avec les fonctions qu'elle devrait recouvrir. Elle est à la fois perverse, distordue, moins sensée, exagérée et ne s'articule guère avec les autres éléments qui forment les sociétés humaines.
 Par opposition, nous créons au Mallouestan un contexte de vie en opposition au libéralisme, et qui cherche à correspondre, dans une encore trop mince mesure, à ce qui est vraiment nécessaire à Homo sapiens dans notre contexte.
 
-Pour aller plus loin dans la réflexion, nous vous conseillons la lecture de nos textes suivants :
-
-Antilibéralisme : où nous critiquons la société libérale, ses valeurs et ses fondements ;
-Travail et libertés : où nous expliquons en quoi le travail participe à la liberté de manière nécessaire ;
-Vie culturelle : où nous expliquons notre vision de la culture souhaitable et non souhaitable ;
-Anti-tech : où nous expliquons en quoi le système techno-industriel détruit nos vies ;
-Consommation et libertés individuelles : où nous expliquons pourquoi nous limitons certaines libertés individuelles.
-
-### Principales références:
+## Principales références:
 
 Hannah Arendt, _La Condition de l'homme moderne_
 Roland Barthes, _Mythologies_
@@ -126,7 +126,7 @@ Christopher Ryan, _Civilisés à en mourir_
 James C. Scott, _Homo Domesticus_
 Georg Simmel, _Les Grandes villes et la vie de l'esprit_, _Sociologie, étude sur les formes de la socialisation_
 
-### Notes 
+## Notes 
 
 1 : https://www.monde-diplomatique.fr/publications/manuel_d_histoire_critique/a53150 ; _La condition ouvrière_, Simone Weil
 

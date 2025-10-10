@@ -4,7 +4,7 @@ date: 2025-02-05 00:00:00
 tags:
   - vision
   - specifique
-image: '/images/ressources/licorne.jpg'
+image: 'https://www.mallouestan.org/images/ressources/specifiques/licorne.jpg'
 author: mallouestan
 message:
   content: C'est tout nouveau
@@ -42,7 +42,7 @@ Dans cette approche binaire, la manifestation physique du sexe biologique est vu
 #### L'approche libérale
 La binarité des genres est un concept essentiel pour aborder notre première approche, que nous allons décrire comme libérale. C'est une vision très répandue dans les milieux militants et queers. Le genre, dans cette approche, est avant tout un ressenti (identitaire, profond, sentimental, d'un rôle social vécu ou désiré, etc). Quel que soit ce ressenti, il est considéré comme valide ou vrai, du moment qu'il concerne les comportements que la binarité des genres encadre [des pratiques ou des attitudes genrées]. Autrement dit, le genre est détaché de tout attribut physique : il ne dépend plus du corps des individu•es ou de leur biologie, mais d'un ressenti. L'approche libérale valorise donc ce ressenti individuel, qui ne doit pas être, selon cette approche, limité par un cadre binaire arbitraire. Vu ainsi, être femme ou homme veut dire se sentir femme ou homme. Plus généralement, être de tel ou tel genre veut dire se ressentir de ce genre. Cette vision défend la possibilité de ne pas se ressentir représenté•e ni par les genres femme ou homme, et ainsi d'être non-binaire ou par d'autres genres et rapports à ces genres.
 
-![Illustration licorne du genre](/images/ressources/licorne.jpg)
+![Illustration licorne du genre](https://www.mallouestan.org/images/ressources/specifiques/licorne.jpg)
 
 > Ci-dessus "La licorne du genre" régulièrement utilisée pour illustrer l'approche libérale
 

@@ -41,7 +41,7 @@ Il existe pourtant d’autres modèles que celui porté par le système<sup>1</s
 
 Pour résumer les idées de cette section, nous questionnons fortement l’utilité du dualisme gauche-droite, notamment au travers des simplifications qui lui sont associées. Dans le cas de notre vision politique, nous ne voyons pas l’intérêt de nous positionner fallacieusement dans ce dualisme alors que nos valeurs ne s’y conforment pas, et nous regrettons que d’autres méthodes, d’autres prismes et analyses ne soient pas privilégié·es. Malheureusement, comme toute simplification, ces modèles ont des faiblesses et c’est pour cela que, dans ce texte, nous essaierons d’être plus précis·es. Plutôt que d’utiliser trois dimensions, comme cela est le cas dans la Vosem Chart, nous nous positionnerons sur une dizaine de dualismes permettant, nous l’espèrons, de surmonter certaines des embûches des modèles présentés.
 
-![Illustration des diagrammes politiques](../ressources/diagrammes_politique.png)
+![Illustration des diagrammes politiques](https://www.mallouestan.org/images/ressources/specifiques/diagrammes_politique.png)
 
 > Ci-dessus des diagrammes de Nolan: élections 2017 en France (https://www.politicalcompass.org/france2017); élections 2022 en France; élections anticipées France 2024. 
 
@@ -98,7 +98,7 @@ Sur le plan cosmologique [la vision des lois régissant l’univers] et de notre
 
 Le premier tendrait à inclure, comme dans le Sūtra du diamant<sup>19</sup>, les animaux, les végétaux, les champignons dans ce qui est méritant d’intérêt de par cette intériorité partagée. La position inverse, le naturalisme, tendrait à distinguer ces catégories par une intériorité fondamentalement distincte, par exemple l’idée d’un "je"/conscience unique et souvent par une capacité singulière qui n’existerait que chez les humain·es. Le Mallouestan ne reconnaît pas cette notion d’intériorité, ou tout au moins la trouve trop fragile pour être utilisée comme fondement cosmologique. Pour nous il n'est donc pas possible de partager une intériorité. Nous ne voyons pas non plus de justification à une distinction basée sur quelque chose d'inexistant. Nous partageons, par contre, avec la vision naturaliste descolienne la conviction que sur le plan physique, il y a une continuité matérielle entre les individus humains ou non. Autrement dit, les conditions matérielles définissant les identités ne présentent pas de disruption mais appartiennent à un plan continu partagé par toustes.
 
-![descola cosmologie](../ressources/nature-Descola.png)
+![descola cosmologie](https://www.mallouestan.org/images/ressources/specifiques/nature-Descola.png)
 
 Cette idée nous amène à notre dernier dualisme, qui concerne l’inclusion ou non des autres êtres vivants dans la sphère morale. D’un côté, on pourrait citer le chauvinisme humain qui exclurait de manière absolue tout ce qui n’appartient pas à l’espèce _Homo sapiens_, et, de l’autre, une approche d’écologie profonde<sup>20</sup> qui, ici, serait une position valorisant les valeurs intrinsèques du vivant indépendamment de son utilité pour l’humanité. Le Mallouestan se positionne plutôt du côté de l’écologie profonde en adoptant une éthique environnementale qui pourrait être caractérisée d’écocentriste. Cette position est détaillée dans le texte "Éthique environnementale" où nous exposons notre approche qui rejette autant que possible la domestication et valorise la pérennité des écosystèmes que nous côtoyons.
 

@@ -1,5 +1,5 @@
 ---
-date: 2025-05-24 2:00:00
+date: 2025-06-23 02:00:00
 title: Risques et périls
 description: >-
   Présentation de notre vision des risques et périls 
@@ -10,9 +10,7 @@ image: /images/ressources/pollution.jpg
 author: mallouestan
 ---
 
-# Risques et périls
-
-## Pourquoi écrire ce texte ? 
+## Pourquoi écrire ce texte ?
 
 L'existence de risques, crises et périls n'est pas nouvelle. Entre les risques climatiques liés au "dérèglement" de plus en plus rapide, l'appauvrissement des écosystèmes ou encore les tensions géopolitiques mondiales, il semble plutôt normal de se demander ce qui va arriver et ce que cela va engendrer dans un futur plus ou moins proche. De ces questionnements naissent différents courants de pensée ou approches qui ne sont pas toujours aisés à appréhender dans leur entièreté ni dans leurs nuances. Nous remarquons notamment que l'approche adoptée au Mallouestan fait souvent l'objet de méprise. En effet, il n'est pas rare qu'en tant qu'écolieu anti-tech, écocentriste et antilibéral, le Mallouestan soit qualifié de lieu survivaliste ou collapsologue. Or nous ne nous reconnaissons ni dans l'un ni dans l'autre. Ce texte vise donc à éclaircir l'approche que nous développons au Mallouestan vis-à-vis des risques potentiels et de mettre en avant ce qui la différencie d'autres tels que le survivalisme ou la collapsologie. 
 Par ailleurs, nous considérons qu'en étayant notre vision des risques et périls à venir, nous faciliterons la compréhension du fonctionnement du Mallouestan, de ses conditions matérielles et des décisions qui y sont prises.
