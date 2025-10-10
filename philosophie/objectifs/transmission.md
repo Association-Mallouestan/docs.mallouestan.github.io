@@ -5,7 +5,7 @@ description: L'importance de la transmission et du partage au Mallouestan
 tags:
   - objectifs
   - vision
-image: /images/ressources/pic-noir-groupe.webp
+image: /images/carnet1.jpg
 author: mallouestan
 ---
 
