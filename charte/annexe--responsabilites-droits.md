@@ -3,7 +3,6 @@ date: 2025-03-04 2:05:00
 title: Annexe - Responsabilités et droits
 description: L'annexe sur les responsabilités et droits des différents rôles du Mallouestan.
 tags:
-  - visite
   - charte
 image: /images/logo.jpg
 author: mallouestan
@@ -24,7 +23,6 @@ author: mallouestan
 | De s'assurer au quotidien que les besoins des animaux non-humains sont satisfaits                                                                                                                                                                                    |    Non    |    Non    |   Oui   |
 | De fournir aux visiteuse·eurs les ressources nécessaires le temps de leur séjour<br>                                                                                                                                                                                 |    Non    |    Non    |   Oui   |
 | De garantir le respect de la charte et d'intervenir ou solutionner des potentiels problèmes.                                                                                                                                                                         |    Non    |    Non    |   Oui   |
-| De s'assurer de la présence d'au moins un·e arrimé·e sur le lieu<br>                                                                                                                                                                                                 |    Non    |    Non    |   Oui   |
 | De mutualiser ses ressources (comme précisé dans l'annexe économie partagée)                                                                                                                                                                                              |    Non    |    Non    |   Oui   |
 | De s'assurer de la présence d'au moin un·e arrimé·e sur le lieu la nuit, au moment des tâches concernant les non-humains.                                                                                                                                            |    Non    |    Non    |   Oui   |
 
@@ -48,7 +46,7 @@ author: mallouestan
 
 ### Résident·e non-autonome
 
-Ce rôle est défini par l'incapacité à satisfaire les prérequis des autres statuts. Une personne qui ne serait pas suffisamment autonome pour être « arrimée » peut obtenir le statut de résident. Si elle n'est pas suffisamment autonome pour être résident, elle se voit attribuer le statut de Résident non-autonome. L’autonomie est privilégiée par rapport à la notion de validité, pour diverses raisons expliquées notamment dans le texte Travail et Liberté.
+Ce rôle est défini par l'incapacité à satisfaire les prérequis des autres rôles. Une personne qui ne serait pas suffisamment autonome pour être « arrimée » peut obtenir le rôle de résident. Si elle n'est pas suffisamment autonome pour être résident, elle se voit attribuer le rôle de Résident non-autonome. L’autonomie est privilégiée par rapport à la notion de validité, pour diverses raisons expliquées notamment dans le texte Travail et Liberté.
 
 | Droits                                                    |
 | ------                                                    |
@@ -65,4 +63,4 @@ Ce rôle est défini par l'incapacité à satisfaire les prérequis des autres s
 5. En cas d'opposition de résident·e(s), à la fin de l'échéance, la décision est reprise sans que leur accord soit nécessaire. Cette échéance a comme objectifs de permettre le temps de pousuivre les échanges tant collectifs qu'interpersonnels et de laisser le temps de se préparer à la mise en place de telle ou telle décision.
 6. En cas d'opposition de résident·e(s), la décision est reportée à un an s'il y a unanimité ou au moins trois résident-es s'opposent. Dans le cas oú un·e seul·e résident·e s'oppose, ou dans tout autre cas, la décision est reportée à six mois. 
 7. Les motifs de refus d'accès au rôle, étayés si possible d'exemples et de pistes, doivent être communiqués aux personnes concernées.
-8. Un résident·e ou un·e arrimé·e peut évidement être victime d'accidents ou de problèmes de santé ayant un impact sur sa capacité à assumer ses responsabilités. Si le collectif estime que la personne n'est pas en mesure d'assumer ses responsabilités et que cela as était constaté par le collectif sur une période de quatre mois, la personne peut être dégradée à un rôle correspondant à ses capacités. Cela est une décision collective de la part des arrimé·es et doit être utilisé si il n'y as pas de perspective de changements dans les 24 mois a venir. Elle doit être précédée d'échanges collectifs avec la personne concernée. Dans le cas ou la personne concernée est un·e arrimé·e, elle as, pendant 4 ans, un accès privilégié a son ancien rôle si la personne peut assumer de nouveau ses responsabilités sur une période de 4 mois. 
+8. Un résident·e ou un·e arrimé·e peut évidement être victime d'accidents ou de problèmes de santé ayant un impact sur sa capacité à assumer ses responsabilités. Si le collectif estime que la personne n'est pas en mesure d'assumer ses responsabilités et que cela as était constaté par le collectif sur une période de quatre mois, la personne peut être dégradée à un rôle correspondant à ses capacités. Cela est une décision collective de la part des arrimé·es et doit être utilisé si il n'y as pas de perspective de changements dans les 24 mois a venir. Elle doit être précédée d'échanges collectifs avec la personne concernée. Dans le cas ou la personne concernée est un·e arrimé·e, elle as, pendant 4 ans, un accès privilégié a son ancien rôle. Cet acces est conditionné par la capacité de la personne sur une période de 4 mois d'assumer les responsabilités des arrimé qui lui ont étaits reaccorder temporairement et tant qu`elle les assume.

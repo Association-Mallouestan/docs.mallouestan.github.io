@@ -6,9 +6,6 @@ tags:
   - specifique
 image: '/images/ressources/sanctuaire.jpg'
 author: mallouestan
-message:
-  content: En cours d'écriture
-  icon: warning
 ---
 
 ## L'opposition au sanctuaires animalistes.

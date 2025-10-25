@@ -1,11 +1,16 @@
-> [Accueil](../../) > [Portail philosophique](../) > Texte sur la vie culturelle
-
-
-# Vie culturelle  
+---
+title: Vie culturelle  
+date: 2025-06-24 02:00:00
+tags:
+  - fondamentaux
+  - vision
+image: /images/ressources/guide.jpg
+author: mallouestan
+---
 
 ## Pourquoi écrire ce texte ?
 
-Dans un contexte de quête d'autonomie et d'émancipation collective, la vie culturelle nous semble être un pilier important. Par ce texte, nous souhaitons donc expliciter ce que nous entendons par vie culturelle ainsi que ses enjeux. Il sera donc nécessaire, dans un premier temps, d'identifier les dérives et problèmes de la culture dominante et, ainsi, expliquer la nécessité de s'en distancer.Pour nous, ce texte est un moyen de mettre en lumièrele besoin de développer une culture indépendante dans un projet de vie collective et alternative.
+Dans un contexte de quête d'autonomie et d'émancipation collective, la vie culturelle nous semble être un pilier important. Par ces texte, nous souhaitons donc expliciter ce que nous entendons par vie culturelle ainsi que ses enjeux. Il sera donc nécessaire, dans un premier temps, d'identifier les dérives et problèmes de la culture dominante et, ainsi, expliquer la nécessité de s'en distancer.Pour nous, ce texte est un moyen de mettre en lumièrele besoin de développer une culture indépendante dans un projet de vie collective et alternative.
 
 ## Qu'est-ce qui ne va pas dans la culture moderne/dominante ? 
 

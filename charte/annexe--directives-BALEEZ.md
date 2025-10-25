@@ -1,6 +1,6 @@
 ---
 date: 2025-03-04 2:05:00
-title: Annexe - Directives A.C.A.B
+title: Annexe - Directives B.A.L.E.E.Z
 description: L'annexe sur le cadre des aménagements collectifs, de l'attractivité et du bâti.
 tags:
   - charte
@@ -8,7 +8,7 @@ image: /images/logo.jpg
 author: mallouestan
 ---
 
-## Directives sur les Aménagements Collectifs, l’Attractivité et le Bâti
+## Directives sur les Bâtis, l’Attractivité, pour Limiter l’Empiètement sur les Espaces et les Zones
 
 ### Principes généraux
 
@@ -24,7 +24,7 @@ Lors de la construction de nouvelles infrastructures, les matériaux suivants so
 
 - Parpaings  
 - Plastiques  
-- Métal (hors toiture, fumisterie, clous, tiges et vis)  
+- Métal (hors toiture (sur une charpente conçue pour accueillir du chaume), fumisterie, clous, tiges et vis, plomberies)  
 - Enduits / mortiers à base de ciment  
 - Peintures industrielles ou à base de pétrochimie  
 - PVC  
@@ -32,7 +32,7 @@ Lors de la construction de nouvelles infrastructures, les matériaux suivants so
 
 Dans le cadre de la rénovation de bâtiments en pierre existants, l’usage du béton peut être toléré, faute d’alternative, en cas de problème structurel. Son utilisation doit être minimisée et envisagée uniquement si aucune autre solution n’est possible pour le collectif.
 
-Par ailleurs, les constructions doivent s’intégrer dans l’environnement en cherchant à minimiser leur impact sur les écosystèmes, tout au long de leur cycle de vie. Celui-ci ne doit pas excéder environ 60 ans sans maintenance. Ainsi, il faut privilégier une conception facilitant l’entretien et permettant une maintenance à faible coût.
+Par ailleurs, les constructions doivent s’intégrer à leur environnement en veillant à minimiser leur impact sur les écosystèmes tout au long de leur cycle de vie. Celui-ci doit chercher a pas excéder environ 60 ans sans maintenance. Il convient donc de privilégier une conception favorisant l’entretien et permettant une maintenance à faible coût.
 
 ### Arbres, clôtures et barrières
 
@@ -42,13 +42,13 @@ Le cas de la plantation d’arbres est particulier : elle nécessite un accord
 
 ### Aménagement des espaces personnels
 
-Les aménagements des espaces personnels ne sont pas soumis à un accord collectif tant qu’ils ne touchent pas à la structure ou à son intégrité. La décoration et le mobilier extérieur doivent respecter les règles de cette annexe, notamment en ce qui concerne les matériaux proscrits. Les espaces personnels doivent par ailleurs être restitué·e·s dans un état conforme aux directives de ce document, y compris à l’intérieur.
+Les aménagements des espaces personnels ne sont pas soumis à un accord collectif tant qu’ils ne touchent pas à la structure ou à son intégrité. La décoration et le mobilier extérieur doivent respecter les règles de cette annexe, notamment en ce qui concerne les matériaux proscrits. Les espaces personnels doivent par ailleurs être restitués dans un état conforme aux directives de ce document, y compris à l’intérieur.
 
 ### Zones protégées
 
-Certaines zones du lieu sont protégées en faveur du sauvage. Dans ces zones, toute structure nécessite l’accord des résident·e·s ainsi que l’avis d’un·e naturaliste externe au lieu. Ces zones sont également soumises aux règles suivantes :
+Certaines zones du lieu sont protégées en faveur du sauvage. Dans ces zones, toute structure nécessite l’accord des résident·e·s ainsi que l’avis d’un·e naturaliste. Ces zones sont également soumises aux règles suivantes :
 
-1. Aucun camping ni tente n’est autorisé. Le bivouac est possible à condition de respecter les règles suivantes.
+1. Aucun camping ni tente n’est autorisé·e. Le bivouac est possible à condition de respecter les règles suivantes.
 2. Aucun bruit artificiel (haut-parleur, machine, instrument), ni cri, sauf en cas de danger. Les discussions se font à voix basse ou en langue des signes.
 3. Aucune ressource naturelle ou végétale ne doit être prélevée, sauf les fruits – et au moins la moitié doit être laissée sur place.
 4. Aucun feu n’est autorisé.
