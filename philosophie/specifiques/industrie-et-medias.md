@@ -1,5 +1,5 @@
 ---
-title: Les sanctuaires
+title: Industrie et médias
 date: 2024-10-05 00:00:00
 tags:
   - vision
