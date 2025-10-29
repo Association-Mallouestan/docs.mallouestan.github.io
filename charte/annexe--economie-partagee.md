@@ -49,16 +49,7 @@ Différents risques sont à prendre en compte dans cette mutualisation et pour �
 1. Une somme d'argent hebdomadaire est allouée à chaque arrimé·e dont l'usage est à sa discrétion.
 2. Un filet de sécurité est prérequis pour devenir arrimé·e. Ce filet a comme objectif de permette à tout moment à la personne le détenant de partir du lieu. Ce filet de sécurité est variable (nous n'avons pas tous·tes le même capital social, familial, culturel... ) et est demandé par chaque candidat·e au rôle d'arrimé·e.
 3. Certains besoins sont considérés comme ubiquitaires, tels que l'abonnement du téléphone mobile, les frais médicaux, frais bancaires, individus à charge et maintenance des vélos. Ils sont donc pris en charge par la mutualisation.
-4. Une liste d'outils et de matériel est définie comme étant indispensable et, de fait, personnelle:
-    - Vélo et accessoires
-    - Couteau, hache, houe et accessoires d'entretien
-    - Lame et fixation de faulx
-    - Trousse de premiers secours
-    - Trousse de couture
-    - Vêtements 
-    - Sac de couchage et matelas
-    - Sac à dos supérieur a 80L
-    - Bivy
+4. Une liste d'outils et de matériel est définie comme étant indispensable et, de fait, personnelle.
 
 ### Mise à disposition de privilège<sup>1</sup> de façon conditionnée 
 
