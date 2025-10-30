@@ -49,32 +49,49 @@ Dans le cas d'aide ou d'urgence, familiale par exemple, une absence peut relever
 
 Comme expliqué dans l'annexe économie partagée la mutualisation inclut les biens matériels. La liste suivante est considérer comme exclut de la mutualisation en vue de leurs caractère essentiel ou personnelle:
 
-| Bien          | Garantie par la mutualisation | Entretient garantie par la mutualisation |
-|-------------------|-----|-----|
-| **Transport**     |     |     |
-| Vélo              | Oui | Oui |
-| Sacoches AV       | Oui | Oui |
-| Sacoches AR       | Oui | Oui |
-| Lumières          | Oui | Oui |
-| Accessoires cadre | Non | Non |
-| Outils entretient | Oui | Oui |
-| 3xChambres à airs | Oui | Oui |
-| Bidon             | Non | Non |
-| **Affaires pers** |     |     |
-| Sac à dos >70L    | Oui | Oui |
-| Vétements pers    | Oui | Oui |
-| Chaussure         | Oui | Oui |
-| Chaussure ville   | Oui | Oui |
-| Trousse de toil.  | Oui | Oui |
-| Dumbphone         | Oui | Oui |
-| Smartphone        | Oui | Oui |
-| Trousse couture   | Oui | Oui |
-| Trousse secours   | Oui | Oui |
-| **Subsistence**   |     |     |
-| Réchaud           | Oui | Oui |
-| Gaz               | Oui | Oui |
-| Couverts          | Oui | Oui |
-| Gamelle           | Oui | Oui |
-| Couteau           | Oui | Oui |
-| **Outils**        |     |     |
-| **Camp et dodo**  |     |     |
+| Bien          | Garantie par la mutualisation | Entretient garantie par la mutualisation | Checklist       |
+|-------------------|-----|-----|-------|
+| **Transport**     |     |     |       |
+| Vélo              | Oui | Oui |       |
+| Sacoches AV       | Oui | Oui |       |
+| Sacoches AR       | Oui | Oui |       |
+| Lumières          | Oui | Oui |       |
+| Accessoires cadre | Non | Non |       |
+| Outils entretient | Oui | Oui |       |
+| 3xChambres à airs | Oui | Oui |       |
+| Bidon             | Non | Non |       |
+| **Affaires pers** |     |     |       |
+| Sac à dos >70L    | Oui | Oui |       |
+| Vétements pers    | Oui | Oui |       |
+| Chaussure         | Oui | Oui |       |
+| Chaussure ville   | Oui | Oui |       |
+| Trousse de toil.  | Oui | Oui |       |
+| Dumbphone         | Oui | Oui |       |
+| Smartphone        | Oui | Oui |       |
+| Trousse couture   | Oui | Oui |       |
+| Trousse secours   | Oui | Oui |       |
+| Carnets/papeterie | Oui | Oui |       |
+| **Subsistence**   |     |     |       |
+| Réchaud           | Oui | Oui |       |
+| Gaz               | Oui | Oui |       |
+| Couverts          | Oui | Oui |       |
+| Gamelle           | Oui | Oui |       |
+| Couteau           | Oui | Oui |       |
+| Gourde            | Oui | Oui |       |
+| **Outils**        |     |     |       |
+| Fer de hache      | Oui | Oui |       |
+| Manches           | Non | Non |       |
+| Serpe             | Oui | Oui |       |
+| Fer de houe       | Oui | Oui |       |
+| Pierres d'afut.   | Oui | Oui |       |
+| Limes             | Non | Non |       |
+| Clefs et graisse  | Oui | Oui |       |
+| **Camp et dodo**  |     |     |       |
+| Tarp ou bivy      | Oui | Oui |       |
+| Sac couchage 0°   | Oui | Oui |       |
+| **Vêtements tech** |     |     |       |
+| Parka -5° min     | Oui | Oui |       |
+| Sur-pantalon imp. | Oui | Oui |       |
+| Gants ou moufles  | Oui | Oui |       |
+
+En plus de cette liste chaque arrimé·e peut déclarer des biens personnels qu'il·elle souhaite exclure de la mutualisation. Cette demande doit être validée par l'ensemble des arrimé·es. Cette liste est appelée "Liste d'affaire supplémentaire non mutualisée" et est tenue à jour par les arrimé·es.
