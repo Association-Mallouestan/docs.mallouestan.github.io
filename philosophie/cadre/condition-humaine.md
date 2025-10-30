@@ -1,5 +1,5 @@
 ---
-date: 2025-06-29 02:00:00
+date: 2025-06-30 02:00:00
 title: Condition humaine
 description: >-
   Un ensemble de constats et d'analyses sur la condition humaine, et comment le système actuel est en contradiction avec cette dernière.
