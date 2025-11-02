@@ -56,8 +56,8 @@ Ce rôle est défini par l'incapacité à satisfaire les prérequis des autres r
 
 ### Remarques transversales aux différents rôles
 
-1. La période d'essai d'un·e résident·e est d'au moins 4 mois et est discutée plus en détail avec toustes les résident·es et arrimé·es. La période d'essai est initiée sur demande et nécessite un accord unanime.
-2. La période d'essai d'un·e arrimé-e est d'un an. Pendant cette période, seuls les revenus de la personne sont mutualisés. La personne ne peut devenir arrimé·e tant que son filet de sécurité n'est pas constitué (par elle ou par le collectif) 
+1. La période d'intégration d'un·e résident·e est d'au moins 4 mois et est discutée plus en détail avec toustes les résident·es et arrimé·es. La période d'intégration est initiée sur demande et nécessite un accord unanime.
+2. La période d'arrimage d'un·e arrimé-e est d'un an. Pendant cette période, seuls les revenus de la personne sont mutualisés. La personne ne peut devenir arrimé·e tant que son filet de sécurité n'est pas constitué (par elle ou par le collectif)
 3. En cas d'injoignabilité, le ou la résident·e ou l'arrimé·e a deux semaines pour partager sa décision.
 4. En cas d'opposition à une décision de la part d'un·e résident·e ou d'un·e visiteuse·eurs un report de la décision a lieu. Cette échéance est maintenue tant que l'opposition existe. 
 5. En cas d'opposition de résident·e(s), à la fin de l'échéance, la décision est reprise sans que leur accord soit nécessaire. Cette échéance a comme objectifs de permettre le temps de pousuivre les échanges tant collectifs qu'interpersonnels et de laisser le temps de se préparer à la mise en place de telle ou telle décision.

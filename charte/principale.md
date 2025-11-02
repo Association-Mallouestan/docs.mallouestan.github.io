@@ -100,7 +100,7 @@ Ci dessous les responsabilités et droits des visiteurs, pour l'ensemble des rô
 Un équilibre doit être trouvé entre les libertés individuelles et celles du collectif. Les situations suivantes, impactant le contexte commun, doivent être précédées par un vote unanime des personnes concernées par la décision: 
 
 - Tout changement de la charte ou ses annexes (budget, liste de courses) ;
-- L'attribution des rôles de arrimé·e ou de résident·e ainsi que les conditions d'une période d'essai ;
+- L'attribution des rôles de arrimé·e ou de résident·e ainsi que les conditions d'une période d'intégration ;
 - Les dépenses exceptionnelles ou ponctuelles définies dans l'annexe pour le budget ;
 - Tout aménagement, par une personne, impactant les espaces communs qui ne peut être défait par cette même personne en 6h comme précisé dans l'annexe [Annexe: directives B.A.L.E.E.Z](/r/charte-annexe-directives-BALEEZ.md) ;
 
