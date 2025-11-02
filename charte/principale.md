@@ -29,6 +29,7 @@ Nos positions et valeurs ne sont pas dépendantes d'une romantisation du passé 
 > Cette charte définit le contexte commun auquel chaque personne adhère en venant sur le lieu ou en participant aux événements extérieurs organisés par le Mallouestan. 
 
 ## Objectifs
+
 Nous sommes conscient·es que beaucoup des valeurs et des objectifs ci-dessous sont difficilement atteignables. De ce fait, nous les listons humblement en acceptant que chacun·e, sur le lieu, ne peut qu’y tendre. 
 
 1. Créer une résilience/indépendance commune vis-à-vis du capitalisme, de la société extractiviste, thermo-industrielle, techno-solutioniste et de la société de consommation notamment mais non limité à :
@@ -48,6 +49,7 @@ Nous sommes conscient·es que beaucoup des valeurs et des objectifs ci-dessous s
 9. Créer un nouveau rapport au vivant en développant une axiologie (vision de ce qui est considéré comme juste et souhaitable) ancrée dans une cosmologie (vision de la façon dont l'univers fonctionne) matérialiste compatible avec la méthode scientifique.  
 
 ## Prérequis
+
 Nous sommes conscient·es que chacun·e est déconstruit·e à des niveaux variables et que chacun·e évolue à sa vitesse. Malgré cela, un minimum de déconstruction est nécessaire pour garantir l’avancée de l’ensemble du groupe. Comme pour le reste de cette charte, aucun mécanisme, ci-dessous, n'a comme prétention d'être suffisant ou parfait mais représente un point de départ qui semble pertinent pour les explorations du collectif. Nous demandons donc sur le lieu et pendant les événements organisés par le Mallouestan : 
 
 1. Aucune violence, hors légitime défense, envers un autre individu, ce qui inclut mais n'est pas limité aux violences ou situations suivantes : 
@@ -73,6 +75,7 @@ Nous sommes conscient·es que chacun·e est déconstruit·e à des niveaux varia
 
 
 ## Rôles et responsabilités
+
 Dans une optique de minimisation de pouvoir sur le lieu, les rôles suivants sont définis pour permettre à chacun·e de mieux appréhender leurs responsabilités et devoirs.
 
 Il y a trois rôles sur le lieu :
@@ -92,11 +95,12 @@ Ci dessous les responsabilités et droits des visiteurs, pour l'ensemble des rô
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
 | Garant de ses actes et gestes sur le lieu. Il ou elle est la•e garant de son quotidien et de sa communication avec l'ensemble du collectif.                                                                                                                          |
 | Responsable de l'entretien (nettoyage, changer une ampoule ...) des locaux et de tout équipement qu'il ou elle utilise sur le lieu, dans la limite de ses capacités, dans le cas contraire il ou elle doit notifier l'ensemble du collectif.                         |
-| De tout faire pour ne pas représenter une charge financière ou de travail pour le reste du collectif                                                                                                                                                                 |
+| De faire son possible pour ne pas représenter une charge financière ou de travail pour le reste du collectif. Cela dépend des moyens de chacun·e. Le collectif compose avec les limites et spécificités de ses membres.                                                                |
 | De garantir le respect, par toustes, de la charte. Pour éviter un contexte de délation, seules les situations interpersonnelles, où le bien-être d'une autre personne du lieu serait en jeu, oblige une intervention ou une notification de l'ensemble du collectif. |
 
 
 ## Gouvernance
+
 Un équilibre doit être trouvé entre les libertés individuelles et celles du collectif. Les situations suivantes, impactant le contexte commun, doivent être précédées par un vote unanime des personnes concernées par la décision: 
 
 - Tout changement de la charte ou ses annexes (budget, liste de courses) ;
@@ -115,23 +119,27 @@ Les nuances de gouvernance entre les rôles sont détaillées dans l'annexe [Ann
 > Certains changements suite à des discussions collectives peuvent être mis en "attentes" le temps que le processus décisionnel soit finalisé et peuvent être trouvés dans l'annexe [Annexe: décisions en attente](/r/charte-annexe-decisions-en-attente).
 
 ## Gestion de conflit
+
 Nous sommes conscient·es que nous sommes des êtres de nature imparfaite. Nous faisons donc toutes et tous des erreurs ou des écarts à nos valeurs et idéaux. Nous nous devons d’être indulgent·es, envers nous-mêmes et envers autrui. Mais nous acceptons également que tout écart qui impacte le lieu et ses membres peut être traité si une personne le souhaite. 
 
 Une annexe a cette charte cadre le gestion du conflit appelé [Annexe: gestion de conflit](/r/charte-annexe-gestion-de-conflit)
 
 ## Ultimatums 
+
 Plusieurs ultimatums exceptionnels sont de facto définis pour tous les membres du lieu : 
 1. Toute atteinte physique intentionelle non sportive et hors légitime défense, sur un individu du lieu peut entraîner une exclusion du lieu si au moins un·e autre membre du lieu le souhaite 
 2. Toute atteinte physique grave (décès, blessures sur le long terme) par un animal non-résident sur un autre individu du lieu entraîne soit l’exclusion de l’animal ou, si la ou les responsables de l’animal le souhaitent, un ultimatum les concernant directement
 3. Si une personne présentant une volonté d'atteinte grave à elle-même, qu'il s'agisse de blessures potentielles ou d'un risque imminent de mort, nous prendrons la décision **dans le cas où le dialogue est stérile ou impossible**, d'impliquer des forces extérieures. Cela peut inclure, mais n'est pas limité à, l'appel des services d'urgence tels que le SAMU
 4. Si une personne vole l'association  
 
-### Accueil de visiteuse•eures
+## Accueil de visiteuse•eures
+
 Parmis nos objectifs, nous avons toujours valorisé l'accueil de visiteuse•eurs, dans diverses optiques notamment: de solidarité, de transmission, et d'ouverture à l'extérieur évitant un entre-soi. Notre collectif s'inscrit dans une émancipation qui se veut collective et qui voit cette autonomie autant que possible par une organisation qui est collective également. Ainsi, les visiteuse•eurs que nous accueillons sont tenu•es de participer a minima à notre vie quotidienne (moments collectifs et tâches) ou de nous communiquer l'incapacité de le faire. Dans tout les cas un minimum de temps partagé est attendu quand cela est possible. Pour toute les raisons citées ci-dessus, nous nous accordons la possibilité de demander aux personnes qui ne s'inscrivent pas dans une telle démarche de partir.
 
 Pour plus d'informations sur la vie collective sur le lieu, il est encouragé de lire l'annexe correspondante.
 
-### Annexes
+## Annexes
+
 - [Vie collective](/r/charte-annexe-vie-collective.md)
 - [Responsabilités et droits](/r/charte-annexe-responsabilites-droits.md)
 - [Économie partagée](/r/charte-annexe-economie-partagee.md)
