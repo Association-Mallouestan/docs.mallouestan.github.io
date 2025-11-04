@@ -56,4 +56,4 @@ Pour conclure, sans le partage et la transmission, un projet comme le Mallouesta
 ## Notes
 
 1. Dans notre approche, nous mettons en avant la notion de mētis, terme grec renvoyant à la sagesse empirique issue des générations passées ayant évolué dans un environnement défini. On peut employer cette notion à propos de la connaissance du climat, de la meilleure période pour faire des semis, ou d’une technique efficace pour aiguiser une lame avec les pierres de la région. La mētis est ad-hoc, contextuelle ou spécifique, elle est acquise dans un contexte par la pratique et s’oppose à la technè qui à une tendance généralisante s'appuyant sur la raison, la logique et la théorie. On ne rejette pour autant la notion de technè que nous considérons aussi importante que la mētis; ce sont des notions complémentaires.
-2. Nous abordons plus en détail les limites de ce qui est souhaitable en ce qui concerne le soin dans le texte anti·tech.
+2. Nous abordons plus en détail les limites de ce qui est souhaitable en ce qui concerne le soin dans le texte anti-technologies.

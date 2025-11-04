@@ -55,7 +55,7 @@ Pour ces raisons bien que notre idéal soit opposé à la paysannerie, nous acce
 
 Ainsi, nous développons en parallèle, de manière prioritaire, des compétences qui nous permettent de réduire progressivement notre dépendance à cette forme de maraîchage paysan. La cueillette de plantes sauvages, ainsi que toute autre forme de subsistance qui n’implique aucune domestication volontaire, est activement explorée sur le lieu.
 
-Nous avons adopté une approche générale antitechnologique. Ce positionnement découle de notre prérogative de minimiser notre impact et de vivre en impliquant le moins de morts, de destruction et de souffrance possibles. Un texte a été rédigé pour expliquer en détail notre position antitech, car elle soulève, à juste titre, de nombreuses questions. Cependant, cette position découle fondamentalement de notre éthique environnementale. Nous mettons en pratique sur le lieu un mode de vie qui cherche à s’abstraire au maximum des technologies modernes.
+Nous avons adopté une approche générale antitechnologique. Ce positionnement découle de notre prérogative de minimiser notre impact et de vivre en impliquant le moins de morts, de destruction et de souffrance possibles. Un texte a été rédigé pour expliquer en détail notre position technocritique, car elle soulève, à juste titre, de nombreuses questions. Cependant, cette position découle fondamentalement de notre éthique environnementale. Nous mettons en pratique sur le lieu un mode de vie qui cherche à s’abstraire au maximum des technologies modernes.
 
 Sur le lieu, nous poursuivons un objectif d'autonomie et de résilience. Cet objectif a également été expliqué dans un autre texte que nous avons partagé publiquement, comme celui-ci. Cette autonomie nous permet de nous affranchir, du moins partiellement, d'un système totalement incompatible avec les prérogatives de notre éthique environnementale. Elle renforce aussi notre résilience, garantissant ainsi la pérennité de nos objectifs de solidarité envers le vivant, les membres de notre collectif, ainsi que d'autres humains en dehors de notre collectif. Grâce à cette solidarité, nous visons à réduire la souffrance, la mort et la destruction qui nous entourent.
 
@@ -65,7 +65,7 @@ Nous avons également remis en question de nombreuses idées systémiques et axi
 
 Ce texte présente, de manière non exhaustive, les fondements de l'éthique environnementale du Mallouestan. Il permet de définir la vision du lieu sans recourir aux termes d’antispécisme ou d’écologie. Ainsi, il décrit le Mallouestan comme étant opposé à un mode de vie centré sur l’humain, autrement dit anthropocentriste. Le texte présente le lieu comme recherchant un mode de vie qui repose<sup>2</sup> le moins possible sur la destruction, la souffrance, et la mise à mort des non-humains, de la nature sauvage, et des humains.
 
-Il montre également que le lieu s’oppose à la domestication et se positionne en faveur de la libération animale. Le Mallouestan est donc présenté comme un lieu singulier, antitech, écocentriste et partisan de la libération totale.
+Il montre également que le lieu s’oppose à la domestication et se positionne en faveur de la libération animale. Le Mallouestan est donc présenté comme un lieu singulier, technocritique, écocentriste et partisan de la libération totale.
 
 ## Notes
 

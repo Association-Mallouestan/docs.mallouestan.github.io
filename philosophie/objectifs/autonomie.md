@@ -88,7 +88,7 @@ Ces références ne représente en aucun cas la validation de notre parts de col
 
 1. Noam Chomsky, La fabrique du consentement
 2. Theodore Kaczynski, La société industrielle et son avenir
-3. Anti Tech résistence, site web, Page d'accueil [https://antitechresistance.org/](https://antitechresistance.org/)
+3. https://www.ouest-france.fr/sante/virus/coronavirus/podcast-pascal-picq-paleoanthropologue-nous-sommes-confrontes-des-maladies-civilisationnelles-6843079
 4. Le capital de la séduction, Michel Clouscard
 5. Discours "Au-delà de la croissance" au parlement Européen de Aurélien Barrau
 6. La part sauvage du monde, Virginie Maris

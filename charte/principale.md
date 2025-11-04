@@ -18,7 +18,7 @@ Le Mallouestan est un lieu fondé notamment sur les piliers suivants:
 - **l'anarcho-communisme** (voir texte sur notre position "Anarcho-communisme")
 - **un ecocentrisme vegan opposé à la domestication** (texte "Ethique environnementale")
 - **un rejet du libéralisme** (texte "Anti-libéralisme")
-- **une vision anti-technologies**  (texte "Anti-technologies")
+- **une vision technocritique**  (texte "Anti-technologies")
 
 Nos positions et valeurs ne sont pas dépendantes d'une romantisation du passé ou d'une indépendance absolue. Elles sont le fruit d'un travail critique, basé sur les discussions, les expériences et les connaissances des membres du lieu et des visiteuse·eurs. Cette charte n'est donc pas un support dogmatique ou sectaire, mais un repère pour un collectif anarcho-communiste. Il est destiné à évoluer régulièrement.
 

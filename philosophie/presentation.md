@@ -58,7 +58,7 @@ Découlant de notre vision éthique, plusieurs sujets ont été abordés dans le
 - **[La vision de la liberté et du travail](/r/travail-liberte)**, notamment dans notre approche anti-libérale et notre conception de la délégation de l’effort nécessaire à notre subsistance (travail).
 - **[La vision de la condition humaine](/r/philosophie-cadre-condition-humaine)**, qui explicite notre analyse de différentes réalités de notre existence dans le monde moderne.
 - **[Notre approche des risque et périls](/r/philosophie-cadre-risques-perils)**, qui n'est ni collapsologique ni survivaliste mais qui admet différents dangers collectifs externes que nous devons prendre en compte.
-- **[Notre position anti-tech](/r/philosophie-specifiques-anti-tech.md)**, découlant de notre vision écocentriste et sociale.
+- **[Notre position technocritique](/r/philosophie-specifiques-anti-technologies)**, découlant de notre vision écocentriste et sociale.
 - **[La culture et sa place dans nos vies](/r/philosophie-cadre-vie-culturel)**, en lien avec notre vision du libéralisme et de l’anarcho-communisme.
   
 ## **Sujets plus spécifiques**
