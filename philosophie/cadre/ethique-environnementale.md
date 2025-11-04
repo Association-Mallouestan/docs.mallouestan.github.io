@@ -1,5 +1,5 @@
 ---
-date: 2025-06-25 02:00:00
+date: 2025-06-30 02:00:00
 title: Ethique environnementale
 description: Notre conception éthique concernant les animaux et le monde non-humain
 tags:
