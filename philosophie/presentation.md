@@ -38,7 +38,7 @@ Les actions du collectif, qu’elles découlent de ses objectifs ou simplement d
 Ce cadre repose sur **trois couches principales**, devant être respectées pour qu’une action, quelle qu’elle soit, soit considérée comme souhaitable ou non. Ces trois couches, ainsi que les textes qui expliquent plus amplement notre vision, sont les suivantes, par ordre d’importance :
 1. **[Écocentrisme végan opposé à la domestication](/r/philosophie-cadre-ethique-environnementale)**
 2. **[Anti-libéralisme](/r/philosophie-cadre-antiliberalisme)**
-3. **[Anarcho-communisme](/404)**
+3. **[Anarcho-communisme](/r/philosophie-cadre-anarcho-communisme)**
 
 Ce cadre éthique s'appuie sur un rapport au monde matérialiste explicité dans le texte **[sur notre rapport ontologique au monde](/r/philosophie-cadre-meta-physique)**.
 

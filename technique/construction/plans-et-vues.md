@@ -1,5 +1,3 @@
-> [Accueil](../../) > [Portail technique](../) > [Portail construction](./) > Faires des plans
-
 ## Faires des plans
 
 Dans de nombreux contextes le plan est un investissement non nécessaire, la flexibilité et l'experience aqcuise empiriquement permet de construire, de fabriquer et de créer des objets sans cette étape. Pour des projets complexes ou dans des situations où préablement une transmission est nécessaire que ce soit pour des raisons de gouvernances ou pédagogique les plans s'avère très utile. 

@@ -7,10 +7,6 @@ tags:
   - vision
 image: /images/ressources/picnoir.jpg
 author: mallouestan
-
-message:
-  content: En cours d'écriture
-  icon: warning
 ---
 
 ## Avant propos

@@ -9,8 +9,6 @@ image: /images/ressources/cozy.jpg
 author: mallouestan
 ---
 
-> [Accueil](../../) > [Portail philosophique](../) > Texte sur le confort
-
 ## Texte sur le confort
 
 ### Pourquoi écrire ce texte ? 

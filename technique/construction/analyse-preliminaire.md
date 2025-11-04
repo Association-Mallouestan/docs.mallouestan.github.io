@@ -1,5 +1,3 @@
-> [Accueil](../../) > [Portail technique](../) > [Portail construction](./) > Analyse préliminaire lors d'une construction
-
 ## Analyse préliminaire lors d'une construction
 
 Avant de commencer un projet ou une construction une première analyse est nécessaire pour identifier diffénts risques et contraintes ausquels la construction seras soumises et auquel il faudras pallier. 

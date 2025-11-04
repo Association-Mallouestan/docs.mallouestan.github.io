@@ -39,7 +39,7 @@ Au Mallouestan, la vie culturelle et ses événements ne constituent pas un moye
 D'autre part, nous accueillons des personnes en période de recherche qui peuvent, si elles le souhaitent, partager leurs réflexions, leurs idées ou autre. 
 Par ailleurs, encourager une culture de remise en question et d'auto-critique nous semble essentiel dans un projet comme celui du Mallouestan. C'est pourquoi nous accordons beaucoup de temps et d'attention aux échanges, discussions et débats.
 Enfin, inscrire cet aspect culturel dans nos quotidiens fait partie de nos principales préoccupations. Nous souhaitons que chacun-e au Mallouestan parvienne à accorder du temps à des pratiques culturelles, des loisirs, à l'apprentissage de savoir ou autre expérimentation. Nous souhaitons que chacun-e alimente sa curiosité dans toutes les choses du quotidien et que les approches réflexive et créative du collectif en soient enrichies.
-Pour autant, ces diverses manières de manifester la culture dans nos vies ne peuvent déroger à notre approche globale et nos valeurs. Ainsi, tous ces événements et moments culturels doivent s'inscrire dans le cadre que nous avons défini au Mallouestan. De ce fait, la culture ne pourra être un prétexte d'excès et de dérive qui nuirait à notre démarche technocritique ["Anti-technologies"](/r/philosophie-specifique-anti-technologies), [anti-libérale](./liberalisme.md) et [écocentriste](./ethique-environnementale.md)
+Pour autant, ces diverses manières de manifester la culture dans nos vies ne peuvent déroger à notre approche globale et nos valeurs. Ainsi, tous ces événements et moments culturels doivent s'inscrire dans le cadre que nous avons défini au Mallouestan. De ce fait, la culture ne pourra être un prétexte d'excès et de dérive qui nuirait à notre démarche technocritique ["Anti-technologies"](/r/philosophie-specifique-anti-technologies), [anti-libérale](https://www.mallouestan.org/r/philosophie-cadre-antiliberalisme) et [écocentriste](https://www.mallouestan.org/r/philosophie-cadre-ethique-environnementale).
 
 ## Pour conclure
 
@@ -52,4 +52,4 @@ Ainsi, pour rompre avec cette culture dominante il est nécessaire de développe
 
 <sup>3</sup> *La Fabrique du consentement* de Noam Chomsky
 
-<sup>4</sup> [Modalités financières pour les artistes](./modalites-financieres.md)
+<sup>4</sup> [Modalités financières pour les artistes](/404)
