@@ -101,8 +101,8 @@ Nous avons mis en avant dans ce texte notre position anarcho-communiste que nous
 2. Voir "Le Capitalisme expliqué à ma petite-fille" de Jean Ziegler, "La Contamination du monde" de François Jarrige et Thomas Le Roux, "Minerais de sang" de Christophe Boltanski
 3. "Qu'est-ce que l'anarchisme ? (Now and After)" d'Alexandre Berkman
 4. Phrase popularisée par Pierre-Joseph Proudhon dans son ouvrage "Qu'est-ce que la propriété ?" en 1840
-5. C’est ce qu’a présenté un le philosophe belge, Philippe Van Parijs, avec la parabole de l’île
-6. Elon Musk se revendique de l'anarcho-capitalismes"
+5. C’est ce qu’a présenté un philosophe belge, Philippe Van Parijs, avec la parabole de l’île
+6. Elon Musk se revendique de l'anarcho-capitalisme"
 7. Voir Heiniger, A. (2023). Emma Goldman : La liberté ou rien. Contre l’État, le capitalisme et le patriarcat. Nouvelles Questions Féministes, . 42(2), 129-132. https://doi.org/10.3917/nqf.422.0129 et "Dieu et l'état" de Mikhaïl Bakounine
 8. Le récit des Actes des Apôtres est le cinquième livre du Nouveau Testament.
 9. Par exemple sous forme de crédit de travail
