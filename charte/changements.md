@@ -34,4 +34,4 @@ author: mallouestan
 	- Simplifier l'accès a la résidence sur le lieu avec une nouvelle définition du rôle "résident·e" avec moins de responsabilités
 	- De refléter les différences d'investissement, d'engagement, et d'intrication avec des devoirs et des droits accrus pour le nouveau rôle "d'arrimé·e"
 2. Mise en place d'une mutualisation des revenus, patrimoine et capitaux financiers des arrimé-es 
-3. Un nouveau positionnement axiologique en tant qu'anarcho-communistes, technocritique et anti-libérales·aux
+3. Un nouveau positionnement axiologique en tant qu'anarcho-communistes, technocritiques et anti-libérales·aux
