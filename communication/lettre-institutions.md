@@ -1,6 +1,6 @@
 Bonjour Madame, Monsieur,
 
-Je vous écris pour rectifier de nombreux malentendus concernant le projet du Mallouestan. Je suis conscient que ce projet a suscité des inquiétudes et des interrogations, et je tiens à vous apporter des précisions. Je vais donc vous expliquer en quoi consiste ce projet, quels sont ses aspects d'intérêt général, et comment il s'inscrit dans le réseau associatif social, solidaire et culturel de la région.
+Nous vous écrivons pour rectifier de nombreux malentendus concernant le projet du Mallouestan. Nous avons conscience que ce projet ait suscité des inquiétudes et des interrogations, et nous tenons à vous apporter des précisions. Nous allons donc vous expliquer en quoi consiste ce projet, quels sont ses aspects d'intérêt général, et comment il s'inscrit dans le réseau associatif social, solidaire et culturel de la région.
 
 L'association loi 1901 Le Mallouestan est l'organe de mécénat qui porte les missions d'intérêt général du collectif du même nom. Elle a pour but de promouvoir la culture, l'éducation populaire, le vivre ensemble, la solidarité et l'entraide dans un cadre écologique et durable. L'association du Mallouestan s'inscrit dans cette dynamique en proposant un lieu de vie, d'échange et de création, qui est ouvert à tous et toutes, et tout au long de l'année, sans discrimination. Il est un lieu de rencontre et de partage, où chacun et chacune peut s'exprimer et participer à la vie du collectif. Le Mallouestan est également un lieu de formation et d'apprentissage, où des ateliers et des stages sont proposés pour sensibiliser le public aux enjeux écologiques et sociaux actuels. 
 
@@ -12,7 +12,7 @@ Nous travaillons en étroite collaboration avec de nombreuses associations, coll
 
 De nombreuses critiques et rumeurs nous semblent basées sur nos positions politiques, nos critiques sur le système économique et politique actuel, et notre volonté de défendre un autre modèle de société. Nous sommes conscients et conscientes que ces positions peuvent déranger et susciter des réactions négatives, mais nous ne pouvons pas nous en excuser. Ces différences d'opinion ne nous semblent pas pour autant justifier ces critiques surtout dans le cadre d'institutions et d'organisations démocratiques où la liberté d'expression et le respect des opinions de chaque individu sont des valeurs fondamentales, d'autant plus que nous avons toujours été ouverts au dialogue. 
 
-Je vous invite donc, si vous le souhaitez, à venir nous rencontrer, à visiter le lieu et à découvrir nos activités. Nous pouvons venir à votre rencontre si vous le souhaitez, comme nous l'avons fait avec d'autres élus et acteurs locaux. Dans tous les cas, je vous remercie de l'attention que vous avez porté à ce message, et je reste à votre disposition pour toute question ou précision.
+Nous vous invitons donc, si vous le souhaitez, à venir nous rencontrer, à visiter le lieu et à découvrir nos activités. Nous pouvons venir à votre rencontre si vous le souhaitez, comme nous l'avons fait avec d'autres élus et acteurs locaux. Dans tous les cas, nous vous remercions de l'attention que vous avez porté à ce message, et nous restons à votre disposition pour toute question ou précision.
 
-Je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
-Cortney Knorr, membre du collectif du Mallouestan et co-fondateur de l'association du Mallouestan
+Nous vous prions d'agréer, Madame, Monsieur, l'expression de nos salutations distinguées.
+Les membres du collectif du Mallouestan.
