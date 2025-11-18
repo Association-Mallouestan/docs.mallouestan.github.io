@@ -49,49 +49,66 @@ Dans le cas d'aide ou d'urgence, familiale par exemple, une absence peut relever
 
 Comme expliqué dans l'annexe économie partagée la mutualisation inclut les biens matériels. La liste suivante de biens est considérée comme exclue de la mutualisation en vue du caractère essentiel ou personnel de ces biens :
 
-| Bien          | Garantie par la mutualisation | Entretient garantie par la mutualisation | Checklist       |
-|-------------------|-----|-----|-------|
-| **Transport**     |     |     |       |
-| Vélo              | Oui | Oui |       |
-| Sacoches AV       | Oui | Oui |       |
-| Sacoches AR       | Oui | Oui |       |
-| Lumières          | Oui | Oui |       |
-| Accessoires cadre | Non | Non |       |
-| Outils entretient | Oui | Oui |       |
-| 3xChambres à airs | Oui | Oui |       |
-| Bidon             | Non | Non |       |
-| **Affaires pers** |     |     |       |
-| Sac à dos >70L    | Oui | Oui |       |
-| Vétements pers    | Oui | Oui |       |
-| Chaussure         | Oui | Oui |       |
-| Chaussure ville   | Oui | Oui |       |
-| Trousse de toil.  | Oui | Oui |       |
-| Dumbphone         | Oui | Oui |       |
-| Smartphone        | Oui | Oui |       |
-| Trousse couture   | Oui | Oui |       |
-| Trousse secours   | Oui | Oui |       |
-| Carnets/papeterie | Oui | Oui |       |
-| **Subsistence**   |     |     |       |
-| Réchaud           | Oui | Oui |       |
-| Gaz               | Oui | Oui |       |
-| Couverts          | Oui | Oui |       |
-| Gamelle           | Oui | Oui |       |
-| Couteau           | Oui | Oui |       |
-| Gourde            | Oui | Oui |       |
-| **Outils**        |     |     |       |
-| Fer de hache      | Oui | Oui |       |
-| Manches           | Non | Non |       |
-| Serpe             | Oui | Oui |       |
-| Fer de houe       | Oui | Oui |       |
-| Pierres d'afut.   | Oui | Oui |       |
-| Limes             | Non | Non |       |
-| Clefs et graisse  | Oui | Oui |       |
-| **Camp et dodo**  |     |     |       |
-| Tarp ou bivy      | Oui | Oui |       |
-| Sac couchage 0°   | Oui | Oui |       |
-| **Vêtements tech** |     |     |       |
-| Parka -5° min     | Oui | Oui |       |
-| Sur-pantalon imp. | Oui | Oui |       |
-| Gants ou moufles  | Oui | Oui |       |
+| Bien | Garantie par la mutualisation | Entretient garantie par la mutualisation | Checklist       |
+|-------------------|---|---|---|
+| **Transport**     |   |   |   |
+| Vélo              | x | x |   |
+| Sacoches AV       | x | x |   |
+| Sacoches AR       | x | x |   |
+| Remorque          | x | x |   |
+| Lumières          | x | x |   |
+| Accessoires cadre |   |   |   |
+| Outils entretient | x | x |   |
+| 3xChambres à airs | x | x |   |
+| Bidon             |   |   |   |
+| **Affaires pers** |   |   |   |
+| Sac à dos >70L    | x | x |   |
+| Vétements pers    | x | x |   |
+| Chaussures x3      | x | x |   |
+| Trousse de toil.  | x | x |   |
+| Dumbphone         | x | x |   |
+| Smartphone ou tab |   |   |   |
+| Trousse couture   | x | x |   |
+| Trousse secours   | x | x |   |
+| Carnets/papeterie | x |   |   |
+| **Subsistence**   |   |   |   |
+| Réchaud           | x | x |   |
+| Gaz               | x | x |   |
+| Couverts          | x | x |   |
+| Gamelle           | x | x |   |
+| Gourde            | x | x |   |
+| **Outils**        |   |   |   |
+| Couteau           | x | x |   |
+| Fer de hache      | x | x |   |
+| Manches           |   |   |   |
+| Serpe             | x | x |   |
+| Fer de houe       | x | x |   |
+| Pierres d'afut.x3 | x | x |   |
+| Limes             |   |   |   |
+| Graisse           | x | x |   |
+| Embouts visseuse  | x | x |   |
+| Graisse           | x | x |   |
+| Lame scie à cadre | x | x |   |
+| Burrin            | x | x |   |
+| **Rouleau outils**     |   |   |   |
+| Pince anglaise         | x |   |   |
+| Pince multiple         | x |   |   |
+| Clef à molette         | x |   |   |
+| Jeu de clefs allen     | x |   |   |
+| Tournevis pour embouts | x |   |   |
+| Mêtre (cm & in)        | x |   |   |
+| Marteau à griffe       | x |   |   |
+| Ciseaux charp. 20mm    | x |   |   |
+| Cordeau à 13 noeuds    | x |   |   |
+| 2x Cordeau > 12 pied   | x |   |   |
+| Règlet de >4 pouces    | x |   |   |
+| Crayon                 | x |   |   |
+| **Camp et dodo**  |   |   |   |
+| Tarp ou bivy      | x | x |   |
+| Sac couchage 0°   | x | x |   |
+| **Vêtements tech** |  |   |   |
+| Parka -5° min     | x | x |   |
+| Sur-pantalon imp. | x | x |   |
+| Gants ou moufles  | x | x |   |
 
 En plus de cette liste chaque arrimé·e peut déclarer des biens personnels qu'il·elle souhaite exclure de la mutualisation. Cette demande doit être validée par l'ensemble des arrimé·es. Cette liste est appelée "Liste d'affaires supplémentaire non mutualisée" et est tenue à jour par les arrimé·es.
