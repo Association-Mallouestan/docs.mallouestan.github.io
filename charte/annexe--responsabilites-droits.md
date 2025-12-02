@@ -12,6 +12,14 @@ author: mallouestan
 
 > Cette annexe est un document vivant et évolutif. Elle est à lire et à respecter comme la charte elle-même. Elle est à compléter, modifier ou corriger par le collectif du Mallouestan.
 
+## Les rôles au Mallouestan
+
+Au Mallouestan, trois rôles sont définis :
+
+- visiteuse·eur : personne de passage, qui n'a pas de responsabilités particulières sur le lieu, mais doit respecter la charte.
+- résidente : personne qui vit sur le lieu
+- arrimé·e : personne qui vit sur le lieu, qui a des responsabilités plus importantes et qui mutualise ses privilèges avec le collectif. L'arrimé·e est un·e résident·e qui voit le projet du Mallouestan comme un projet à plus long terme et qui souhaite se consacrer et prioriser le projet collectif.
+
 ### Responsabilités des différents rôles et personnes
 
 | Responsabilité                                                                                                                                                                                                                                                       | Visiteuse | Résidente | Arrimée |
