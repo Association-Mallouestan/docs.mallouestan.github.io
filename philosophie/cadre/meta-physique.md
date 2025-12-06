@@ -34,6 +34,7 @@ Dans cette perspective, il est donc important de comprendre la vision et les id�
 - **Axiologique** : le domaine au niveau de l'axiologie concerne les réflexions autour de ce qu'on pense être juste, souhaitable ou bien, et par opposition ce qui ne l'est pas. Par exemple, le fait de valoriser la biodiversité et la nature est une réflexion qui se situe sur le plan axiologique ; le plan des valeurs.
 - **Politique** : la manière d’organiser le pouvoir, la légitimité des institutions, la place de l’individu et du collectif. Par exemple monarchie de droit divin, démocratie libérale ou l'anarcho-communisme.
 - **Esthétique** : les conceptions du beau, du sacré, de l’art et des symboles. Par exemple, l'architecture, les rituels et les pratiques artistiques.
+- **Spirituelle** : les croyances et pratiques liées au au transcendant, au divin, à l'âme et à la quête de sens. Par exemple, la prière, la méditation ou des rituels. 
 
 Il est important de comprendre ces plans pour savoir où et comment des réflexions divergent. Les hommes que nous avons cités, par exemple, divergent sur de nombreux plans. Le plan le plus évident est celui de l'axiologie, où l'idéologie queer a des valeurs qui *ne sont pas compatibles avec le catholicisme<sup>5</sup>* <note>5. Voir "God Save the Queer : Catéchisme féministe de Michela Murgia</note> et vice-versa. Mais ce n'est pas le seul plan : ces deux idéologies divergent également sur le plan épistémologique ; la théorie queer, dans sa majorité, va s'appuyer sur les sciences sociales laïques, là où le catholicisme peut s'appuyer sur les textes et les représentants religieux. Ceci est évidemment lié également à une vision de comment on définit la réalité, le plan ontologique, et les règles de l'univers, le plan cosmologique. Le catholicisme défend une vision incluant Dieu et l'au-delà, par exemple, là où la théorie queer ne l'inclut pas obligatoirement. Les valeurs, autrement dit l'axiologie queer, vont encourager une certaine esthétique, par exemple le débordement des normes, là où potentiellement le catholicisme va être plus conservateur. On voit donc que ces différents plans sont liés et s'influencent, ainsi que si deux approche divergent de façon importante sur de nombreux plans, il est plus difficile de les faire cohabiter. Les exemples ici ne cherchent pas à porter un jugement sur ses idéologies mais à exemplifier les idées de cette section - ce qui explique également certaines simplifications - mais illustre l'écart possible, ainsi que leur nature, entre différentes visions du monde.
 
@@ -72,18 +73,38 @@ Le nouveau matérialisme a une perspective singulière sur la matière à qui il
 
 Certains sous-courants du nouveau matérialisme comme le réalisme spéculatif insistent sur l'idée d'un réel indépendant de notre perception. Autrement dit le réalisme spéculatif insiste sur le fait que le monde existe et agit sans la participation de l'humain. Ce courant définit donc le réel comme totalement indépendant de la conscience humaine, autrement dit que le réel est indifférent à l'humain. Ce qui implique que pour y avoir accès il faut dépasser la perception humaine ce qui est proposé de manière différente par les penseurs et penseuses du réalisme spéculatif. En pensant au-delà de l'expérience immédiate, en formulant des hypothèses sur la structure du réel en spéculant il est possible de concevoir les objets de manière isolée de leurs relations et de nos perceptions. 
 
+> Le nouveau matérialisme est très mal nommé car il n'est que vraiment nouveau en occident. Cette vision relationnelle, non anthropocentrique et attribuant de l'agentivité à la matière est présente dans de nombreuses cultures et philosophies à travers le monde depuis des millénaires. Par exemple, de nombreuses cultures autochtones à travers le monde ont des visions du monde qui reconnaissent l'agentivité des éléments naturels comme les rivières, les montagnes, les animaux et les plantes. Ces cultures voient souvent ces éléments comme des entités vivantes avec lesquelles les humains doivent entretenir des relations respectueuses et équilibrées. De même, dans de nombreuses traditions spirituelles asiatiques comme l'hindouisme, le bouddhisme et le taoïsme, il existe une reconnaissance profonde de l'interconnexion entre tous les êtres vivants et non vivants. 
+
+SCHEMA A FAIRE et EXPLICATIONS: graph simple "plat"
+
 ## Le nouveau matérialisme comme ontologie et épistémologie
 
-Une critique récurrente des ontologies plates, autrement dit les ontologies qui mettent en avant la relation entre des objets en incluant les humains, les animaux comme des objets au même titre que les autres, est justement cette horizontalité. On reproche à ces ontologies le fait de ne pas hiérarchiser entre les entités et que, de fait, la valeur d'un humain équivaudrait à celle d'un arbre ou la valeur des êtres sentients serait équivalente à celle d'une chaise. L'erreur ici est de confondre les plans que nous avons évoqués ci-dessus. Le nouveau matérialisme est une ontologie mais surtout une épistémologie, ce qui veut dire qu'elle traite de comment considérer et représenter la réalité. Autrement dit, le nouveau matérialisme ne cherche pas fondamentalement à aborder les questions de hiérarchies de valeur ou de valeur tout court, qui concernent le plan axiologique et non épistémologique ou ontologique. Il est vrai que certains penseurs, comme Bruno Latour notamment dans son livre Face à Gaïa, appliquent ces logiques dans le domaine de l'axiologie et de la cosmologie. C'est vrai également que le nouveau matérialisme ne peut pas exister de façon isolée sur les plans ontologiques et épistémologiques. Le nouveau matérialisme ne peut qu’avoir un impact sur les autres plans et notamment axiologique. Néanmoins, cet impact n'est pas nécessairement une homogénéisation ou un aplatissement sur le plan axiologique et éthique. Les quatre principes cités plus haut, auxquels les penseurs du nouveau matérialisme appellent à intégrer dans la méthodologie, n'affirment en rien le fait de placer au même niveau toutes les entités ou objets. Autrement dit, le nouveau matérialisme permet une représentation de la réalité qui peut être texturée et hiérarchisée sur le plan axiologique et éthique. Après tout, le but de ces plans est d'apporter la forme et le volume à une représentation de la réalité.
+Une critique récurrente des ontologies plates, autrement dit les ontologies qui mettent en avant la relation entre des objets en incluant les humains, les animaux comme des objets au même titre que les autres, est justement cette horizontalité. On reproche à ces ontologies le fait de ne pas hiérarchiser entre les entités et que, de fait, la valeur d'un humain équivaudrait à celle d'un arbre ou la valeur des êtres sentients serait équivalente à celle d'une chaise. L'erreur ici est de confondre les plans que nous avons évoqués ci-dessus. Le nouveau matérialisme est une ontologie mais surtout une épistémologie, ce qui veut dire qu'elle traite de comment considérer et représenter la réalité. Autrement dit, le nouveau matérialisme ne cherche pas fondamentalement à aborder les questions de hiérarchies de valeur ou de valeur tout court, qui concernent le plan axiologique et non épistémologique ou ontologique. Il est vrai que certains penseurs, comme Bruno Latour notamment dans son livre Face à Gaïa, appliquent ces logiques dans le domaine de l'axiologie et de la cosmologie. C'est vrai également que le nouveau matérialisme ne peut pas exister de façon isolée sur les plans ontologiques et épistémologiques. Le nouveau matérialisme ne peut qu’avoir un impact sur les autres plans et notamment axiologique. Néanmoins, cet impact n'est pas nécessairement une homogénéisation ou un aplatissement sur le plan axiologique et éthique. Les quatre principes cités plus haut, auxquels les penseurs du nouveau matérialisme appellent à intégrer dans la méthodologie, n'affirment en rien le fait de placer au même niveau toutes les entités ou objets. Ce n'est pas parceque ontologiquement et épistémologiquement nous considérons que les humains, les arbres, les rivières et les bactéries sont des acteurs au sein d'un réseau que nous devons leur attribuer la même valeur ou le même statut éthique. Autrement dit, le nouveau matérialisme permet une représentation de la réalité qui peut être ensuite texturée et hiérarchisée sur le plan axiologique et éthique. Après tout, le but de ces plans, axiologique et éthiques, est d'apporter la forme et le volume à une représentation de la réalité.
 
-```mermaid
-flowchart TD
-    A[Christmas] -->|Get money| B(Go shopping)
-    B --> C{Let me think}
-    C -->|One| D[Laptop]
-    C -->|Two| E[iPhone]
-    C -->|Three| F[fa:fa-car Car]
-```
+SCHEMA A FAIRE et EXPLICATIONS: graph avec relief et hiérarchie plus lien vers annexe hypergraph
+
+## Comment déterminer ce qui est réel ?
+
+Autrement dit, qu'inclue t'on dans ce graphique
+
+On inclue que ce qui as des condition matérielles et non des vécus subjectifs - précision sur les vécus collectifs
+méfiance a l'égard de ce qui n'as pas beaucoup de relations matérielles (définition)
+
+La méthode  scientifique pour vérifier la matérialité et de fait la réalité d'un objet
+
+## Qu'en est t-il de la spiritualité et de l'ésotérisme ?
+
+Qu'entendre par spiritualité 
+
+Le problème de l'ésotérisme et du new age rappel du parcelement
+Le lien avec le capitalisme et la consommation  le liberalisme et le nihilisme relativiste
+
+
+## Annexe : Hypergraph et complexité
+
+Explication théorique de l'hypergraph
+
+Exemple avec la sentience et l'abiotique
 
 ## Notes
 
