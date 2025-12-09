@@ -128,7 +128,7 @@ Ce texte permet également de mettre en lumière les incohérences du libéralis
 
 Pourtant, la culture libérale structure les luttes sociales contemporaines ainsi que le progressisme qui y est défendu. Que ce soit, pour citer quelques exemples, l'intersectionnalité ou l'antispécisme, ces approches, malgrès leurs apports indéniables, peinent à se défaire du libéralisme, ce qui les condamne à pâtir des limites de ce dernier. Notre opposition au libéralisme n'est donc pas que d'ordre économique ou théorique sur le plan politique mais une opposition aux logiques libérales présentes au sein de la politique contemporaine qu'elle soit dominante ou contestataire.  
 
-Ce texte permet également de mettre ne lumière les incohérance du libéralisme au travers des critique sur ses fondements. Le libéralisme a démontré empiriquement ces limites qui ont aujourd'hui des explications théorique par de nombreux sociologues, mathématiciens, philosophes, économiste, etc. Rappeleons et résumons les critiques ci-dessous:
+Ce texte permet également de mettre en lumière les incohérences du libéralisme au travers des critiques sur ses fondements. Le libéralisme a démontré empiriquement ses propres limites, qui ont aujourd'hui des explications théoriques données par de nombreux sociologues, mathématicien·nes, philosophes, économistes, etc. Rappelons et résumons les critiques ci-dessous:
 
 1. Voir <u>L'Éthique protestante et l'Esprit du capitalisme</u>, de Max Weber
 2. Voir <u>Histoire de la laïcité en France</u> de Jean Baubérot-Vincent
