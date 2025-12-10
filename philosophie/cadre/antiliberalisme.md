@@ -137,15 +137,15 @@ Pourtant, la culture libérale structure les luttes sociales contemporaines ains
 5. La Magna Carta est un document juridique anglais de 1215 qui limite le pouvoir du roi et établit certains droits pour les sujets du royaume
 6. Voir <u>La Richesse des nations</u> de Adam Smith
 7. Voir <a href="https://www.lesechos.fr/idees-debats/leadership-management/1911-leclatement-de-lempire-rockefeller-1783594">https://www.lesechos.fr/idees-debats/leadership-management/1911-leclatement-de-lempire-rockefeller-1783594</a>
-8. Le progressisme est un therme assez vague souvent opposé au conservatisme ou aux idéologies réactionanire. Elle est caractériser par l'idée que l'époque moderne est plus souhaitable que les époques passé et que l'on évolue dans une direction souhaitable si on continue de chercher a faire des progrès social - assez subjectif de fait. Ce therme est énormément critique de part sa définition flou et de son instrumentalisation en conséquence mais il utilisé dans de nombreux contexte pour se démarquer des mouvement réactionnaire et conservateurs
+8. Le progressisme est un terme assez vague souvent opposé au conservatisme ou aux idéologies réactionanires. Elle est caractérisée par l'idée que l'époque moderne est plus souhaitable que les époques passées et que l'on évolue dans une direction souhaitable si l'on continue de chercher à faire des progrès sociaux - assez subjectifs de fait. Ce terme est énormément critiqué de par sa définition floue et de son instrumentalisation en conséquence mais il est utilisé dans de nombreux contextes pour se démarquer des mouvement réactionnaires et conservateurs (termes souvent utilisés comme des repoussoirs)
 9. Exemplifié par le mouvement contestaire provo au Pays-Bas
 10. Voir Clouscard, Capitalisme de la séduction
-11. Nous l'utilisons ici non comme une critique de valeur ou de morale mais plutôt comme un concept descriptif. Nous ne prétendons pas non plus que le postmodernisme est une école de pensée ou une philosophie bien définie contrairement au poststructuralisme par exemple.
+11. Nous l'utilisons ici non comme une critique de valeur ou de morale mais plutôt comme un concept descriptif. Nous ne prétendons pas non plus que le postmodernisme est une école de pensée ou une philosophie bien définie contrairement au poststructuralisme par exemple
 12. Voir <u>Le Postmodernisme ou la logique culturelle du capitalisme tardif</u> de Fredric Jameson
 13. <u>French Theory</u> de François Cusset et <u>De la grammatologie</u> de Jacques Derrida
 14. Voir <u>Les trois mondes de l'État-providence: Essai sur le capitalisme moderne</u> de  Gosta Esping-Andersen
-15. Le maccarthysme est une chasse répressive aux communistes et à la gauche aux Etats-Unis survenue au début des années 1950.
-16. La technocratie est un système politique et économique dans lequel les techniciens et les technocrates ont un pouvoir prédominant.
+15. Le maccarthysme est une chasse répressive aux communistes et à la gauche aux Etats-Unis survenue au début des années 1950
+16. La technocratie est un système politique et économique dans lequel les techniciens et les technocrates ont un pouvoir prédominant
 17. Une encyclique est une lettre adressée par un ou des évêque(s) à tous les évêques d'une région ou du monde, à l'ensemble des fidèles, ou au monde entier.
 18. Voir <u>La philosophie du droit</u> de Hegel
 19. Voir <u>Les Thèses sur Feuerbach</u> de Karl Marx
@@ -161,4 +161,4 @@ Pourtant, la culture libérale structure les luttes sociales contemporaines ains
 29. Voir <u>L'institution imaginaire de la société</u> de Cornelius Castoriadis
 30. Voir <u>La convivialité</u> de Ivan Illich
 31. Lewis Mumford distingue deux grands types de techniques : la technique démocratique, fondée sur l’autonomie, la créativité et l’échelle humaine, et la technique autoritaire, centralisée, coercitive et tournée vers des grands systèmes hiérarchiques
-32. Ces deux premières critiques suffisent à invalider le libéralisme car elles contredisent ses notions les plus fondamentales.
+32. Ces deux premières critiques suffisent à invalider le libéralisme car elles contredisent ses notions les plus fondamentales
