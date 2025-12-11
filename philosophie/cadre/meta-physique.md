@@ -147,23 +147,24 @@ Un graphe est une structure mathématique utilisée pour modéliser les relation
 
 Un hypergraphe est une généralisation du graphe traditionnel. Dans un hypergraphe, une arête peut connecter plus de deux nœuds, ce qui permet de modéliser des relations complexes impliquant plusieurs objets simultanément. Par exemple, dans un hypergraphe, une arête pourrait relier trois nœuds représentant trois objets différents, indiquant une relation entre ces trois objets. La représentation en hypergraphe n'est pas aussi simple à visualiser qu'un graphe traditionnel, mais elle est particulièrement utile pour représenter des systèmes complexes où les interactions entre les objets sont multiples et interdépendantes. L'illustration montre une représentation proche de celle d'un graphe comparer à une représentation plus classique d'un hypergraphe.
 
-<!-- Illustration représentant un hypergraphe "à arrète" et un hypergraphe classique avec des ensembles -->
+![Illustration représentant un réseau d'objets interconnectés formant la réalité](https://www.mallouestan.org/images/ressources/cadre/graph-hypergraph-x2.jpg)
 
 Nous voyons sur l'illustration précédente que des ensembles contenant plus de deux noeuds, de deux objets, peuvent être ainsi représentés. En mathématiques le champ théorique des graphes peut être utilisé en parallèle de l'étude des ensembles. D'un point de vue de la représentation cela permet de faire apparaître des catégories et des relations plus complexes. Ci-dessous nous voyons apparaître deux écosystèmes qui partage certaines ressources et qui ont également des relations. La représentation de gauche et celle sous forme de graphe, celle du milieu celui d'un hypergraphe dessiné de manière non standard, et celle de droite un hypergraphe avec une représentation plus classique. 
 
-<!-- Illustration représentant un hypergraphe de deux écosystèmes -->
+![Illustration représentant un réseau d'objets interconnectés formant la réalité](https://www.mallouestan.org/images/ressources/cadre/graph-hypergraph-x3.jpg)
 
 Une autre manière de rajouter une dimension à notre présentation graphique et de considérer que l'on peut également relier les ensembles entre eux comme si c'était des noeuds (mathématique c'est considérer qu'une hyperarrète agit également comme un nœud en combinant une représentation de "line graphe" et de hypergraphe en masquant les noeuds d'intersection). L'illustration çi-dessous permet d'envisager cette structure.
 
-<!-- Illustration représentant des écosystèmes avec des liens "line graph" -->
+![Illustration représentant un réseau d'objets interconnectés formant la réalité](https://www.mallouestan.org/images/ressources/cadre/graph-hyperedge-link.jpg)
 
 Vue que les ensemble, hyperarrètes, peuvent être reliés entre eux, on peut imaginer que les ensembles eux-mêmes peuvent être non simplement simmilaire à noeuds mais réellement des noeuds. Autrement dit, on peut imaginer que les ensembles peuvent eux-mêmes être des objets avec des propriétés et des relations. L'illustration ci-dessous montre cette idée.
 
-<!-- Illustration d'un graphe récursif -->
+
+![Illustration représentant un réseau d'objets interconnectés formant la réalité](https://www.mallouestan.org/images/ressources/cadre/graph-pseudo-recursif.jpg)
 
 On pourrait se dire que hiérarchie qui apparaît au travers de ces représentations, par exemple des objets/noeuds contenus dans un ensemble, rentre en contradiction avec l'idée d'une ontologie plate où tous les objets sont représentés sur un même plan avec de nombreuses relations entre elles. Dans un sens ces représentations sortent effectivement de ce cadre d'une ontologie plate mais seulement car elle intègre dans la représentation des plans autre que ontologique. Néanmoins, ces grave graphes sont compatibles fondamentalement avec la représentation ontologique plate comme l'illustre le schéma ci-dessous :
 
-<!-- Illustration du morphisme entre graphe hierarchisé et graphe plat -->
+![Illustration représentant un réseau d'objets interconnectés formant la réalité](https://www.mallouestan.org/images/ressources/cadre/graph-pseudo-morphisme.jpg)
 
 ## Notes
 
