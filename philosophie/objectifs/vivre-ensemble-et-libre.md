@@ -14,8 +14,6 @@ message:
   color: 218380
 ---
 
-## Vivre ensemble et libre
-
 ### Avant-propos
 
 Il serait facile de penser, ou de caractériser, le Mallouestan comme un collectif cherchant simplement à faire pousser quelques légumes et à s’abstraire de la technologie moderne par souci écologique. À vrai dire, ce n’est pas tout à fait faux, mais ce n’est pas notre objectif principal. Avant tout, le Mallouestan est un collectif qui cherche à « sécuriser » ses membres ainsi que, dans la limite de ses capacités, les personnes gravitant autour. Ce texte vise à éclaircir cette raison d’être du projet.
