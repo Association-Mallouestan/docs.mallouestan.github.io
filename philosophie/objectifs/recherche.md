@@ -1,0 +1,60 @@
+---
+date: 2025-02-09 2:00:00
+title: Un lieu d'expérimentation
+description: Présentation de notre objectif de recherche et d'exploration au sein du collectif  
+tags:
+  - objectifs
+  - vision
+image: /images/alternatives.jpg
+author: mallouestan
+
+message:
+  content: C'est tout nouveau
+  icon: flame
+  color: 218380
+---
+
+## À vos propos
+
+Au Mallouestan nous avons un cadre bien particulier où au sein d'un cadre anarcho-comuniste et matérialiste nous nous opposons à la domestication, au machines et à de nombreuses technologies moderne, ainsi qu'au libéralisme. Ce cadre détailler dans les textes que nous avons écrit n'est pas simplement un idéal que nous défendons. Quotidiennement nous essayons de nous y tenir dans la limite de nos capacités. Le cadre étant assez singulier ne permet pas toujours de transposer des pratiques mis en oeuvre dans d'autres projets et contextes. Certains défis auxquels nous nous retrouvons confrontés ne peuvent être résolus en lisant quelques livres ou en regardant des vidéos sur Internet. Par ailleurs nous sommes convaincus curseur certaines problématiques procéder ainsi ne permettrait pas d'appréhender les enjeux de ces solutions. Nous allons essayer d'expliquer dans ce texte notre rapport à l'expérimentation et à la recherche qui constitue un des piliers du Mallouestan.
+
+## Un lieu d'expérimentation
+
+Avec l'urgence des enjeux contemporains, notamment les différentes injustices sociales, le changement climatique et la fascisation de la politique, il est parfois difficile de s'accorder le temps d'explorer ou d'expérimenter. Les échecs qui accompagnent ce processus de recherche sont difficiles à surmonter alors qu'il y a tant de choses à faire. Mais pour autant, ce n'est pas en fonçant tête baissée que nous allons résoudre les nombreux problèmes auxquels nous faisons face. Une des raisons pour lesquelles ces enjeux, et tous les défis qui les accompagnent, sont si compliqués à surmonter est le manque de moyens et de consistance mobilisés à leur encontre. Contrairement à nos ennemis politiques comme le libéralisme, l'extractivisme et le patriarcat — pour en citer quelques-uns — nous ne pouvons nous permettre de continuer à appliquer les mêmes logiques jusqu'à notre ruine. Il est nécessaire de penser de nouvelles approches pour la solidarité que nous portons à l'égard de nos adelphes [frères et sœurs] Homo sapiens, des écosystèmes qui nous entourent ainsi que des individus qui y habitent. Ces approches passeront par ce que nous défendons dans ce texte.
+
+Qu'entendons-nous par la recherche, l'expérimentation ou l'exploration ? Pour nous, c'est d'abord chercher des solutions pour répondre à diverses problématiques auxquelles nous sommes confrontés. Cette recherche passe par différents outils comme la démarche empirique, la recherche d'informations existantes dans les livres ou d'autres supports, l'échange avec des personnes d'autres cultures et d'autres générations, et une culture de l'autocritique encourageant l'humilité à l'égard de nos convictions. Cette exploration et expérimentation est une démarche collective et non individuelle. Cette démarche se doit également de ne pas tomber dans les travers d'un hors-sol théorique ou d'une pratique incohérente. C'est la raison pour laquelle le Mallouestan valorise une approche qui mêle théorie et pratique, où une dialectique entre ces deux pôles permet d'éviter de nombreuses embûches.
+
+Un autre problème est le manque de moyens, d'espace et de temps pour mener ses explorations. Le Mallouestan se veut donc un lieu d'expérimentation. C'est-à-dire un lieu qui met en place un contexte permettant la recherche et l'exploration. Un lieu où il y a du temps et des moyens permettant de se tromper, d'apprendre et de raffiner les diverses démarches qui y sont testées. Ce contexte n'est pas réservé aux habitant·e·s du lieu ; au contraire, nous souhaitons partager nos moyens pour que d'autres personnes, d'autres associations ou collectifs puissent expérimenter à nos côtés, mais aussi de façon indépendante sans que nous soyons acteurs directement ; que ce soit l'expérimentation de la construction de maisons écologiques, l'évaluation de l'intérêt du Low-Tech, ou le test d'outils de gestion collective.
+
+Nous souhaitons encourager une culture de l'autocritique et de la critique. Une culture où la confrontation d'idées, de pratiques et de solutions est la bienvenue. Où chacun·e se sent légitime d'être acteur·rice des divers processus d'expérimentation et d'avoir la confiance pour les mener jusqu'au bout. Nous voulons créer des espaces de discussion, d'échange et de confrontation.
+
+## Concrètement au Mallouestan
+
+La démarche d'autonomie au Mallouestan évite aux personnes qui y habitent de se retrouver contraintes à faire du 35 heures ou plus à l'extérieur du lieu. Elle permet également de réduire les coûts fixes nécessaires au fonctionnement du lieu. Cela crée un contexte où les moyens financiers et humain·e·s peuvent plus facilement être mobilisés pour participer à des processus d'exploration et de recherche. Cette démarche d'autonomie permet également, sur le plan matériel, de produire nous‑mêmes de nombreux matériaux permettant d'expérimenter dans les divers processus nécessitant de telles ressources. Nous avons de nombreux outils permettant à la fois de mettre en œuvre ces matériaux et de créer les espaces nécessaires à d'autres processus. Nous avons une bibliothèque où nous nous efforçons d'accumuler de nombreux ouvrages, des techniques de la construction en terre ou de la vannerie aux études sociologiques sur les écolieux et les collectifs, en passant par des ouvrages naturalistes ou maraîchers. Nous développons également des ressources techniques et partageons les compétences que nous avons acquises et certaines solutions que nous avons explorées par le passé. Au-delà de partager les conclusions de nos recherches, nous souhaitons également partager les processus permettant à d'autres de les appliquer dans leur contexte, arrivant peut-être à des résultats différents. Le contexte que nous créons est aussi un lieu de partage de compétences permettant à des personnes qui souhaitent explorer des domaines de s'appuyer sur les compétences existantes sur le lieu, que ce soit des personnes en visite ou les habitant·e·s.
+
+> Un exemple : les habitant·e·s ont la possibilité de faire financer ce que nous appelons les projets EPIC (Projet d'Exploration Personnelle d'Intérêt Collectif). Ces projets permettent aux habitant·e·s d'approfondir un sujet qui les intéresse mais qui est pertinent pour le collectif également. Chaque semaine, un temps est réservé pour permettre à chacun·e de travailler sur son projet EPIC. Ces projets sont variés et, pour en nommer quelques-uns qui ont été réalisés sur le lieu : initiation à la taille de pierre, approfondissement de la taille de fruitiers, exploration d'outils de médiation, initiation à la couverture en chaume, conception d'une oseraie.
+
+Sur un plan non matériel, nous organisons des événements divers et variés allant de concerts et spectacles à des moments d'échange et des conférences. Ces différents moments encouragent la rencontre de personnes de milieux, d'expériences et de cultures différentes. Nous organisons chaque été nos universités d'été où, entre conférences et ateliers, nous invitons à la découverte et à la confrontation de points de vue. Ces moments ponctuels complètent l'accueil des visiteur·ices tout au long de l'année qui, en vivant sur le lieu, participent aux divers processus quotidiens de recherche. Le principal étant la vie collective au sein du cadre qui nous caractérise. Les visiteurs ont également la possibilité d'expérimenter indépendamment et d'utiliser les ressources disponibles sur le lieu pour approfondir ce qui les intéresse spécifiquement.
+
+Jusqu'ici nous avons parlé de ce qui se passe en interne ou, tout au moins, sur le lieu, mais cette approche de recherche n'y est pas limitée. Nous travaillons également avec d'autres lieux, institutions ou associations dans cette démarche de recherche. Nous travaillons par exemple avec des universités et des chercheur·se·s dans un contexte plutôt académique, mais également avec d'autres collectifs qui, sur le terrain, cherchent à porter des solidarités et divers projets sociaux. Ces échanges permettent la co-construction en élargissant la diversité et les sujets d'échange. Cela permet d'être confronté à des besoins qui ne sont pas les nôtres et d'éviter, tout au moins de minimiser, que nous soyons, malgré la pratique quotidienne, dans une approche hors-sol déconnectée des autres réalités qui ne sont pas celles du lieu.
+
+## Ce qui nous reste à faire
+
+Étant un pilier du lieu, c'est un des sujets qui est au cœur de nos ambitions. Il nous reste de nombreuses choses à faire et à perfectionner. Voici une liste non exhaustive d'objectifs que nous souhaitons améliorer ou réaliser :
+
+- nous voulons notamment nous améliorer sur l'archivage des recherches que nous avons effectuées (plans de constructions, anciennes versions de la charte, protocoles/déroulés des réunions, tâches considérées comme du travail)
+- nous souhaitons compléter nos ressources techniques que nous avons commencées à produire
+- nous espérons continuer à alimenter notre bibliothèque en ressources diverses
+- nous voulons développer nos chantiers participatifs et la communication à leur sujet
+- nous travaillons sur des infrastructures comme une deuxième salle polyvalente/salle des fêtes pour accueillir des groupes
+- nous souhaitons développer notre réseau de collectifs et d'associations ainsi que les moments d'échange à l'extérieur du lieu
+- nous voulons améliorer la gestion des différentes ressources matérielles sur le lieu, facilitant leur partage et leur usage
+- compléter les infrastructures de type atelier sur le lieu, ouvrant de nouvelles possibilités et de nouveaux champs d'exploration
+
+## Conclusion
+
+Au Mallouestan, nous valorisons l'exploration et la recherche pour trouver des solutions aux enjeux et défis contemporains. De fait, nous voulons créer un espace et un lieu qui permette à diverses personnes et collectifs de venir expérimenter et tester diverses pratiques. Le contexte se doit donc d'être inclusif, permettant à chacun·e, quelles que soient ses spécificités, d'être légitime à participer aux divers processus d'exploration. Nous souhaitons partager, sans chauvinisme [sans discriminations], les différents moyens à notre disposition et que nous développons pour faciliter ces expérimentations. Le Mallouestan travaille donc sur des infrastructures, des recueils d'information et de ressources techniques, des fonctionnements collectifs, de l'hébergement et aussi de l'animation pour créer cet espace.
+
+Au-delà des infrastructures, le Mallouestan développe une culture compatible avec cet objectif de recherche. Nous souhaitons encourager une dialectique entre théorie et pratique qui permet d'éviter de tomber dans un travail académique et théorique hors-sol ou dans une pratique pour la pratique qui peut créer des incohérences. Cette dialectique, nous souhaitons la développer avec l'extérieur pour minimiser les biais du contexte qui est le nôtre sur le lieu. Ce contexte doit également encourager la critique et notamment l'autocritique : la remise en question de nos convictions et de nos fonctionnements doit être la bienvenue et facilitée.
+
+La recherche, l'expérimentation et l'exploration sont au cœur du projet, constituant l'un de ses piliers majeurs. Ainsi, nous travaillons et envisageons de nombreux chantiers et projets permettant de développer, de faciliter et d'améliorer ces aspects pour le collectif. Nous souhaitons de fait adapter nos infrastructures, acquérir et développer des ressources et nous appuyer sur un réseau pour approfondir l'une des raisons d'être du lieu et du collectif.
