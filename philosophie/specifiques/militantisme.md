@@ -161,7 +161,7 @@ Effectivement, pour maintenir une position où une personne a un bon salaire, de
 
 De plus, les objectifs de l'altruisme efficace sont structurés par la vision du monde de ses adeptes. Des adeptes qui baignent dans des contextes systémiques qui ne peuvent que déteindre sur elleux. Même si l'on est pas né·e avec les privilèges caractéristiques de ces milieux, on ne peut en ressortir inchangé·e. Le seul objectif reste donc d'en sortir læ moins corrompu·e possible. Ce n'est malheureusement pas si simple, comme de nombreuses figures de ce mouvement le montrent. Les objectifs promus par l'altruisme efficace souffrent donc de la vision chauviniste et culturelle d'une bourgoisie altruiste<sup>6,7</sup>. 
 
-### Notre militantisme au Mallouestan
+### Notre militantisme et culture de résistance au Mallouestan
 
 Notamment pour ces raisons qui, malgré leur manque d'exhaustivité, nous semblent suffisantes pour ne pas croire à la capacité du militantisme offensif actuel (texte écrit en janvier 2025) de changer de manière significative et suffisante les conditions matérielles soutenant les divers·es injustices, dominations et enjeux sociaux structurels, nous ne nous y engageons pas. Nous pensons que participer à ce genre d'actions, de stratégie ou de mouvement dans l'espoir de changements ou à des fins personnnelles (thérapeutique, identitaire) est au mieux une perte de temps, et au pire une mascarade de complicité avec nos ennemi·es politiques. 
 
