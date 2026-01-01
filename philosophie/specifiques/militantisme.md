@@ -161,7 +161,7 @@ Effectivement, pour maintenir une position où une personne a un bon salaire, de
 
 De plus, les objectifs de l'altruisme efficace sont structurés par la vision du monde de ses adeptes. Des adeptes qui baignent dans des contextes systémiques qui ne peuvent que déteindre sur elleux. Même si l'on est pas né·e avec les privilèges caractéristiques de ces milieux, on ne peut en ressortir inchangé·e. Le seul objectif reste donc d'en sortir læ moins corrompu·e possible. Ce n'est malheureusement pas si simple, comme de nombreuses figures de ce mouvement le montrent. Les objectifs promus par l'altruisme efficace souffrent donc de la vision chauviniste et culturelle d'une bourgoisie altruiste<sup>6,7</sup>. 
 
-### Notre militantisme au Mallouestan
+### Notre militantisme et culture de résistance au Mallouestan
 
 Notamment pour ces raisons qui, malgré leur manque d'exhaustivité, nous semblent suffisantes pour ne pas croire à la capacité du militantisme offensif actuel (texte écrit en janvier 2025) de changer de manière significative et suffisante les conditions matérielles soutenant les divers·es injustices, dominations et enjeux sociaux structurels, nous ne nous y engageons pas. Nous pensons que participer à ce genre d'actions, de stratégie ou de mouvement dans l'espoir de changements ou à des fins personnnelles (thérapeutique, identitaire) est au mieux une perte de temps, et au pire une mascarade de complicité avec nos ennemi·es politiques. 
 
@@ -169,7 +169,7 @@ Ceci n'est pas pour juger les individu·es prenant part à ce qui est décrit, m
 
 Nous voulons que les militant·es se préparent à l'échec des luttes plûtot que de parier sur l'improbable tout en sachant les faibles perspectives. Pourquoi est-ce que 90% des militant·es luttent pour l'issue la moins probable ? Ne vaudrait-il mieux pas agir en minimisant l'impact, les victimes et les enjeux de l'échec ? C'est ce que nous pensons au Mallouestan. 
 
-Au Mallouestan, nous nous voyons soutenir ces changements dans les milieux militants ; fournir un lieu de réflexion (voir texte "Recherche") et de formation (voir texte "Partage et transmission") ; mettre à disposition un lieu où les conditions matérielles sont compatible avec des luttes pérennes ; promouvoir une culture de résistance ; et de nombreux autres aspects. Notre temps sur le lieu, dans le cadre où nous l'avons inscrit, est un temps consacré à du militantisme défensif, notamment de solidarité (voir texte "Solidarité").
+Au Mallouestan, nous nous voyons soutenir ces changements dans les milieux militants ; fournir un lieu de réflexion (voir texte "Recherche") et de formation (voir texte "Partage et transmission") ; mettre à disposition un lieu où les conditions matérielles sont compatible avec des luttes pérennes ; et de nombreux autres aspects. Notre temps sur le lieu, dans le cadre où nous l'avons inscrit, est un temps consacré à du militantisme défensif, notamment de solidarité (voir texte "Solidarité").
 
 De nombreux·ses membres du Mallouestan envisagent, si les conditions matérielles le permettent -- autrement dit si les conditions matérielles laissent entrevoir une efficacité -- de participer à des luttes offensive de type guerre de mouvement. Comme l'explicite Gramsci, nous pensons que malheureusement ce serait dans une situation où nos ennemi·es politiques seraient fragilisé·es par de multiples crises. Nous espérons voir cette réalité, mais restons dubitatif·ves sur la probabilité que cela se produise prochainement (Gramsci voyait cette échéance a plusieurs siècles).
 
