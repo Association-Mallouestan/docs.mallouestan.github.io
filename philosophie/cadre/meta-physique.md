@@ -9,8 +9,6 @@ tags:
 image: /images/ressources/galaxy.jpg
 author: mallouestan
 ---
-·
-## Avant-propos
 
 ## Avant-propos
 
@@ -207,6 +205,7 @@ D'autres mécanismes de défense épistémiques incluent :
 - *La plasticité symbolique*, Les symboles ont des significations multiples, modulables, souvent non falsifiables. Le système absorbe toute contradiction en la réinterprétant symboliquement. Le système se protège en donnant une place interne à l’adversaire.
 - *L’invisibilité ontologique*, Les entités, forces ou plans invoqués sont définis comme non observables par nature, L’inobservabilité n’est pas un problème : c’est une propriété constitutive.
 
+
 | Concept                   | Description |
 |---------------------------|-------------|
 | Stratégie d'immunisation |             |
@@ -219,6 +218,7 @@ D'autres mécanismes de défense épistémiques incluent :
 | Redéfinition | Modifier les concepts pour éviter la critique |
 | Argumentum ad personam |	Disqualifier la critique en attaquant la personne |
 | Double standard |	Manipuler les critères de preuve |
+
 
 | Mécanisme de défense épistémique | Description |
 |---------------------------|-------------|
