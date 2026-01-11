@@ -130,7 +130,7 @@ Pour mieux comprendres ces croyances couvrons maintenant quelques termes utilis�
 | Religion         | Système organisé de croyances, de pratiques, et de rituels centrés autour de la vénération d'une ou plusieurs divinités ou forces spirituelles. |
 | Deisme            | Regroupe les croyances en l'existence d'un dieu créateur qui n'intervient pas dans le monde après sa création. |
 | Théisme          | Regroupe les croyance en l'existence d'un dieu qui intervient activement dans le monde et la vie des êtres humains. |
-| Ésotérisme        | Croyances basé autour de la notion d'initié et de non-initié et du rôle particulier des personnes adeptes ou considérer comme possédant une sensibilité particulière. Cette croyance favorise l'idée d'initiation (stages, formations, sort, séance...) pour devenir adeptes     |
+| Ésotérisme/gnosticisme | Croyances basé autour de la notion d'initié et de non-initié et du rôle particulier des personnes adeptes ou considérer comme possédant une sensibilité particulière. Le système de croyance et sa compréhension est accessible que par ces adeptes; Ces connaissances réservé aux adeptes s'appelle aussi gnose. Cette croyance favorise l'idée d'initiation (stages, formations, sort, séance...) pour devenir adeptes     |
 | Conspiritualité | Regroupe les théories du complot qui comporte des croyances spirituelles ou ésotériques, souvent caractérisée par l'idée que des forces occultes ou des élites cachées manipulent les événements mondiaux à des fins spirituelles ou ésotériques. |
 | Théosophie / Théosophisme | Syncrétisme et courant ésotérique fondé à la fin du 19e siècle par Helena Blavatsky, qui combine des éléments de philosophie orientale (notamment boudhisme et hindouisme), de mysticisme occidental, d'élements du christianisme et de spiritualité. |
 | Occultisme      | Ensemble de pratiques et de croyances ésotériques visant à explorer les aspects cachés ou mystérieux de la réalité, souvent associées à la magie, à l'alchimie, à l'astrologie, et à d'autres disciplines ésotériques. |
@@ -179,6 +179,56 @@ L'objectif de ce texte n'est pas d'antagoniser ou de stigmatiser les personne ay
 
 <!-- Ouverture -->
 Il faut impérativement chercher à pallier à ces problème de sens et de perte de repère. Peut-être que cela implique une démarche spirituel mais celle-çi, si nécéssare se doit d'éviter les embûches citer si dessus. Il faut des concepts au cœur de notre spiritualité qui soient liés au tissu matériel qui nous entoure et qui aient des conditions matérielles comme bases. Il nous faut une spiritualité patiente, prête à s'adapter à la réalité qui est la nôtre et non un syncrétisme [combinaison de doctrines, de systèmes initialement incompatibles] issu d'appropriations culturelles. Il faut développer une spiritualité collective qui s'ancre dans le tissu social et matériel plutôt qu'une spiritualité libérale ou individualiste. Une spiritualité qui s'appuie sur des matérialités partagées et communes plutôt que sur des croyances personnelles et subjectives. Une spiritualité qui n'est pas en opposition avec la méthode scientifique mais qui se développe en s'appuyant sur elle comme outil de compréhension du monde. Le nouveau matérialisme et la méthode scientifique n'excluent donc pas toutes les pratiques spirituelles mais invitent à une vigilance quant aux matérialités qui les sous-tendent.
+
+## Stratégies d’immunisation et mécanismes de défense épistémiques
+
+<!-- A réécrire -->
+Pour finir, nous allons aborder deux notions importante à connaître lors de confrontation, d'échanges, ou de débats autour de visions du monde différentes; *d'un coté les stratégies d’immunisation et de l'autre les mécanismes de défense épistémiques<sup>1</sup>* <note>1. Voir <u>Immunizing Strategies & Epistemic Defense Mechanisms</u> de Boudry Maarten et Braeckman Johan</note>. Ce sont deux type de moyens que des personnes peuvent mobiliser pour défendre leurs croyances mais de nature différente. Ces deux type de moyens cherchent à protèger le système de croyance d'une argumentation rationnelle et/ou de preuves empiriques. 
+
+<!-- A corriger -->
+Les stratégies d’immunisation, telles que les décrivent Boudry et Braeckman, désignent l’ensemble des procédés qui permettent à une croyance ou à un système d’idées de se maintenir malgré les objections, en neutralisant la possibilité même de la critique. Elles fonctionnent comme un dispositif de protection conceptuelle : lorsque des faits, des arguments ou des observations viennent mettre en tension une doctrine, ces stratégies absorbent la contradiction et empêchent que la croyance soit réellement mise à l’épreuve. Il ne s’agit donc pas de renforcer une théorie par un travail de vérification ou de confrontation au réel, mais de la rendre imperméable à la falsification. Cette dynamique s’oppose directement à l’esprit scientifique, qui repose sur la possibilité d’être contredit et sur l’ouverture à la révision.
+
+Une première famille de stratégies consiste à introduire des hypothèses ad hoc, ajoutées uniquement pour sauver la théorie lorsqu’elle échoue. On retrouve ce mécanisme dans la parapsychologie, où l’incapacité à reproduire un phénomène sous contrôle est attribuée à la présence d’“ondes négatives” émises par les sceptiques, ou dans certaines pratiques ésotériques où l’absence de résultat est imputée à un “désalignement énergétique”. Une autre stratégie fréquente repose sur le déplacement de la charge de la preuve : au lieu de justifier leur position, les défenseurs exigent du critique qu’il réfute la théorie de manière absolue, ce qui revient à rendre la critique impossible. L’absence de preuve devient alors, paradoxalement, un argument en faveur de la croyance.
+
+D’autres stratégies passent par une redéfinition des concepts, de sorte que la théorie devienne insaisissable. Lorsqu’un traitement alternatif ne produit aucun effet mesurable, on affirme qu’il agit sur un plan “subtil” ou “non matériel”, échappant par définition à toute évaluation empirique. Ce glissement conceptuel permet de maintenir la cohérence interne du système, tout en évitant toute confrontation avec des critères externes. À cela s’ajoutent des procédés de disqualification du critique : on ne répond pas à l’argument, on attaque la personne, en la décrivant comme “fermée d’esprit”, “formatée par la science officielle” ou “incapable de comprendre”. La critique est ainsi neutralisée non pas parce qu’elle serait infondée, mais parce que son émetteur est disqualifié.
+
+Enfin, un double standard épistémique permet d’accepter sans difficulté des témoignages fragiles lorsqu’ils confirment la croyance, tout en exigeant des preuves irréprochables pour la moindre objection. Les récits anecdotiques, les intuitions personnelles ou les coïncidences deviennent des preuves lorsqu’elles vont dans le bon sens, tandis que des données robustes sont rejetées comme biaisées ou insuffisantes lorsqu’elles contredisent la doctrine. L’ensemble de ces mécanismes contribue à maintenir la stabilité d’un système de croyances, non pas parce qu’il serait solide, mais parce qu’il est protégé contre toute possibilité de remise en question. Ces stratégies d’immunisation jouent ainsi un rôle central dans la résilience des doctrines pseudoscientifiques, spirituelles ou idéologiques face à la critique rationnelle.
+
+<!-- Mécanisme de défense -->
+Les mécanismes de défense épistémiques sont des arguments interne au système de croyance qui visent à protéger la croyance en renforçant sa cohérence interne ou en minimisant l'impact des preuves contraires. Au contraire des stratégies d’immunisation les mécanisme de défense épistémique ne sont pas mobilisé de l'extérieur du système de croyance mais sont intégrés et présent en son sein. Par exemple, dans la bible il est mis en avant que seul les croyants pourront comprendre les écritures saintes, tout au moin, que ceux qui doutes des propos de la bible doutent pour des raisons spirituelles et non rationnelles. Ce mécanisme de défense épistémique protège la croyance en affirmant que la foi est une condition préalable à la compréhension, ce qui rend toute critique rationnelle inopérante. On retrouve cette idée au travers de ces extraits: "Que celui qui a des oreilles entende" (Matthieu 11:15 ; Marc 4:9 ; Luc 8:8); "Ils regardent sans voir et entendent sans comprendre" (Matthieu 13:13); "Leurs oreilles sont devenues dures à entendre" (Actes 28:27).
+
+<!-- Delistifier -->
+D'autres mécanismes de défense épistémiques incluent :
+- L’infaillibilité de la source
+- il est sacré, inspiré, intouchable, la critique du texte n’est pas seulement une erreur intellectuelle : c’est une transgression spirituelle.
+- *La catégorie de l’ennemi*. L’opposition n’est pas seulement un désaccord : elle est intégrée comme une figure structurante (l’élite, l’étranger, le bourgeois, le traître, etc.).
+- *La plasticité symbolique*, Les symboles ont des significations multiples, modulables, souvent non falsifiables. Le système absorbe toute contradiction en la réinterprétant symboliquement. Le système se protège en donnant une place interne à l’adversaire.
+- *L’invisibilité ontologique*, Les entités, forces ou plans invoqués sont définis comme non observables par nature, L’inobservabilité n’est pas un problème : c’est une propriété constitutive.
+
+
+| Concept                   | Description |
+|---------------------------|-------------|
+| Stratégie d'immunisation |             |
+| Mécanisme de défense épistémique |             |
+
+| Stratégies d’immunisation | Description |
+|---------------------------|-------------|
+| Ad hoc | Sauver la théorie en ajoutant des hypothèses auxiliaires |
+| Inversion ou déplacement de la charge de la preuve |	 |
+| Redéfinition | Modifier les concepts pour éviter la critique |
+| Argumentum ad personam |	Disqualifier la critique en attaquant la personne |
+| Double standard |	Manipuler les critères de preuve |
+
+
+| Mécanisme de défense épistémique | Description |
+|---------------------------|-------------|
+| L’infaillibilité de la source |  |
+| Sacralisation de la source    | il est sacré, inspiré, intouchable, la critique du texte n’est pas seulement une erreur intellectuelle : c’est une transgression spirituelle. |
+| *La catégorie de l’ennemi* | L’opposition n’est pas seulement un désaccord : elle est intégrée comme une figure structurante (l’élite, l’étranger, le bourgeois, le traître, etc.). |
+| *La plasticité symbolique* | Les symboles ont des significations multiples, modulables, souvent non falsifiables. Le système absorbe toute contradiction en la réinterprétant symboliquement. Le système se protège en donnant une place interne à l’adversaire. |
+| *L’invisibilité ontologique* | Les entités, forces ou plans invoqués sont définis comme non observables par nature, L’inobservabilité n’est pas un problème : c’est une propriété constitutive. |
+
+> Ces liste ne sont pas ehaustives mais donnent des exemples de chaque concept ainsi que de fournir des outils conceptuels pour identifier ces dynamiques courantes.
 
 ## Conclusion
 
