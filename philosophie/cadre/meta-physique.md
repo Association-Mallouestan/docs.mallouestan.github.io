@@ -1,8 +1,8 @@
 ---
 date: 2025-06-26 02:00:00
-title: Materialisme et spiritualité
+title: Matérialisme et spiritualité
 description: >-
-  Notre rapport à la pensée ésotérique et à la pensée scientifique
+  Le rapport à la réalité et aux croyances au Mallouestan
 tags:
   - fondamentaux
   - vision
@@ -12,7 +12,7 @@ author: mallouestan
 
 ## Avant-propos
 
-> Mise en garde: ce texte à comme objectif d'outiller les lecteurices sur des concepts propres à des domaines assez abstraits. Le texte cherche à vulgariser les domaines comme l'ontologie et la spiritualité mais néanmoin il reste long et parfois dense. Pour autant nous sommes convaincus qu'il est abordable par touste et nous recommandons pour celles et ceux moins confortables avec ce format de le lire par partie. Dans ce sens le texte à était séparé en 3 parties, hors avant-propos et conclusion, identifier par des titres correspondants.
+> Mise en garde: ce texte à comme objectif d'outiller les lecteurices sur des concepts propres à des domaines assez abstraits. Le texte cherche à vulgariser les domaines comme l'ontologie et la spiritualité mais néanmoins il reste long et parfois dense. Pour autant nous sommes convaincus qu'il est abordable par touste et nous recommandons pour celles et ceux moins confortables avec ce format de le lire par partie. Dans ce sens le texte à était séparé en 3 parties, hors avant-propos et conclusion, identifier par des titres correspondants.
 
 Dans le texte intitulé "Condition humaine", nous avons parlé de la crise de sens contemporaine. Puis, dans le texte sur le libéralisme, nous avons donné un aperçu d'évolutions philosophiques majeures des derniers siècles, qui culminent dans le capitalisme contemporain que l'on appelle parfois "postmodernité", dans une atomisation de la société ainsi que dans un basculement au niveau des repères et des récits totalisants que sont la modernité, le progrès, la science salvatrice. Nous avons également vu comment le capitalisme contemporain, au travers de cette atomisation, crée un contexte favorable à l'exploration de nos désirs, ces derniers étant perçus comme individuels et détachés des structures sociales historiques. Dans les textes intitulés "Anarcho-communisme" et "Travail et liberté", ainsi que dans le texte sur le libéralisme, nous avons développé une critique de cette atomisation, pour diverses raisons comme l'inclusivité, la solidarité et l'autonomie. Notre projet souhaite ré-intriquer les individus, en créant des communautés qui collectivement travaillent pour une liberté qui passe notamment par l'émancipation à l'égard de nos ennemi·es politiques. La gouvernance au sein de ces collectifs nécessite le débat, parfois le conflit, l'échange et la compréhension pour inclure de manière aussi horizontale que possible les membres de ces collectifs. Ces échanges nécessitent de fait la capacité de se mettre à la place d'autrui, d'abord pour essayer de comprendre ce que la personne veut nous communiquer, mais aussi pour l'inclure dans nos propres perspectives. De nombreux prérequis doivent être satisfaits pour que ces échanges puissent avoir lieu, en minimisant les rapports de force qui naissent dans l'incompréhension et l'impossibilité de la conciliation. 
 
