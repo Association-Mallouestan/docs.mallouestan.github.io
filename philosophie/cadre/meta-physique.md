@@ -214,21 +214,21 @@ Le flou et la flexibilité de certaines conceptions, où les symboles ont des si
 
 | Stratégies d’immunisation | Description |
 |---------------------------|-------------|
-| Ad hoc | Quand une personne justifie la théorie en ajoutant des hypothèses lié au contexte comme, par exemple, "la présence d'énergie négative" dans le cas d'un échec de soin |
-| Inversion ou déplacement de la charge de la preuve | c'est au critique de prouver que la théorie est fausse et dans le cas spécifique, appelé l'appel à l'ignorance (argumentum ad ignorantiam), la personne portant une critique est demandé de prouver la non existence d'une entité comme "les énergies" ou "dieu". |
+| Ad hoc | Quand une personne justifie la théorie en ajoutant des hypothèses liées au contexte comme, par exemple, "la présence d'énergie négative" dans le cas d'un échec de soin |
+| Inversion ou déplacement de la charge de la preuve | c'est au critique de prouver que la théorie est fausse et, dans le cas spécifique appelé l'appel à l'ignorance (argumentum ad ignorantiam), la personne portant une critique est appelée à prouver la non existence d'une entité comme "les énergies" ou "Dieu" |
 | Redéfinition | Modifier les concepts pour éviter la critique |
 | Argumentum ad personam |	Disqualifier la personne critique en l'attaquant personellement |
-| Double standard |	Quand une personne exige un niveau de rigueur, par exemple scientifique, à l'adversaire auquel elle ne se tient pas elle même |
+| Double standard |	Quand une personne exige un niveau de rigueur, par exemple scientifique, à l'adversaire auquel elle ne se tient pas elle-même |
 
-> Il ne faut pas confondre "Argumentum ad personam" avec "Argumentum ad hominem". L'argumentum ad personam est la tentative de contourner un argument en attaquant la personne (son intégrité, ses valeurs, sa légitimité, ...) aors que l'argumentum ad hominem cherche à accomplir la même chose en s'attaquant à l'incohérence de propos ou des actes de la personne en face.
+> Il ne faut pas confondre "Argumentum ad personam" avec "Argumentum ad hominem". L'argumentum ad personam est la tentative de contourner un argument en attaquant la personne (son intégrité, ses valeurs, sa légitimité, ...) sur un autre sujet, alors que l'argumentum ad hominem cherche à discréditer l'adversaire ou son argumentaire en s'attaquant à l'incohérence entre les actes et les propos de la personne en face.
 
 | Mécanisme de défense épistémique | Description |
 |---------------------------|-------------|
 | L’infaillibilité de la source | Le système de croyance définit ses origines ou ses fondements comme étant infaillibles et inquestionnable |
-| Sacralisation de la source    | Le sysème de croyance définit ses origines comme sacrée, transcendale ou mystique en faisant l'expression de doutes ou de critique une faute, infidélité ou transgression spirituelle |
-| *La catégorie de l’ennemi* | L’opposition est désigné en interne comme un ennemi (l’élite, l’étranger, le bourgeois, le gauchiste, le traître, etc.). |
-| *La plasticité conceptuelle et symbolique* | Les concepts ont des significations multiples, modulables, souvent non falsifiables. Le système de croyance détourne les contradiction en la réinterprétant symboliquement |
-| *L’invisibilité ontologique* | Le système de croyance définit certains éléments comme insaisissables, inobservables, non accessibles par les sens classique ou l'expérimentation |
+| Sacralisation de la source    | Le sysème de croyance définit ses origines comme sacrées, transcendales ou mystiques en faisant l'expression de doutes ou de critique une faute, infidélité ou transgression spirituelle |
+| *La catégorie de l’ennemi* | L’opposant est désigné en interne comme un ennemi (l’élite, l’étranger, le bourgeois, le gauchiste, le traître, etc.) |
+| *La plasticité conceptuelle et symbolique* | Les concepts ont des significations multiples, modulables, souvent non falsifiables. Le système de croyance détourne la contradiction en la réinterprétant symboliquement |
+| *L’invisibilité ontologique* | Le système de croyance définit certains éléments comme insaisissables, inobservables, non accessibles par les sens classiques ou l'expérimentation |
 
 > Ces liste ne sont pas ehaustives mais donnent des exemples de chaque concept ainsi que de fournir des outils conceptuels pour identifier ces dynamiques courantes.
 
