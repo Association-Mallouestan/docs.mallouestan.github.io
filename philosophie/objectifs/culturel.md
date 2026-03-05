@@ -11,7 +11,7 @@ author: mallouestan
 
 ### Fuire la culture dominante sans s’y fermer complètement
 
-Dans le texte / chapitre « convivialité non libérale », ainsi que dans le texte / chapitre « solidarité et autonomie » ainsi que dans de nombreux autres textes nous avons expliqué nos désaccords et notre rejet de la culture dominante ainsi que les logiques qu'elles portent et déploient. Nous considérons cette culture comme toxique emprisonnant le monde dans des logiques écocide, impérialiste et colonial, individualiste et libéral, et autoritaire  pour nommer seulement quelques adjectifs. Au Mallouestan, nous cherchons à dépasser, s'extraire et fuir ses logiques aberrantes et ignominieuses. 
+Dans le texte / chapitre « Convivialité non libérale », ainsi que dans le texte / chapitre « Solidarité et autonomie » ainsi que dans de nombreux autres textes, nous avons expliqué nos désaccords et notre rejet de la culture dominante ainsi que les logiques qu'elle porte et déploie. Nous considérons cette culture comme toxique, emprisonnant le monde dans des logiques écocides, impérialistes et coloniales, individualistes et libérales, et autoritaires pour nommer seulement quelques adjectifs. Au Mallouestan, nous cherchons à dépasser, à s'extraire et à fuir ses logiques aberrantes et ignominieuses. 
 
 Pour cela, nous souhaitons développer une culture résiliente face aux embûches de la culture dominante mais qui permet de ne pas s'y couper complètement. Effectivement, nous ne souhaitons pas nous enfermer dans une autarcie culturelle ou sociale. 
 
