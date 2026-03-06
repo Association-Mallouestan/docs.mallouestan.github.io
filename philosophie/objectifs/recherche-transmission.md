@@ -3,9 +3,9 @@ date: 2025-06-27 02:00:00
 title: Vivre ensemble et libre
 description: Texte d'introduction aux obje
 tags:
-  - fondamentaux
+  - objectifs
   - vision
-image: /images/ressources/picnoir.jpg
+image: /images/ressources/transmission.jpg
 author: mallouestan
 ---
 

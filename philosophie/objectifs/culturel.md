@@ -5,7 +5,7 @@ description: Présentation de notre objectif de développer une culture alternat
 tags:
   - objectifs
   - vision
-image: /images/ressources/pic-noir-groupe.jpg
+image: /images/ressources/objectifs/culture.jpg
 author: mallouestan
 ---
 

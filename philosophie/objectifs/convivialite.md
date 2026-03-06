@@ -5,7 +5,7 @@ description: Présentation de notre vision du vivre ensemble
 tags:
   - objectifs
   - vision
-image: /images/ressources/pic-noir-groupe.jpg
+image: /images/ressources/pic-noir-groupe.webp
 author: mallouestan
 ---
 

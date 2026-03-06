@@ -5,7 +5,7 @@ description: Présentation de l'objectif de développer une vie épanouissante e
 tags:
   - objectifs
   - vision
-image: /images/ressources/pic-noir-groupe.jpg
+image: /images/ressources/objectifs/vie-saine.jpg
 author: mallouestan
 ---
 

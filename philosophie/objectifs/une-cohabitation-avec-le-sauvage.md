@@ -5,7 +5,7 @@ description: Présentation de notre objectif de développer une cohabitation ave
 tags:
   - objectifs
   - vision
-image: /images/ressources/pic-noir-groupe.jpg
+image: /images/ressources/sauvage.jpg
 author: mallouestan
 ---
 

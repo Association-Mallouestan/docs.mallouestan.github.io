@@ -5,7 +5,7 @@ description: Présentation de notre vision de la solidarité et de l'autonomie
 tags:
   - objectifs
   - vision
-image: /images/alternatives.jpg
+image: /images/logo.jpg
 author: mallouestan
 ---
 

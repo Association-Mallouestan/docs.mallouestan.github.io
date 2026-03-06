@@ -5,7 +5,7 @@ description: Texte d'introduction aux objectifs du lieu
 tags:
   - objectifs
   - vision
-image: /images/ressources/pic-noir-groupe.jpg
+image: /images/ressources/partage-2.jpg
 author: mallouestan
 ---
 
