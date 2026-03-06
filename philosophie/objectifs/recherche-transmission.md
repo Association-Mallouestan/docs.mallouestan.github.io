@@ -5,7 +5,7 @@ description: Texte d'introduction aux obje
 tags:
   - objectifs
   - vision
-image: /images/ressources/transmission.jpg
+image: /images/ressources/objectifs/transmission.jpg
 author: mallouestan
 ---
 

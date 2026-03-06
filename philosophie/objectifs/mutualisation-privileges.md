@@ -5,7 +5,7 @@ description: Présentation de notre objectif de développer un mode de vie repos
 tags:
   - objectifs
   - vision
-image: /images/ressources/logo.jpg
+image: /images/logo.jpg
 author: mallouestan
 ---
 ### Contre la propriété privée
