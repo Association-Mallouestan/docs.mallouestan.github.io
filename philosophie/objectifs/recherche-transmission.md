@@ -1,7 +1,7 @@
 ---
 date: 2026-02-23 02:00:00
-title: Vivre ensemble et libre
-description: Texte d'introduction aux obje
+title: Recherche et transmission
+description: Pourquoi la recherche et la transmission sont au cœur de notre projet
 tags:
   - objectifs
   - vision

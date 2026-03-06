@@ -1,5 +1,5 @@
 ---
-date: 2025-06-27 02:00:00
+date: 2025-06-23 02:00:00
 title: Une culture et une vie culturelle
 description: Présentation de notre objectif de développer une culture alternative et des moments culturels partagés
 tags:

@@ -1,6 +1,6 @@
 ---
 date: 2026-02-27 02:00:00
-title: Une convivialité non-libérale
+title: Une solidarité dans l’autonomie
 description: Présentation de notre vision de la solidarité et de l'autonomie
 tags:
   - objectifs
