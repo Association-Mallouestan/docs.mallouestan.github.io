@@ -1,5 +1,5 @@
 ---
-date: 2025-06-27 02:00:00
+date: 2026-02-24 02:00:00
 title: Vie saine et enviable
 description: Présentation de l'objectif de développer une vie épanouissante et équilibrée
 tags:

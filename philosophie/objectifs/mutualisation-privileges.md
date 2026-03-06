@@ -1,5 +1,5 @@
 ---
-date: 2025-06-27 02:00:00
+date: 2026-02-26 02:00:00
 title: La mutualisation des privilèges
 description: Présentation de notre objectif de développer un mode de vie reposant sur des outils démocratiques et non autoritaires
 tags:

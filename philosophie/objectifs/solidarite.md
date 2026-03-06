@@ -1,5 +1,5 @@
 ---
-date: 2025-06-27 02:00:00
+date: 2026-02-27 02:00:00
 title: Une convivialité non-libérale
 description: Présentation de notre vision de la solidarité et de l'autonomie
 tags:

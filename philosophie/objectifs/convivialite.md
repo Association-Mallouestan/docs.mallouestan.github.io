@@ -1,5 +1,5 @@
 ---
-date: 2025-06-27 02:00:00
+date: 2026-02-25 02:00:00
 title: Une convivialité non-libérale
 description: Présentation de notre vision du vivre ensemble
 tags:

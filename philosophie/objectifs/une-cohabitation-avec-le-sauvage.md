@@ -1,5 +1,5 @@
 ---
-date: 2025-06-27 02:00:00
+date: 2026-02-22 02:00:00
 title: Une cohabitation avec le sauvage
 description: Présentation de notre objectif de développer une cohabitation avec le monde sauvage qui nous entoure
 tags:
