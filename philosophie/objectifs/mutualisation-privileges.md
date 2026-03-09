@@ -14,7 +14,7 @@ Découlant de notre vision anarcho-communiste \- détaillée dans le texte “An
 
 1. Le capital économique correspond au capital foncier, industriel, financier, etc.  
 2. Le capital culturel désigne l’ensemble des savoirs et savoir-faire, connaissances et compétences, et sens pratique.  
-3. Le capital symbolique correspond à la perception que la société à de la personne, en terme de distinctions, diplômes, médailles, honneurs, attributs jugés positifs. Si une personne est blanche et éduquée selon les attentes de la culture dominante cela lui permet d’accéder à des opportunités auxquels une personne immigrée ou en situation de handicap ne bénéficie pas dû aux différents stigmates \[attributs dévalorisants au regard d'autrui\] que la même culture dominante encourage.
+3. Le capital symbolique correspond à la perception que la société à de la personne, en terme de distinctions, diplômes, style vestimentaire, attributs jugés positifs de manière générale. Si une personne est blanche et éduquée selon les attentes de la culture dominante cela lui permet d’accéder à des opportunités auxquelles une personne immigrée ou en situation de handicap ne bénéficie pas dû aux différents stigmates \[attributs dévalorisants au regard d'autrui\] que la même culture dominante encourage.
 4. Le capital social désigne ce dont peut bénéficier une personne du fait de ses relations et de qui elle connaît.
 
 De nombreux autres travaux mettent en avant de nombreux privilèges et sources de dominations et de discriminations. Nous cherchons au Mallouestan à développer un contexte où ces différents privilèges sont dans la mesure du possible partagés et mutualisés. 
