@@ -81,16 +81,17 @@ Comme expliqué dans l'annexe économie partagée la mutualisation inclut les bi
 | Couteau           | x | x |   |
 | Fer de hache      | x | x |   |
 | Manches           |   |   |   |
-| Serpe             | x | x |   |
+| Fer de Serpe      | x | x |   |
 | Fer de houe       | x | x |   |
 | Pierres d'afut.x3 | x | x |   |
 | Limes             |   |   |   |
 | Graisse           | x | x |   |
 | Embouts visseuse  | x | x |   |
-| Graisse           | x | x |   |
+| Equerre           | x | x |   |
 | Lame scie à cadre | x | x |   |
-| Burrin            | x | x |   |
+| Maillet bois      |   |   |   |
 | **Rouleau outils**     |   |   |   |
+| Burrin de maçon        | x | x |   |
 | Pince anglaise         | x |   |   |
 | Pince multiple         | x |   |   |
 | Clef à molette         | x |   |   |
