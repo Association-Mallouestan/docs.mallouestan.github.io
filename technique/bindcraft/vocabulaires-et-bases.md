@@ -49,5 +49,5 @@ Puis on peut aussi classer les cordes en fonction de leur construction et de leu
 
 ### Pour aller plus loin
 
-- [Les noeuds de base](./bindcraft-les-huits-noeuds-bases)
-- [Mouflage et poulies](./bindcraft-mouflage-poulies)
+- [Les noeuds de base](./technique-bindcraft-les-huits-noeuds-bases)
+- [Mouflage et poulies](./technique-bindcraft-mouflage-poulies)

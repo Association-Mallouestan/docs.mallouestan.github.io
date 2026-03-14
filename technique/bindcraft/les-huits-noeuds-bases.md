@@ -100,4 +100,4 @@ Cette liste de noeuds n'est pas exhaustive, il existe de nombreux autres noeuds 
 
 Pour aller plus loin vous pouvez consulter:
 
-- [Mouflage et poulies](./bindcraft-mouflage-poulies)
+- [Mouflage et poulies](./technique-bindcraft-vocabulaires-et-bases)
