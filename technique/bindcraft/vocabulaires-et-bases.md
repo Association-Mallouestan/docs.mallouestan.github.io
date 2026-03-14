@@ -29,13 +29,13 @@ Commençons avec un brins de vocabulaire pour nous aider à manipuler notre cord
 - Ganse
 - Boucle
 
-![illustration vocabulaire](https://www.mallouestan.org/images/technique/bindcraft/noeud-vocabulaire.jpg)
+![medium](https://www.mallouestan.org/images/technique/bindcraft/noeud-vocabulaire.jpg)
 
 ### Tours mort 
 
 Un tour mort est un enroulement de corde autour d'un objet ou d'une autre partie de la corde. Il est utilisé pour augmenter le frottement soit pour réduire la force exercée sur des éléments du système soit pour ralentir un mouvement.  
 
-![illustration tours morts](https://www.mallouestan.org/images/technique/bindcraft/tours-mort-deux-demi-clefs.png)
+![medium](https://www.mallouestan.org/images/technique/bindcraft/tours-mort-deux-demi-clefs.png)
 
 Ci-dessus un exemple de deux tours mort suivis de deux demi-clés. Les tours mort permettent de réduire la force exercée sur les demi-clés et ainsi de faciliter leur réalisation et leur dénouement.
 

@@ -28,7 +28,7 @@ Il nous faut aussi présenté quelques informations suplémentaire notamment les
 
 Le noeud de huit est un noeud d'arrêt. C'est un noeud en bout de code permettant d'empêcher que la corde glisse ou se dégaine (sur les cordes gainés où les brins du noyau se décalent où s'enlèvent de la gaine protectrice).
 
-![noeud-huit.png](https://www.mallouestan.org/images/technique/bindcraft/noeud-huit.png)
+![medium](https://www.mallouestan.org/images/technique/bindcraft/noeud-huit.png)
 
 Elle se réalise en formant une boucle avec la corde et en passant le brin à nouer à travers la boucle après avoir fait un tour autour du brin libre. C'est un noeud facile à réaliser et à défaire, même après avoir été soumis à une charge importante. Il est largement utilisé dans les activités de plein air, l'escalade, la voile et d'autres domaines où la sécurité est primordiale.
 
@@ -36,7 +36,7 @@ Elle se réalise en formant une boucle avec la corde et en passant le brin à no
 
 Le double noeud d'arrêt est comme son nom l'indique un noeud d'arrêt. C'est un noeud utilisé souvent pour empêcher des nœuds moins fiable de se défaire. On l'utilise également en bout de corde pour les mêmes raisons que le noeud de huit. Il est fiable mais plus difficile à défaire que le noeud de huit. 
 
-![Illustration noeud d'arrêt](https://www.mallouestan.org/images/technique/bindcraft/noeud-arret-double.png)
+![medium](https://www.mallouestan.org/images/technique/bindcraft/noeud-arret-double.png)
 
 Il est réalisé en formant une boucle avec la corde puis en faisant un deuxième tour autour du brin libre avant de passer le brin à nouer à travers des deux boucles formées par les deux tours.
 
@@ -44,33 +44,33 @@ Il est réalisé en formant une boucle avec la corde puis en faisant un deuxièm
 
 Le double noeud de huit est un noeud de boucle. C'est un noeud très fiable mais qui peu être difficile a défaire.
 
-![noeud-huit.png](https://www.mallouestan.org/images/technique/bindcraft/noeud-double-huit-realisation.png)
+![medium](https://www.mallouestan.org/images/technique/bindcraft/noeud-double-huit-realisation.png)
 
 Il se réalise de manière identique que le noeud de huit mais à partir d'une ganse ou de deux brins de corde. Si la boucle doit passer dans une boucle fixe comme un anneau ou un trou on commence par un noeud de huit simple puis on passe le brin à nouer à travers la boucle fixe avant de suivre à l'inverse le parcours de la corde formant le noeud de huit en doublant ainsi les brins. Comme çi-dessous:
 
-![noeud-huit.png](https://www.mallouestan.org/images/technique/bindcraft/noeud-double-huit.png)
+![medium](https://www.mallouestan.org/images/technique/bindcraft/noeud-double-huit.png)
 
 #### 4. Noeud de chaise
 
 Le noeud de chaise est un noeud de boucle facile à défaire même après de grande charge ou tension.
 
-![noeud-huit.png](https://www.mallouestan.org/images/technique/bindcraft/noeud-chaise.png)
+![medium](https://www.mallouestan.org/images/technique/bindcraft/noeud-chaise.png)
 
 #### 5. Noeud d'écoute
 
 Le noeud d'écoute est un noeud d'ajut permettant de relier deux cordes, se réalisent comme le noeud de chaise mais où la boucle est "couper". 
 
-![Noeud d'écoute réalisation](https://www.mallouestan.org/images/technique/bindcraft/noeud-ecoute-realisation.png)
+![medium](https://www.mallouestan.org/images/technique/bindcraft/noeud-ecoute-realisation.png)
 
 Le résultat:
 
-![Noeud d'écoute](https://www.mallouestan.org/images/technique/bindcraft/noeud-ecoute.png)
+![medium](https://www.mallouestan.org/images/technique/bindcraft/noeud-ecoute.png)
 
 #### 6. Double noeud du pêcheur
 
 Le double noeud du pêcheur est également un noeud d'ajut. Il est composé de deux double noeud d'arret.
 
-![Double noeud du pêcheur](https://www.mallouestan.org/images/technique/bindcraft/noeud-pecheur-double.png)
+![medium](https://www.mallouestan.org/images/technique/bindcraft/noeud-pecheur-double.png)
 
 On réalise un double noeud d'arrêt autour du brin de l'autre corde respectivement. On obtient deux noeuds d'arrêts glissant sur le brin de l'autre corde. En tirant sur les deux brins libres les deux noeuds d'arrêt se rapprochent et se serrent l'un contre l'autre formant ainsi un noeud d'ajut très fiable.
 
@@ -78,13 +78,13 @@ On réalise un double noeud d'arrêt autour du brin de l'autre corde respectivem
 
 Le noeud du cabestan est un noeud d'accroche permettant de se fixer (de s'accrocher) à un objet de faible diamètre ou une corde. 
 
-![noeud-huit.png](https://www.mallouestan.org/images/technique/bindcraft/noeud-cabestan.png)
+![medium](https://www.mallouestan.org/images/technique/bindcraft/noeud-cabestan.png)
 
 #### 8. Le noeud du camionneur
 
 Le noeud du camionneur (existe sous plusieurs formes mais ici a base demi clé gansé) est un noeud d'accroche servant surtout à tendre une corde ou tirer une charge.
 
-![noeud-huit.png](https://www.mallouestan.org/images/technique/bindcraft/noeud-camionneur.jpg)
+![medium](https://www.mallouestan.org/images/technique/bindcraft/noeud-camionneur.jpg)
 
 > La corde à tendre ou la charge étant ici a gauche sur le brin libre.
 
