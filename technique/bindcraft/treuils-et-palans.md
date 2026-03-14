@@ -54,4 +54,4 @@ Le treuil Kochanski est composé de deux leviers de force qui enroulent la corde
 
 ### Pour aller plus loin
 
-- [Gestion de charge](./technique-bindcraft-securite-gestion-de-charge)
+- [Sécurité et gestion de charge](./technique-bindcraft-securite-gestion-de-charge)

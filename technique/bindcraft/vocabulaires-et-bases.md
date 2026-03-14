@@ -47,6 +47,27 @@ Puis on peut aussi classer les cordes en fonction de leur construction et de leu
 
 > La paracorde par exemple est une corde gainée en nylon, légère, résistante et polyvalente, souvent utilisée dans les activités de plein air et les situations d'urgence.
 
+### Glossaire des matériaux et accéssoires utilisés avec les cordes
+
+![glossaire](https://www.mallouestan.org/images/technique/bindcraft/glossaire.jpg)
+
+#### Elements de liaison et d'ancrage
+
+- **Mousqueton** : Connecteur rapide, souvent à verrouillage, utilisé pour relier corde, élingue ou ancrage.
+- **Maillon rapide** : Anneau métallique vissable, très solide, utilisé pour des connexions semi-permanentes.
+- **Élingue (textile, câble ou chaîne)** : Élément servant à relier des charges ou à les ancrer.
+- **Manille (lyre ou droite)** : Connecteur métallique robuste pour charges lourdes.
+- **Crochet :** Crochet métallique pour connecter une corde ou un câble à une charge.
+- **Pitons / goujons / ancrages mécaniques :** Points d’ancrage fixés dans un mur ou une structure.
+- **Anneaux d’ancrage :** Points fixes pour attacher une corde ou une élingue.
+
+#### Accessoires de guidage ou de protection
+
+- **Poulie :** Permet de dévier la corde ou de réduire l’effort (renvoi, mouflage).
+- **Bloqueur :** Appareil permettant à la corde de coulisser dans un sens mais pas dans l’autre.
+- **Descendeur :** Appareil pour contrôler la descente sur corde (huit, panier, ID, etc.).
+- **Protège-corde :** Gaine ou plaque pour éviter l’usure sur arête vive.
+
 ### Pour aller plus loin
 
 - [Les nœuds de base](./technique-bindcraft-les-huits-noeuds-bases)
