@@ -12,17 +12,17 @@ author: mallouestan
 
 ### Présentation
 
-Le bindcraft est un therme britanique englobant l'art de faire des noeuds, de gestion de corde, de la création d'outils et d'objets en corde (comme le macramé), les utilisations de la corde pour le transport, la construction, la suspension, etc. 
+Le bindcraft est un terme britannique englobant l'art de faire des nœuds, de gestion de corde, de la création d'outils et d'objets en corde (comme le macramé), les utilisations de la corde pour le transport, la construction, la suspension, etc. 
 
 ### Une question de frottement
 
-Un noeud est un enchevêtrement de corde qui, par sa forme, sa structure et les forces qui s'exercent sur lui, peut être utilisé pour différentes fonctions comme l'arrêt, la fixation, la jonction, etc. Elle repose sur des principes physiques et mécaniques, pincipalement le frottement, mais aussi la tension et la compression. Le frottement est le concept clé pour comprendre comment les noeuds fonctionnent. Le frottement est la force qui s'oppose au mouvement de deux surfaces en contact. 
+Un nœud est un enchevêtrement de corde qui, par sa forme, sa structure et les forces qui s'exercent sur lui, peut être utilisé pour différentes fonctions comme l'arrêt, la fixation, la jonction, etc. Il repose sur des principes physiques et mécaniques, principalement le frottement, mais aussi la tension et la compression. Le frottement est le concept clé pour comprendre comment les nœuds fonctionnent. Le frottement est la force qui s'oppose au mouvement de deux surfaces en contact. 
 
-Dans le cas des noeuds, le frottement est créée par les brins de corde qui se frottent les uns contre les autres ou contre d'autres objets. C'est le frottement qui maintient les noeuds en place et leur permet de remplir leur fonction. Dans le cas de système de levage ou de traction, le frottement le frottement est également au coeur de la mécanique du système soit en l'utilisant pour ralentir un mouvement ou en le réduisant pour faciliter un mouvement. 
+Dans le cas des nœuds, le frottement est créé par les brins de corde qui se frottent les uns contre les autres ou contre d'autres objets. C'est le frottement qui maintient les nœuds en place et leur permet de remplir leur fonction. Dans le cas des systèmes de levage ou de traction, le frottement est également au cœur de la mécanique du système soit en l'utilisant pour ralentir un mouvement ou en le réduisant pour faciliter un mouvement. 
 
 ### Vocabulaire de base
 
-Commençons avec un brins de vocabulaire pour nous aider à manipuler notre corde:
+Commençons avec des brins de vocabulaire pour nous aider à manipuler notre corde:
 
 - Brin à nouer ou courant
 - Brin libre ou dormant 
@@ -37,7 +37,7 @@ Un tour mort est un enroulement de corde autour d'un objet ou d'une autre partie
 
 ![medium](https://www.mallouestan.org/images/technique/bindcraft/tours-mort-deux-demi-clefs.png)
 
-Ci-dessus un exemple de deux tours mort suivis de deux demi-clés. Les tours mort permettent de réduire la force exercée sur les demi-clés et ainsi de faciliter leur réalisation et leur dénouement.
+Ci-dessus un exemple de deux tours morts suivis de deux demi-clefs. Les tours morts permettent de réduire la force exercée sur les demi-clefs et ainsi de faciliter leur réalisation et leur dénouement.
 
 ### Type de cordes
 
@@ -49,5 +49,5 @@ Puis on peut aussi classer les cordes en fonction de leur construction et de leu
 
 ### Pour aller plus loin
 
-- [Les noeuds de base](./technique-bindcraft-les-huits-noeuds-bases)
+- [Les nœuds de base](./technique-bindcraft-les-huits-noeuds-bases)
 - [Mouflage et poulies](./technique-bindcraft-mouflage-poulies)

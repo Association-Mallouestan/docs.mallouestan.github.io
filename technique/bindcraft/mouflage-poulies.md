@@ -11,9 +11,9 @@ author: mallouestan
 
 ### Rôle de base d'une poulie
 
-Une poulie est un mécanisme permetant le renvoie d'une force. Elle est constituée d'une roue avec une gorge dans laquelle une corde peut s'enrouler. En utilisant une poulie, on peut changer la direction de la force appliquée à la corde en minimisant la perte. Autrement dit la poulie permet de rediriger la corde en réduisant le frottement.
+Une poulie est un mécanisme permettant le renvoi d'une force. Elle est constituée d'une roue avec une gorge dans laquelle une corde peut s'enrouler. En utilisant une poulie, on peut changer la direction de la force appliquée à la corde en minimisant la perte. Autrement dit la poulie permet de rediriger la corde en réduisant le frottement.
 
-Les poulies peuvent être assemblées pour former des systèmes dit "de mouflage" (aussi appeler palans) qui permet de multiplier la force appliquée à une charge. Ainsi on peut soulever ou déplacer des charges plus lourdes que ce que l'on pourrait faire avec une force directe. On utilise cet avantage mécanique pour faciliter le levage, la traction ou la tension de charges dans diverses applications comme la construction, l'escalade, la navigation, etc.
+Les poulies peuvent être assemblées pour former des systèmes dits "de mouflage" (aussi appelés palans) qui permettent de multiplier la force appliquée à une charge. Ainsi on peut soulever ou déplacer des charges plus lourdes que ce que l'on pourrait faire avec une force directe. On utilise cet avantage mécanique pour faciliter le levage, la traction ou la tension de charges dans diverses applications comme la construction, l'escalade, la navigation, etc.
 
 ### Systèmes de mouflage/palans
 
@@ -21,19 +21,41 @@ Il existe de nombreux systèmes de palans/mouflage, chacun avec ses propres avan
 
 Il existe deux catégories de systèmes de mouflage/palans: 
 
-- **les systèmes dits capelé en avantage ou monté en avantage:** où la force de traction est appliquée à une poulie mobile directement connecté à la charge. Ces systèmes sont plus efficaces en termes de force mais ne sont pas adapté à toute les situations notamment dans de nombreux cas de levage de charge.
+- **les systèmes dits montés en avantage:** où la force de traction est appliquée à une poulie mobile directement connectée à la charge. Ces systèmes sont plus efficaces en termes de force mais ne sont pas adaptés à toutes les situations notamment dans de nombreux cas de levage de charges.
 
 ![small](https://www.mallouestan.org/images/technique/bindcraft/poulie1a.png)
 
-- **les systèmes dits capelé en désavantage ou monté en désavantage:** où la force de traction est appliquée à une poulie statique en premier lieu.
+- **les systèmes dits montés en désavantage:** où la force de traction est appliquée à une poulie statique en premier lieu.
 
 ![small](https://www.mallouestan.org/images/technique/bindcraft/poulie2d.png)
 
-> On remarque que la première poulie dans le cas d'un système capelé en désaventage sert à rediriger la force et non les cummulé. Les deux exemple çi dessus présente le même avantage mécanique malgré l'usage d'une poulie suplémentaire dans le système capelé en désaventage.
+> On remarque que la première poulie dans le cas d'un système monté en désavantage sert à rediriger la force et non à la cumuler. Les deux exemples ci-dessus présentent le même avantage mécanique malgré l'usage d'une poulie supplémentaire dans le système monté en désavantage.
 
 ### Systèmes en série 
 
-#### A 1 poulies
+L'approche la plus simple pour augmenter l'avantage mécanique d'un système de mouflage/palan est de connecter des poulies en série en alternant des poulies mobiles (connectées à la charge) et des poulies statiques (connectées à un point d'ancrage). Par exemple ci-dessous un système de 3 poulies en série avec deux poulies statiques et une poulie mobile offrant un avantage mécanique de 3 pour 1.
+
+![small](https://www.mallouestan.org/images/technique/bindcraft/poulie3d.png)
+
+Avec un avantage mécanique de 3 pour 1
+
+> Une liste plus exhaustive de systèmes de mouflage/palans en série est disponible en fin de document.
+
+### Système combiné
+
+Il est également possible de combiner des systèmes de mouflage en avantage et en désavantage pour créer des systèmes plus complexes et plus efficaces. Par exemple ci-dessous une combinaison d'un système de 2 poulies montées en désavantage exerçant sur un système d'une poulie montée en avantage offrant un avantage mécanique de 4:1.
+
+![small](https://www.mallouestan.org/images/technique/bindcraft/poulie2d1a.png)
+
+En ajoutant une poulie supplémentaire à ce système on peut obtenir un avantage mécanique de 8 pour 1 et atteindre 16 pour 1 en ajoutant une poulie supplémentaire là où le système en série avec cet ajout de 2 poulies nous aurait permis d'obtenir un avantage mécanique de 5 pour 1.
+
+### Pour aller plus loin
+
+- [tSystème de treuils et palans](./technique-bindcraft-treuils-et-palans)
+
+### Exemples de systèmes de mouflage/palans en série
+
+#### À 1 poulie
 
 - En avantage
 
@@ -42,7 +64,7 @@ Il existe deux catégories de systèmes de mouflage/palans:
 Avec un avantage mécanique de 2 pour 1
 
 
-#### A 2 poulies
+#### À 2 poulies
 
 - En avantage
 
@@ -56,7 +78,7 @@ Avec un avantage mécanique de 3 pour 1
 
 Avec un avantage mécanique de 2 pour 1
 
-#### A 3 poulies
+#### À 3 poulies
 
 - En avantage
 
@@ -72,7 +94,7 @@ Avec un avantage mécanique de 4 pour 1
 Avec un avantage mécanique de 3 pour 1
 
 
-#### A 4 poulies
+#### À 4 poulies
 
 - En désavantage
 
@@ -81,10 +103,3 @@ Avec un avantage mécanique de 3 pour 1
 Avec un avantage mécanique de 4 pour 1
 
 #### Ainsi de suite ...
-
-### Système combiné
-
-Il est également possible de combiner des systèmes de mouflage en avantage et en désavantage pour créer des systèmes plus complexes et plus efficaces. Par exemple ci dessous une combinaison d'un système de 2 poulie capelé en désavantage exerçant sur un système de une poulie capelé en avantage offrant un avantage mécanique de 4:1.
-
-![small](https://www.mallouestan.org/images/technique/bindcraft/poulie2d1a.png)
-
