@@ -88,3 +88,4 @@ Il est également possible de combiner des systèmes de mouflage en avantage et 
 
 ![small](https://www.mallouestan.org/images/technique/bindcraft/poulie2d1a.png)
 
+En ajoutant une poulie supplémentaire à ce système on peut obtenir un avantage mécanique de 8 pour 1 et atteindre 16 pour 1 en ajoutant une poulie supplémentaire là ou le système en série cet ajout de 2 poulie nous aurais permis d'obtenir un avantage mécanique de 5 pour 1.
