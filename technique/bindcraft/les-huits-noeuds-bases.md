@@ -11,7 +11,7 @@ author: mallouestan
 
 ### Introduction
 
-> De nombreuses listes de nœuds existent, celle-ci a été construite autour de trois critères: simplicité d'apprentissage (que 5 nœuds à apprendre car les trois restants sont quasiment identiques), exhaustivité (répondent à 99% des situations), adaptabilité (des nœuds rapides, faciles à défaire et d'autres nœuds reconnus comme faisant partie des plus fiables existants).
+> De nombreuses listes de nœuds existent, celle-ci a été construite autour de trois critères: simplicité d'apprentissage (que cinq nœuds à apprendre car les trois restants sont quasiment identiques), exhaustivité (répondent à 99% des situations), adaptabilité (des nœuds rapides, faciles à défaire et d'autres nœuds reconnus comme faisant partie des plus fiables existants).
 
 Avant de commencer à apprendre les nœuds, il est important de comprendre quelques concepts de base et d'avoir un vocabulaire commun pour pouvoir les décrire et les manipuler. Nous vous conseillons de lire [le vocabulaire et les bases du bindcraft](./bindcraft-vocabulaires-et-bases) avant de continuer avec les nœuds.
 
@@ -22,7 +22,7 @@ Il nous faut aussi présenter quelques informations supplémentaires notamment l
 - **Les nœuds d'arrêt**: permettant de nouer une extrémité pour éviter qu'elle glisse à travers une poulie, un trou, un nœud ou tout autre équipement
 - **Les nœuds de boucle**: permettant de former une ou plusieurs boucles pour l'amarrage, créer des points de fixation ou faire glisser une corde.
 
-### Noeuds
+### Nœuds
 
 #### 1. Nœud de huit
 
@@ -84,7 +84,7 @@ Le nœud du cabestan est un nœud d'accroche permettant de se fixer (de s'accroc
 
 Le nœud du camionneur (existe sous plusieurs formes mais ici à base demi-clef gansée) est un nœud d'accroche servant surtout à tendre une corde ou tirer une charge.
 
-![medium](https://www.mallouestan.org/images/technique/bindcraft/noeud-camionneur.jpg)
+![camionneur](https://www.mallouestan.org/images/technique/bindcraft/noeud-camionneur.jpg)
 
 > La corde à tendre ou la charge étant ici à gauche sur le brin libre.
 
@@ -92,7 +92,7 @@ Le nœud du camionneur (existe sous plusieurs formes mais ici à base demi-clef 
 
 Ce nœud étant plus complexe voici une vidéo pour le visionner en action pour la mise en place d'un abri à base de tarp
 
-https://youtu.be/FnlaQHIoCs8?si=kFqFB4hHWTgAwTCn
+[https://youtu.be/FnlaQHIoCs8?si=kFqFB4hHWTgAwTCn](https://youtu.be/FnlaQHIoCs8?si=kFqFB4hHWTgAwTCn)
 
 ### Pour finir
 
@@ -100,4 +100,4 @@ Cette liste de nœuds n'est pas exhaustive, il existe de nombreux autres nœuds 
 
 Pour aller plus loin vous pouvez consulter:
 
-- [Mouflage et poulies](./technique-bindcraft-vocabulaires-et-bases)
+- [Mouflage et poulies](./technique-bindcraft-mouflage-poulies)
