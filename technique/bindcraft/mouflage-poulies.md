@@ -35,7 +35,7 @@ On peut calculer les forces en dessinant des flèches au niveau des poulies comm
 
 ![small](https://www.mallouestan.org/images/technique/bindcraft/poulie2d-forces.png)
 
-On remarque çi-dessus que pour une force F appliqué à gauche qu'elle est "propagée" gràce au poulies. On la retrouve agissant deux fois vers le haut au niveau de la poulie lié à la charge. Nous avons donc un développement de 1 pour deux sur ce montage. On remarque aussi que l'ancrage (la ligne horizontal en haut) est quand à elle exposé à trois fois cette force. Prenons un autre exemple:
+On remarque ci-dessus que pour une force F appliquée à gauche, cette force F est "propagée" grâce aux poulies. On la retrouve agissant deux fois vers le haut au niveau de la poulie liée à la charge. On a donc un développement de 1 pour deux sur ce montage. On remarque aussi que l'ancrage (la ligne horizontal en haut) est quant à lui exposé à trois fois cette force. Prenons un autre exemple:
 
 ![small](https://www.mallouestan.org/images/technique/bindcraft/poulie4d-forces.png)
 
@@ -59,11 +59,11 @@ Il est également possible de combiner des systèmes de mouflage en avantage et 
 
 En ajoutant une poulie supplémentaire à ce système on peut obtenir un avantage mécanique de 8 pour 1 et atteindre 16 pour 1 en ajoutant une poulie supplémentaire là où le système en série avec cet ajout de 2 poulies nous aurait permis d'obtenir un avantage mécanique de 5 pour 1.
 
-On peut analyser d'un point des forces comme ceci:
+Du point de vue des forces, on peut analyser le montage comme ceci:
 
 ![medium](https://www.mallouestan.org/images/technique/bindcraft/poulie2d1a-forces.png)
 
-On vois donc que les forces sont multipliées par 4 au niveau de la charge.
+On vois donc que les forces sont bien multipliées par 4 au niveau de la charge.
 
 ### Pour aller plus loin
 

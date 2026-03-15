@@ -13,9 +13,9 @@ author: mallouestan
 
 Cette ressource présente différentes technologies permettant de créer des treuils pour la traction de charges lourdes. Ces treuils peuvent être utilisés en combinaison avec des systèmes de mouflage/palans pour démultiplier grandement la force appliquée à une charge. 
 
-Prenons un exemple d'un mouflage offrant un avantage mécanique de 4 pour 1, cela signifie que pour soulever une charge de 1000kg, il faudrait appliquer une force de 250kg. En utilisant un treuil avec un rapport de démultiplication de 10:1 il suffit d'appliquer une force de 100kg pour soulever la charge. En combinant le treuil avec un système de mouflage offrant un avantage mécanique de 8 pour 1, il suffirait d'appliquer une force de 12.5kg pour soulever la même charge de 1000kg.
+Prenons un exemple : en utilisant un treuil avec un rapport de démultiplication de 10:1 il suffit d'appliquer une force de 100kg (1000kg/10) pour soulever une charge de 1000kg. En combinant le treuil avec un système de mouflage offrant un avantage mécanique de 8 pour 1, il suffirait d'appliquer une force de 12.5kg ((1000kg/10)/8) pour soulever la même charge de 1000kg.
 
-Nous allons donc voir les différentes technologies et méthodes suivantes:
+Nous allons donc voir différentes technologies et méthodes suivantes:
 
 - Treuils à engrenages (manuels ou motorisés)
 - Bande nylon à cliquet
@@ -28,17 +28,17 @@ Nous allons donc voir les différentes technologies et méthodes suivantes:
 
 Ci-dessus un exemple de treuil à cliquets basique. En tournant la manivelle, les engrenages à l'intérieur du treuil multiplient la force appliquée, permettant de soulever ou de tirer des charges plus lourdes que ce que l'on pourrait faire avec une force directe.
 
-![small](https://www.mallouestan.org/images/technique/bindcraft/treuils-cliquets.gif)
+![treuil](https://www.mallouestan.org/images/technique/bindcraft/treuils-cliquets.gif)
 
 Ce deuxième exemple de treuil à cliquets utilise une poignée plus longue permettant d'avoir un meilleur levier de force et ainsi de réduire la force nécessaire pour faire tourner le treuil.
 
 ### Bande nylon à cliquet
 
-![small](https://www.mallouestan.org/images/technique/bindcraft/ratchet-strap.png)
+![medium](https://www.mallouestan.org/images/technique/bindcraft/ratchet-strap.png)
 
-La bande nylon à cliquet permet des résultats similaires à un treuil à cliquets après tout leur fonctionnement est basé sur les mêmes principes. On peut donc les utiliser pour soulever ou tirer des charges lourdes comme ceci:
+La bande nylon à cliquet permet des résultats similaires à un treuil à cliquets : après tout, leur fonctionnement est basé sur les mêmes principes. On peut donc les utiliser pour soulever ou tirer des charges lourdes comme ceci:
 
-![small](https://www.mallouestan.org/images/technique/bindcraft/treuil-sangle-cliquet.png)
+![exemple bande](https://www.mallouestan.org/images/technique/bindcraft/treuil-sangle-cliquet.png)
 
 ### Traction avec un levier de force
 
