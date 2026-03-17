@@ -44,7 +44,7 @@ La bande nylon à cliquet permet des résultats similaires à un treuil à cliqu
 
 Un levier de force est un outil simple qui permet de multiplier la force appliquée à une charge en utilisant le principe du levier. En utilisant un levier de force, on peut soulever ou déplacer des charges plus lourdes que ce que l'on pourrait faire avec une force directe. Nous pouvons utiliser un levier de force pour tirer sur une corde. Cette méthode a plusieurs limites notamment une amplitude de mouvement courte. Autrement dit la force développée peut être très importante mais on ne peut que déplacer la charge sur une courte distance.
 
-![small](https://www.mallouestan.org/images/technique/bindcraft/levier-avec-corde.jpg)
+![levier avec corde](https://www.mallouestan.org/images/technique/bindcraft/levier-avec-corde.jpg)
 
 ### Treuil Kochanski
 
