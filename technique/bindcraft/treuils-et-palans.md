@@ -44,13 +44,21 @@ La bande nylon à cliquet permet des résultats similaires à un treuil à cliqu
 
 Un levier de force est un outil simple qui permet de multiplier la force appliquée à une charge en utilisant le principe du levier. En utilisant un levier de force, on peut soulever ou déplacer des charges plus lourdes que ce que l'on pourrait faire avec une force directe. Nous pouvons utiliser un levier de force pour tirer sur une corde. Cette méthode a plusieurs limites notamment une amplitude de mouvement courte. Autrement dit la force développée peut être très importante mais on ne peut que déplacer la charge sur une courte distance.
 
-![small](https://www.mallouestan.org/images/technique/bindcraft/levier-de-force.jpg)
+![small](https://www.mallouestan.org/images/technique/bindcraft/levier-avec-corde.jpg)
 
 ### Treuil Kochanski
 
 Le treuil Kochanski est composé de deux leviers de force qui enroulent la corde autour de leurs axes. C'est un treuil permettant de tracter la charge sur des distances importantes et qui permet de développer une force très importante. C'est une solution accessible et très efficace.
 
-![small](https://www.mallouestan.org/images/technique/bindcraft/treuil-kochanski.jpg)
+![medium](https://www.mallouestan.org/images/technique/bindcraft/flipflop.jpg)
+![medium](https://www.mallouestan.org/images/technique/bindcraft/flipflop2.jpg)
+
+Pour le réaliser suivez les étapes suivantes:
+
+![medium](https://www.mallouestan.org/images/technique/bindcraft/flipflop-rea-1.jpg)
+![medium](https://www.mallouestan.org/images/technique/bindcraft/flipflop-rea-2.jpg)
+![medium](https://www.mallouestan.org/images/technique/bindcraft/flipflop-rea-3.jpg)
+![medium](https://www.mallouestan.org/images/technique/bindcraft/flipflop2.jpg)
 
 ### Pour aller plus loin
 
