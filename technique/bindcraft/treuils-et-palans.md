@@ -51,13 +51,17 @@ Un levier de force est un outil simple qui permet de multiplier la force appliqu
 Le treuil Kochanski est composé de deux leviers de force qui enroulent la corde autour de leurs axes. C'est un treuil permettant de tracter la charge sur des distances importantes et qui permet de développer une force très importante. C'est une solution accessible et très efficace.
 
 ![medium](https://www.mallouestan.org/images/technique/bindcraft/flipflop.jpg)
+
 ![medium](https://www.mallouestan.org/images/technique/bindcraft/flipflop2.jpg)
 
 Pour le réaliser suivez les étapes suivantes:
 
 ![medium](https://www.mallouestan.org/images/technique/bindcraft/flipflop-rea-1.jpg)
-![medium](https://www.mallouestan.org/images/technique/bindcraft/flipflop-rea-2.jpg)
-![medium](https://www.mallouestan.org/images/technique/bindcraft/flipflop-rea-3.jpg)
+
+![medium](https://www.mallouestan.org/images/technique/bindcraft/flipflip-rea-2.jpg)
+
+![medium](https://www.mallouestan.org/images/technique/bindcraft/flipflip-rea-3.jpg)
+
 ![medium](https://www.mallouestan.org/images/technique/bindcraft/flipflop2.jpg)
 
 ### Pour aller plus loin
