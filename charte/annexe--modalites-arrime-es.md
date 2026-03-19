@@ -104,6 +104,7 @@ Comme expliqué dans l'annexe économie partagée la mutualisation inclut les bi
 | 2x Cordeau > 12 pied   | x |   |   |
 | Règlet de >4 pouces    | x |   |   |
 | Crayon                 | x |   |   |
+| E.P.I                  | x |   |   |
 | **Camp et dodo**  |   |   |   |
 | Tarp ou bivy      | x | x |   |
 | Sac couchage 0°   | x | x |   |
