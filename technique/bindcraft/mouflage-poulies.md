@@ -1,5 +1,5 @@
 ---
-date: 2026-03-01 2:00:00
+date: 2026-03-03 2:00:00
 title: Mouflage et poulies
 description: Comprendre les systèmes de mouflage et de poulies pour le levage et la traction
 tags:

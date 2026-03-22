@@ -14,7 +14,7 @@ author: mallouestan
 
 ### Présentation
 
-Le bindcraft est un terme britannique englobant l'art de faire des nœuds, de gestion de corde, de la création d'outils et d'objets en corde (comme le macramé), les utilisations de la corde pour le transport, la construction, la suspension, etc. 
+Le bindcraft est un terme britannique englobant l'art de faire des nœuds, de gestion de corde, de la création d'outils et d'objets en corde (comme le macramé), les utilisations de la corde pour le transport, la construction, la suspension, etc.
 
 ### Une question de frottement
 

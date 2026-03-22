@@ -1,5 +1,5 @@
 ---
-date: 2026-03-01 2:00:00
+date: 2026-03-05   2:00:00
 title: Sécurité et gestion de charge
 description: Comprendre les principes de sécurité et la gestion des charges lors de l'utilisation de cordes et de cordes sous grandes tensions
 tags:
