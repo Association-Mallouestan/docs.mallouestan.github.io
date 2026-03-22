@@ -5,6 +5,8 @@ description: Vocabulaires et bases de gestion de corde
 tags:
   - techniques
   - bindcraft
+folders:
+  - bindcraft-n1
 image: /images/events/noeud-coeur.jpg
 author: mallouestan
 ---

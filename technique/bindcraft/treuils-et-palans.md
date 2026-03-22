@@ -5,6 +5,8 @@ description: Comprendre différentes technologies de treuils et de palans
 tags:
   - techniques
   - bindcraft
+folders:
+  - bindcraft-n1
 image: /images/technique/bindcraft/moufle-bois.png
 author: mallouestan
 ---

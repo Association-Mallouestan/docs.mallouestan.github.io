@@ -5,6 +5,8 @@ description: Apprendre les huit nœuds de base
 tags:
   - techniques
   - bindcraft
+folders:
+  - bindcraft-n1
 image: /images/events/noeud-coeur.jpg
 author: mallouestan
 ---

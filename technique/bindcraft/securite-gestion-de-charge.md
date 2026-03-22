@@ -5,6 +5,8 @@ description: Comprendre les principes de sécurité et la gestion des charges lo
 tags:
   - techniques
   - bindcraft
+folders:
+  - bindcraft-n1
 image: /images/technique/bindcraft/moufle-bois.png
 author: mallouestan
 ---

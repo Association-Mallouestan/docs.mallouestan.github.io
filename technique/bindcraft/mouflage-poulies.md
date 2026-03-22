@@ -5,6 +5,8 @@ description: Comprendre les systèmes de mouflage et de poulies pour le levage e
 tags:
   - techniques
   - bindcraft
+folders:
+  - bindcraft-n1
 image: /images/technique/bindcraft/moufle-bois.png
 author: mallouestan
 ---
