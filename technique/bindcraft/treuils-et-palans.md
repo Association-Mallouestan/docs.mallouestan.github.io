@@ -6,7 +6,7 @@ tags:
   - techniques
   - bindcraft
 folders:
-  - bindcraft-n1
+  - bindcraft-debutant-e
 image: /images/technique/bindcraft/moufle-bois.png
 author: mallouestan
 ---
