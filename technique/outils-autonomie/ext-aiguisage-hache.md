@@ -1,6 +1,6 @@
 ---
 date: 2026-03-02 2:00:00
-title: Comment affûter et aiguiser une hache pour la rendre plus efficace
+title: Comment affûter et aiguiser une hache
 description: Comment affûter et aiguiser une hache pour la rendre plus efficace 
 tags:
   - techniques
