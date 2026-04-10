@@ -132,9 +132,9 @@ Parmis nos objectifs, nous avons toujours valorisé l'accueil de visiteuse•eur
 Pour plus d'informations sur la vie collective sur le lieu, il est encouragé de lire l'annexe correspondante.
 
 ### Annexes
-- [Vie collective](/r/charte-annexe-vie-collective.md)
-- [Responsabilités et droits](/r/charte-annexe-responsabilites-droits.md)
-- [Économie partagée](/r/charte-annexe-economie-partagee.md)
-- [Gestion de conflit](/r/charte-annexe-gestion-de-conflit.md)
-- [Directives B.A.L.E.E.Z](/r/charte-annexe-directives-BALEEZ.md)
+- [Vie collective](/r/charte-annexe-vie-collective)
+- [Responsabilités et droits](/r/charte-annexe-responsabilites-droits)
+- [Économie partagée](/r/charte-annexe-economie-partagee)
+- [Gestion de conflit](/r/charte-annexe-gestion-de-conflit)
+- [Directives B.A.L.E.E.Z](/r/charte-annexe-directives-BALEEZ)
 - [Annexe: décisions en attente](/r/charte-annexe-decisions-en-attente)
