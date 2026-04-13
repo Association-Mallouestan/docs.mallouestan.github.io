@@ -7,6 +7,13 @@ tags:
   - vision
 image: /images/ressources/partage-2.jpg
 author: mallouestan
+
+page-navigation:
+  next:
+    message: Lire la suite
+    link: /r/philosophie-objectifs-solidarite
+    title: Une solidarité dans l'autonomie
+  previous: false
 ---
 
 ### Présentation
