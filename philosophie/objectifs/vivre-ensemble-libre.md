@@ -13,12 +13,6 @@ related:
     message: Lire la suite
     link: /r/philosophie-objectifs-solidarite
   previous: false
-
-playlist: 
-  name: Nos objectifs
-  by_tag:
-    - objectifs
-    - vision
 ---
 
 ### Présentation
