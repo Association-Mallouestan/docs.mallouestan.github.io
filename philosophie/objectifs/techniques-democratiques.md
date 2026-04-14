@@ -10,8 +10,8 @@ author: mallouestan
 
 related:
   next: false
-  previous: 
-    link: /r/philosophie-une-cohabitation-avec-le-sauvage
+  previous:
+    link: /r/philosophie-objectifs-une-cohabitation-avec-le-sauvage
 ---
 
 ### Les techniques autoritaires
