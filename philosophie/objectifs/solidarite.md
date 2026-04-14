@@ -7,6 +7,13 @@ tags:
   - vision
 image: /images/activities/basket-making.jpg
 author: mallouestan
+
+page-navigation:
+  next:
+    message: Lire la suite
+    link: /r/philosophie-objectifs-solidarite
+  previous: 
+    link: /r/philosophie-objectifs-mutualisation-privileges
 ---
 
 ### Avant propos
