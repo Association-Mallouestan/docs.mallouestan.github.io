@@ -7,6 +7,11 @@ tags:
   - vision
 image: /images/alternatives.jpg
 author: mallouestan
+
+page-navigation:
+  next: false
+  previous: 
+    link: /r/philosophie-une-cohabitation-avec-le-sauvage
 ---
 
 ### Les techniques autoritaires

@@ -7,6 +7,13 @@ tags:
   - vision
 image: /images/ressources/objectifs/vie-saine.jpg
 author: mallouestan
+
+page-navigation:
+  next:
+    message: Lire la suite
+    link: /r/philosophie-objectifs-recherche-transmission
+  previous: 
+    link: /r/philosophie-objectifs-convivialite
 ---
 
 ### Pour une culture de soin, de santé physique et mentale, ainsi qu’une vie épanouissante

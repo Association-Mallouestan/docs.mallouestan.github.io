@@ -7,6 +7,13 @@ tags:
   - vision
 image: /images/ressources/objectifs/culture.jpg
 author: mallouestan
+
+page-navigation:
+  next:
+    message: Lire la suite
+    link: /r/philosophie-objectifs-une-cohabitation-avec-le-sauvage
+  previous: 
+    link: /r/philosophie-objectifs-recherche-transmission
 ---
 
 ### Fuire la culture dominante sans s’y fermer complètement

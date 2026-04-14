@@ -7,6 +7,13 @@ tags:
   - vision
 image: /images/ressources/pic-noir-groupe.webp
 author: mallouestan
+
+page-navigation:
+  next:
+    message: Lire la suite
+    link: /r/philosophie-objectifs-vie-saine-et-enviable
+  previous: 
+    link: /r/philosophie-objectifs-mutualisation-privileges
 ---
 
 ### Un vivre ensemble non-individualiste
