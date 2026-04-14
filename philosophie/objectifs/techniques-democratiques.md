@@ -8,7 +8,7 @@ tags:
 image: /images/alternatives.jpg
 author: mallouestan
 
-page-navigation:
+related:
   next: false
   previous: 
     link: /r/philosophie-une-cohabitation-avec-le-sauvage

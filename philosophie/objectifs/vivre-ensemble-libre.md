@@ -8,7 +8,7 @@ tags:
 image: /images/ressources/partage-2.jpg
 author: mallouestan
 
-page-navigation:
+related:
   next:
     message: Lire la suite
     link: /r/philosophie-objectifs-solidarite

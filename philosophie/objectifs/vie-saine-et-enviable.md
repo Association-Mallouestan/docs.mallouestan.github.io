@@ -8,7 +8,7 @@ tags:
 image: /images/ressources/objectifs/vie-saine.jpg
 author: mallouestan
 
-page-navigation:
+related:
   next:
     message: Lire la suite
     link: /r/philosophie-objectifs-recherche-transmission

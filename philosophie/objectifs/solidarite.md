@@ -8,7 +8,7 @@ tags:
 image: /images/activities/basket-making.jpg
 author: mallouestan
 
-page-navigation:
+related:
   next:
     message: Lire la suite
     link: /r/philosophie-objectifs-mutualisation-privileges

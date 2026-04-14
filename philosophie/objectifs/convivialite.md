@@ -8,7 +8,7 @@ tags:
 image: /images/ressources/pic-noir-groupe.webp
 author: mallouestan
 
-page-navigation:
+related:
   next:
     message: Lire la suite
     link: /r/philosophie-objectifs-vie-saine-et-enviable

@@ -8,7 +8,7 @@ tags:
 image: /images/ressources/objectifs/culture.jpg
 author: mallouestan
 
-page-navigation:
+related:
   next:
     message: Lire la suite
     link: /r/philosophie-objectifs-une-cohabitation-avec-le-sauvage
