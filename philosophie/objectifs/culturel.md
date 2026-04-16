@@ -14,6 +14,8 @@ related:
     link: /r/philosophie-objectifs-une-cohabitation-avec-le-sauvage
   previous: 
     link: /r/philosophie-objectifs-recherche-transmission
+
+playlist: true
 ---
 
 ### Fuire la culture dominante sans s’y fermer complètement
