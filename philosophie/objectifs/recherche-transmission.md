@@ -14,6 +14,10 @@ related:
     link: /r/philosophie-objectifs-culturel
   previous: 
     link: /r/philosophie-objectifs-vie-saine-et-enviable
+
+playlist: 
+  - objectifs
+  - vision
 ---
 
 ### Le besoin d’expérimenter

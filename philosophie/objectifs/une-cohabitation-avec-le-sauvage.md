@@ -14,6 +14,10 @@ related:
     link: /r/philosophie-objectifs-techniques-democratiques
   previous: 
     link: /r/philosophie-objectifs-culturel
+
+playlist: 
+  - objectifs
+  - vision
 ---
 
 ### Une approche non-anthropocentrée

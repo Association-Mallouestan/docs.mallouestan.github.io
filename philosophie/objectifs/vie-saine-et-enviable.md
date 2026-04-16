@@ -14,6 +14,10 @@ related:
     link: /r/philosophie-objectifs-recherche-transmission
   previous: 
     link: /r/philosophie-objectifs-convivialite
+
+playlist: 
+  - objectifs
+  - vision
 ---
 
 ### Pour une culture de soin, de santé physique et mentale, ainsi qu’une vie épanouissante

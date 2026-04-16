@@ -14,6 +14,10 @@ related:
     link: /r/philosophie-objectifs-convivialite
   previous: 
     link: /r/philosophie-objectifs-solidarite
+
+playlist: 
+  - objectifs
+  - vision
 ---
 ### Contre la propriété privée
 

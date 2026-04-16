@@ -12,6 +12,10 @@ related:
   next: false
   previous:
     link: /r/philosophie-objectifs-une-cohabitation-avec-le-sauvage
+
+playlist: 
+  - objectifs
+  - vision
 ---
 
 ### Les techniques autoritaires

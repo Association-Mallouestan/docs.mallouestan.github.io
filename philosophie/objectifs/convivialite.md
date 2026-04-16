@@ -14,6 +14,10 @@ related:
     link: /r/philosophie-objectifs-vie-saine-et-enviable
   previous: 
     link: /r/philosophie-objectifs-mutualisation-privileges
+
+playlist: 
+  - objectifs
+  - vision
 ---
 
 ### Un vivre ensemble non-individualiste

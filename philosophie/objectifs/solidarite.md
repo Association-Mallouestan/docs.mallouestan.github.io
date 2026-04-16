@@ -14,6 +14,10 @@ related:
     link: /r/philosophie-objectifs-mutualisation-privileges
   previous: 
     link: /r/philosophie-objectifs-vivre-ensemble-libre
+
+playlist: 
+  - objectifs
+  - vision
 ---
 
 ### Avant propos
