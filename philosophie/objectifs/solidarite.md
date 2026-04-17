@@ -16,8 +16,10 @@ related:
     link: /r/philosophie-objectifs-vivre-ensemble-libre
 
 playlist: 
-  - objectifs
-  - vision
+  name: Nos objectifs
+  by_tag:
+    - objectifs
+    - vision
 ---
 
 ### Avant propos

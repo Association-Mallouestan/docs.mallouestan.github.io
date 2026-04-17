@@ -10,8 +10,10 @@ image: /images/ressources/galaxy.jpg
 author: mallouestan
 
 playlist: 
-  - fondamentaux
-  - vision
+  name: Textes théoriques
+  by_tag:
+    - fondamentaux
+    - vision
 ---
 
 ## Avant-propos

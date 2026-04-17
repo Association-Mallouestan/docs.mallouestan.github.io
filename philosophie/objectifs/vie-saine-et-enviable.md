@@ -16,8 +16,10 @@ related:
     link: /r/philosophie-objectifs-convivialite
 
 playlist: 
-  - objectifs
-  - vision
+  name: Nos objectifs
+  by_tag:
+    - objectifs
+    - vision
 ---
 
 ### Pour une culture de soin, de santé physique et mentale, ainsi qu’une vie épanouissante

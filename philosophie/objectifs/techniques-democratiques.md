@@ -14,8 +14,10 @@ related:
     link: /r/philosophie-objectifs-une-cohabitation-avec-le-sauvage
 
 playlist: 
-  - objectifs
-  - vision
+  name: Nos objectifs
+  by_tag:
+    - objectifs
+    - vision
 ---
 
 ### Les techniques autoritaires

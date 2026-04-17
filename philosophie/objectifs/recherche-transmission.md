@@ -16,8 +16,10 @@ related:
     link: /r/philosophie-objectifs-vie-saine-et-enviable
 
 playlist: 
-  - objectifs
-  - vision
+  name: Nos objectifs
+  by_tag:
+    - objectifs
+    - vision
 ---
 
 ### Le besoin d’expérimenter

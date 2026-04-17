@@ -16,8 +16,10 @@ related:
     link: /r/philosophie-objectifs-recherche-transmission
 
 playlist: 
-  - objectifs
-  - vision
+  name: Nos objectifs
+  by_tag:
+    - objectifs
+    - vision
 ---
 
 ### Fuire la culture dominante sans s’y fermer complètement

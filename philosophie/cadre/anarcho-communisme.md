@@ -9,8 +9,11 @@ image: /images/ressources/picnoir.jpg
 author: mallouestan
 
 playlist: 
-  - fondamentaux
-  - vision
+  name: Textes théoriques
+  by_tag:
+    - fondamentaux
+    - vision
+  
 ---
 
 ## Avant propos

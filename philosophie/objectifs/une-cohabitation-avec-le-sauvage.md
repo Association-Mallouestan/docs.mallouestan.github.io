@@ -16,8 +16,10 @@ related:
     link: /r/philosophie-objectifs-culturel
 
 playlist: 
-  - objectifs
-  - vision
+  name: Nos objectifs
+  by_tag:
+    - objectifs
+    - vision
 ---
 
 ### Une approche non-anthropocentrée
