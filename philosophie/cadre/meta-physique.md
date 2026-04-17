@@ -8,6 +8,10 @@ tags:
   - vision
 image: /images/ressources/galaxy.jpg
 author: mallouestan
+
+playlist: 
+  - fondamentaux
+  - vision
 ---
 
 ## Avant-propos

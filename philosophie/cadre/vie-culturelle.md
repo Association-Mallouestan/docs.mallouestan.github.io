@@ -2,7 +2,7 @@
 title: Vie culturelle  
 date: 2025-06-24 02:00:00
 tags:
-  - fondamentaux
+  - specifique
   - vision
 image: /images/ressources/guide.jpg
 author: mallouestan

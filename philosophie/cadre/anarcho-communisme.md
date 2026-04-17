@@ -7,6 +7,10 @@ tags:
   - vision
 image: /images/ressources/picnoir.jpg
 author: mallouestan
+
+playlist: 
+  - fondamentaux
+  - vision
 ---
 
 ## Avant propos

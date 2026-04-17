@@ -13,6 +13,10 @@ message:
   content: C'est tout nouveau
   icon: flame
   color: 218380
+
+playlist: 
+  - fondamentaux
+  - vision
 ---
 
 ## Avant-propos 
