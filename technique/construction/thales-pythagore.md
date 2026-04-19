@@ -1,11 +1,13 @@
 ---
 date: 2025-03-02 2:00:00
 title: Thales et pythagore
-description: Apprendre ces outils fondamentaux
+description: Apprendre ces outils mathématique fondamentaux
 tags:
   - techniques
   - construction
-image: /images/events/noeud-coeur.jpg
+folders:
+  - charpente-4j-debutant-e
+image: /images/technique/construction/thales.svg
 author: mallouestan
 math: true
 ---
@@ -14,9 +16,9 @@ math: true
 
 ### Thales
 
-![triangle rectangle](./images/schema-thales.jpg)
+![schema de base thales](/images/technique/construction/thales.svg)
 
-Le theorem de thales énonce que:
+Le théorème de Thales énonce que:
 
 \\({DE \over BC} ={ AE \over AC} = {AD \over AB}\\)
 
@@ -24,11 +26,11 @@ Super ça! À quoi cela nous sert ?
 
 Dans le cas d'une maison/abri comme ci dessous:
 
-![triangle rectangle](./images/usecase-notannoted.jpg)
+![triangle rectangle](/images/technique/construction/thales-exemple.svg)
 
 Nous voulons rajouter un faux plafond dans le but d'isoler. Nous voulons calculer la longueur de la planche/chevron/(etc) nécessaire. Nous pouvons annoter comme suit:
 
-![triangle rectangle](./images/usecase-annoted.jpg)
+![triangle rectangle](/images/technique/construction/thales-exemple-annoted.svg)
 
 Nous cherchons a calculer la longueur DE. Thales nous permet de faire ce qui suit:
 
@@ -43,7 +45,7 @@ $$
 
 ### Pythagore
 
-![triangle rectangle](./images/trianglerectangleABC.jpg)
+![triangle rectangle](/images/technique/construction/triangle-rectangle.svg)
 
 Le théorème de Pythagore énnonce:
 
@@ -55,7 +57,7 @@ BC étant l'hypothénuse. Soit le carré de l'hypothénuse est égale à la somm
 
 Pour celle et ceux qui détestent des formules sortant de nulle part, ci dessous est la preuve visuel de ce théoreme.
 
-![visual proof pythagore](./images/pythagore-visualproof.jpg)
+![visual proof pythagore](/images/technique/construction/pythagore-visual.svg)
 
 > Dans (1) nous avons un carré de coté a+b contenant 4 triangles abc. Ces triangles forment un carré inscrit de coté c. Autrement dit, l'aire restant sans les triangle est égale à c<sup>2</sup>.
 
@@ -65,9 +67,9 @@ Pour celle et ceux qui détestent des formules sortant de nulle part, ci dessous
 
 Voici comment ce théorème peut nous être utile dans le cas vus ci-dessus.
 
-![triangle rectangle](./images/usecase-annoted.jpg)
+![triangle rectangle](/images/technique/construction/pythagore-exemple.svg)
 
-Le faux plafond maintenant installé nous souhaitons calculer la superficie de lambris à poser sous les combles. Imaginons un triangle en projetant E sur BC. Autrement dit un point que l'on peut nommer E' sur BC et où E'E est perpendiculaire avec BC.
+Le faux plafond maintenant installé nous souhaitons calculer la superficie de lambris à poser sous les combles soit EC. Imaginons un triangle en projetant E sur BC. Autrement dit un point que l'on peut nommer E' sur BC et où E'E est perpendiculaire avec BC.
 
 $$
 \begin{aligned}
