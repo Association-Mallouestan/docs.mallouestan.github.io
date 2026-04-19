@@ -1,4 +1,14 @@
-> [Accueil](../../) > [Portail technique](../) > [Portail construction](./) > Thales et pythagore
+---
+date: 2025-03-02 2:00:00
+title: Thales et pythagore
+description: Apprendre ces outils fondamentaux
+tags:
+  - techniques
+  - construction
+image: /images/events/noeud-coeur.jpg
+author: mallouestan
+math: true
+---
 
 ## Thales et pythagore
 
@@ -8,9 +18,7 @@
 
 Le theorem de thales énonce que:
 
-```
-DE/BC=AE/AC=AD/AB
-```
+$$DE/BC=AE/AC=AD/AB$$
 
 Super ça! À quoi cela nous sert ?
 
