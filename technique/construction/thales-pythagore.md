@@ -18,7 +18,7 @@ math: true
 
 Le theorem de thales énonce que:
 
-$$DE/BC=AE/AC=AD/AB$$
+\\({DE \over BC} ={ AE \over AC} = {AD \over AB}\\)
 
 Super ça! À quoi cela nous sert ?
 
@@ -32,12 +32,14 @@ Nous voulons rajouter un faux plafond dans le but d'isoler. Nous voulons calcule
 
 Nous cherchons a calculer la longueur DE. Thales nous permet de faire ce qui suit:
 
-```
-DE/BC=AD/AB
-DE=BC.AD/AB
-DE=4*1/3
-soit environ 1,333 m
-```
+$$
+\begin{aligned}
+{DE \over BC} &= {AD \over AB} \\
+DE &= BC \cdot {AD \over AB} \\
+DE &= 4 \cdot {1 \over 3} \\
+&\text{soit environ 1,333 m}
+\end{aligned}
+$$
 
 ### Pythagore
 
@@ -45,7 +47,9 @@ soit environ 1,333 m
 
 Le théorème de Pythagore énnonce:
 
-AB<sup>2</sup>+AC<sup>2</sup>=BC<sup>2</sup>
+$$
+AB^2+AC^2=BC^2
+$$
 
 BC étant l'hypothénuse. Soit le carré de l'hypothénuse est égale à la somme des carrés des deux autres cotés.
 
@@ -65,14 +69,16 @@ Voici comment ce théorème peut nous être utile dans le cas vus ci-dessus.
 
 Le faux plafond maintenant installé nous souhaitons calculer la superficie de lambris à poser sous les combles. Imaginons un triangle en projetant E sur BC. Autrement dit un point que l'on peut nommer E' sur BC et où E'E est perpendiculaire avec BC.
 
-```
-E'E = BD = 2
-E'C = BC - DE = 4 - 4/3 soit environ 2,666
-Appliquons le théorème de pythagore pour trouver EC
-EC² = E'E² + E'C²
-EC² = 2²+2,666² = 11,11
-Nous cherchons EC et non EC² donc
-EC = √(EC²) = √11,11 = 3,333
-```
+$$
+\begin{aligned}
+E'E &= BD = 2 \\
+E'C &= BC - DE = 4 - \frac{4}{3} \text{ soit environ } 2.666 \\
+&\text{Appliquons le théorème de Pythagore pour trouver } EC \\
+EC^2 &= E'E^2 + E'C^2 \\
+EC^2 &= 2^2 + 2.666^2 = 11.11 \\
+&\text{Nous cherchons } EC \text{ et non } EC^2 \text{ donc} \\
+EC &= \sqrt{EC^2} = \sqrt{11.11} \approx 3.333
+\end{aligned}
+$$
 
 EC est donc égale à 3,333. Si notre abris est long (ou profond) de 5m il nous faudras 3,333*5 m² de lambris, soit 16,66m²
