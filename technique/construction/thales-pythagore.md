@@ -18,7 +18,7 @@ math: true
 
 Le theorem de thales énonce que:
 
-$$DE/BC=AE/AC=AD/AB$$
+\\(DE \over BC = AE \over AC = AD \over AB)
 
 Super ça! À quoi cela nous sert ?
 
