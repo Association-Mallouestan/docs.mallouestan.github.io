@@ -18,9 +18,13 @@ math: true
 
 ![schema de base thales](/images/technique/construction/thales.svg)
 
-Le théorème de Thales énonce que:
+Le théorème de Thales énonce que dans le cas çi dessus, les segments DE, AE et AD sont proportionnels respectivement aux segments BC, AC et AB. Autrement dit:
 
 \\({DE \over BC} ={ AE \over AC} = {AD \over AB}\\)
+
+Ce théorème fonctionne quand les droites (DE) et (BC) sont parallèles. Il est important de noter que ce théorème est valable pour n'importe quelle figure, pas seulement pour les triangles rectangles.
+
+---
 
 Super ça! À quoi cela nous sert ?
 
@@ -61,15 +65,15 @@ Pour celle et ceux qui détestent des formules sortant de nulle part, ci dessous
 
 > Dans (1) nous avons un carré de coté a+b contenant 4 triangles abc. Ces triangles forment un carré inscrit de coté c. Autrement dit, l'aire restant sans les triangle est égale à c<sup>2</sup>.
 
-> Dans (2) nous réarangeons les triangles sans changer leur taille, de fait sans changer la quantité de place qu'ils occupent. L'air restant ne change donc pas et reste égale à c<sup>2</sup>.
+> Dans (2) nous réarangeons les triangles sans changer leur taille, de fait sans changer la quantité de place qu'ils occupent. L'aire restant ne change donc pas et reste égale à c<sup>2</sup>.
 
-> Ce réarangement permet également de voir que l'air restant égale a c<sup>2</sup> est composé de deux autres carré respectivement de coté a et b. Nous observons donc que c<sup>2</sup> équivaut effectivement à a<sup>2</sup> + b<sup>2</sup> 
+> Ce réarangement permet également de voir que l'aire restant égale a c<sup>2</sup> est composé de deux autres carré respectivement de coté a et b. Nous observons donc que c<sup>2</sup> équivaut effectivement à a<sup>2</sup> + b<sup>2</sup> 
 
 Voici comment ce théorème peut nous être utile dans le cas vus ci-dessus.
 
 ![triangle rectangle](/images/technique/construction/pythagore-exemple.svg)
 
-Le faux plafond maintenant installé nous souhaitons calculer la superficie de lambris à poser sous les combles soit EC. Imaginons un triangle en projetant E sur BC. Autrement dit un point que l'on peut nommer E' sur BC et où E'E est perpendiculaire avec BC.
+Le faux plafond maintenant installé nous souhaitons calculer la superficie de lambris à poser sous les combles soit EC x la longueur de la maison. Imaginons un triangle en projetant E sur BC. Autrement dit un point que l'on peut nommer E' sur BC et où E'E est perpendiculaire avec BC.
 
 $$
 \begin{aligned}
@@ -83,4 +87,4 @@ EC &= \sqrt{EC^2} = \sqrt{11.11} \approx 3.333
 \end{aligned}
 $$
 
-EC est donc égale à 3,333. Si notre abris est long (ou profond) de 5m il nous faudras 3,333*5 m² de lambris, soit 16,66m²
+EC est donc égale à 3,333. Si notre abris est long (ou profond) de 5m il nous faudras 3,333*5 m de lambris, soit 16,66m²
