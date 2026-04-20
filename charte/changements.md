@@ -10,6 +10,12 @@ author: mallouestan
 
 ## Registre de changements de la charte
 
+### 20 avril 2026 (Majeur)
+
+- Mise à jour de la liste d'objectifs
+- Redéfination de violence dans les prérequis
+- Clarification des ultimatums par défaut
+
 ### 28 juillet 2025 (Majeur)
 
 1. Ajout des directives BALEEZ cadrant les matériaux et les pratiques de construction sur le lieu
