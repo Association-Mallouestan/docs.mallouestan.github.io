@@ -41,9 +41,7 @@ Passez un 1er bâton fendu autour d'un 1er bâton non fendu à l'aide de votre c
 
 ![passage 1er bâton](./images/FC12.jpg)
 
-Tordez les 4 brins restant. Vous pouvez appuyer sur votre genou par à-coups sans trop forcer, mais le mieux reste de les assouplir en les frottant sur votre genou sur la longueur (de gauche à droite sur la photo), tout en maintenant une torsion.
-
-![torsion bâton](./images/FC8.jpg)
+Tordez les 4 brins restant. Vous pouvez appuyer sur votre genou par à-coups sans trop forcer, mais le mieux reste de les assouplir en les frottant sur votre genou sur la longueur.
 
 Fendez les 2 autres plus gros bâtons et passez-les autour du 1er bâton non fendu, donc parallèles au 1er bâton fendu.
 
@@ -57,9 +55,11 @@ Tordez les 4 bâtons extérieurs autant que faire se peut sans les casser. Le bu
 
 ### Le début du tressage (faire un carré autour du centre)
 
-Prenez les 2 brins les plus fins - et idéalement les plus longs - de votre récolte. N'hésitez pas à les assouplir en les frottant sur votre genou comme expliqué plus haut pour les bâtons.
+Prenez les 2 brins les plus fins de votre récolte. Ils doivent être assez longs. N'hésitez pas à les assouplir en les frottant sur votre genou comme expliqué plus haut pour les bâtons.
 
-⚠️ Si vous utilisez de la ronce, veillez à les épépiner [enlever les épines, qui sont en fait des aiguillons au sens botanique]. Pour cela, se référer à notre ressource technique qui en parle : (à paraître prochainement)
+⚠️ Si vous utilisez de la ronce, veillez à les épépiner [enlever les épines, qui sont en fait des aiguillons au sens botanique]. Le plus simple est de le faire avec le dos du couteau (comme sur le photo), mais vous pouvez aussi le faire avec la lame posée à plat sur la ronce et couper les aiguillons. La première méthode a l'avantage d'être moins risquée et vous pouvez faire des va-et-vient rapides et forts sur la ronce sans risquer de la couper. La deuxième méthode requiert plus d'attention.
+
+![épépiner les ronces](./images/FC17.jpg)
 
 ⚠️ Si vous utilisez des matériaux trop gros ou cassants, vous pouvez fendre les brins voire les transformer en éclisses. Pour cela, se référer à notre ressource technique qui en parle : (à paraître prochainement)
 
@@ -69,19 +69,17 @@ Fichez les cimes (les extrémités les plus fines de votre brin) dans l'une des 
 
 Faites passer un premier brin par dessus les trois bâtons 
 
-(photo)
+![passage 1er brin](./images/FC19.jpg)
 
 Prenez le deuxième brin et faites-le passer par-dessous ces 3 bâtons et par dessus les 3 bâtons qui suivent
 
-(photo)
+![passage 2e brin](./images/FC20.jpg)
 
 Reprenez le 1er brin et passez-le sous les 3 bâtons, puis par-dessus les 3 bâtons suivants.
 
-(photo)
+![suite tressage carré de base](./images/FC21.jpg)
 
 Et ainsi de suite jusqu'à avoir effectué 3 tours.
-
-(photo)
 
 😉 Astuce : le secret d'une vannerie bien faite, c'est de serrer ! Il faut serrer dans le sens du brin, ainsi que vers l'intérieur de votre fond croisé. 
 
@@ -89,27 +87,25 @@ Et ainsi de suite jusqu'à avoir effectué 3 tours.
 
 Continuez ensuite ce tressage, mais cette fois-ci autour de 1 bâton à la fois et non pas 3.
 
-(photo)
+![passage brin autour 1 bâton](./images/FC22.jpg)
 
 🧐 Remarque : vous êtes en train de réaliser un tressage "en super". Il donne cette impression de croisement entre les brins, contrairement à d'autres types de tressage comme celui "à brin perdu" (aussi appelé "à brin suivi") ou "en crocane". C'est un tressage qui a son esthétique et qui est surtout solide, recommandé entre autre pour la réalisation des fonds croisés. Pour des exemples de tressage "à brin perdu/suivi" ou "en crocane", voir ces ressources techniques : (lien) et (lien).
 
 Petit à petit, continuez d'écarter vos bâtons.
 
-😉 Astuce : une bonne chose à faire, surtout quand vous faites le fond d'une corbeille ou d'un panier, consiste à bomber votre structure. Elle sera ainsi plus stable et sera moins impactée par les verres d'eau renversés et autre sources de dommages venus d'en bas. Il vous faudra seulement remplacer les brins extérieurs et nons pas tous les brins!
+😉 Astuce : une bonne chose à faire, surtout quand vous faites le fond d'une corbeille ou d'un panier, contrairement à un dessous de plat, consiste à bomber votre structure sur votre genou. Votre fond croisé sera ainsi plus résistant à la force qu'exerceront les montants, qui auront tendance à bomber la structure vers le bas.
 
 #### Le raboutage
 
 😖 Aïe, vous arrivez à la fin de votre brin !
 
-Pas de panique, on peut tout à fait continuer à tresser. Pour ce faire, prenez un brin de votre récolte et aposez-le contre la fin de votre brin. En toute logique, vous êtes arrivé au pied du brin que vous venez de finir de tresser, c'est-à-dire à la partie la plus épaisse du brin. Il vous faut donc rabouter pied sur pied, ce qui signifie recommencer le tressage par la partie la plus épaisse de votre nouveau brin.
+Pas de panique, on peut tout à fait continuer à tresser. Pour ce faire, prenez un brin de votre récolte et aposez-le contre la fin de votre brin. C'est tout ! Il vous suffit de tresser avec ces nouveaux brins comme si de rien n'était, tout en les maintenant pour avant la fin du premier tour pour ne pas qu'ils s'échappent.
 
-😉 Astuce : Il est possible de rabouter cime contre pied, c'est-à-dire d'aposer la partie la plus fine de votre nouveau brin sur la partie la plus épaisse du brin précédent. Vous aurez simplement un effet discontinu de votre tressage, comme une rupture, mais cela peut vous aider dans certaines situations, par exemple, quand vos brins ont tendance à casser et que vous tressez avec peu d'espace entre les bâtons (ce qui peut arriver au début du tressage notamment).
+En toute logique, vous êtes arrivé au pied du brin que vous venez de finir de tresser, c'est-à-dire à la partie la plus épaisse du brin. Il vous faut donc rabouter pied sur pied, ce qui signifie recommencer le tressage par la partie la plus épaisse de votre nouveau brin.
 
-(photos comparatives et description des situations)
+😉 Astuce : Il est possible de rabouter cime contre pied, c'est-à-dire d'aposer la partie la plus fine de votre nouveau brin sur la partie la plus épaisse du brin précédent. Vous aurez simplement un effet discontinu de votre tressage, comme une rupture, mais cela peut vous aider dans certaines situations, par exemple, quand vos brins ont tendance à casser ou qu'ils sont très gros et que vous tressez avec peu d'espace entre les bâtons (ce qui peut arriver au début du tressage notamment).
 
-Pour vos prochains raboutages, vous pouvez ficher les brins dans les interstices le long des bâtons. Cela vous facilitera le travail car vous n'aurez pas à les maintenir.
-
-(photo)
+![raboutage](./images/FC23.jpg)
 
 😉 Astuce : faites en sortes que les parties en trop qui dépassent soient toutes du même côté. La dernière étape consiste à les couper et votre fond croisé sera plus beau d'un côté que de l'autre : ce sera la partie visible.
 
@@ -117,11 +113,11 @@ Pour vos prochains raboutages, vous pouvez ficher les brins dans les interstices
 
 Pour finir votre fond croisé, fichez les derniers brins dans les interstices le long des bâtons.
 
-(photo)
+![fin tressage](./images/FC24.jpg)
 
 ### Epluchage
 
-L'épluchage consiste à enlever les parties non voulues dûes qui résultent du travail de l'ouvrage. On coupe ainsi les parties trop longues des bâtons, les parties de brins qui dépassent, les fibres qui s'effilochent.
+L'épluchage consiste à enlever les parties non voulues qui résultent du travail de l'ouvrage. On coupe ainsi les parties trop longues des bâtons, les parties de brins qui dépassent, les fibres qui s'effilochent.
 
 🥳 Bravo ! Vous avez réalisé un fond croisé !
 
