@@ -1,12 +1,14 @@
 # Mise en place des montants
 
-Si vous en êtes là, c'est probablement que vous avez déjà fait votre fond croisé (lien)
+Si vous en êtes là, c'est probablement que vous avez déjà fait votre fond croisé.
 
 La suite pour réaliser un panier ou une corbeille consiste à mettre en place les montants. C'est ce que nous allons voir dans cette ressource technique.
 
 Il y a 2 étapes.
 
-## Piquage des montants
+## Réalisation
+
+Le matériau utilisé ici est de l'osier. C'est un matériau idéal pour ce type de vannerie. L'usage de cornouiller, de saule sauvage ou de noisetier est possible, mais ils peuvent vous demander plus de travail d'assouplissement ou même de fente des brins en 2.
 
 Sélectionnez soit 12, soit 24 brins parmi les plus gros de votre récolte.
 
@@ -15,6 +17,9 @@ Sélectionnez soit 12, soit 24 brins parmi les plus gros de votre récolte.
 -Utiliser 24 brins aura pour avantage de rendre votre tressage plus serré et donc de rendre votre panier plus solide. Utiliser 12 brin est une bonne idée si vous débutez, si vous avez peu de matériau à disposition, si vous n'avez pas besoin d'une grande solidité ou un fond à petit diamètre. 
 
 -La raison de prendre parmi les plus gros brins pour les montants est que l'une des règles d'or de la vannerie est de toujours faire en sorte que le squelette de votre ouvrage (ici les montants) soit plus "fort" que les brins avec lesquels vous allez tresser.
+
+
+## Piquage des montants
 
 Taillez vos brins en biseau à la base. Cela servira à les faire rentrer plus facilement et plus loin dans votre fond croisé.
 
