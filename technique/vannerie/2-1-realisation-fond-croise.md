@@ -5,31 +5,23 @@
 Le fond croisé est une technique incontounable pour réaliser de nombreux types d'ouvrages.
 On le trouve en effet dans la plupart des corbeilles et des paniers que l'on peut réaliser.
 
-(mettre des photos)
-
 Mais le fond croisé peut servir en tant que tel, par exemple, comme dessous de plat.
-
-(photo)
 
 ## Réalisation
 
 La réalisation du fond croisé se fait en 5 étapes.
 
-Vous aurez besoin d'un couteau (pas besoin d'un aiguisage de rasoir, minimisez les risques de blessure quand vous n'en avez pas besoin), d'un sécateur et éventuellement d'un poinçon ou d'un tournevis.
+Vous aurez besoin d'un couteau (pas besoin d'un aiguisage rasoir, vous n'aurez pas à couper véritablement), d'un sécateur et éventuellement d'un poinçon (un tournevis ou un gros clou fera l'affaire)
 
 ### Faire une croix avec 6 brins de grosse taille
 
-Ici, le matériaux utilisé n'est pas de grande importance. Certaines essences sont préférables pour des critères de torsion, de durabilité, de solidité, de résistance à la fente, mais beaucoup d'essences remplissent ces critères. Pour aller au plus simple, prenez du cornouiller, du saule ou du noisetier, si on veut rester dans des espèces fréquentes.
+Ici, le matériau utilisé n'est pas de grande importance. Certaines essences sont préférables pour des critères de torsion, de durabilité, de solidité, de résistance à la fente, mais beaucoup d'essences remplissent ces critères. Pour aller au plus simple, prenez du cornouiller, du saule ou du noisetier, si on veut rester dans des espèces fréquentes.
 
-Prenez les 6 bâtons les plus gros de votre récolte. Pour cela, coupez 6 sections au niveau des pieds de vos branches, c'est-à-dire en bas de vos branches, là où elles sont les plus grosses. Ils peuvent provenir en tout ou en partie d'une même branche. 
+Coupez 6 sections de branches de la même taille et à peu près du même diamètre. Ils peuvent provenir d'une même branche. 
 
 ![récolte et outils](./images/FC8.jpg)
 
-😉 Astuce : leur longueur doit être de quelques centimètres de plus que le diamètre visé pour votre ouvrage, ceci afin que vos brins utilisés pour tresser ne cherchent pas à partir lorsque vous arriverez à la fin du tressage.
-
 Fendez dans le milieu le plus gros bâton.
-
-![fente bâton 1](./images/FC9.jpg)
 
 ![fente bâton 2](./images/FC10.jpg)
 
@@ -43,13 +35,15 @@ Passez un 1er bâton fendu autour d'un 1er bâton non fendu à l'aide de votre c
 
 Tordez les 4 brins restant. Vous pouvez appuyer sur votre genou par à-coups sans trop forcer, mais le mieux reste de les assouplir en les frottant sur votre genou sur la longueur.
 
+![torsion bâton](./images/FC07.jpg)
+
 Fendez les 2 autres plus gros bâtons et passez-les autour du 1er bâton non fendu, donc parallèles au 1er bâton fendu.
 
 Passez ensuite vos 2 bâtons restant dans les fentes des 3 bâtons, de part et d'autre du 1er bâton non fendu.
 
 ![croisé](./images/FC14.jpg)
 
-Tordez les 4 bâtons extérieurs autant que faire se peut sans les casser. Le but, idéalement, est d'arriver à réaliser un "soleil" en faisant en sorte que les angles entre les bâtons soient les mêmes. En fonction de la souplesse, vous n'y arriverez peut-être pas parfaitement, mais pas de panique, on peut élargir les écarts entre les bâtons au moment du tressage !
+Tordez les 4 bâtons extérieurs autant que faire se peut sans les casser. Le but, idéalement, est d'arriver à réaliser un "soleil" en faisant en sorte que les angles entre les bâtons soient les mêmes. En fonction de la souplesse, vous n'y arriverez peut-être pas parfaitement, mais pas de panique, on peut élargir un peu les écarts entre les bâtons au moment du tressage !
 
 😉 Astuce : si l'un des bâtons ou plusieurs casse(nt) partiellement mais pas complètement (qu'ils sont toujours en un morceau et pas deux), vous pouvez toujours les utiliser pour réaliser votre fond croisé. Il sera seulement moins solide et moins esthétique.
 
@@ -61,7 +55,7 @@ Prenez les 2 brins les plus fins de votre récolte. Ils doivent être assez long
 
 ![épépiner les ronces](./images/FC17.jpg)
 
-⚠️ Si vous utilisez des matériaux trop gros ou cassants, vous pouvez fendre les brins voire les transformer en éclisses. Pour cela, se référer à notre ressource technique qui en parle : (à paraître prochainement)
+⚠️ Si vous utilisez des matériaux trop gros ou cassants, vous pouvez fendre les brins voire les transformer en éclisses. Pour cela, se référer à notre ressource technique qui en parle : (à paraître prochainement).
 
 Fichez les cimes (les extrémités les plus fines de votre brin) dans l'une des fentes de votre croix.
 
@@ -89,17 +83,19 @@ Continuez ensuite ce tressage, mais cette fois-ci autour de 1 bâton à la fois 
 
 ![passage brin autour 1 bâton](./images/FC22.jpg)
 
-🧐 Remarque : vous êtes en train de réaliser un tressage "en super". Il donne cette impression de croisement entre les brins, contrairement à d'autres types de tressage comme celui "à brin perdu" (aussi appelé "à brin suivi") ou "en crocane". C'est un tressage qui a son esthétique et qui est surtout solide, recommandé entre autre pour la réalisation des fonds croisés. Pour des exemples de tressage "à brin perdu/suivi" ou "en crocane", voir ces ressources techniques : (lien) et (lien).
+![passage brin autour 2e bâton](./images/FC06.jpg)
+
+🧐 Remarque : vous êtes en train de réaliser un tressage "en super". Il donne cette impression de croisement entre les brins, contrairement à d'autres types de tressage comme celui "à brin perdu" (aussi appelé "à brin suivi") ou "en crocane". C'est un tressage qui a son esthétique et qui est surtout solide, recommandé entre autre pour la réalisation des fonds croisés. Pour des exemples de tressage "à brin perdu/suivi" ou "en crocane", voir les ressources techniques correspondantes (à paraître)
 
 Petit à petit, continuez d'écarter vos bâtons.
 
-😉 Astuce : une bonne chose à faire, surtout quand vous faites le fond d'une corbeille ou d'un panier, contrairement à un dessous de plat, consiste à bomber votre structure sur votre genou. Votre fond croisé sera ainsi plus résistant à la force qu'exerceront les montants, qui auront tendance à bomber la structure vers le bas.
+😉 Astuce : une bonne chose à faire, surtout quand vous faites le fond d'une corbeille ou d'un panier, contrairement à un dessous de plat, consiste à bomber votre structure vers le haut sur votre genou. Votre fond croisé sera ainsi plus résistant à la force qu'exerceront les montants, qui auront tendance à bomber la structure vers le bas.
 
 #### Le raboutage
 
 😖 Aïe, vous arrivez à la fin de votre brin !
 
-Pas de panique, on peut tout à fait continuer à tresser. Pour ce faire, prenez un brin de votre récolte et aposez-le contre la fin de votre brin. C'est tout ! Il vous suffit de tresser avec ces nouveaux brins comme si de rien n'était, tout en les maintenant pour avant la fin du premier tour pour ne pas qu'ils s'échappent.
+Pas de panique, on peut tout à fait continuer à tresser. Pour ce faire, prenez un brin de votre récolte et aposez-le contre la fin de votre brin. C'est tout ! Il vous suffit de tresser avec ces nouveaux brins comme si de rien n'était, tout en les maintenant pour ne pas qu'ils s'échappent. Ils seront ensuite conincés quand vous aurez réalisé votre premier tour avec ces nouveaux brins.
 
 En toute logique, vous êtes arrivé au pied du brin que vous venez de finir de tresser, c'est-à-dire à la partie la plus épaisse du brin. Il vous faut donc rabouter pied sur pied, ce qui signifie recommencer le tressage par la partie la plus épaisse de votre nouveau brin.
 
@@ -107,7 +103,7 @@ En toute logique, vous êtes arrivé au pied du brin que vous venez de finir de 
 
 ![raboutage](./images/FC23.jpg)
 
-😉 Astuce : faites en sortes que les parties en trop qui dépassent soient toutes du même côté. La dernière étape consiste à les couper et votre fond croisé sera plus beau d'un côté que de l'autre : ce sera la partie visible.
+😉 Astuce : faites en sorte que les parties en trop qui dépassent soient toutes du même côté. La dernière étape consiste à les couper et votre fond croisé sera plus beau d'un côté que de l'autre : ce sera la partie visible.
 
 ### Finir le tressage
 
@@ -117,17 +113,15 @@ Pour finir votre fond croisé, fichez les derniers brins dans les interstices le
 
 ### Epluchage
 
-L'épluchage consiste à enlever les parties non voulues qui résultent du travail de l'ouvrage. On coupe ainsi les parties trop longues des bâtons, les parties de brins qui dépassent, les fibres qui s'effilochent.
+L'épluchage consiste à enlever les parties non voulues qui résultent du travail de l'ouvrage. On coupe ainsi les parties trop longues des bâtons, les parties de brins qui dépassent, les parties qui s'effilochent.
 
 🥳 Bravo ! Vous avez réalisé un fond croisé !
-
-(photo)
 
 ## Poursuivre
 
 Vous pouvez tout à fait vous arrêter là pour avoir déjà un objet utile. 
 
-Mais vous pouvez poursuivre vers la réalisation d'une corbeille ou d'un panier ici : (lien)
+Mais vous pouvez poursuivre vers la réalisation d'une corbeille ou d'un panier ici : (à paraître)
 
 
 
