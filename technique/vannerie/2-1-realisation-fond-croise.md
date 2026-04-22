@@ -19,7 +19,7 @@ Ici, le matériau utilisé n'est pas de grande importance. Certaines essences so
 
 Coupez 6 sections de branches de la même taille et à peu près du même diamètre. Ils peuvent provenir d'une même branche. 
 
-![récolte et outils](./images/FC8.jpg)
+![récolte et outils](./images/FC08.jpg)
 
 Fendez dans le milieu le plus gros bâton.
 
