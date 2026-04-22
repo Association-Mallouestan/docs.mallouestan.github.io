@@ -11,7 +11,9 @@ Mais le fond croisé peut servir en tant que tel, par exemple, comme dessous de 
 
 La réalisation du fond croisé se fait en 5 étapes.
 
-Vous aurez besoin d'un couteau (pas besoin d'un aiguisage rasoir, vous n'aurez pas à couper véritablement), d'un sécateur et éventuellement d'un poinçon (un tournevis ou un gros clou fera l'affaire)
+Vous aurez besoin d'un couteau (pas besoin d'un aiguisage rasoir, vous n'aurez pas à couper véritablement), d'un sécateur et éventuellement d'un poinçon (un tournevis ou un gros clou fera l'affaire).
+
+Concernant le matériau utilisé, il s'agit ici de noisetier pour l'armature et de la ronce pour le tressage. Mais vous pouvez utiliser de l'osier, du saule sauvage, du cornouiller, de la clématite, et tous les matériaux aptes au tressage "à plein" (qui n'ont pas été fendus pour les assouplir). Vous pouvez aussi utiliser des éclisses. Pour plus de détails, voir notre ressource sur les matériaux de la vannerie (à paraître).
 
 ### Faire une croix avec 6 brins de grosse taille
 
