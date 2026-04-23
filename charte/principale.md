@@ -54,8 +54,7 @@ Nous sommes conscient·es que chacun·e est déconstruit·e à des niveaux varia
 	- Aucune atteinte par négligence ou intentionnelle à l'égard de la santé physique d'un humain ou animal domestique hors défense légitime
 	- Minimiser les rapports de domestication et de violence à l'égard des animaux (sauvages comme domestiques ainsi qu'humains)
 	- De repecter les limites explicitement exprimées par une personne tant qu'elles restent compatibles avec le fonctionnement du collectif. 
-	- De ne pas entraver l'agentivité (l'impression d'autonomie qu'une personne as dans ces actions) d'une personne physiquement hors légitime défense de soi ou d'une autre personne identifié. 
-	- De respecter l'individualité (le fait qu'un individu possède des caractéristiques qui le rendent tel qu'il ne puisse être confondu avec un autre être) et l'autonomie corporelle (le fait que personne d'autre ne peut décider de ce qui impacte son corps a long therme)
+	- De ne pas entraver l'agentivité (l'impression d'autonomie qu'une personne as dans ces actions) d'une personne physiquement hors légitime défense de soi ou d'une autre personne identifié.
 2. Aucune consommation ou achat de produits dépendants de la domestication d'animaux.
 3. Aucune promotion de religions ou de spiritualités ésotériques telles que les soins énergétiques, l'anthroposophie, la biodynamie, l'astrologie, la sorcellerie, le chamanisme, etc. Tous les sujets peuvent évidemment être abordés, mais ils doivent être traités en tant qu'idée et non comme des vérités universelles ;
 4. Le respect des espaces et de leurs signalisations ;
@@ -63,7 +62,7 @@ Nous sommes conscient·es que chacun·e est déconstruit·e à des niveaux varia
 6. Les aliments suivants ne sont pas tolérés au sein des espaces communs et partagés : Nova 4 et Nova 3 de score nutritionnel D ou E (système de catégories https://fr.openfoodfacts.org/nova) ;
 7. La consommation d'alcool, de nicotine, de drogues et d'autres substances (hors: alimentaires ou médicales) addictives ne sont pas tolérées. Il n'est pas toléré non plus que la consommation de ces produits soit activement encouragée sur le lieu ; **Tout état d'ébriété ou état sous influence (hors contexte médical) n'est pas toléré** lors des événements ponctuels ou durant les moments partagés du quotidien.
 8. La consommation d'énergie fossile (gaz, pétrole, charbon, etc.) est prohibée (hors briquet) ;
-9. Que l'usage de nos infrastructures collectives (solaire, internet) soit limité à un cadre de nécessité (administrative, médicale, scolaire ou académique, activité associative/professionnelle ponctuelle). Les jeux vidéos, le streaming, le scrolling ou tout autre usage intense de ces infrastructures hors nécessité n'est pas toléré.
+9. Que l'usage de nos infrastructures collectives (solaire, internet, eau) soit limité à un cadre de nécessité (administrative, médicale, scolaire ou académique, activité associative/professionnelle ponctuelle). Les jeux vidéos, le streaming, le scrolling ou tout autre usage intense de ces infrastructures hors nécessité n'est pas toléré.
 10. Tout comportement visant activement à nuire a la pérénité de l'association ou du collectif n'est pas toléré.
 
 > Ces restrictions ne sont pas le reflet de jugements moraux sur des individus qui, en dehors du lieu, ne les respecteraient pas. Ces restrictions sont limitées au contexte que nous créons et n'ont aucune prétention au-delà.  
