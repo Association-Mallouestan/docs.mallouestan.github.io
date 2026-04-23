@@ -76,10 +76,10 @@ Nous sommes conscient·es que chacun·e est déconstruit·e à des niveaux varia
 Dans une optique de minimisation de pouvoir sur le lieu, les rôles suivants sont définis pour permettre à chacun·e de mieux appréhender leurs responsabilités et devoirs.
 
 Il y a trois rôles sur le lieu :
-1. Visiteuse•eur
-2. Résident•e
-3. Arrimé•e
-4. Résident•e non-autonome
+
+- visiteuse·eur : personne de passage, qui n'a pas de responsabilités particulières sur le lieu, mais doit respecter la charte.
+- résidente : personne qui vit sur le lieu
+- arrimé·e : personne qui vit sur le lieu, qui a des responsabilités plus importantes et qui mutualise ses privilèges avec le collectif. L'arrimé·e est un·e résident·e qui voit le projet du Mallouestan comme un projet à plus long terme et qui souhaite se consacrer et prioriser le projet collectif.
 
 Ci dessous les responsabilités et droits des visiteurs, pour l'ensemble des rôles c'est dans l'annexe [Annexe: responsabilités et droits des différents rôles](/r/charte-annexe-responsabilites-droits).
 
