@@ -44,8 +44,8 @@ La toiture peut être de différentes formes. Voici un petit glossaire de ce qui
   - **Les croupes** : Ce sont des pans de toit situés à l'extrémité d'une maison ; ils sont souvent triangulaires et situés au‑dessus des murs pignons.
 - Les pans de toit se rejoignent à différents endroits. Les principaux points de jonction sont :
   - **Le faîtage** : C'est la ligne horizontale qui se trouve au sommet de la toiture, là où deux pans de toit se rencontrent. C'est la partie la plus haute de la toiture.
-  - **L'arêtier** : C'est la ligne qui se trouve à l'intersection de deux pans formant un angle convexe. C'est une ligne inclinée qui relie le faîtage au coin d'une maison.
-  - **La noue** : C'est la ligne qui se trouve à l'intersection de deux pans de toit formant un angle concave.
+  - **L'arêtier** : C'est la ligne qui se trouve à l'intersection de deux pans formant un angle saillant. C'est une ligne inclinée qui relie le faîtage au coin d'une maison.
+  - **La noue** : C'est la ligne qui se trouve à l'intersection de deux pans de toit formant un angle rentrant.
 - D'autres pans de toit courants sont :
   - **Le coyau** : C'est un pan de toit avec une pente plus faible que le reste du pan, prolongeant le toit au‑delà des gouttereaux.
   - **Le terrasson** : Les charpentes de type Mansart ont deux pentes sur chaque pan de toit. La pente plus faible en haut du toit est appelée terrasson.
