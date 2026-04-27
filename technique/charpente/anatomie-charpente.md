@@ -48,7 +48,7 @@ Les fermes sont généralement espacées de manière régulière le long de la c
 - **Les liteaux** : Ce sont des pièces horizontales qui sont posées perpendiculairement aux chevrons. Les liteaux servent à soutenir la couverture de la toiture et à répartir le poids de celle‑ci sur les chevrons. Elles servent également à fixer la couverture de la toiture, notamment les tuiles ou les ardoises.
 - **Les voliges** : Ce sont des planches de bois qui sont posées perpendiculairement aux chevrons, souvent au‑dessus ou à la place des liteaux. Les voliges servent à renforcer la structure de la toiture et à soutenir de manière continue la couverture de la toiture. On peut imaginer les voliges comme une sorte de plancher posé sur les chevrons, tandis que les liteaux sont des pièces plus fines écartées les unes des autres. 
 
-### Les noues, arêtiers
+### Les noues et les arêtiers
 
 ![medium](https://www.mallouestan.org/images/technique/charpente/anatomie-noue.svg)
 
