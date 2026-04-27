@@ -32,7 +32,7 @@ Nos positions et valeurs ne sont pas dépendantes d'une romantisation du passé 
 
 ## Objectifs
 
-L'objectif principal du collectif est de créer un contexte où les membres peuvent vivre libres. Ce que nous entendons par cela est le fait de vivre au sein d'une communauté sur laquelle on peut compter et qui est là quand nous avons besoin d'aide ou de soutien. Cette liberté implique aussi pour nous le fait de pouvoir participer aux décisions et orientations du collectif. Pour plus d'information voir le texte ["Vivre ensemble et libre"](https://www.mallouestan.org/r/philosophie-objectifs-vivre-ensemble-libre) Pour créer ce contexte, il nous faut des conditions matérielles permettant un contexte de solidarité péreine et responsable. Nous construisons ces conditions au travers des objectifs suivants:
+L'objectif principal du collectif est de créer un contexte où les membres peuvent vivre libres. Ce que nous entendons par cela est le fait de vivre au sein d'une communauté sur laquelle on peut compter et qui est là quand nous avons besoin d'aide ou de soutien. Cette liberté implique aussi pour nous le fait de pouvoir participer aux décisions et orientations du collectif. Pour plus d'information voir le texte ["Vivre ensemble et libre"](https://www.mallouestan.org/r/philosophie-objectifs-vivre-ensemble-libre) Pour créer ce contexte, il nous faut des conditions matérielles permettant un contexte de solidarité pérenne et responsable. Nous construisons ces conditions au travers des objectifs suivants:
 
 1. **Développer une solidarité construite autour de l'autonomie** (plus de détails dans le texte ["Une solidarité dans l’autonomie"](https://www.mallouestan.org/r/philosophie-objectifs-solidarite))
 2. **Mutualiser nos privilèges** (plus de détails dans le texte ["La mutualisation des privilèges"](https://www.mallouestan.org/r/philosophie-objectifs-mutualisation-privileges))
@@ -51,23 +51,23 @@ L'objectif principal du collectif est de créer un contexte où les membres peuv
 Nous sommes conscient·es que chacun·e est déconstruit·e à des niveaux variables et que chacun·e évolue à sa vitesse. Malgré cela, un minimum de déconstruction est nécessaire pour garantir l’avancée de l’ensemble du groupe. Comme pour le reste de cette charte, aucun mécanisme, ci-dessous, n'a comme prétention d'être suffisant ou parfait mais représente un point de départ qui semble pertinent pour les explorations du collectif. Nous demandons donc sur le lieu et pendant les événements organisés par le Mallouestan : 
 
 1. Minimiser la violence ce qui implique:
-	- Aucune atteinte par négligence ou intentionnelle à l'égard de la santé physique d'un humain ou animal domestique hors défense légitime
-	- Minimiser les rapports de domestication et de violence à l'égard des animaux (sauvages comme domestiques ainsi qu'humains)
+	- Aucune atteinte par négligence ou intentionnelle à l'égard de la santé physique d'un humain ou animal domestique hors défense légitime.
+	- Minimiser les rapports de domestication et de violence à l'égard des animaux (sauvages comme domestiques ainsi qu'humains).
 	- De repecter les limites explicitement exprimées par une personne tant qu'elles restent compatibles avec le fonctionnement du collectif. 
-	- De ne pas entraver l'agentivité (l'impression d'autonomie qu'une personne as dans ces actions) d'une personne physiquement hors légitime défense de soi ou d'une autre personne identifié.
-2. Aucune consommation ou achat de produits dépendants de la domestication d'animaux.
+	- De ne pas entraver l'agentivité (l'impression d'autonomie qu'une personne a dans ses actions) d'une personne physiquement hors légitime défense de soi ou d'une autre personne identifiée ;
+2. Aucune consommation ou achat de produits dépendants de la domestication d'animaux ;
 3. Aucune promotion de religions ou de spiritualités ésotériques telles que les soins énergétiques, l'anthroposophie, la biodynamie, l'astrologie, la sorcellerie, le chamanisme, etc. Tous les sujets peuvent évidemment être abordés, mais ils doivent être traités en tant qu'idée et non comme des vérités universelles ;
 4. Le respect des espaces et de leurs signalisations ;
-5. Un minimum de communication active (initiée par la personne détenant l'information) et de présence comme défini dans la section accueil de visiteuse•eures ci-dessous ; 
+5. Un minimum de communication active (initiée par la personne détenant l'information) et de présence comme défini dans la section "Accueil de visiteuse•eures" ci-dessous ; 
 6. Les aliments suivants ne sont pas tolérés au sein des espaces communs et partagés : Nova 4 et Nova 3 de score nutritionnel D ou E (système de catégories https://fr.openfoodfacts.org/nova) ;
 7. La consommation d'alcool, de nicotine, de drogues et d'autres substances (hors: alimentaires ou médicales) addictives ne sont pas tolérées. Il n'est pas toléré non plus que la consommation de ces produits soit activement encouragée sur le lieu ; **Tout état d'ébriété ou état sous influence (hors contexte médical) n'est pas toléré** lors des événements ponctuels ou durant les moments partagés du quotidien.
 8. La consommation d'énergie fossile (gaz, pétrole, charbon, etc.) est prohibée (hors briquet) ;
-9. Que l'usage de nos infrastructures collectives (solaire, internet, eau) soit limité à un cadre de nécessité (administrative, médicale, scolaire ou académique, activité associative/professionnelle ponctuelle). Les jeux vidéos, le streaming, le scrolling ou tout autre usage intense de ces infrastructures hors nécessité n'est pas toléré.
-10. Tout comportement visant activement à nuire a la pérénité de l'association ou du collectif n'est pas toléré.
+9. Que l'usage de nos infrastructures collectives (solaire, internet, eau) soit limité à un cadre de nécessité (administrative, médicale, scolaire ou académique, activité associative/professionnelle ponctuelle). Les jeux vidéos, le streaming, le scrolling ou tout autre usage intense de ces infrastructures hors nécessité n'est pas toléré ;
+10. Tout comportement visant activement à nuire à la pérennité de l'association ou du collectif n'est pas toléré.
 
 > Ces restrictions ne sont pas le reflet de jugements moraux sur des individus qui, en dehors du lieu, ne les respecteraient pas. Ces restrictions sont limitées au contexte que nous créons et n'ont aucune prétention au-delà.  
 
-> Ces restrictions ne doivent pas être utilisées à quelques fins que ce soit à l'égard d'individus qui ne les respecteraient pas dans leurs espaces personnels. 
+> Ces restrictions ne doivent pas être utilisées à quelque fin que ce soit à l'égard d'individus qui ne les respecteraient pas dans leurs espaces personnels. 
 
 
 ## Rôles et responsabilités
@@ -83,7 +83,7 @@ Ci-dessous, les responsabilités et droits des visiteuse•eurs. Pour l'ensemble
 
 | Droits visiteuse•eurs                                                              |
 | ---------------------------------------------------------------------------------- | 
-| De véto limité (1 mois) sur le contexte commun (pour plus de détails voir annexe)  |
+| De véto limité (1 mois) sur le contexte commun (pour plus de détails voir l'annexe citée ci-dessus)  |
 | D'égalité d'opportunités à l'égard des activités du lieu                           |   
 
 | Responsabilité visiteuse•eurs                                                                                                                                                                                                                                        |
@@ -97,8 +97,8 @@ Ci-dessous, les responsabilités et droits des visiteuse•eurs. Pour l'ensemble
 ## Gouvernance
 Un équilibre doit être trouvé entre les libertés individuelles et celles du collectif. Les situations suivantes, impactant le contexte commun, doivent être précédées par un vote unanime des personnes concernées par la décision: 
 
-- Tout changement de la charte ou ses annexes ;
-- L'attribution des rôles de arrimé·e ou de résident·e ainsi que les conditions d'une période d'intégration ;
+- Tout changement de la charte ou de ses annexes ;
+- L'attribution des rôles d'arrimé·e ou de résident·e ainsi que les conditions d'une période d'intégration ;
 - Les dépenses exceptionnelles ou ponctuelles définies dans l'annexe pour le budget ;
 - Tout aménagement, par une personne, impactant les espaces communs qui ne peut être défait par cette même personne en 6h comme précisé dans l'[Annexe: directives B.A.L.E.E.Z](/r/charte-annexe-directives-BALEEZ.md) ;
 
@@ -120,9 +120,9 @@ Une annexe à cette charte cadre la gestion des conflits : [Annexe: gestion de c
 
 ## Ultimatums 
 
-Plusieurs ultimatums exceptionnels s'appliquent à tous les membres du lieu. Leur non respect peut entraîner une exclusion du lieu ou contexte collectif si au moins un autre membre du lieu le souhaite. Ces ultimatums s'appliquent: 
+Plusieurs ultimatums exceptionnels s'appliquent à tous les membres du lieu. Leur non respect peut entraîner une exclusion du lieu ou du contexte collectif si au moins un autre membre du lieu le souhaite. Ces ultimatums s'appliquent: 
 
-1. En cas d'atteinte physique intentionelle ou par négligence hors légitime défense, sur un individu du lieu;
+1. En cas d'atteinte physique intentionelle ou par négligence hors légitime défense, sur un individu du lieu ;
 2. En cas d'atteinte physique grave (décès, blessures sur le long terme) par un animal non-résident sur un autre individu du lieu (entraîne l’exclusion de l’animal ou, si la ou les responsables de l’animal le souhaitent, un ultimatum les concernant directement) ;
 3. Dans le cas où une personne présentant une volonté d'atteinte grave à elle-même, qu'il s'agisse de blessures potentielles ou d'un risque imminent de mort, nous prendrons la décision **dans le cas où le dialogue est stérile ou impossible**, d'impliquer des forces extérieures. Cela peut inclure, mais n'est pas limité à, l'appel des services d'urgence tels que le SAMU ;
 4. Si une personne vole l'association ;
