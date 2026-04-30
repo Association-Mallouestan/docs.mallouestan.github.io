@@ -7,7 +7,7 @@ tags:
   - charpente
 folders:
   - charpente-4j-debutant-e
-image: /images/technique/charpente/anatomie-aretier.svg
+image: /images/technique/charpente/charpente-recip.svg
 author: mallouestan
 ---
 
