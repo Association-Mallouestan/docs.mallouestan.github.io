@@ -7,7 +7,7 @@ tags:
   - charpente
 folders:
   - charpente-4j-debutant-e
-image: /images/technique/charpente/charpente-recip.svg
+image: /images/technique/charpente/assemblage--moisage-double.svg
 author: mallouestan
 ---
 
@@ -35,6 +35,8 @@ On peut renforcer d'avantage l'assemblage en entaillant également les moises (d
 
 ![medium](https://www.mallouestan.org/images/technique/charpente/assemblage--moisage-double.svg)
 
+> C'est un assemblage courant entre le poinçon et l'entrait ainsi qu'entre les arbalètriers et l'entrait
+
 Ces assemblage ont l'avantage de pouvoir utiliser des sections plus petite et un gain de temps à la réalisation. Elles sont un peu plus enclin au flambement (déformation des pièces). Elle nécéssite aussi une pièce métalique mais qui est rarement onéreuse.
 
 ### Embrèvements
@@ -45,9 +47,15 @@ Un embrèvement cherche à creer une surface le plus perpendiculaire possible à
 
 Les embrèvement ont de mutiples variantes, les plus courantes sont l'embrèvement avant comme présenté çi-dessus, l'embrèvement arrière ci-dessous, et l'embrèvement double ci-dessous également.
 
+#### L'embrèvement arrière
+
 ![medium](https://www.mallouestan.org/images/technique/charpente/assemblage--embrevement-arriere.svg)
 
+#### L'embrèvement double
+
 ![medium](https://www.mallouestan.org/images/technique/charpente/assemblage--embrevement-double.svg)
+
+
 
 ### Tenon - Mortaise
 
@@ -77,6 +85,44 @@ Les tenons réduisent considérablement la section de la pièce. Il peut donc ê
 
 ![medium](https://www.mallouestan.org/images/technique/charpente/assemblage--tenon-mortaise-non-ortho.svg)
 
-Dans le cas de pièce se rejoingnant en angle droit une charge peut être reprise en créant de manière simmilaire un embrèvement un about ou une épaule sur la mortaise. Comme présenté dans le schéma suivant:
+Dans le cas de pièce se rejoingnant en angle droit une charge peut être reprise en créant, de manière similaire à un embrèvement, un about ou une épaule sur la mortaise. Comme présenté dans le schéma suivant:
 
-![medium](https://www.mallouestan.org/images/technique/charpente/assemblage--tenon-mortaise-porteurs.svg) 
+![medium](https://www.mallouestan.org/images/technique/charpente/assemblage--tenon-mortaise-porteur.svg)
+
+Dans le cas du schéma les charges sur la pièce horizontale sont transmises aux montants grâce a la surface horizontale. Cela évite que la charge soit soutenue par seulement le tenon qui ne dépasse pas un tier de la section des pièces de base. Toute la largeur de la pièce horizontale est ainsi transmise à toute la largeur du montant.
+
+### Assemblages à paume
+
+Les assemblages à paumes sont des assemblages fait sur des pièces porteuses. Sur le schéma suivant un assemblage à paume simple est représenté.
+
+![medium](https://www.mallouestan.org/images/technique/charpente/assemblage--paume-simple.svg)
+
+#### Assemblage à paume droite
+
+L'entaille peut également ètre ortogonale, appelé assemblage à paume droite comme ceci:
+
+![medium](https://www.mallouestan.org/images/technique/charpente/assemblage--paume-droite.svg)
+
+#### Assemblage à paume droite avec tasseaux
+
+On apelle également assemblage à paume droite l'ajout d'un tasseau pour créer la surface reprenant les charges
+
+![medium](https://www.mallouestan.org/images/technique/charpente/assemblage--paume-tasseau.svg)
+
+### Assemblages à mi-bois
+
+Les assemblages mi-bois se basent sur des entaille symétrique, tout au moins complémentaire, pour les assemblages; comme dans le schéma ci-dessous:
+
+![medium](https://www.mallouestan.org/images/technique/charpente/assemblage--mi-bois.svg)
+
+### Assemblages par enfourchement
+
+EN COURS D'ECRITURE
+
+### Assemblage par queue d'aronde
+
+EN COURS D'ECRITURE
+
+### Enture
+
+EN COURS D'ECRITURE
