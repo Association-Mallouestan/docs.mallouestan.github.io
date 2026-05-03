@@ -55,8 +55,6 @@ Les embrèvement ont de mutiples variantes, les plus courantes sont l'embrèveme
 
 ![medium](https://www.mallouestan.org/images/technique/charpente/assemblage--embrevement-double.svg)
 
-
-
 ### Tenon - Mortaise
 
 Un assemblage traditionnelle en charpente est l'assemblage tenon-mortaise. une pièce est creuser pour former **une mortaise** pour acceuillir **le tenon** taillé dans la deuxième pièce.
@@ -115,14 +113,58 @@ Les assemblages mi-bois se basent sur des entaille symétrique, tout au moins co
 
 ![medium](https://www.mallouestan.org/images/technique/charpente/assemblage--mi-bois.svg)
 
+Les assemblages mi-bois doivent souvent être renforcer par une vis ou par boulonnage. C'est un assemblage basique mais rapide à réaliser.
+
 ### Assemblages par enfourchement
 
-EN COURS D'ECRITURE
+L'assemblages par enfourchement est similaire au mi-bois. Les entailles restent complémentaire mais ne sont plus symétrique. Par exemple, une pièce tailler à un bout en U s'encastre dans une piece tailler au centre en forme de H dans le cas de l'enfourchement en T. Voir le schéma suivant:
+
+![medium](https://www.mallouestan.org/images/technique/charpente/assemblage--enfourchement.svg)
+
+### Enture
+
+L'enture est l'assemblage de deux pièces bout-à-bout. Il existe différente variantes permetant divers qualités et faiblesses mécanique.
+
+> Pour celles et ceux qui ont des connaissances en noeuds. Une enture est assimilable à l'ajutage.
+
+Ci-dessous un expemple d'enture par enfouchement
+
+![medium](https://www.mallouestan.org/images/technique/charpente/assemblage--enture-par-enfourchement.svg)
+
+#### Enture tirant et sous compression
+
+Les enture doivent être penser principalement en fonction de si l'assemblage agit en tension (une force cherche à écarter les pièces l'une de l'autre) ou en compression (une force les poussent ensemble).
+
+![medium](https://www.mallouestan.org/images/technique/charpente/assemblage--entures-sifflets.svg)
+
+#### Coupe à sifflet simple
+
+Ci dessus (tout en haut) l'enture à sifflet simple ne resiste ni sous tension ni sous compression. Il faudra des fixations métallique ou une autre aide externe pour être solide.
+
+#### Coupe à sifflet désabouté
+
+Les deux prochaines entures sur le schéma sont appelé des entures à sifflé désabouté, le premier perpendiculaire à la pièce et le deuxième en biais. Cette surface ainsi créer permet de resister à la compression. La coupe à sifflet désabouté en biais permet elle de résister à des forces non parallèle à la longueur de la pièce.
+
+#### Coupe à sifflet avec crochets
+
+La coupe à sifflet avec crochets 4 partant du haut sur le schéma ci-dessus et ci-dessous par simplicité, rajoute une surface au milieux de la coupe à sifflet permetant de résisiter au forces de tensions
+
+#### Trait de jupiter
+
+Le trait de jupiter combine le principe de crochet et de désaboutage en biais pour avoir les avantages des deux systèmes mais il faut rajouter une troisième pièce pour permettre l'assemblage qui serait impossible autrement. Cette pièce est une cale bisauté légèrement pour créer un coin permetant de bloquer l'enssemble des pièce d'assemblages.
+
+![medium](https://www.mallouestan.org/images/technique/charpente/assemblage--entures-sifflets.svg)
 
 ### Assemblage par queue d'aronde
 
 EN COURS D'ECRITURE
 
-### Enture
+#### Queue d'aronde traversante
 
-EN COURS D'ECRITURE
+#### Mi-bois à queue d'aronde
+
+#### Demi-queue d'aronde
+
+### Conclusion
+
+C'est assemblages sont d'autants d'outils à la disposition du charpentier pour concevoir et réliser sont travail. Ils ne doivent pas seulement être envisager individuellement mais sont au contraire des outils plus riche si elle sont combiné ensemble. Cette liste ne rentre pas dans l'enssemble des variantes de chaque assemblages. D'autres ressources le font et le feront. 
