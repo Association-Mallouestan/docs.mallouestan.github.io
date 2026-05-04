@@ -13,9 +13,11 @@ author: mallouestan
 
 ## Bases de trigonométrie
 
+La trigonométrie est née d'une envie de déterminer plus facilement les longueurs dans les triangles rectangle. Pour simplifier les cas les mathématiciens et architectes ont étudier tous les triangles ayant un hypothénuse (le coté le plus long) égale à 1. Ainsi en traçant tout les triangle possible avec un hypothénuse égale à 1 on obtient un cercle composé de tous les sommets possible pour ces triangles. La trigonométrie est de regardé tout simplement un triangle au sein de ce cercle.
+
 ![medium](/images/technique/construction/cercle-trigo.svg)
 
-Sur le cercle, dit trigonométrique, ci-dessus apparait le cosinus, le sinus et la tangeante pour un angle donné (sur le schema environ 60 degré). Pour tout angle une paire unique de valeurs de sin, de cos existe. Gràce à ces valeurs nous pouvons faire l'opération inverse et trouver l'angle. L'angle forme un triangle qui à de coté la valeur du sinus et celui du cosinus ainsi qu'un hypthénuse égale au rayon du cercle içi 1. Grace au sinus et cosinus nous pouvons donc trouver les angles ou les longueurs des cotés d'un triangle sans connaitre les 2 cotés nécessaire à la résolution avec pythagore.
+Sur le cercle, dit trigonométrique, ci-dessus apparait le cosinus, le sinus et la tangeante pour un angle donné (sur le schema environ 60 degré). Pour tout angle une paire unique de valeurs de sin, de cos existe. Gràce à ces valeurs nous pouvons faire l'opération inverse et trouver l'angle. L'angle forme un triangle qui à de coté la valeur du sinus et celui du cosinus ainsi qu'un hypthénuse égale au rayon du cercle limité comme nous l'avons dit à 1. Grace au sinus et cosinus nous pouvons donc trouver les angles ou les longueurs des cotés d'un triangle sans connaitre les 2 cotés nécessaire à la résolution avec pythagore.
 
 ### Dans un triangle
 
