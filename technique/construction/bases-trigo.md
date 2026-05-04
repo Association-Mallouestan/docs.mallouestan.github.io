@@ -27,7 +27,7 @@ CAH -> sin(angle)=coté-adjacent/hypothénuse
 TOA -> sin(angle)=coté-opposé/coté-adjacent
 ```
 
-![triangle trigo](/images/technique/construction/cercle-trigo.svg)
+![triangle trigo](/images/technique/construction/triangle-trigo.svg)
 
 ### Fonctions et fonctions inverses
 
