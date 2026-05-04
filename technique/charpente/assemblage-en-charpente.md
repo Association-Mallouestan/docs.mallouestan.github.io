@@ -157,13 +157,21 @@ Le trait de jupiter combine le principe de crochet et de désaboutage en biais p
 
 ### Assemblage par queue d'aronde
 
-EN COURS D'ECRITURE
+L'assemblage par queue d'aronde est un assemblage courant et pratique pour résister à des forces en tension. Elle est utilisé par exemple pour assembler l'entrait et le poinçon permetant a ce dernier de soutenir le premier.
 
-#### Queue d'aronde traversante
+#### Queue d'aronde traversante et mi-bois à queue d'aronde
 
-#### Mi-bois à queue d'aronde
+La queue d'aronde est souvent combiné avec d'autre assemblages les renforçant ou pour ajouter la qualité dans les cas de pièces soumises à des forces en tension. Sur le schéma çi-dessous on peut voir un assemblage queue d'aronde seul appelé **assemblage en queue d'aronde traversante** ainsi qu'un deuxième assemblage combinant queue d'aronde et mi-bois appélé quand à lui un **assemblage mi-bois à queue d'aronde**.
+
+![medium](https://www.mallouestan.org/images/technique/charpente/assemblage--queue-aronde.svg)
 
 #### Demi-queue d'aronde
+
+Dans certains cas que ce soit pour l'assemblage ou par simplification une des "ailes" de la queue d'aronde (venant du vieux français en référence au queue d'hirondelle) est omise. Appelé demi-queue d'aronde ces assemblages permettent de faire des tenons ou des assemblages démontable.
+
+![medium](https://www.mallouestan.org/images/technique/charpente/assemblage--queue-aronde.svg)
+
+Ci dessus la mortaise est creuser plus large que le tenon permetant l'assemblage. Une fois la demi-queue d'aronde assemblé une cale est insérer à coté du tenon pour empècher l'ensemble de se défaire lors de solicitations.
 
 ### Conclusion
 
