@@ -169,7 +169,7 @@ La queue d'aronde est souvent combiné avec d'autre assemblages les renforçant 
 
 Dans certains cas que ce soit pour l'assemblage ou par simplification une des "ailes" de la queue d'aronde (venant du vieux français en référence au queue d'hirondelle) est omise. Appelé demi-queue d'aronde ces assemblages permettent de faire des tenons ou des assemblages démontable.
 
-![medium](https://www.mallouestan.org/images/technique/charpente/assemblage--queue-aronde.svg)
+![medium](https://www.mallouestan.org/images/technique/charpente/assemblage--demi-queue-aronde.svg)
 
 Ci dessus la mortaise est creuser plus large que le tenon permetant l'assemblage. Une fois la demi-queue d'aronde assemblé une cale est insérer à coté du tenon pour empècher l'ensemble de se défaire lors de solicitations.
 
