@@ -17,17 +17,17 @@ Les assemblages correspondent à la manière de fixer deux pièces de bois entre
 
 ### Moisage
 
-La production de sabot en métal, de tige filleté, et de boulons ont changé les pratiques en charpente. Le moisage est un des assemblage qui a particulière bénéficier de ces évolutions technique.
+La production de sabots en métal, de tiges filletées et de boulons ont changé les pratiques en charpente. Le moisage est un des assemblages qui a particulièrement bénéficié de ces évolutions techniques.
 
 #### Moisage lisse
 
-Le moisage est un assemblage où une pièce est prise en étau/sandwich entre deux autres. Ci-dessous 3 pièce de bois assemblée en moisage. Içi les trois pièce sont en simple contact et c'est au boulonnage ou une tige fileté d'assurer l'intégrité et la reprise des solicitations.
+Le moisage est un assemblage où une pièce est prise en étau / sandwich entre deux autres. Ci-dessous 3 pièces de bois assemblées en moisage. Ici les trois pièces sont en simple contact, et c'est au boulonnage ou à une tige filetée d'assurer l'intégrité et la reprise des solicitations.
 
 ![medium](https://www.mallouestan.org/images/technique/charpente/assemblage--moisage-lisse.svg)
 
 #### A simple entaille et double entaille
 
-Pour augmenter la solidité de l'assemblage il est possible d'entailler la pièce, dite moisée, où les forces sont repris par les bords créer par l'entaille. On appelle alors l'assemblage un moisage à simple entaille comme sur le schéma suivant:
+Pour augmenter la solidité de l'assemblage, il est possible d'entailler la pièce, qui sera dite moisée. Les forces sont ainsi reprises par les bords créés par l'entaille. On appelle alors l'assemblage un moisage à simple entaille, comme sur le schéma suivant:
 
 ![medium](https://www.mallouestan.org/images/technique/charpente/assemblage--moisage-simple.svg)
 
@@ -35,17 +35,17 @@ On peut renforcer d'avantage l'assemblage en entaillant également les moises (d
 
 ![medium](https://www.mallouestan.org/images/technique/charpente/assemblage--moisage-double.svg)
 
-> C'est un assemblage courant entre le poinçon et l'entrait ainsi qu'entre les arbalètriers et l'entrait
+> C'est un assemblage courant entre le poinçon et l'entrait, ainsi qu'entre les arbalètriers et l'entrait.
 
-Ces assemblage ont l'avantage de pouvoir utiliser des sections plus petite et un gain de temps à la réalisation. Elles sont un peu plus enclin au flambement (déformation des pièces). Elle nécéssite aussi une pièce métalique mais qui est rarement onéreuse.
+Ces assemblages ont l'avantage de pouvoir utiliser des sections plus petites et un gain de temps à la réalisation. Elles sont un peu plus enclines au flambement (déformation des pièces). Elles nécessitent aussi une pièce métallique, mais qui est rarement onéreuse.
 
 ### Embrèvements
 
-Un embrèvement cherche à creer une surface le plus perpendiculaire possible à la force. En créant cette surface de contact, appelé about, elle permet de reprendre une partie ou l'intégralité de la force comme les bords des entaille dans le cas du moisage.
+Un embrèvement cherche à créer une surface la plus perpendiculaire possible à la force. Cette surface de contact, appelée about, permet de reprendre une partie ou l'intégralité de la force, comme les bords des entailles dans le cas du moisage.
 
 ![medium](https://www.mallouestan.org/images/technique/charpente/assemblage--embrevement-avant.svg)
 
-Les embrèvement ont de mutiples variantes, les plus courantes sont l'embrèvement avant comme présenté çi-dessus, l'embrèvement arrière ci-dessous, et l'embrèvement double ci-dessous également.
+Les embrèvements ont de mutiples variantes, les plus courantes sont l'embrèvement avant comme présenté çi-dessus, l'embrèvement arrière ci-dessous, et l'embrèvement double ci-dessous également.
 
 #### L'embrèvement arrière
 
@@ -57,15 +57,15 @@ Les embrèvement ont de mutiples variantes, les plus courantes sont l'embrèveme
 
 ### Tenon - Mortaise
 
-Un assemblage traditionnelle en charpente est l'assemblage tenon-mortaise. une pièce est creuser pour former **une mortaise** pour acceuillir **le tenon** taillé dans la deuxième pièce.
+Un assemblage traditionnel en charpente est l'assemblage tenon-mortaise. une pièce est creusée pour former **une mortaise** pour accueillir **le tenon** taillé dans la deuxième pièce.
 
 ![medium](https://www.mallouestan.org/images/technique/charpente/assemblage--tenon-mortaise-simple.svg)
 
-Si on imagine, comme dans le schéma ci-dessus, le tenon vu de dessus il forme un T; T comme tenon. Regardons rapidement le vocabulaire de base pour parler d'un tenon:
+Si on imagine, comme dans le schéma ci-dessus, que le tenon vu de dessus forme un T : on peut se souvenir de T comme tenon. Regardons rapidement le vocabulaire de base pour parler d'un tenon:
 
-- **L'arasement ou l'arase**: Les arasements correspondes aux surface qui buterons avec la face de la pièce dans laquelle le tenon s'assemble. Il y a bien souvent deux arasement de chaque coté du tenon.
-- **Les joues du tenon**: Le tenon est constitué de deux joues correspondants aux grandes surface creuser en retrait pour former le tenon.
-- **L'épaulement d'un tenon**: L'épaule est un terme utilisé dans différents contexte pour désigner des surfaces différentes en parlant des assemblages tenon-mortaise ainsi les épaule d'un **tenon** correspond aux surface au dessus ou en dessous du tenon en regardons le tenon avec les joues verticalement. 
+- **L'arasement ou l'arase**: Les arasements correspondent aux surfaces qui buterons avec la face de la pièce dans laquelle le tenon s'assemble. Il y a bien souvent deux arasements de chaque coté du tenon.
+- **Les joues du tenon**: Le tenon est constitué de deux joues correspondant aux grandes surfaces creusées en retrait pour former le tenon.
+- **L'épaulement d'un tenon**: L'épaule est un terme utilisé dans différents contextes pour désigner des surfaces différentes en parlant des assemblages tenon-mortaise. Ainsi, les épaules d'un **tenon** correspondent aux surfaces au-dessus ou en-dessous du tenon, quand on regarde le tenon avec les joues verticalement.
 
 ![medium](https://www.mallouestan.org/images/technique/charpente/assemblage--tenon-mortaise-voca.svg) 
 
