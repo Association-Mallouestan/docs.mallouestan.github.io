@@ -1,8 +1,19 @@
-> [Accueil](../../) > [Portail technique](../) > [Portail construction](./) > Bases de trigonométrie
+---
+date: 2026-04-25 2:00:00
+title: Bases en trigonométrie
+description: Des outils utiles pour la conception
+tags:
+  - techniques
+  - construction
+folders:
+  - charpente-4j-debutant-e
+image: /images/technique/construction/cercle-trigo.svg
+author: mallouestan
+---
 
 ## Bases de trigonométrie
 
-![cercle trigo avec les fonctions](./images/cercletrigo-fonctions.jpg)
+![medium](/images/technique/construction/cercle-trigo.svg)
 
 Sur le cercle, dit trigonométrique, ci-dessus apparait le cosinus, le sinus et la tangeante pour un angle donné (sur le schema environ 60 degré). Pour tout angle une paire unique de valeurs de sin, de cos existe. Gràce à ces valeurs nous pouvons faire l'opération inverse et trouver l'angle. L'angle forme un triangle qui à de coté la valeur du sinus et celui du cosinus ainsi qu'un hypthénuse égale au rayon du cercle içi 1. Grace au sinus et cosinus nous pouvons donc trouver les angles ou les longueurs des cotés d'un triangle sans connaitre les 2 cotés nécessaire à la résolution avec pythagore.
 
@@ -16,7 +27,7 @@ CAH -> sin(angle)=coté-adjacent/hypothénuse
 TOA -> sin(angle)=coté-opposé/coté-adjacent
 ```
 
-![triangle trigo](./images/trigo-triangle.jpg)
+![triangle trigo](/images/technique/construction/cercle-trigo.svg)
 
 ### Fonctions et fonctions inverses
 
@@ -30,7 +41,7 @@ Des fonctions permettent de faire l'opération inverse et ainsi de fournir l'ang
 
 Prennons quelques exemples:
 
-![triangle rectangle](./images/usecase-annoted.jpg)
+![small](/images/technique/construction/pythagore-exemple.svg)
 
 Cherchons l'angle du toit de l'abbris çi dessus soit BĈA sur le schéma ci-dessus.
 
