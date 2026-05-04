@@ -13,19 +13,11 @@ related:
     message: Lire la suite
     link: /r/philosophie-objectifs-solidarite
   previous: false
-
-playlist: 
-  name: Nos objectifs
-  by_tag:
-    - objectifs
-    - vision
 ---
 
 ### Présentation
 
-De nombreux lieux alternatifs, tiers-lieux, écovillages ou écolieux explorent des alternatives, soutiennent et portent des projets solidaires, proposent des formations, hébergent celles et ceux qui en ont besoin, ou défendent un territoire d’un projet écocidaire porté sur le profit. Chaque lieu ou projet a ses spécificités et cet ensemble de communautés et de collectifs est hétérogène. Le Mallouestan est l'un de ces lieux, l'une de ces communautés cherchant à porter une alternative. Au premier abord, il serait facile de penser ou de caractériser le Mallouestan comme un collectif cherchant simplement à faire pousser quelques légumes et à s'abstraire de la technologie moderne par souci écologique. À vrai dire, cela fait partie du projet mais ce n'est pas l'objectif principal, loin de là. Avant tout le Mallouestan est un collectif -- une communauté intentionnelle comme on dirait dans le monde anglophone -- qui souhaite créer un contexte de liberté et de sécurité.  
-  
-Pour éviter les écueils libéraux souvent associés à *la notion de care<sup>1</sup>* <note>1. Loin de nous l’idée d’affirmer que le care se résume à des logiques libérales. De nombreux travaux soulignent au contraire la nécessité d’en proposer une compréhension élargie et systémique. Ces approches sont éclairantes à bien des égards et leur richesse n’est nullement remise en question. Néanmoins, d’après notre expérience, les milieux qui privilégient l’usage du terme anglophone care en France — plutôt que soin ou d’autres alternatives francophones — adoptent souvent une perspective libérale dont nous cherchons précisément à nous distinguer. Nous renvoyons à nos textes théoriques pour davantage d’éléments à ce sujet.</note>, nous utilisons le terme de sécurité. Par là, nous entendons une approche fondée sur les soins, l’entraide et la solidarité collective. Le soin est parfois réduit aux interactions et aux intentions interpersonnelles, alors que nous souhaitons mettre l’accent sur les conditions matérielles qui le rendent possible. En effet, le soin, la solidarité ou l’inclusivité ne peuvent exister ex nihilo — à partir de rien. Ces dynamiques nécessitent des prérequis et des conditions pour se déployer dans le temps et de manière qualitative. Notre intention est donc de développer un contexte sécurisant, tant sur le plan social et sanitaire que sur le plan matériel.
+De nombreux lieux alternatifs, tiers-lieux, écovillages ou écolieux explorent des alternatives, soutiennent et portent des projets solidaires, proposent des formations, hébergent celles et ceux qui en ont besoin, ou défendent un territoire d’un projet écocidaire porté sur le profit. Chaque lieu ou projet a ses spécificités et cet ensemble de communautés et de collectifs est hétérogène. Le Mallouestan est l'un de ces lieux, l'une de ces communautés cherchant à porter une alternative. Au premier abord, il serait facile de penser ou de caractériser le Mallouestan comme un collectif cherchant simplement à faire pousser quelques légumes et à s'abstraire de la technologie moderne par souci écologique. À vrai dire, cela fait partie du projet mais ce n'est pas l'objectif principal, loin de là. Avant tout le Mallouestan est un collectif -- une communauté intentionnelle comme on dirait dans le monde anglophone -- qui souhaite créer un contexte de liberté et *de sécurité<sup>1</sup>* <note>1. Le terme « sécurité » n’est plus très populaire dans les milieux alternatifs, tout au moins dans ceux se disant de gauche, y préfèrant le terme de « _care_ », signifiant initialement « soin », « souci » ou encore « attention » en anglais. Malgré le fait qu’au Mallouestan nous cherchons à créer un contexte porté sur le soin et la solidarité, nous mettons en avant le terme de sécurité pour éviter toute ambiguïté avec l’approche libérale, centrée sur l’individu, qui se cache souvent derrière la notion de « care ». Le Mallouestan est un projet de soin et de solidarité collective fuyant les embûches des logiques libérales.</note>.
 
 ### Une liberté collective
 
@@ -33,9 +25,13 @@ Comme nous l’expliquons plus en détail dans notre texte « Travail et libert�
 
 Le Mallouestan cherche donc à développer ce contexte de liberté collective dans un cadre anarcho-communiste antilibéral et écocentriste. Le projet n'est en rien autarcique : bien au contraire, cette solidarité qu'il souhaite développer s'étend aux personnes proches géographiquement, gravitant autour du lieu, aux différents cercles plus ou moins lointains et à toute personne envers qui le collectif pourrait venir en aide.
 
+### Des prérequis
+
+Cette ambition ne peut exister sans certains prérequis. On ne peut pas simplement vouloir être solidaires et compter les un•es sur les autres pour réussir à le faire. Le soin, la pérennité et la sécurité au sens plus large nécessitent un nombre de conditions matérielles [d’éléments physiques et concrets] pour pouvoir être mis en place de manière responsable. Par exemple, l’aide et le soin que nous souhaitons porter à nos voisins et voisines ne peuvent être portés seul•es si les personnes concernées nécessitent une aide quotidienne et soutenue. Dans ce cas, il est donc nécessaire d’avoir un groupe, les outils de communication en son sein, les compétences, les différents moyens financiers et techniques. Voilà ce que nous entendons par conditions matérielles. Le Mallouestan construit donc ce socle pour pérenniser nos différents objectifs, notamment nos projets de solidarité. Les différents textes suivants et d’autres documents que nous partageons expliquent comment nous envisageons de construire, ainsi que sur de nombreux points comment nous avons déjà construit, ce contexte.
+
 ### Les objectifs du Mallouestan 
 
-Nous venons de voir les grandes lignes mais le projet du Mallouestan ne pourrait être résumé si facilement ; quel projet le pourrait ? Pour mieux expliquer le projet du Mallouestan nous avons écrit différents textes permettant de partager notre vision du monde et de nous présenter. Vous retrouverez donc plus d'informations, plus de détails, dans les textes/chapitres suivant :
+Voici plus d'informations et plus de détails, dans les textes/chapitres suivant :
 
 * Dans « Une solidarité dans l’autonomie » nous expliquons comment nous construisons une solidarité à diverses échelles, pérennisée par un collectif et une autonomie.  
 * Dans « La mutualisation des privilèges » nous faisons part de comment nous envisageons de réduire de nombreuses inégalités liées à la propriété privée et aux divers privilèges qui accompagnent nos vies intriquées et issues du système.  
