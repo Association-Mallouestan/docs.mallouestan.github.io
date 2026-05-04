@@ -1,5 +1,5 @@
 ---
-date: 2026-04-23 2:00:00
+date: 2026-04-24 2:00:00
 title: Assemblages en charpente
 description: Les assemblages les plus courants en charpente
 tags:
@@ -7,7 +7,7 @@ tags:
   - charpente
 folders:
   - charpente-4j-debutant-e
-image: /images/technique/charpente/assemblage--moisage-double.svg
+image: /images/technique/charpente/assemblage--entures-sifflets.svg
 author: mallouestan
 ---
 
