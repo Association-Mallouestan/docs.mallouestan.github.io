@@ -1,7 +1,7 @@
 ---
 date: 2026-04-25 2:00:00
 title: Bases en trigonométrie
-description: Des outils utiles pour la conception
+description: Des outils mathématique utiles pour la conception
 tags:
   - techniques
   - construction
@@ -13,7 +13,15 @@ author: mallouestan
 
 ## Bases de trigonométrie
 
-La trigonométrie est née d'une envie de déterminer plus facilement les longueurs dans les triangles rectangle. Pour simplifier les cas les mathématiciens et architectes ont étudier tous les triangles ayant un hypothénuse (le coté le plus long) égale à 1. Ainsi en traçant tout les triangle possible avec un hypothénuse égale à 1 on obtient un cercle composé de tous les sommets possible pour ces triangles. La trigonométrie est de regardé tout simplement un triangle au sein de ce cercle.
+La trigonométrie est née d'une envie de déterminer plus facilement les longueurs et les angles dans les triangles rectangle. Plûtot que de noter les angles ainsi que les longueurs associées à ces angles, les mathématiciens ont décidé de noter et d'étudier seulement les triangles ayant un hypothénuse égale à 1. Effectivement, si on change la taille d'un triangle, les angles restent les mêmes, seul les longueurs changent. Les longueurs changeant de manière proportionnelle ainsi si on connait les longueurs d'un triangle, on peut en déduire les longueurs d'un triangle plus grand ou plus petit en multipliant ou divisant les longueurs par la différence de taille entre les deux triangles.  
+
+![medium](/images/technique/construction/trigo-taille.svg)
+
+Ainsi, les mathématiciens ont décidé de se simplifier la vie en ne s'intéressant qu'aux triangles ayant un hypothénuse égale à 1. Permetant de déduire les longueurs des cotés des autres triangles simplement en multipliant leurs valeurs par la taille du triangle en question. Pour un triangle iels notaient les longueurs des cotés de ce triangle par rapport à l'angle alpha. En étudiant tous les triangles possible avec un hypothénuse égale à 1, on obtient un cercle composé de tous les sommets possible pour ces triangles.
+
+
+
+Pour simplifier les cas les mathématiciens et architectes ont étudier tous les triangles ayant un hypothénuse (le coté le plus long) égale à 1. Ainsi en traçant tout les triangle possible avec un hypothénuse égale à 1 on obtient un cercle composé de tous les sommets possible pour ces triangles. La trigonométrie est de regardé tout simplement un triangle au sein de ce cercle.
 
 ![medium](/images/technique/construction/cercle-trigo.svg)
 
