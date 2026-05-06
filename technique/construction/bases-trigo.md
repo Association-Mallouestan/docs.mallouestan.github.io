@@ -14,7 +14,7 @@ math: true
 
 ## Bases de trigonométrie
 
-La trigonométrie est née d'une envie de déterminer plus facilement les longueurs et les angles dans les triangles rectangle. Plûtot que de noter les angles ainsi que les longueurs associées à ces angles, les mathématiciens ont décidé de noter et d'étudier seulement les triangles ayant un hypothénuse égale à 1. Effectivement, si on change la taille d'un triangle, les angles restent les mêmes, seul les longueurs changent. Les longueurs changeant de manière proportionnelle ainsi si on connait les longueurs d'un triangle, on peut en déduire les longueurs d'un triangle plus grand ou plus petit en multipliant ou divisant les longueurs par la différence de taille entre les deux triangles.  
+La trigonométrie est née de la volonté de déterminer plus facilement les longueurs et les angles dans les triangles rectangle. Si on change la taille d'un triangle, les angles restent les mêmes, seul les longueurs changent. Ces derniers changent de manière proportionnelle faisant que si on connait les longueurs d'un triangle, on peut en déduire les longueurs d'un triangle plus grand ou plus petit en multipliant ou divisant les longueurs par la différence de taille entre les deux triangles.  
 
 ![medium](/images/technique/construction/trigo-taille.svg)
 
