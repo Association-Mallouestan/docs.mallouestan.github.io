@@ -65,15 +65,14 @@ Nous sommes conscient·es que chacun·e est déconstruit·e à des niveaux varia
 9. Que l'usage de nos infrastructures collectives (solaire, internet, eau) soit limité à un cadre de nécessité (administrative, médicale, scolaire ou académique, activité associative/professionnelle ponctuelle). Les jeux vidéos, le streaming, le scrolling ou tout autre usage intense de ces infrastructures hors nécessité n'est pas toléré.
 10. Tout comportement visant activement à nuire a la pérénité de l'association ou du collectif n'est pas toléré.
 
-> Ces restrictions ne sont pas le reflet de jugements moraux sur des individus qui, en dehors du lieu, ne les respecteraient pas. Ces restrictions sont limitées au contexte que nous créons et n'ont aucune prétention au-delà.  
-
-> Ces restrictions ne doivent pas être utilisées à quelques fins que ce soit à l'égard d'individus qui ne les respecteraient pas dans leurs espaces personnels. 
-
+> Ces restrictions ne sont pas le reflet de jugements moraux sur des individus qui, en dehors du lieu, ne les respecteraient pas. Ces restrictions sont limitées au contexte que nous créons et n'ont aucune prétention au-delà.
 
 ## Rôles et responsabilités
+
 Dans une optique de minimisation de pouvoir sur le lieu, les rôles suivants sont définis pour permettre à chacun·e de mieux appréhender leurs responsabilités et devoirs.
 
 Il y a quatre rôles sur le lieu :
+
 1. Visiteuse•eur
 2. Résident•e
 3. Arrimé•e
@@ -93,8 +92,8 @@ Ci-dessous, les responsabilités et droits des visiteuse•eurs. Pour l'ensemble
 | De tout faire pour ne pas représenter une charge financière ou de travail pour le reste du collectif                                                                                                                                                                 |
 | De garantir le respect, par toustes, de la charte. Pour éviter un contexte de délation, seules les situations interpersonnelles, où le bien-être d'une autre personne du lieu serait en jeu, oblige une intervention ou une notification de l'ensemble du collectif. |
 
-
 ## Gouvernance
+
 Un équilibre doit être trouvé entre les libertés individuelles et celles du collectif. Les situations suivantes, impactant le contexte commun, doivent être précédées par un vote unanime des personnes concernées par la décision: 
 
 - Tout changement de la charte ou ses annexes ;
@@ -134,6 +133,7 @@ Parmi nos objectifs, nous avons toujours valorisé l'accueil de visiteuse•eurs
 Pour plus d'informations sur la vie collective sur le lieu, il est encouragé de lire l'annexe correspondante.
 
 ### Annexes
+
 - [Vie collective](/r/charte-annexe-vie-collective.md)
 - [Responsabilités et droits](/r/charte-annexe-responsabilites-droits.md)
 - [Économie partagée](/r/charte-annexe-economie-partagee.md)
