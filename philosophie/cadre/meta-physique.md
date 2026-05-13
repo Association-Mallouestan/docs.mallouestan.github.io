@@ -8,6 +8,12 @@ tags:
   - vision
 image: /images/ressources/galaxy.jpg
 author: mallouestan
+
+playlist: 
+  name: Textes théoriques
+  by_tag:
+    - fondamentaux
+    - vision
 ---
 
 ## Avant-propos

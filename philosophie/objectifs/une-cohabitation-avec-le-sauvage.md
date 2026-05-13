@@ -7,6 +7,19 @@ tags:
   - vision
 image: /images/ressources/sauvage.jpg
 author: mallouestan
+
+related:
+  next:
+    message: Lire la suite
+    link: /r/philosophie-objectifs-techniques-democratiques
+  previous: 
+    link: /r/philosophie-objectifs-culturel
+
+playlist: 
+  name: Nos objectifs
+  by_tag:
+    - objectifs
+    - vision
 ---
 
 ### Une approche non-anthropocentrée

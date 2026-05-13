@@ -7,6 +7,19 @@ tags:
   - vision
 image: /images/ressources/objectifs/transmission.jpg
 author: mallouestan
+
+related:
+  next:
+    message: Lire la suite
+    link: /r/philosophie-objectifs-culturel
+  previous: 
+    link: /r/philosophie-objectifs-vie-saine-et-enviable
+
+playlist: 
+  name: Nos objectifs
+  by_tag:
+    - objectifs
+    - vision
 ---
 
 ### Le besoin d’expérimenter

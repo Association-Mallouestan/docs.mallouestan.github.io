@@ -13,6 +13,12 @@ message:
   content: C'est tout nouveau
   icon: flame
   color: 218380
+
+playlist: 
+  name: Textes théoriques
+  by_tag:
+    - fondamentaux
+    - vision
 ---
 
 ## Avant-propos 

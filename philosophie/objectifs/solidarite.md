@@ -7,6 +7,19 @@ tags:
   - vision
 image: /images/activities/basket-making.jpg
 author: mallouestan
+
+related:
+  next:
+    message: Lire la suite
+    link: /r/philosophie-objectifs-mutualisation-privileges
+  previous: 
+    link: /r/philosophie-objectifs-vivre-ensemble-libre
+
+playlist: 
+  name: Nos objectifs
+  by_tag:
+    - objectifs
+    - vision
 ---
 
 ### Avant propos

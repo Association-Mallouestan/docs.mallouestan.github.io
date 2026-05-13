@@ -7,6 +7,13 @@ tags:
   - vision
 image: /images/ressources/picnoir.jpg
 author: mallouestan
+
+playlist: 
+  name: Textes théoriques
+  by_tag:
+    - fondamentaux
+    - vision
+  
 ---
 
 ## Avant propos

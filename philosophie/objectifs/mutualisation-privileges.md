@@ -7,6 +7,19 @@ tags:
   - vision
 image: /images/activities/group-course-alt.jpg
 author: mallouestan
+
+related:
+  next:
+    message: Lire la suite
+    link: /r/philosophie-objectifs-convivialite
+  previous: 
+    link: /r/philosophie-objectifs-solidarite
+
+playlist: 
+  name: Nos objectifs
+  by_tag:
+    - objectifs
+    - vision
 ---
 ### Contre la propriété privée
 

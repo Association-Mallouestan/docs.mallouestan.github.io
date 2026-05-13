@@ -7,6 +7,17 @@ tags:
   - vision
 image: /images/alternatives.jpg
 author: mallouestan
+
+related:
+  next: false
+  previous:
+    link: /r/philosophie-objectifs-une-cohabitation-avec-le-sauvage
+
+playlist: 
+  name: Nos objectifs
+  by_tag:
+    - objectifs
+    - vision
 ---
 
 ### Les techniques autoritaires
