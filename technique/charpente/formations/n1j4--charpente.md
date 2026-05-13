@@ -32,8 +32,47 @@ La charpenterie ne se limite pas, contrairement à ce qu'on pourrait penser, à 
 
 Dans le cadre et la culture du Mallouestan, la formation utilisera des outils accessibles et abordables. Au travers de ces outils et leur usage il sera tout à fait possible pour les participants et participantes d'étendre ces connaissances à des outils électriques ou thermiques. Cela permet donc de travailler avec tout type d'outils même dans les cas où les outils auxquels on est habitué ne sont pas disponibles.
 
+### Contenu et programme de la formation
+
+Nous allons aborder les différents points suivants (globalement dans l'ordre présenté ci-dessous):
+
+**Jour 1 - matin**:
+
+- Présentation de la formation
+- Randonnée d'observation de différentes charpentes
+- L'anatomie globale d'une maison et d'une charpente
+
+**Jour 1 - après‑midi**:
+
+- Présentation des outils (maillet, scie, ciseau, etc.)
+- Utilisation de ces outils
+- Début du projet de construction de la formation
+
+**Jour 2 - matin**:
+
+- Présentation des assemblages en charpente
+- Pythagore, Thales et dessin d'assemblages
+
+**Jour 2 - après‑midi**: Poursuite du projet de construction de la formation
+
+**Jour 3 - matin**:
+
+- Présentation des différentes formes de charpentes (charpente à fermes, charpente à chevrons, etc.)
+- Trigonométrie et dessin de charpente
+
+**Jour 3 - après‑midi**: Poursuite du projet de construction de la formation
+
+**Jour 4 - matin**:
+
+- Présentation des différentes pièces de bois utilisées en charpente (pannes, chevrons, etc.)
+- Dessin de charpente
+
+**Jour 4 - après‑midi**: Finalisation du projet de construction de la formation
+
 ### Organisation
 
 La formation est sur 4 jours à raison de 6 heures par jour. Les matins (2 h 30) seront consacrés à la théorie et les après‑midi (3 h 30) à la pratique. Ces moments théoriques ne sont pas pour autant que des moments immobiles et scolaires mais sont aussi des moments d'observation et d'expérimentation.
 
+### Suite
 
+Une formation intermédiaire et avancée de charpente est prévue pour les personnes ayant suivi cette formation (ou équivalent) et souhaitant approfondir leurs connaissances et compétences en charpente. On pourra notamment aborder des sujets comme les saillies de tois, le calcul de la taille de bois, les assemblages plus complexes, etc.
