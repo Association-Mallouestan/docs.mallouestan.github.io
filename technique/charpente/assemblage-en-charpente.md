@@ -61,13 +61,29 @@ Un assemblage traditionnel en charpente est l'assemblage tenon-mortaise. une pi�
 
 ![medium](https://www.mallouestan.org/images/technique/charpente/assemblage--tenon-mortaise-simple.svg)
 
+#### Vocabulaire de base du tenon
+
 Si on imagine, comme dans le schéma ci-dessus, que le tenon vu de dessus forme un T, on peut se souvenir de T comme tenon. Regardons rapidement le vocabulaire de base pour parler d'un tenon:
 
 - **L'arasement ou l'arase**: Les arasements correspondent aux surfaces qui buterons avec la face de la pièce dans laquelle le tenon s'assemble. Il y a bien souvent deux arasements de chaque coté du tenon.
-- **Les joues du tenon**: Le tenon est constitué de deux joues correspondant aux grandes surfaces creusées en retrait pour former le tenon.
 - **L'épaulement d'un tenon**: L'épaule est un terme utilisé dans différents contextes pour désigner des surfaces différentes en parlant des assemblages tenon-mortaise. Ainsi, les épaules d'un **tenon** correspondent aux surfaces au-dessus ou en-dessous du tenon, quand on regarde le tenon avec les joues verticalement.
+- **L'about du tenon**: L'about du tenon correspond aux surface non parallèle à la longueur du tenon. 
+- **Les joues du tenon**: Les joues du tenon correspondent aux surfaces parallèles à la longueur du tenon et constituant la hauteur du tenon.
+- **Le chant du tenon**: Le chant du tenon correspond aux la surfaces parallèle à la longueur du tenon et constituant la largeur du tenon. 
 
-![medium](https://www.mallouestan.org/images/technique/charpente/assemblage--tenon-mortaise-voca.svg) 
+![medium](https://www.mallouestan.org/images/technique/charpente/assemblage--voca-tenon.svg)
+
+#### Vocabulaire de base de la mortaise
+
+De manière similaire, la mortaise a également son vocabulaire de base. En regardant le schéma ci-dessus, on peut identifier les éléments suivants:
+
+- **Le parement de la mortaise**: Le parement de la mortaise correspond aux sufaces former par la longueur de la mortaise et de sa profondeur. 
+- **Le fond de la mortaise**: Le fond de la mortaise correspond à la surface formée par la largeur et la longueur de la mortaise au fond de la mortaise.
+- **L'about de la mortaise**: L'about de la mortaise correspond à la surface formée par la largeur et la profondeur de la mortaise au fond de la mortaise.
+
+![medium](https://www.mallouestan.org/images/technique/charpente/assemblage--voca-mortaise.svg)
+
+> ATTENTION: L'about du tenon ne correspond pas à l'about de la mortaise. L'about doit être compris comme une surface perpendiculaire à la longueur de la pièce, bien souvent perpendiculaire aux fibres du bois.
 
 #### Traversant
 
