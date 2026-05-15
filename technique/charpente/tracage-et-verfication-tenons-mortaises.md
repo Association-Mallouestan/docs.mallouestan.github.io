@@ -30,8 +30,8 @@ EN COURS DE RÉDACTION
 
 ### Vérification des tenons 
 
-![Vérification des tenons](https://www.mallouestan.org/images/technique/charpente/verification-tenons.svg)
+![Vérification des tenons](https://www.mallouestan.org/images/technique/charpente/veritfication--tenon-non-ortho.svg)
 
 ### Vérification des mortaises
 
-![Vérification des mortaises](https://www.mallouestan.org/images/technique/charpente/verification-mortaises.svg)
+![Vérification des mortaises](https://www.mallouestan.org/images/technique/charpente/veritfication--mortaise-non-ortho.svg)
