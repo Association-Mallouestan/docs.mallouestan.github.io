@@ -7,7 +7,7 @@ tags:
   - charpente
 folders:
   - charpente-4j-debutant-e
-image: /images/technique/charpente/assemblage--entures-sifflets.svg
+image: /images/technique/charpente/assemblage--tenon-mortaise-non-ortho.svg
 author: mallouestan
 
 
