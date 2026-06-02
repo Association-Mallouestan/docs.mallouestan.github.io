@@ -13,13 +13,14 @@
 - Récap des espaces 
 
 ### Pour te nourrir et t'abreuver
-**Pour manger**, va dans la cuisine qui se trouve au rez-de chaussée de l'auberge. Tu y trouveras des étagères avec de la nourriture (céréales, confiture, pâtes, légumineuses...) en commun. Tu peux te servir quand tu le souhaites et si tu vides quelque chose, assure toi de le re-remplir à l'*Atelier*
+**Pour manger**, va dans la cuisine qui se trouve au rez-de chaussée de l'auberge. Tu y trouveras des étagères avec de la nourriture (céréales, confiture, pâtes, légumineuses...) en commun. Tu peux te servir quand tu le souhaites et si tu vides quelque chose, assure toi de le re-remplir au *Garde-Manger* (à droite en sortant de la véranda). 
 
-Comme on cuisine le soir pour deux repas il y a des plats cuisinés stockés soit dans le salon soit dans la véranda (selon la saison), si tu pioches dedans avant le repas du midi assure-toi qu'il en reste suffisamment pour chaque membre du groupe
+Comme on cuisine le soir pour deux repas, il y a des plats cuisinés stockés soit dans le salon soit sur la terasse de la cuisine extérieure (selon la saison), si tu pioches dedans avant le repas du midi assure-toi qu'il en reste suffisamment pour chaque membre du groupe.
 
-Tu trouveras du pain dans la boîte à pain sur le comptoir ou sur la table buffet du salon
+Tu trouveras parfois du pain sur la table buffet du salon, et toujours des flocons d'avoine pour le petit déjeuner, dans un grand pot en grès sur ce même buffet. Il y a des confitures, condiments, assiettes, tasses et couverts dans ce même buffet, ou dans les étagères et les tiroirs sur la terasse de la cuisine extérieure (selon la saison).
 
-Tu trouveras des fruits et légumes dans le *Garde-Mangé* (à droite en sortant de la véranda)
+Tu trouveras aussi des fruits, légumes, confitures et compotes dans le *Garde-Manger*.
+
 
 REMPLISSAGE : Nous avons un stock de bouffe sèche dans *l'atelier*. Ce stock se trouve dans les fûts bleus en métal. Si tu ouvres un nouveau sac, écris la date du jour avec un marqueur que tu trouveras près des fûts.
 +torchons
@@ -48,20 +49,18 @@ Dans cette toilette tu trouveras du papier toilette. S'il n'y en a plus, va en c
 
 La sciure se remplit dans la poubelle noire à l'extérieur à gauche de la cabane de toilette. Si la poubelle est vide, remplit-la sous le *Préau* dans le BigBag plein de sciure.
 
-Ne jette rien que du Papier toilette, pour toute autre chose, tu as une petite poubelle à tes pieds dans les toilettes.
+Ne jette rien que du papier toilette, pour toute autre chose, tu as une petite poubelle à tes pieds dans les toilettes.
 
 Il y a une tonne d'eau avec un savon à la sortie des toilettes pour te laver les mains.
 
 
-**Fais pipi** si possible derrière des arbres ou des buissons, là où tu souhaites, ça évite que la toilette sèche ne devienne trop humide.
+**Fais pipi** si possible derrière des arbres ou des buissons, là où tu souhaites, ça évite que la toilette sèche ne devienne trop humide ou odorante.
 
 
 ### Hygiène et soins
 **Pour te Laver** tu peux te doucher à l'eau froide dans la douche de la salle de bain.
 
-Tu peux te laver à l'eau chaude dans la douche de la salle de bain avec la douche manuelle qui ressemble à un bidon noir en plastique (il faut faire chauffer l'eau sur le poêle à bois le soir)
-
-Tu peux te laver au gant de toilette avec une bassine.
+Tu peux te laver à l'eau chaude, au gant de toilette ou avec une écocup, dans la douche de la salle de bain avec un mélange eau chaude + eau froide dans la bassine en plastique. Pour cela, il faut attendre le soir et faire chauffer l'eau sur le poêle à bois.
 
 Tu trouveras serviettes et gants de toilette sur l'étagère à gauche quand tu rentres dans la salle de bain.
 
@@ -69,8 +68,7 @@ Il y a du savon à disposition sur le rebord de l'évier ou dans le meuble à dr
 
 **Pour te soigner** il y a pansements, bandages, désinfectants, sérum physiologique, pince à épiler, ciseaux... dans le meuble à droite de la douche
 
-**Pour ton hygiène et ta protection** nous mettons à ta disposition dentifrice, crème solaire, préservatif, test de grossesse et serviettes hygiéniques dans le même meuble que les pansements.
-Tu trouveras aussi des serviettes hygiéniques dans les toilettes.
+**Pour ton hygiène et ta protection** nous mettons à ta disposition dentifrice, crème solaire, préservatif, test de grossesse et serviettes hygiéniques dans le même meuble que les pansements. Tu trouveras aussi des serviettes hygiéniques dans les toilettes.
 
 
 ### Pour te vêtir
@@ -79,8 +77,8 @@ On peut aussi te prêter des bottes et un manteau imperméable.
 
 ### T'outiller contre le froid
 **L'hiver** au Mallouestan c'est du sérieux. N'hésite pas à communiquer si tu as du mal à supporter le froid, nous t'aiderons à t'armer pour le braver.
-Pour dormir au chaud, tu peux prendre une bouillotte d'eau chaude pour chauffer ton lit (dans le meuble étiqueté du dortoir).
-Il y a aussi de nombreuses couettes que tu peux prendre.
+Pour dormir au chaud, tu peux prendre une bouillotte d'eau chaude pour chauffer ton lit : elle se trouve dans la salle de bain, tout en bas du meuble à droite de la douche. Le soir, demande à la personne qui fait le feu de te garder de l'eau chaude pour ta bouillotte.
+Il y a aussi de nombreuses couettes que tu peux prendre, elles sont stockées au dortoir.
 
 
 ### Pour te divertir
@@ -88,23 +86,23 @@ Il y a aussi de nombreuses couettes que tu peux prendre.
 
 **La Ludothèque**  se trouve sur l'étagère d'angle à côté du canapé du salon. Elle commence à avoir pas mal de jeux de société auxquels tu peux jouer avec qui tu souhaites. N'hésite pas à initier des soirées jeux si l'envie t'en dit !
 
-**La Sall'a tout** est une pièce polyvalente où tu trouveras de l'espace pour bouger (ne fais pas de trucs trop violents, genre te jeter au sol de toutes tes forces, le parquet est fragile). Tu trouveras des instruments et des équipements d'entraînement. N'oublie pas le coup de balais après avoir utilisé l'espace.
+**La Sall'a tout** est une pièce polyvalente où tu trouveras de l'espace pour bouger (ne fais pas de trucs trop violents, genre te jeter au sol de toutes tes forces, le parquet est fragile... et ça peut te blesser). Tu trouveras des instruments et des équipements d'entraînement. N'oublie pas le coup de balais après avoir utilisé l'espace.
 
-**Vélo** Certains vélos peuvent être prêtés. Ils sont stockés dans l'abri à vélo (la bâtisse avec un préau devant l'auberge), assure toi que tu peux le prendre avant de l'utiliser.
+**Vélo** Certains vélos peuvent être prêtés. Ils sont stockés dans l'abri à vélo (la bâtisse avec un préau devant l'auberge). Assure-toi auprès d'un-e habitant-e que tu peux le prendre avant de l'utiliser.
 
 
 ### Pour charger ton téléphone
-**Le Garde-Mangé** dispose d'une station de chargement où tu peux recharger ton téléphone le matin 1 jour sur 2. Si tu as besoin de le charger plus ou de charger autre chose (ordinateur, batterie, etc.) discutes-en avec nous.
+**Le Garde-Manger** dispose d'une station de chargement où tu peux recharger ton téléphone le matin 1 jour sur 2. Si tu as besoin de le charger plus ou de charger autre chose (ordinateur, batterie, etc.) discutes-en avec nous.
 
 ### Pour accéder à internet et à un ordinateur
 **Le bureau** se situe au premier étage de l'Auberge, juste avant l'escalier du dortoir. Tu peux y accéder quand tu souhaites et demander à y être seul-e si personne ne l'utilise déjà. Tu y trouveras l'ordinateur commun.
 
-L'accès à internet est permis par un partage de connexion donné par le téléphone de l'association. Il te faudra t'organiser avec le-la résident-e qui le détient.
+L'accès à internet, dans le cadre d'usage donné par la charte, est permis par un partage de connexion donné par le téléphone de l'association. Il te faudra t'organiser avec le-la résident-e qui le détient.
 
 
 ### Pour t'aider sur le lieu
 
-**La charte** régit les règles du lieu. Tu dois l'avoir lue avant ta venue. Elle est mise à jour régulièrement alors n'hésite pas à la relire même si tu as l'habitude de venir. Tu la trouveras imprimée dans la cuisine ou en ligne (un-e résident-e peut te la partager si tu veux).
+**La charte** régit les règles du lieu. Tu dois l'avoir lue avant ta venue. Elle est mise à jour régulièrement alors n'hésite pas à la relire même si tu as l'habitude de venir. Soit tu la trouveras imprimée dans la cuisine, soit en ligne (un-e résident-e peut te la partager si tu veux).
 
 **L'organisation** du lieu peut paraître complexe. Tu disposes des tableaux dans le salon et à l'entrée de la cuisine pour visualiser les tâches à faire et quand les faire. Sur le grand tableau à craie du salon, tu auras une idée du déroulé de la semaine.
 
@@ -130,7 +128,7 @@ N'hésite pas à poser des questions si ce n'est pas clair ou s'il te manque des
 - Le dortoir (literie et cie)
 - La Petite chambre (literie et cie)
 
-**Le Garde-Mangé**
+**Le Garde-Manger**
 
 - Fruits et légumes
 - Compotes, confitures, conserves
@@ -140,7 +138,8 @@ N'hésite pas à poser des questions si ce n'est pas clair ou s'il te manque des
 
 - Espace pour couper le bois
 - Espace pour étendre le linge
-- Big Bag de sciure de bois
+- Tonneau de vinaigre
+- Matériel pour laver le linge
 
 **L'abris à bois**
 
@@ -155,34 +154,32 @@ N'hésite pas à poser des questions si ce n'est pas clair ou s'il te manque des
 
 **Les clapiers**
 
-- Stock de légumes pour les cochons
 - Stock de grains et foin pour les non-humains
 
 **Le jardin**
 
 - Le hangar (rangement des matériaux de construction)
 - La cour des matériaux (Entreposage de matériaux encombrants, stock de bois)
+- Big Bag de sciure de bois
 
-**La grange**
+**Le couloir de la salle des fêtes**
 
-- Stockage
-- Mur d'escalade
+- Etagère à outils (menuiserie, charpenterie, vis, clous)
+- En haut de l'escalier, stockage de bois et d'autres matériels et outils
 
-**La pharmacie**
+**La salle des fêtes** 
 
-- Nécessaire de soins pour les non-humains et médicaments
-- Registre et tableau des soins pour les non-humains
+- Espace pour les fêtes et concerts en intérieur
+- Espace pour les chantiers participatifs (charpente, etc.)
 
-**L'Atelier**
+**L'Atelier extérieur**
 
-- Outils (menuiserie, charpenterie, vis, clous, outils clôture)
 - Espace de travail pour chantier charpenterie/menuiserie et autre 
 - EPI (Equipement de protection individuel)
 
-**La Remise**
+**Les cabanons à outils (Pépinière et proche de la Buttinerie)**
 
 - Outils de maraîchage et jardinage
-- Graines et semences
 
 **Les toilettes sèches**
 
@@ -194,16 +191,14 @@ N'hésite pas à poser des questions si ce n'est pas clair ou s'il te manque des
 
 **La Pépinière**
 
-- La serre (entreposage de plants l'hiver, stock de paille pour les canards)
-- Le châssis (pour les semis en godets)
+- La serre (pour les semis en godets)
 
 **L'agroforesterie**
 
-- Arbres fruitiers
-- Espace pour les tentes
+- Espace camping pour les tentes et tarp
+- Arbres fruitiers (encore petits, pas moyen de mettre un hamac ici)
 - Douche extérieure et toilettes portatives
 
 **Parking**
 
 - Stationnement véhicules
-- Porte enclos Sacco et Vanzetti
