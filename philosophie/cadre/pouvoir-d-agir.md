@@ -114,6 +114,8 @@ L'exemple ci-dessus est inspiré de plusieurs mouvements militants qui ont connu
 
 --- A LIRE DE ICI pour homogéniser conceptuellement
 
+### L'approche démocratique et les répertoires conventionnels
+
 
 ### La question de la culture et de la guerre culturelle
 
@@ -150,7 +152,11 @@ Ces stratégies de guerre culturelle doivent donc être analysés en prenant en 
 En utilisant maladroitement [A EXPLIQUER] un élément de la culture militante marxiste et socialiste soit l'appropriation des moyens de production cette chaîne explique miser sur l'intelligence artificielle pour augmenter son efficacité dans la guerre culturelle. Dans cette vidéo la chaîne explique l'avantage et le monopole qu'on ses ennemis notamment grâce à l'intelligence artificielle. Elle explicite la asymétrie et souhaite y faire face en adoptant des outils similaires. Elle n'explique pourtant pas comment en adoptant ces outils elle réussira à son échelle à peser contre ses ennemis. On pourrait se dire qu'il faut adopter ces outils pour éviter que l'écart se creuse davantage mais si l'écart final ne permet pas pour autant de gagner d'autres postures sont plus pertinentes a adoptés. 
 Conclure sur la nécéssité au niveau de la culture d'un hermétisme avec la culture dominante pour ne pas être assimilé et pour pouvoir créer une culture alternative.
 
-### Asymétrie globale
+### Répertoire disruptif, transgressif, et violent
+
+#### Asymétrie globale
+
+= APLIQUER AUX REPERTOIRES
 
 Les exemples ci-dessus peuvent être généralisés et doivent être généralisé à toutes les formes de lutte. Tout d'abord la puissance d'un outil n'est pas suffisant pour justifier une stratégie surtout si l'ennemi a de multiples avantages sur l'outil en question. Combattre le feu avec le feu ne marche pas très bien quand l'ennemi a un lance-flamme et nous une allumette. Surtout quand l'ennemi est celui qui nous fournit la lunette. Mais au-delà des outils l'asymétrie doit être un élément pris en compte au sein des stratégies militantes. En effet n'importe quel système qui en a la capacité cherchera à se défendre lors d'attaque. Dans le cadre d'asymétrie attaquer pour attaquer n'est pas très pertinent quand l'asymétrie joue en notre défaveur. Au-delà d'être annihilé le risque et de permettre à nos ennemis de s'habituer ou de mieux se préparer à ses attaques. Il est possible de prendre par surprise un ennemi mais si nous ne réussissons pas l'objectif cela et d'autant plus difficile une deuxième fois. 
 
@@ -171,14 +177,16 @@ Un autre point crucial souvent oublié et la multitude d'ennemis annexe. D'autre
 
 Un exemple particulièrement éclairant est celui de Notre‑Dame‑des‑Landes. Dans cette lutte, le mouvement parvient progressivement à fragiliser l’État et les promoteurs, ouvrant une véritable fenêtre d’opportunité. Mais cette fragilisation crée aussi un espace dans lequel des acteurs externes, jusque‑là périphériques au conflit, interviennent pour imposer leur propre vision. Une fois le projet abandonné, ce ne sont pas les collectifs de la ZAD qui définissent l’avenir des terres, mais la Chambre d’agriculture, la FNSEA et les élus locaux, qui profitent de l’occasion pour tenter de réinstaller un modèle agricole productiviste, incompatible avec les pratiques et les valeurs portées par les zadistes. Nous avons là un cas d'école de tier prédateur. Le cas de Notre-Dame-des-Landes as dût également faire face à une coalition réactive. De nombreux acteurs ruraux — agriculteurs conventionnels, propriétaires fonciers, commerçants, élus — se rallient au camp pro‑retour à l’ordre, non parce qu’ils soutenaient l’aéroport, mais par peur d’être les prochains ciblés par les critiques écologistes ou par crainte de perdre les financements et les équilibres locaux. Ainsi, la victoire contre l’aéroport ouvre paradoxalement la voie à une reprise en main institutionnelle par des acteurs externes, et à une mobilisation réactive d’acteurs locaux qui imposent une vision opposée à celle du mouvement initial. Notre‑Dame‑des‑Landes illustre donc parfaitement ces deux dynamiques : l’intervention opportuniste d’un tiers dans une brèche créée par la lutte, et la formation d’un front défensif élargi qui renforce l’asymétrie du rapport de force.
 
+### L'état des lieux des luttes proactives
+
+#### Retour sur les résultats
+
+#### Militantisme libérale
+
+#### Militantisme irréaliste
+
 ### En attendant 
 
-#### Luttes réactives
-
-#### Préparer la défaite
-
-#### Construire des collectifs de résistance
-
-#### Construire une culture résistante  
+#### Militantisme réactif
 
 ### Conclusion
