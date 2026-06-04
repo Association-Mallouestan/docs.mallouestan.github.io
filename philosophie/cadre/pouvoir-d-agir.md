@@ -104,7 +104,7 @@ Une stratégie est certes une vue globale mais c'est une vue qui doit être cons
 - Objectif: nous voulons une justice au niveau des salaires des femmes, tactiques: plaidoyerie, pétition et réformisme. 
 - objectif: Nous voulons empêcher total de construire une nouvelle pipeline, tactique: sabotage, manifestation, plaidoyerie 
 
-Voilà de stratégie partielle autour duquel il est possible de fédérer des militants et d'établir des actions et des missions pour le groupe ainsi créé. Le problème c'est qu'il manque de nombreux autres éléments essentiels à l'élaboration d'une stratégie efficace ou tout au moins qui a le potentiel de l'être. Dans ce qui a été nommé ci-dessus il n'y a pas de temporalité, il n'y a pas d'analyse les outils ou l'effectif nécessaire pour espérer réussir. Il n'y a pas de condition d'opportunité autrement dit des moments potentiels où il faut mettre en place tel ou tel tactique en place car particulièrement efficace à ce moment-là. Il n'y a pas de prise en compte de la réaction adverse et de notre capacité à y faire face. Autrement dit ces stratégies manquent de substance mais surtout d'analyse des conditions matérielles qui rendent ces stratégies crédible. 
+Voilà de stratégie partielle autour duquel il est possible de fédérer des militants et d'établir des actions et des missions pour le groupe ainsi créé. Le problème c'est qu'il manque de nombreux autres éléments essentiels à l'élaboration d'une stratégie efficace ou tout au moins qui a le potentiel de l'être. Dans ce qui a été nommé ci-dessus il n'y a pas de temporalité, il n'y a pas d'analyse les outils ou l'effectif nécessaire pour espérer réussir. N'est pas présent non plus **les fenêtres d’opportunité** autrement dit des moments potentiels où il faut mettre en place tel ou tel tactique en place car particulièrement efficace à ce moment-là. Il n'y a pas de prise en compte de la réaction adverse et de notre capacité à y faire face. Autrement dit ces stratégies manquent de substance mais surtout d'analyse des conditions matérielles qui rendent ces stratégies crédible. 
 
 Beaucoup de collectif s'embourbe dans des stratégies qui deviennent presque exclusivement un ensemble d'objectif est tactique. Sans indicateur permettant de juger l'efficacité ou de plan de sortie certains collectifs continuent inlassablement un mode d'action cherchant à atteindre un objectif qui empiriquement n'est pas plus proche qu'au début du mouvement. Dans ces cas ressort principalement le gaspillage d'efforts militants car les aspects identitaires [ l'impression d'appartenir à un groupe] sont souvent temporaires dû au conflit et à l'instabilité inhérent à ces milieux. 
 
@@ -153,9 +153,58 @@ Les exemples ci-dessus peuvent être généralisés et doivent être généralis
 
 Autrement dit nous pouvons faire le parallèle avec un organisme. Si l'organisme est attaqué et qu'il réussit à repousser l'attaque il pourra construire des défenses plus efficaces pour l'avenir. C'est le principe des vaccins qui va " entraîner" un organisme à se défendre contre certaines attaques. Les stratégies doivent donc pour réussir prendre en compte cette réalité. Elles doivent donc éviter d'immuniser ces ennemis. Dans un contexte d'asymétrie il faut viser à submerger, prendre par surprise, ou attaquer un système fragilisé par ailleurs. Pour cela il faut les moyens de le faire un élément essentiel à figurer dans une stratégie. Les stratégies doivent faire figurer aussi les moyens d'évolution permettant de contourner l'immunisation de ses ennemis. 
 
-## La question de la coercition
+### Condions matérielles 
 
-Pas obligatoirement violent la coercition
+A prendre en compte
 
-toujours la problématique de l'asymétrie
+#### Autres limites externes
 
+criminalisation des mouvements
+
+judiciarisation (procès, amendes, interdictions)
+
+surveillance numérique (OSINT, reconnaissance faciale, infiltration)
+
+police administrative (interdictions préventives)
+
+lois anti‑terroristes détournées
+
+infiltration et division
+
+cooptation (ONGisation, subventions conditionnelles)
+
+fabrique du consentement - position de pouvoir
+
+#### Les limites internes
+
+épuisement militant / burn-out
+
+turnover et perte de compétences
+
+conflits internes (idéologiques, organisationnels, identitaires)
+
+effet bulle (entre-soi, homogénéité sociale)
+
+fragmentation des luttes
+
+captation par les egos / leaders charismatiques
+
+problème de reproduction sociale (qui peut militer ? qui a le temps ?)
+
+#### Les fenêtres d’opportunité
+
+crises économiques
+
+scandales politiques
+
+effondrement de légitimité
+
+moments de vacance du pouvoir
+
+basculements culturels rapides
+
+### En attendant 
+
+Defensif
+
+### Conclusion
