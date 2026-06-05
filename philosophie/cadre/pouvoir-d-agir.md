@@ -104,20 +104,101 @@ En sociologie politique, la théorie des mouvements politiques contestataires es
 7. **Polarisation / alignement** : Comment le mouvement se positionne par rapport aux autres acteurs et comment elle compose avec eux. Cela englobe la également la formation d’alliances, les scissions internes, et la gestion d'un positionnement différent (peut être pas apprécié) au sein d'un paysage militant.
 8. **Mécanismes de transformation** : L'évolution du mouvement dans le temps.
 
-Une stratégie est certes une vue globale mais c'est une vue qui doit être construite de manière diligente et **se doit d'être le moins hors sol que possible**. Une stratégie doit donc prendre en compte ces éléments pour espérer amener les changements souhaités. Il ne suffit pas d'avoir une bonne idée ou de bonnes tactiques, il faut aussi être capable de mobiliser les ressources nécessaires, de saisir les opportunités politiques, de construire un cadrage efficace, de gérer les interactions avec les autres acteurs, de diffuser ses idées et ses pratiques, de se positionner stratégiquement, et d'évoluer dans le temps.
+Une stratégie est certes une vue globale mais elle doit être construite de manière diligente et **se doit d'être le moins hors sol que possible**. Une stratégie doit donc prendre en compte ces éléments pour espérer amener les changements souhaités. Il ne suffit pas d'avoir une bonne idée ou de bonnes tactiques, il faut aussi être capable de mobiliser les ressources nécessaires, de saisir les opportunités politiques, de construire un cadrage efficace, de gérer les interactions avec les autres acteurs, de diffuser ses idées et ses pratiques, de se positionner stratégiquement, et d'évoluer dans le temps.
 
 Malheursement, de nombreux mouvements militants font fi de ces éléments. Beaucoup de collectif s'embourbe dans des stratégies qui deviennent sont composé presque exclusivement d'objectifs et d'idées (processus de cadrage) ainsi que de modes d'actions (répertoires d'actions). Sans indicateur permettant de juger l'efficacité ou de plan de sortie certains collectifs continuent inlassablement un mode d'action cherchant à atteindre un objectif. Innéficace, ils se retrouvent à gaspiller malgrès eux de l'efforts et des ressources militantes. 
 
-Prenons un movement militant commme exemple, leurs objectif est d'arrêter l'industrie avec comme tactiques la sensibilisation, l'éducation ainsi que des actions symboliques. Ce **répertoire d'actions** as aussi pour but de mener une guerre culturelle qui pourra notament légitimer par ailleurs des guerres de mouvement moins légal opposé à l'industrie. Il est identifié qu'il faut développer un ensemble de groupes locaux, de louer des locaux/bureaux dans des grandes villes, ainsi qu'un ensemble de ressources humaines et matérielles notamment des personnes avec des compétences dans la communication. Ce mouvement à donc réfléchi aux **structure de mobilisation**. Le collectif à réfléchi aux moyens de former les nouveaux militants et organise des moments de transmission entre les groupes locaux. Le collectif as ainsi travaillé sur la question de **la statégie de diffusion**. Si pour des raisons internes, de "management" toxique, d'absence outils de convivialité ou d'outil de fédération efficace la stratégie ne peut être viable. Si les personnes que l'on envisage de recruter sont peu compétents et mèneront probablement à ce qui vient juste d'être explicité la stratégie n'est pas crédible et à peu de chance de succès. Par ailleurs ce collectif à identifier de nombreuses occasions pour faire valoir un discours antagoniste à l'industrie notamment lors de la sortie de rapports alarmants sur l'impact de l'intelligence artificielle ainsi que les divers scandales autour de l'industrie. Il a ainsi identifié des **opportunités politiques**. Ce mouvement se lance et se développe. Il se heurte à une forte opposition de la part de collectif et de militants qui ne partagent pas les mêmes valeurs. Elle ignore se point de friction et continue à mener ses actions. Le recrutement devient de plus en plus difficile et il est nécessaire de recadrer pour mieux mobiliser. Une scission interne survient et le mouvement se divise en deux. Le mouvement qui avait comme rempart son unité apparente se retrouve affaibli et n'ayant pas d'alliés pour faire face à cette crise.
+Prenons un movement militant commme exemple, qui a comme objectif est d'arrêter l'industrie avec comme tactiques la sensibilisation, l'éducation ainsi que des actions symboliques. Ce **répertoire d'actions** as aussi pour but de mener une guerre culturelle qui pourra notament légitimer par ailleurs des guerres de mouvement moins légal opposé à l'industrie. Il est identifié qu'il faut développer un ensemble de groupes locaux, de louer des locaux/bureaux dans des grandes villes, ainsi qu'un ensemble de ressources humaines et matérielles notamment des personnes avec des compétences dans la communication. Ce mouvement à donc réfléchi aux **structure de mobilisation**. Le collectif à réfléchi aux moyens de former les nouveaux militants et organise des moments de transmission entre les groupes locaux. Le collectif as ainsi travaillé sur la question de **la statégie de diffusion**. Si pour des raisons internes, de "management" toxique, d'absence outils de convivialité ou d'outil de fédération efficace la stratégie ne peut être viable. Si les personnes que l'on envisage de recruter sont peu compétents et mèneront probablement à ce qui vient juste d'être explicité la stratégie n'est pas crédible et à peu de chance de succès. Par ailleurs ce collectif à identifier de nombreuses occasions pour faire valoir un discours antagoniste à l'industrie notamment lors de la sortie de rapports alarmants sur l'impact de l'intelligence artificielle ainsi que les divers scandales autour de l'industrie. Il a ainsi identifié des **opportunités politiques**. Ce mouvement se lance et se développe. Il se heurte à une forte opposition de la part de collectif et de militants qui ne partagent pas les mêmes valeurs. Elle ignore se point de friction et continue à mener ses actions. Le recrutement devient de plus en plus difficile et il est nécessaire de recadrer pour mieux mobiliser. Une scission interne survient et le mouvement se divise en deux. Le mouvement qui avait comme rempart son unité apparente se retrouve affaibli et n'ayant pas d'alliés pour faire face à cette crise.
 
-L'exemple ci-dessus est inspiré de plusieurs mouvements militants qui ont connue des difficultés simmilaires. Une erreur d'analyse ou d'anticipation des **dynamiques d'interaction** peut être fatale pour un mouvement. L'absence de prise en compte de la question de la **polarisation/alignement** peut aussi être un facteur d'échec. Maintenant que nous somme outillé conceptuellement pour analyser les stratégies militantes, il est temps de se pencher sur les différentes stratégies et leurs limites. Nous allons commencer par la question de la culture et de la guerre culturelle.
+L'exemple ci-dessus est inspiré de plusieurs mouvements militants qui ont connue des difficultés simmilaires. Une erreur d'analyse ou d'anticipation des **dynamiques d'interaction** peut être fatale pour un mouvement. L'absence de prise en compte de la question de la **polarisation/alignement** peut aussi être un facteur d'échec. Maintenant que nous somme outillé conceptuellement pour analyser les stratégies militantes, il est temps de se pencher sur les différentes stratégies et leurs limites. Nous allons commencer avec les stratégies portant des répertoires d'actions conventionnels.
 
---- A LIRE DE ICI pour homogéniser conceptuellement
+### Analyse des répertoires d'actions
 
-### L'approche démocratique et les répertoires conventionnels
+#### L'approche démocratique et les répertoires conventionnels
+
+<!-- Rappel et définition des répertoires conventionnels   -->
+Formes d’action institutionnalisées, légitimes et attendues dans un régime démocratique.  
+Exemples : pétitions, plaidoyer, élections, consultations publiques, manifestations déclarées.  
+**Sources :**  
+- Charles Tilly, *Contentious Performances* (2008)  
+- Sidney Tarrow, *Power in Movement* (2011)
+- Della Porta & Diani, *Social Movements: An Introduction* (2020)
+
+<!-- Exemple d’un mouvement utilisant principalement ces répertoires   -->
+La mobilisation en faveur du mariage pour tous en France constitue un exemple particulièrement éclairant de réussite obtenue principalement grâce aux répertoires d’action conventionnels. Dès la fin des années 2000, un ensemble d’associations LGBT+, de collectifs citoyens, de syndicats et de partis politiques ont structuré une coalition large et stable, capable de mobiliser des ressources humaines, organisationnelles et médiatiques importantes. Leur stratégie reposait sur un cadrage clair — l’égalité des droits et la lutte contre les discriminations — qui a permis de rendre la revendication lisible, légitime et compatible avec les valeurs républicaines. Les tactiques mobilisées relevaient presque exclusivement du répertoire conventionnel : manifestations déclarées, campagnes de sensibilisation, tribunes médiatiques, lobbying parlementaire, participation aux consultations publiques et production d’expertises juridiques. Cette stratégie a rencontré une opportunité politique favorable avec l’élection de François Hollande en 2012, dont le programme incluait explicitement l’ouverture du mariage aux couples de même sexe. Malgré une opposition structurée et massive, le mouvement a su maintenir une pression constante, articuler ses revendications dans les arènes institutionnelles et bénéficier d’un contexte politique relativement ouvert. L’adoption de la loi Taubira en 2013 illustre ainsi la capacité des répertoires conventionnels à produire des transformations législatives significatives lorsque les structures de mobilisation, les opportunités politiques et le cadrage sont alignés.
+
+<!-- Filtrage institutionnel et médiatique -->
+Les institutions sont conçues pour :  
+- stabiliser l’ordre social  
+- protéger les intérêts établis  
+- éviter les changements brusques  
+Elles favorisent les coalitions de maintien.  
+**Sources :**  
+- McAdam, Tarrow & Tilly, *Dynamics of Contention* (2001)  
+- Theda Skocpol, *States and Social Revolutions* (1979) 
+
+- Les institutions filtrent les revendications.  
+- Les positions de pouvoir exigent l’acceptation des règles du jeu.  
+- La marge de manœuvre est faible pour ceux qui veulent conserver leur position.  
+**Sources :**  
+- Noam Chomsky & Edward Herman, *Manufacturing Consent* (1988)  
+- Pierre Bourdieu, *Sur la télévision* (1996)
+
+<!-- Paradoxes du pouvoir   -->
+Pour influencer les institutions, un mouvement doit :  
+- modérer ses revendications  
+- adopter un langage acceptable  
+- éviter la confrontation  
+- respecter les règles du système  
+Ce processus neutralise les revendications les plus transformatrices.  
+**Sources :**  
+- Frances Fox Piven & Richard Cloward, *Poor People’s Movements* (1977)  
+- Tarrow, *Power in Movement* (2011)
+
+<!-- Asymétrie structurelle entre dominants et dominés   -->
+Les acteurs dominants disposent de :  
+- ressources financières  
+- accès aux médias  
+- réseaux politiques  
+- expertise institutionnelle  
+Les acteurs dominés disposent de ressources limitées.  
+**Sources :**  
+- McCarthy & Zald, *Resource Mobilization Theory* (1977)  
+- Tilly, *From Mobilization to Revolution* (1978)
+
+<!-- Un système fondé sur des inégalités ne peut pas se réformer lui-même   -->
+Les institutions modernes sont issues de contextes :  
+- coloniaux  
+- capitalistes  
+- patriarcaux  
+- productivistes  
+Elles gèrent les rapports de domination plus qu’elles ne les abolissent.  
+**Sources :**  
+- Cedric Robinson, *Black Marxism* (1983)  
+- Silvia Federici, *Caliban and the Witch* (2004)  
+- Nancy Fraser, *Fortunes of Feminism* (2013)
+
+<!-- Conclusion : utilité et limites des répertoires conventionnels   -->
+Utiles pour :  
+- construire une légitimité  
+- mobiliser largement  
+- obtenir des réformes partielles  
+
+Limités pour :  
+- transformer les structures  
+- affronter des intérêts puissants  
+- modifier les fondements du système  
+
+**Sources :**  
+- Tilly & Tarrow, *Contentious Politics* (2015)  
+- Della Porta, *Social Movements and the State* (1995)
 
 
-### La question de la culture et de la guerre culturelle
+#### La question de la culture et de la guerre culturelle
+
+<!-- ======================================== -->
+<!-- A REVOIR EN VUE DES CHANGEMENTS DE PLANS -->
+<!-- ======================================== -->
 
 Les stratégies de guerre culturelle doivent donc être évaluées à l'aune de ces constat. Rappelons que la guerre culturelle et le fait de normaliser des valeurs et de faire accepter des idées en vue d'amener du changement. Cette guerre culturelle est d'actualité où l'empire médiatique de Bolloré inquiète sur son influence et sa capacité à agir sur le sens commun [notion de Gramsci vue plus haut]. Des médias cherchent à résister comme Blast, le canard réfractaire, ou encore Radio Nova. Ce dernier est porté par le groupe Combat dont le nom fait référence explicitement à cette guerre culturelle. Les associations comme l214 cherche aussi au travers de l'information et de la sensibilisation d'inscrire dans l'hégémonie les valeurs qui leur sont chères. 
 
@@ -152,11 +233,87 @@ Ces stratégies de guerre culturelle doivent donc être analysés en prenant en 
 En utilisant maladroitement [A EXPLIQUER] un élément de la culture militante marxiste et socialiste soit l'appropriation des moyens de production cette chaîne explique miser sur l'intelligence artificielle pour augmenter son efficacité dans la guerre culturelle. Dans cette vidéo la chaîne explique l'avantage et le monopole qu'on ses ennemis notamment grâce à l'intelligence artificielle. Elle explicite la asymétrie et souhaite y faire face en adoptant des outils similaires. Elle n'explique pourtant pas comment en adoptant ces outils elle réussira à son échelle à peser contre ses ennemis. On pourrait se dire qu'il faut adopter ces outils pour éviter que l'écart se creuse davantage mais si l'écart final ne permet pas pour autant de gagner d'autres postures sont plus pertinentes a adoptés. 
 Conclure sur la nécéssité au niveau de la culture d'un hermétisme avec la culture dominante pour ne pas être assimilé et pour pouvoir créer une culture alternative.
 
-### Répertoire disruptif, transgressif, et violent
+#### Répertoire disruptif, transgressif, et violent
 
-#### Asymétrie globale
+<!-- Répertoire disruptif   -->
+**Définition :**  
+Actions qui perturbent l’ordre normal sans violer directement la loi. Elles créent un coût pour les institutions ou les adversaires tout en restant non violentes.  
+**Exemples :** grèves, blocages, occupations, sit‑ins, désobéissance civile non violente.
 
-= APLIQUER AUX REPERTOIRES
+**Exemple réel : Le mouvement des droits civiques (États‑Unis, 1955–1968)**  
+Le mouvement des droits civiques a mobilisé des tactiques disruptives telles que les sit‑ins, les boycotts, les marches massives et la désobéissance civile. Ces actions visaient à perturber l’ordre ségrégationniste sans recourir à la violence. Le boycott des bus de Montgomery, les sit‑ins de Greensboro ou les Freedom Rides ont imposé un coût économique et politique aux institutions ségrégationnistes. Grâce à une forte capacité de mobilisation, un cadrage moral puissant et une opportunité politique favorable, ces tactiques ont contribué à l’adoption du Civil Rights Act (1964) et du Voting Rights Act (1965).
+
+**Limites sociologiques :**  
+- Dépendance à la **tolérance policière** : une répression trop forte peut briser la dynamique.  
+- Risque de **perte de légitimité** si la perturbation est perçue comme excessive.  
+- Forte **fatigue militante** due à l’intensité des actions.  
+- Possibilité de **criminalisation** ou de restrictions légales.
+
+**Sources :**  
+- Aldon Morris, *The Origins of the Civil Rights Movement* (1984)  
+- Doug McAdam, *Political Process and the Development of Black Insurgency* (1982)  
+- Sidney Tarrow, *Power in Movement* (2011)
+
+<!-- Répertoire transgressif   -->
+**Définition :**  
+Actions qui franchissent une limite légale ou normative sans recourir à la violence physique. Elles assument une rupture avec les règles institutionnelles.  
+**Exemples :** sabotage léger, intrusions, occupations illégales, actions clandestines.
+
+**Exemple réel : Extinction Rebellion (2018–2024)**  
+Extinction Rebellion (XR) utilise des tactiques transgressives telles que les blocages non déclarés, les occupations illégales de ponts ou de bâtiments, et des perturbations ciblées dans des lieux stratégiques. L’objectif est de forcer l’agenda climatique par la rupture non violente. Ces actions ont généré une forte visibilité médiatique et ont contribué à inscrire l’urgence climatique dans le débat public. Cependant, XR a également fait face à une répression accrue, à des arrestations massives et à des débats internes sur la légitimité et l’efficacité de ces tactiques.
+
+**Limites sociologiques :**  
+- Risque de **basculement vers la violence** selon la dynamique d’escalade.  
+- **Isolement** du mouvement si la transgression est perçue comme illégitime.  
+- **Répression accrue** et surveillance policière renforcée.  
+- Difficulté à maintenir un **cadrage moral positif** face aux critiques médiatiques.
+
+**Sources :**  
+- Graeme Hayes, *Disobedient Youth* (2022)  
+- Donatella Della Porta, *Protest in Time of Crisis* (2015)  
+- Tilly & Tarrow, *Contentious Politics* (2015)
+
+<!-- Répertoire violent   -->
+**Définition :**  
+Actions impliquant des dommages physiques, des menaces ou une destruction ciblée. Elles visent à imposer un coût direct par la force.  
+**Exemples :** sabotage lourd, affrontements, guérilla, terrorisme, insurrection armée.
+
+**Exemple réel : L’IRA (Irish Republican Army)**  
+*(Note : L’IRA est responsable de violences graves, d’attentats et de pertes humaines importantes. Cet exemple est présenté dans un cadre strictement analytique et historique.)*
+
+L’IRA a mobilisé un répertoire violent incluant attentats à la bombe, assassinats ciblés, sabotage lourd et guérilla urbaine. Son objectif était de mettre fin à la présence britannique en Irlande du Nord et d’imposer un coût politique et militaire à l’État britannique. Dans les années 1970, une partie de la population catholique/nationaliste percevait l’IRA comme un acteur de défense communautaire face à la répression policière et paramilitaire. Cependant, cette légitimité a fluctué au fil du temps : les attentats visant des civils, comme celui de Birmingham (1974) ou d’Omagh (1998, commis par une dissidence), ont entraîné une chute massive du soutien public. Cette évolution illustre un point central de la sociologie des mouvements violents : **la légitimité publique est instable, fragile, et peut s’effondrer après un seul événement perçu comme moralement inacceptable**. L’IRA a finalement participé au processus politique menant à l’Accord du Vendredi Saint (1998), marquant un passage progressif du répertoire violent au répertoire institutionnel.
+
+**Limites sociologiques :**  
+- Risque de **perte totale de légitimité** après des actions jugées moralement inacceptables.  
+- **Répression massive** et durable, pouvant détruire les structures de mobilisation.  
+- **Fragmentation interne** (scissions, dissidences, radicalisation).  
+- Difficulté à transformer une **victoire militaire** en **victoire politique** durable.  
+- Risque de **spirale violence–répression** auto‑entretenue.
+
+**Sources :**  
+- Donatella Della Porta, *Social Movements, Political Violence, and the State* (1995)  
+- Stathis Kalyvas, *The Logic of Violence in Civil War* (2006)  
+- Richard English, *Armed Struggle: The History of the IRA* (2003)  
+- McAdam, Tarrow & Tilly, *Dynamics of Contention* (2001)
+
+<!-- Conclusion   -->
+Les répertoires disruptifs, transgressifs et violents permettent de créer des ruptures que les répertoires conventionnels ne peuvent pas produire. Ils sont souvent mobilisés lorsque les institutions sont fermées, lorsque les asymétries de pouvoir sont trop fortes, ou lorsque les réformes sont jugées insuffisantes. Cependant, chacun comporte des limites structurelles : dépendance à la répression, fragilité de la légitimité, risques d’escalade, fragmentation interne et difficultés d’institutionnalisation.
+
+**Sources générales :**  
+- Tilly & Tarrow, *Contentious Politics* (2015)  
+- Della Porta & Diani, *Social Movements* (2020)
+
+#### Synthèse des répertoires d’action
+
+| Répertoire | Objectif stratégique | Avantages | Limites               |
+|-----------|----------------------|-----------|------------------------|
+| **Conventionnel** | Influencer les institutions par des moyens reconnus et légitimes. | Forte légitimité publique ; faible répression ; accès aux décideurs ; stabilité. | Faible capacité de rupture ; filtrage institutionnel ; asymétrie de ressources ; lenteur des réformes. |
+| **Disruptif** | Créer un coût économique, politique ou symbolique pour forcer une négociation. | Forte visibilité ; pression directe ; mobilisation large ; capacité de blocage. | Dépendance à la tolérance policière ; risque de délégitimation ; fatigue militante ; criminalisation possible. |
+| **Transgressif** | Rompre les règles pour imposer un débat ou contourner les blocages institutionnels. | Capacité de rupture élevée ; visibilité médiatique ; contournement des cadres légaux. | Isolement du mouvement ; répression accrue ; surveillance ; difficulté à maintenir une image positive. |
+| **Violent** | Imposer un coût direct par la force lorsque les institutions sont fermées ou hostiles. | Capacité de contrainte maximale ; efficacité dans contextes de domination extrême. | Perte de légitimité ; répression massive ; fragmentation interne ; spirale violence–répression ; difficulté à convertir la violence en gains politiques. |
+
+
+### La question de l'asymétrie
 
 Les exemples ci-dessus peuvent être généralisés et doivent être généralisé à toutes les formes de lutte. Tout d'abord la puissance d'un outil n'est pas suffisant pour justifier une stratégie surtout si l'ennemi a de multiples avantages sur l'outil en question. Combattre le feu avec le feu ne marche pas très bien quand l'ennemi a un lance-flamme et nous une allumette. Surtout quand l'ennemi est celui qui nous fournit la lunette. Mais au-delà des outils l'asymétrie doit être un élément pris en compte au sein des stratégies militantes. En effet n'importe quel système qui en a la capacité cherchera à se défendre lors d'attaque. Dans le cadre d'asymétrie attaquer pour attaquer n'est pas très pertinent quand l'asymétrie joue en notre défaveur. Au-delà d'être annihilé le risque et de permettre à nos ennemis de s'habituer ou de mieux se préparer à ses attaques. Il est possible de prendre par surprise un ennemi mais si nous ne réussissons pas l'objectif cela et d'autant plus difficile une deuxième fois. 
 
@@ -170,7 +327,7 @@ Il est aussi nécessaire au sein de nos mouvements de prendre en compte les outi
 - l'appareil judiciaire (procès, amendes, détournement de lois, interdiction de territoire ...) 
 - l'intelligentia comme la surveillance numérique (OSINT, caméra, reconnaissance faciale, infiltration) 
 
-Un autre point crucial souvent oublié et la multitude d'ennemis annexe. D'autres groupes rôde en cherchant également à asseoir leur vision du monde. On peut prendre deux cas qui illustrent l'importance de prendre en compte ces acteurs externes:
+Un autre point crucial souvent oublié est la multitude d'ennemis annexe. D'autres groupes rôde en cherchant également à asseoir leur vision du monde. On peut prendre deux cas qui illustrent l'importance de prendre en compte ces acteurs externes:
 
 - ***Tiers prédateur<sup>1</sup>* <note>1. Voir Subra, Philippe. “Géopolitique locale : territoires, acteurs, conflits”</note> / ou "*spoiler groups<sup>1</sup>* <note>1. Stedman, Stephen John. “Spoiler Problems in Peace Processes.” International Security, vol. 22</note>":** Le tier prédateur correspond à l'intervention d'un acteur externe profitant des avancé d'une lutte, comme la fragilisation de l'ennemi, pour intervenir et faire valoir ses intérêts. Cela est particulièrement fréquent dans les conflits militaire. On l’a vu en Syrie, où la révolution démocratique a été supplantée par des groupes djihadistes ; en Égypte, où l’armée a récupéré la chute de Moubarak ; ou encore en Iran, où les islamistes ont capté l’énergie révolutionnaire de 1979.
 - **La coalition réactive:** La coalition réactive (regroupant nottamenet la notion de *"coalition de maintien"<sup>1</sup>* <note>1. Voir McAdam, Doug ; Tarrow, Sidney ; Tilly, Charles. Dynamics of Contention. Cambridge University Press, 2001</note> ainsi que *"countermovements"<sup>1</sup>* <note>1. Voir Meyer & Staggenborg — “Movements, Countermovements, and the Structure of Political Opportunity” (1996)</note>) correspond au fait que des acteurs externes, qui ne sont pas forcément d'accord avec l'ennemi initial, se rallient à ce dernier par peur d'être les prochains ciblés par le mouvement ou par peur de perdre des avantages liés à leur position dans le système. Cela à était étudié dans une oeuvre clef par Susan Faludi, Susan Faludi — Backlash: The Undeclared War Against American Women (1991).
