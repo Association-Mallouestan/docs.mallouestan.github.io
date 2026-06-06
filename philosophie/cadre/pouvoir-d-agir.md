@@ -27,11 +27,13 @@ Dans le texte "condition humaines" nous avons dépeint notre vision de ce que ce
 
 Il est donc facile de se dire qu'il faut essayer de changer les choses. Qu'il faut se battre pour plus de justice, militaire contre ces rapports de domination, de construire des alternatives et de les propager ensuite ou de lutter contre les effets et les conséquences d'un système prédateur et cynique. L'approche quasi suicidaire de notre civilisation moderne amène même à considérer qu'il est nécessaire de lutter contre notre propre annihilation. Le sujet de ce texte est donc d'apporter une analyse et les fondements théoriques autour de notre capacité collective et individuelles à agir pour changer les choses dont construire des alternatives.
 
-De nombreuses personnes sont engagées à combattre pour diverses causes. Ces personnes peuvent et sont désigné souvent par le terme  de militants et plus rarement d'activistes qui nous vient plutôt du monde anglophone. Le militantisme prend des formes très variées. Un militant est une personne au sein d'un parti politique agissant dans une campagne électorale. C'est aussi une personne sur un navire aidant des cétacés mis en danger par des filet de pêche fantôme [ filet de pêche abandonné en mer]. Le militant c'est autant une personne cherchant à changer une loi par la voix juridique qu'un individu sabotant un conduit de pétrole ou de gaz en défense de région autochtone.
+De nombreuses personnes sont engagées à combattre pour diverses causes. Ces personnes peuvent et sont désigné souvent par le terme  de militants et plus rarement d'activistes qui nous vient plutôt du monde anglophone. Le militantisme prend des formes très variées. Un-e militant-e est autant une personne au sein d'un parti politique agissant dans une campagne électorale qu'une personne sur un navire aidant des cétacés mis en danger par des filet de pêche fantôme [ filet de pêche abandonné en mer]. Le militant c'est autant une personne cherchant à changer une loi par la voix juridique qu'un individu sabotant un conduit de pétrole ou de gaz en défense d'une région autochtone.
 
 Il semble donc exister de multiples moyens d'action et d'outils pour agir. Malheureusement il ne suffit pas d'agir seul sur un de ces leviers pour amener du changement conséquent. Il ne suffit pas d'énoncer une stratégie ou une tactique pour que celle-ci soit efficace. Que ce soit au travers d'un réformisme [ amener des changements en réformant la loi ou le fonctionnement d'une institution], d'une révolution armée, ou une stratégie de désobéissance civile cherchant à développer un rapport de force avec une multinationale il faut faire face à de nombreux défis; certains transversales à toute ces approches.
 
-### Outils d'analyse
+Avant de présenter l'analyse que nous partageons au Mallouestan, nous allons partager les outils d'analyse que nous utilisons pour comprendre les mouvements militants et contestataires. Des personnes de notre collectif ont été engagées dans des mouvements militants de différentes natures et à différents niveaux. Ce texte à entre autre pour but d'expliquer pourquoi malgré un engagement militant passé nous nous concentrons sur une échelle d'action plus locale, plus modeste, et plus concrète. Non seulement pourquoi nous avons fait ce choix, mais aussi pourquoi nous pensons que c'est l'approche qui devrait être privilégiée par d'autres collectifs et individus. Evidement nous somme conscient que cette position n'est pas sans heurter les convictions de certain-e-s militant-e-s, mais nous espérons que les outils d'analyse que nous allons présenter permettront de mieux comprendre notre positionnement et de l'apprécier à sa juste valeur.
+
+### Outils théoriques
 
 #### Stratégie vs tactique
 
@@ -43,6 +45,15 @@ On va donc parler de *répértoire d'action<sup>1</sup>* <note>1. Voir Tilly</no
 2. **Répertoires disruptifs** *(de l'anglais : “disruptive repertoires”)*: Ce sont les actions qui perturbent l’ordre normal, sans nécessairement violer la loi. Elles créent un coût pour l’adversaire ou pour les institutions. **Exemples :** grèves,blocages,occupations,sit‑ins,désobéissance civile non violente  
 3. **Répertoires transgressifs** *(de l'anglais: “transgressive repertoires”)*: Ce sont les actions qui dépassent les limites légales ou normatives, sans aller jusqu’à la violence physique. Elles franchissent une ligne juridique ou normative, mais sans violence physique directe. **Exemples :** sabotage matériel léger, intrusions, actions clandestines, occupations illégales, blocages non déclarés  
 4. **Répertoires violents** *(de l'anglais: “violent repertoires”)*: Ce sont les actions impliquant dommages physiques, menaces, ou destruction ciblée. Elles impliquent une atteinte à l’intégrité physique ou une violence matérielle majeure. **Exemples :** sabotage lourd, affrontements, guérilla, terrorisme, insurrection armée.
+
+Ci dessous une synthèse de ces différents répertoires d'action, avec leurs objectifs stratégiques, avantages et limites :
+
+| Répertoire | Objectif stratégique | Avantages | Limites               |
+|-----------|----------------------|-----------|------------------------|
+| **Conventionnel** | Influencer les institutions par des moyens reconnus et légitimes. | Forte légitimité publique ; faible répression ; accès aux décideurs ; stabilité. | Faible capacité de rupture ; filtrage institutionnel ; asymétrie de ressources ; lenteur des réformes. |
+| **Disruptif** | Créer un coût économique, politique ou symbolique pour forcer une négociation. | Forte visibilité ; pression directe ; mobilisation large ; capacité de blocage. | Dépendance à la tolérance policière ; risque de délégitimation ; fatigue militante ; criminalisation possible. |
+| **Transgressif** | Rompre les règles pour imposer un débat ou contourner les blocages institutionnels. | Capacité de rupture élevée ; visibilité médiatique ; contournement des cadres légaux. | Isolement du mouvement ; répression accrue ; surveillance ; difficulté à maintenir une image positive. |
+| **Violent** | Imposer un coût direct par la force lorsque les institutions sont fermées ou hostiles. | Capacité de contrainte maximale ; efficacité dans contextes de domination extrême. | Perte de légitimité ; répression massive ; fragmentation interne ; spirale violence–répression ; difficulté à convertir la violence en gains politiques. |
 
 #### Militantisme proactif vs réactif
 
@@ -67,7 +78,7 @@ L’**hégémonie** est la vision du monde qui s’impose comme “normale” da
 
 Mais l’hégémonie peut aussi être le fait d’un autre groupe que celui des dominant·es. Dans ce cas, pour Gramsci, il est possible de renverser le groupe en place. L’**absence d’hégémonie** pour les groupes révolutionnaires explique, selon lui, pourquoi les révolutions socialistes prévues par Marx n’ont pas eu lieu dans les sociétés capitalistes avancées : les travailleuse·eurs y ont intégré les valeurs de la bourgeoisie, au point de ne plus remettre en cause l’ordre établi. Gramsci appelle donc les communistes à **construire leur propre hégémonie**, sans laquelle iels ne peuvent espérer l’emporter. En d'autres termes, pour lui, **le prérequis à la victoire politique est que les prolétaires aient intégré, dans leur vision du monde, un rapport et des valeurs marxistes**. Cet effort militant à l'égard de l'hégémonie constitue le terrain de ce qu’il appelle la **guerre de positions**.
 
-#### Quadrant
+#### Quadrant Gramscien
 
 Nous pouvons combiner ces concepts avec les notions d’**proactif** et de **réactif** pour obtenir une grille d’analyse riche du militantisme :
 
@@ -112,105 +123,23 @@ Prenons un movement militant commme exemple, qui a comme objectif est d'arrêter
 
 L'exemple ci-dessus est inspiré de plusieurs mouvements militants qui ont connue des difficultés simmilaires. Une erreur d'analyse ou d'anticipation des **dynamiques d'interaction** peut être fatale pour un mouvement. L'absence de prise en compte de la question de la **polarisation/alignement** peut aussi être un facteur d'échec. Maintenant que nous somme outillé conceptuellement pour analyser les stratégies militantes, il est temps de se pencher sur les différentes stratégies et leurs limites. Nous allons commencer avec les stratégies portant des répertoires d'actions conventionnels.
 
-### Analyse des répertoires d'actions
+### Concepts stratégique
 
-#### L'approche démocratique et les répertoires conventionnels
-
-<!-- Rappel et définition des répertoires conventionnels   -->
-Formes d’action institutionnalisées, légitimes et attendues dans un régime démocratique.  
-Exemples : pétitions, plaidoyer, élections, consultations publiques, manifestations déclarées.  
-**Sources :**  
-- Charles Tilly, *Contentious Performances* (2008)  
-- Sidney Tarrow, *Power in Movement* (2011)
-- Della Porta & Diani, *Social Movements: An Introduction* (2020)
-
-<!-- Exemple d’un mouvement utilisant principalement ces répertoires   -->
-La mobilisation en faveur du mariage pour tous en France constitue un exemple particulièrement éclairant de réussite obtenue principalement grâce aux répertoires d’action conventionnels. Dès la fin des années 2000, un ensemble d’associations LGBT+, de collectifs citoyens, de syndicats et de partis politiques ont structuré une coalition large et stable, capable de mobiliser des ressources humaines, organisationnelles et médiatiques importantes. Leur stratégie reposait sur un cadrage clair — l’égalité des droits et la lutte contre les discriminations — qui a permis de rendre la revendication lisible, légitime et compatible avec les valeurs républicaines. Les tactiques mobilisées relevaient presque exclusivement du répertoire conventionnel : manifestations déclarées, campagnes de sensibilisation, tribunes médiatiques, lobbying parlementaire, participation aux consultations publiques et production d’expertises juridiques. Cette stratégie a rencontré une opportunité politique favorable avec l’élection de François Hollande en 2012, dont le programme incluait explicitement l’ouverture du mariage aux couples de même sexe. Malgré une opposition structurée et massive, le mouvement a su maintenir une pression constante, articuler ses revendications dans les arènes institutionnelles et bénéficier d’un contexte politique relativement ouvert. L’adoption de la loi Taubira en 2013 illustre ainsi la capacité des répertoires conventionnels à produire des transformations législatives significatives lorsque les structures de mobilisation, les opportunités politiques et le cadrage sont alignés.
-
-<!-- Filtrage institutionnel et médiatique -->
-Les institutions sont conçues pour :  
-- stabiliser l’ordre social  
-- protéger les intérêts établis  
-- éviter les changements brusques  
-Elles favorisent les coalitions de maintien.  
-**Sources :**  
-- McAdam, Tarrow & Tilly, *Dynamics of Contention* (2001)  
-- Theda Skocpol, *States and Social Revolutions* (1979) 
-
-- Les institutions filtrent les revendications.  
-- Les positions de pouvoir exigent l’acceptation des règles du jeu.  
-- La marge de manœuvre est faible pour ceux qui veulent conserver leur position.  
-**Sources :**  
-- Noam Chomsky & Edward Herman, *Manufacturing Consent* (1988)  
-- Pierre Bourdieu, *Sur la télévision* (1996)
-
-<!-- Paradoxes du pouvoir   -->
-Pour influencer les institutions, un mouvement doit :  
-- modérer ses revendications  
-- adopter un langage acceptable  
-- éviter la confrontation  
-- respecter les règles du système  
-Ce processus neutralise les revendications les plus transformatrices.  
-**Sources :**  
-- Frances Fox Piven & Richard Cloward, *Poor People’s Movements* (1977)  
-- Tarrow, *Power in Movement* (2011)
-
-<!-- Asymétrie structurelle entre dominants et dominés   -->
-Les acteurs dominants disposent de :  
-- ressources financières  
-- accès aux médias  
-- réseaux politiques  
-- expertise institutionnelle  
-Les acteurs dominés disposent de ressources limitées.  
-**Sources :**  
-- McCarthy & Zald, *Resource Mobilization Theory* (1977)  
-- Tilly, *From Mobilization to Revolution* (1978)
-
-<!-- Un système fondé sur des inégalités ne peut pas se réformer lui-même   -->
-Les institutions modernes sont issues de contextes :  
-- coloniaux  
-- capitalistes  
-- patriarcaux  
-- productivistes  
-Elles gèrent les rapports de domination plus qu’elles ne les abolissent.  
-**Sources :**  
-- Cedric Robinson, *Black Marxism* (1983)  
-- Silvia Federici, *Caliban and the Witch* (2004)  
-- Nancy Fraser, *Fortunes of Feminism* (2013)
-
-<!-- Conclusion : utilité et limites des répertoires conventionnels   -->
-Utiles pour :  
-- construire une légitimité  
-- mobiliser largement  
-- obtenir des réformes partielles  
-
-Limités pour :  
-- transformer les structures  
-- affronter des intérêts puissants  
-- modifier les fondements du système  
-
-**Sources :**  
-- Tilly & Tarrow, *Contentious Politics* (2015)  
-- Della Porta, *Social Movements and the State* (1995)
-
+Maintenant que nous avons expliqué la grille d'analyse et les outils conceptuelle que nous mobilisons, regardons la vision stratégique que nous défendons. Des éléments par ailleurs crucial pour comprendre les mouvements contemporains et leurs inéficacité.
 
 #### La question de la culture et de la guerre culturelle
 
-<!-- ======================================== -->
-<!-- A REVOIR EN VUE DES CHANGEMENTS DE PLANS -->
-<!-- ======================================== -->
+Les stratégies de guerre culturelle doivent donc être évaluées à l'aune des outils évoqué çi-dessus. Rappelons que la guerre culturelle est le fait de normaliser des valeurs et de faire accepter des idées en vue d'amener des changement. Cette guerre culturelle est d'actualité où l'empire médiatique de Bolloré inquiète sur son influence et sa capacité à agir sur le sens commun [notion de Gramsci vue plus haut]. Des médias cherchent à résister comme Blast, le Canard Réfractaire, ou encore Radio Nova. Radio Nova dernier est porté par le groupe Combat dont le nom fait référence explicitement à cette guerre culturelle. Les associations comme l214 cherche aussi au travers de l'information et de la sensibilisation d'inscrire dans l'hégémonie les valeurs qui leurs sont chères.
 
-Les stratégies de guerre culturelle doivent donc être évaluées à l'aune de ces constat. Rappelons que la guerre culturelle et le fait de normaliser des valeurs et de faire accepter des idées en vue d'amener du changement. Cette guerre culturelle est d'actualité où l'empire médiatique de Bolloré inquiète sur son influence et sa capacité à agir sur le sens commun [notion de Gramsci vue plus haut]. Des médias cherchent à résister comme Blast, le canard réfractaire, ou encore Radio Nova. Ce dernier est porté par le groupe Combat dont le nom fait référence explicitement à cette guerre culturelle. Les associations comme l214 cherche aussi au travers de l'information et de la sensibilisation d'inscrire dans l'hégémonie les valeurs qui leur sont chères. 
-
-Dans les milieux militants il a de nombreux documentaristes, cinéaste ou d'artistes cherchant à participer à cette guerre culturelle. Au travers des réseaux sociaux, des plateformes de diffusion, et souvent au travers du système marchand c'est différents acteurs et actrices cherchent à peser dans la guerre culturelle. Ces dynamique sont militantes et doivent être analysés en tant que tel. Leur objectifs et tactiques sont assez transparents; soit inscrire autant que possible les valeurs qu'ils ou elles portent dans le sens commun au travers de la sensibilisation et de l'éducation. Comme nous l'avons vu ci-dessus, pour apprécier l'intérêt de ces stratégies, il faut inclure une analyse des conditions matérielles et de fait la faisabilité de ses approches. Commençons par une analyse d'autre artistes, acteurs et actrices de la guerre culturelle.
+Dans les milieux militants il a de nombreux documentaristes, cinéaste ou d'artistes cherchant également à participer à cette guerre culturelle. Au travers des réseaux sociaux, des plateformes de diffusion, et souvent au travers du système marchand ils et elles cherchent à peser dans la guerre culturelle. Ces dynamique sont militantes et doivent être analysés en tant que tel. Leur objectifs et tactiques sont assez transparents; soit inscrire autant que possible les valeurs qu'ils ou elles portent dans le sens commun au travers de la sensibilisation et de l'éducation. Comme nous l'avons vu ci-dessus, pour apprécier l'intérêt de ces stratégies, il faut inclure une analyse des conditions matérielles et de fait la faisabilité de ses approches. Commençons par une analyse d'autre artistes, acteurs et actrices de la guerre culturelle.
 
 #### Culture alternatives et contre-culture
 
-Les cultures alternatives et les contre-culture sont une autre source de résistance a la culture dominante. Ce sont des cultures qui naissent souvent dans des contextes contestataires portant les valeurs des milieux d'origine et devenant un élément identitaire de ces milieux. Prenons par exemple le punk qui apparaît dans les années 1970 en rejetant l'ordre social de l'époque, la marchandisation, les normes sociales, et l'hiérarchie. Les valeurs dans les textes des groupes comme Crass appelle à une rupture radicale avec le système en rejetant le consumérisme, en critiquant la police et l'État, en critiquant laxiologie [ les valeurs] bourgeois et en refusant l'industrie notamment culturel. Le punk est à l'origine une contre-culture cherchons à valoriser dans une guerre culturelle les valeurs que nous venons de citer. 
+Les cultures alternatives et les contre-culture sont une autre source de résistance a la culture dominante. Ce sont des cultures qui naissent souvent dans des contextes contestataires portant les valeurs des milieux d'origine et devenant un élément identitaire de ces milieux. Prenons par exemple le punk qui apparaît dans les années 1970 en rejetant l'ordre social de l'époque, la marchandisation, les normes sociales, et l'hiérarchie. Les valeurs dans les textes des groupes comme Crass appelle à une rupture radicale avec le système en rejetant le consumérisme, en critiquant la police et l'État, en critiquant laxiologie [ les valeurs] bourgeois et en refusant l'industrie notamment culturel. Le punk est à l'origine une contre-culture cherchons à valoriser dans une guerre culturelle les valeurs que nous venons de citer.
 
-Le punk se désigne comme radicalement l'ennemi du capitalisme. Pourtant le capitalisme va réussir à assimiler et dépolitiser ce mouvement. Une partie du punk tout au moins va perdre la guerre culturelle. Vivienne Westwood, souvent appelé la mère du punk, illustre parfaitement les tactiques du capitalisme dans cette guerre culturelle. Vivienne Westwood est une créatrice de mode et à participer à populariser le style punk. Cette désignation comme mère du punk est significatif. Le punk c'est développé dans perte des milieux défavorisés et développe une esthétique que Vivienne Westwood reprend. Elle ne le crée pas. Le capitalisme a ainsi extrait l'esthétique du punk et a commencé à marchandiser cette esthétique en le rendant "mainstream". Des grandes enseignes comme Zara, H&M reprennent cette esthétique dans leurs rayon et le symbole anarchiste devient à la mode en venant décorer t-shirt, cartables et autres goodies. 
+Le punk se désigne comme radicalement l'ennemi du capitalisme. Pourtant le capitalisme va réussir à assimiler et dépolitiser ce mouvement. Une partie du punk tout au moins va perdre la guerre culturelle. Vivienne Westwood, souvent appelé la mère du punk, illustre parfaitement les tactiques du capitalisme dans cette guerre culturelle. Vivienne Westwood est une créatrice de mode et à participer à populariser le style punk. Cette désignation comme mère du punk est significative. Le punk c'est développé dans des milieux défavorisés et développe une esthétique que Vivienne Westwood reprend. Elle ne le crée pas. Le capitalisme a ainsi extrait l'esthétique du punk et a commencé à marchandiser cette esthétique en le rendant "mainstream". Des grandes enseignes comme Zara, H&M reprennent cette esthétique dans leurs rayon et le symbole anarchiste devient à la mode en venant décorer t-shirt, cartables et autres goodies.
 
-L'intérêt pour l'esthétique punk que le capitalisme va créer permet à du contenu dit punk te devenir populaire. Ce contenu sera doucement appauvri en terme de contenu politique et ainsi la critique du capitalisme, du discours anti-autoritaire ou de la solidarité des classes devient quasiment inexistant tout au moins secondaire. Le punk est un cas d'école de l'appropriation capitaliste des contre-culture et des cultures alternatives. Le punk devient identitaire autrement dit on époque si on s'habille et qu'on porte les accessoires et l'esthétique punk. À ce moment la culture contestataire devient simplement un segment du marché. 
+L'intérêt pour l'esthétique punk que le capitalisme va créer permet à du contenu dit punk te devenir populaire. Ce contenu sera doucement appauvri en terme de contenu politique et ainsi la critique du capitalisme, le discours anti-autoritaire ou la solidarité des classes devient quasiment inexistant; tout au moins secondaire. Le punk est un cas d'école de l'appropriation capitaliste des contre-culture et des cultures alternatives. Le punk devient identitaire autrement dit on devient punk si on achètes l'identité punk au travers du sytème marchand, la musique, les habis, les accessoires et plus généralement l'esthétique punk. À ce moment la culture contestataire devient simplement un segment du marché.
 
 Mais qu'en est-il alors des autres courants marginaux, non élitistes et populaire ? Pour la plupart, ils sont également devenus des marchés pour le système. Il n'y a qu'à voir la culture hip-hop. Née dans la rue, elle fait maintenant l'objet de films tels que "Sexy Dance" ou Street Dance", de clip passant en boucle à la télé ou encore d'un style vestimantaire promu par des marques spécifiques (Carhartt, Supreme, Obey etc.). Ou encore, la mouvance Drag au départ cantonnée à des Show Drag connus d'une petite communauté, maintenant objet de téléréalité (Drag Race); mais on peut aussi parler de n'importe quel style musical qui s'accompagne toujours plus de vêtements singuliers, d'accessoires ou toute autre forme de merchandising.
 
@@ -218,116 +147,63 @@ Ainsi, le système capitaliste semble capable de s'emparer de n'importe quelle c
 
 #### Asymétrie dans les moyens médiatiques
 
-C'est stratégie portée par des mouvements souhaitant faire la guerre culturelle vont utiliser de nombreux outils médiatiques. Pour expliquer ce choix, l'efficacité des outils est souvent mentionnée. Des exemples sont pris pour le montrer comme un documentaire ayant créé une révolution, une musique ayant permis un déclic, ou un réseau social ayant contribué à organiser une révolte, comme ce fut le cas en Iran. Cela appuie l'idée du potentiel que ces outils ont à changer les choses, leur capacité à influencer. Autrement dit, leur capacité à amener des changements politiques. Justement, il est important de se demander à qui ces outils servent. D'analyser la stratégie en prenant en compte les conditions matérielles d'accès à ces outils, les moyens de les utiliser, et surtout les moyens que nos ennemis utilisent et mettent en œuvre pour nous faire face.
+Ces stratégie portée par des mouvements souhaitant faire la guerre culturelle vont utiliser de nombreux outils médiatiques. Pour expliquer ce choix, l'efficacité des outils est souvent mentionnée. Des exemples sont pris pour le montrer comment par exemple un documentaire à contribuer à une révolution, une musique ai permis un déclic dans l'orientation sexuel, ou un réseau social à permis d'organiser une révolte, comme ce fut le cas en Iran. Cela appuie l'idée du potentiel que ces outils ont à changer les choses, leur capacité à influencer. Autrement dit, leur capacité à amener des changements politiques. Justement c'est parceque ces outils peuvent influence qu'il est important de se demander à qui ces outils servent. D'analyser la stratégie en prenant en compte les conditions matérielles d'accès à ces outils, les moyens de les utiliser, et surtout les moyens que nos ennemis utilisent et mettent en œuvre pour y faire face.
 
-C'est nottament la puissance de ces outils qui est inquiètant car on ne devrait pas s'arrêter sur la performance d'un outil, mais à qui cette puissance sert. Dans les exemples précédents, les réseaux sociaux en Iran ont permis d'identifier et de traquer des jeunes manifestants qui sont maintenant pendus. La révolte générée a abouti à un échec douloureux et nullement à une amélioration. Les autorités iraniennes se sont appuyées sur ces technologies pour vaincre la révolte populaire. Dans le cas de la musique, pour chaque titre engagé, il en existe davantage qui renforcent la culture dominante. Racisme, sexisme et culture de la consommation sont les gagnants dans l'industrie de la musique. Il en va de même pour les documentaires et le cinéma. Il suffit de regarder quels artistes sont les plus écoutés ou quel chaine sont les plus regardés. CNews, Cyril Hanouna, Jul ou Tibo InShape sont bien plus suivis que n'importe quelle vidéo sur la révolte serbe ou, plus généralement, documentant le fascisme croissant.
+C'est nottament la puissance de ces outils qui est inquiètant car on ne devrait pas s'arrêter sur la performance d'un outil, mais à qui cette puissance sert. Dans les exemples précédents, les réseaux sociaux en Iran ont permis d'identifier et de traquer des jeunes manifestants qui sont pendus sans pour autant avoir amener les changements souhaiter. La révolte générée a abouti à un échec douloureux et nullement à une amélioration. Les autorités iraniennes se sont appuyées sur ces technologies pour vaincre la révolte populaire. Dans le cas de la musique, pour chaque titre engagé, il en existe davantage qui renforcent la culture dominante. Racisme, sexisme et culture de la consommation sont les gagnants dans l'industrie de la musique. Il en va de même pour les documentaires et le cinéma. Il suffit de regarder quels artistes sont les plus écoutés ou quel chaine sont les plus regardés. CNews, Cyril Hanouna, Jul ou Tibo InShape sont bien plus suivis que n'importe quelle vidéo sur la révolte serbe ou, plus généralement, documentant le fascisme croissant.
 
-Un outil puissant, une tactique, l'est pour tous les camps qui y ont accès. Un outil puissant accentue les inégalités entre les camps. Le petit mouvement citoyen ne peut profiter de la "puissance" du cinéma ou d'une industrie autant que ses ennemis, comme l'État, car les moyens sont asymétriques. Effectivement, comme pour n'importe quelle industrie – d'où l'importance du terme – il est nécessaire d'utiliser des chaînes de production et des outils, qui sont, au final, réservés à ceux qui en ont les moyens. Ces moyens étaient asymétriques avant que cet outil apparaisse ; l'outil n'a fait que renforcer leur écart.
+Un outil puissant, une tactique, l'est pour tous les camps qui y ont accès. Un outil puissant accentue les inégalités entre les camps. Le petit mouvement citoyen ne peut profiter de la "puissance" du cinéma ou d'une industrie autant que ses ennemis, comme l'État, car les moyens sont asymétriques. Effectivement, comme pour n'importe quelle industrie – d'où l'importance du terme – dans la guerre culturelle il est nécessaire d'utiliser des chaînes de production et des outils, qui sont, au final, réservés à ceux qui en ont les moyens. Ces moyens étaient asymétriques avant que cet outil apparaisse ; l'outil n'a fait que renforcer l'écart.
 
 La situation est en réalité pire encore, car ce sont l'État et les multinationales qui, au-delà de tout, ont aussi la mainmise sur la régulation légale de ces médiums ainsi que sur les plateformes de distribution et de diffusion. Donc, non seulement ces outils sont plus accessibles pour ces acteurs, mais en plus, ce sont eux qui décident de comment on peut les utiliser. Dans le cas des réseaux sociaux, c'est directement une source d'information facilitant le contrôle des populations, comme en Iran, mais en réalité, c'est utilisé dans tous les pays. Que ce soit la manifestation des camionneurs au Canada, les Gilets jaunes en France, l'ingérence russe dans les élections de multiples pays, ou la répression fasciste du gouvernement Orbán, les réseaux ont été utilisés et sont utilisés par ces gouvernements à leur avantage. L'exemple récent français est le blocage de certains réseau sociaux en *Nouvelle-Calédonie par le gouvernement<sup>1</sup>* <note>1. [Voir https://www.laquadrature.net/2024/06/05/blocage-de-tiktok-en-nouvelle-caledonie-retour-sur-un-fiasco-democratique/](https://www.laquadrature.net/2024/06/05/blocage-de-tiktok-en-nouvelle-caledonie-retour-sur-un-fiasco-democratique/)</note>.
 
-Ces stratégies de guerre culturelle doivent donc être analysés en prenant en compte l'asymétrie des moyens ainsi que la capacité du capitalisme de neutraliser les cultures contestataires et alternative (notamment de par cette asymétrie). Le temps de nombreux milieux militants et de nombreux mouvements s'obstine dans des stratégies qui font fi de cette asymétrie. Citons le cas du canard réfractaire qui dans une vidéo et non ce qui suit: 
+Ces stratégies de guerre culturelle doivent donc être analysés en prenant en compte l'asymétrie des moyens ainsi que la capacité du capitalisme de neutraliser les cultures contestataires et alternative (notamment de par cette asymétrie). Pourtant de nombreux milieux militants et de nombreux mouvements s'obstine dans des stratégies qui font fi de cette asymétrie. Citons le cas du Canard Réfractaire qui dans une vidéo énonce ce qui suit: 
 
-*"Ou alors on fait ce les militants communistes ont toujours fait. On tente de s'approprier les moyens de production, faire en sorte de ne pas subir l'IA, mais de profiter sa démocratisation et de l'open source pour développer nos outils et faire face à l'ennemi. Non pas pour faire des médias solopreneur insupportables sans contenu à la [Hugo] Décrypte, mais pour développer des nouveaux médias où toutes les tâches réparbatives sont automatisées pour laisser place au créatif, à la politique et à la pédagogie de masse."  <sup>1</sup>* <note>1. [Voir](https://youtu.be/HnLTwXx2VBc?t=484)</note> 
+*"... on fait ce les militants communistes ont toujours fait. On tente de s'approprier les moyens de production, faire en sorte de ne pas subir l'IA, mais de profiter de sa démocratisation et de l'open source pour développer nos outils et faire face à l'ennemi. Non pas pour faire des médias solopreneur insupportables sans contenu à la [Hugo] Décrypte, mais pour développer des nouveaux médias où toutes les tâches réparbatives sont automatisées pour laisser place au créatif, à la politique et à la pédagogie de masse."  <sup>1</sup>* <note>1. [Voir](https://youtu.be/HnLTwXx2VBc?t=484)</note> 
 
-En utilisant maladroitement [A EXPLIQUER] un élément de la culture militante marxiste et socialiste soit l'appropriation des moyens de production cette chaîne explique miser sur l'intelligence artificielle pour augmenter son efficacité dans la guerre culturelle. Dans cette vidéo la chaîne explique l'avantage et le monopole qu'on ses ennemis notamment grâce à l'intelligence artificielle. Elle explicite la asymétrie et souhaite y faire face en adoptant des outils similaires. Elle n'explique pourtant pas comment en adoptant ces outils elle réussira à son échelle à peser contre ses ennemis. On pourrait se dire qu'il faut adopter ces outils pour éviter que l'écart se creuse davantage mais si l'écart final ne permet pas pour autant de gagner d'autres postures sont plus pertinentes a adoptés. 
-Conclure sur la nécéssité au niveau de la culture d'un hermétisme avec la culture dominante pour ne pas être assimilé et pour pouvoir créer une culture alternative.
+En utilisant maladroitement [A EXPLIQUER] la notion de la culture militante marxiste et socialiste, soit l'appropriation des moyens de production, cette chaîne explique miser sur l'intelligence artificielle pour augmenter son efficacité dans la guerre culturelle. Dans cette vidéo la chaîne explique l'avantage et le monopole qu'on ses ennemis notamment grâce à l'intelligence artificielle. Elle explicite l'asymétrie et souhaite y faire face en adoptant des outils similaires. Elle n'explique pourtant pas comment en adoptant ces outils elle réussira à son échelle à peser contre ses ennemis. On pourrait se dire qu'il suffit d'adopter ces outils pour éviter que l'écart se creuse davantage mais si l'écart final ne permet pas pour autant de gagner la guerre c'est une fuite en avant vaine; d'autres postures sont plus pertinentes à envisager.
 
-#### Répertoire disruptif, transgressif, et violent
+#### La question de l'asymétrie
 
-<!-- Répertoire disruptif   -->
-**Définition :**  
-Actions qui perturbent l’ordre normal sans violer directement la loi. Elles créent un coût pour les institutions ou les adversaires tout en restant non violentes.  
-**Exemples :** grèves, blocages, occupations, sit‑ins, désobéissance civile non violente.
+Les exemples ci-dessus peuvent être généralisés et doivent être généralisé à toutes les formes de lutte. Tout d'abord la puissance d'un outil n'est pas suffisant pour justifier une stratégie surtout si l'ennemi a de multiples avantages sur l'outil en question. Combattre le feu avec le feu ne marche pas très bien quand l'ennemi a un lance-flamme et nous une allumette. Surtout quand l'ennemi est celui qui nous fournit l'alumette. Mais au-delà des outils, l'asymétrie doit être un élément pris en compte au sein des stratégies militantes. En effet n'importe quel système qui en a la capacité cherchera à se défendre lors d'attaque. Dans le cadre d'asymétrie attaquer pour attaquer n'est pas très pertinent quand l'asymétrie joue en notre défaveur. Au-delà d'être annihilé le risque et de permettre à nos ennemis de s'habituer ou de mieux se préparer à des attaques futures. Il est possible de prendre par surprise un ennemi mais si nous ne réussissons pas l'objectif cela et d'autant plus difficile une deuxième fois.
 
-**Exemple réel : Le mouvement des droits civiques (États‑Unis, 1955–1968)**  
-Le mouvement des droits civiques a mobilisé des tactiques disruptives telles que les sit‑ins, les boycotts, les marches massives et la désobéissance civile. Ces actions visaient à perturber l’ordre ségrégationniste sans recourir à la violence. Le boycott des bus de Montgomery, les sit‑ins de Greensboro ou les Freedom Rides ont imposé un coût économique et politique aux institutions ségrégationnistes. Grâce à une forte capacité de mobilisation, un cadrage moral puissant et une opportunité politique favorable, ces tactiques ont contribué à l’adoption du Civil Rights Act (1964) et du Voting Rights Act (1965).
+Autrement dit nous pouvons faire le parallèle avec un organisme vivant. Si l'organisme est attaqué et qu'il réussit à repousser l'attaque il pourra construire des défenses plus efficaces pour l'avenir. C'est le principe des vaccins qui va " entraîner" un organisme à se défendre contre certaines attaques. Pour réussir les stratégies doivent donc prendre en compte cette réalité. Elles doivent éviter d'immuniser ces ennemis. Dans un contexte d'asymétrie il faut viser à submerger, prendre par surprise, ou attaquer un système fragilisé par ailleurs. Pour cela il faut que ces moyens figurents dans une stratégie. Autrement dit il faut que l'analyse des **structure opportunité politique** soit solide. Les stratégies doivent faire figurer aussi les moyens d'évolution permettant de contourner l'immunisation de ses ennemis soit avec les concepts que nous vous çi dessus: les stratégies doivent porter une analyser sur les **dynamique d'interactions**.
 
-**Limites sociologiques :**  
-- Dépendance à la **tolérance policière** : une répression trop forte peut briser la dynamique.  
-- Risque de **perte de légitimité** si la perturbation est perçue comme excessive.  
-- Forte **fatigue militante** due à l’intensité des actions.  
-- Possibilité de **criminalisation** ou de restrictions légales.
+#### Immunisation et fermetures des opportunités politiques
 
-**Sources :**  
-- Aldon Morris, *The Origins of the Civil Rights Movement* (1984)  
-- Doug McAdam, *Political Process and the Development of Black Insurgency* (1982)  
-- Sidney Tarrow, *Power in Movement* (2011)
+Ce constat sur la capacité à l'ennemi de s'adapter aux attaques et un élément crucial pour comprendre la vision du Mallouestan sur les mouvements militants. C'est un des éléments au cœur de notre positionnement et mérite de fait d'être étayé par la sociologie moderne étudiant les mouvements contestataires et ce genre de mécanisme. Dans le cas de l'État qui s'adapte à des mouvements contestataires les mécanismes sont bien documentés. Le concept est appelé *"repression learning"<sup>1</sup>* <note>1. Voir Davenport (2007)</note> qui comprend la capacité spécifique de l'état ajuster ces doctrines policières, ces dispositifs juridiques ainsi que les technologies et moyens de contrôle. Au travers du concept de *"policing cycles"<sup>1</sup>* <note>1. Voir della Porta (1995) et Earl (2011)</note> les mécanismes propres forces de l'ordre sont bien documentés. La sociologie italienne Donatella della Porta montre comment chaque confrontation renforce la capacité des forces de l'ordre à anticiper, déjouer, et réprimer les répertoires d'action, autrement dit les tactique, des militants.
 
-<!-- Répertoire transgressif   -->
-**Définition :**  
-Actions qui franchissent une limite légale ou normative sans recourir à la violence physique. Elles assument une rupture avec les règles institutionnelles.  
-**Exemples :** sabotage léger, intrusions, occupations illégales, actions clandestines.
+Comme dans de nombreux conflits, particulièrement explicite dans les milieux de la cybersécurité, gagner du terrain implique souvent une innovation stratégique. Pour chaque innovation de la part des militants, l'État à son tour oppose la sienne. Dans le cas du militantisme ces innovations sont bien souvent au niveau du répertoire d'action. Une nouvelle tactique va être employé auquel l'ennemi opposera une défense ou une contre tactique. Cela porte souvent le nom de **cycles d’innovation–contre‑innovation**. Chaque partie compose autant avec son répertoire d'action que le répertoire d'action de son opposant. Ici surgit encore la question de l'asymétrie dans le cas des états et des institutions, ces derniers disposent de ressources supérieures, d’une capacité d’analyse centralisée et d’un accès privilégié aux technologies de surveillance. *Ainsi une tactique qui a été particulièrement efficace le sera probablement de moins en moins voir plus du tout après quelques usages.<sup>1</sup>* <note>1. McAdam, Tarrow & Tilly — Dynamics of Contention (2001).</note>
 
-**Exemple réel : Extinction Rebellion (2018–2024)**  
-Extinction Rebellion (XR) utilise des tactiques transgressives telles que les blocages non déclarés, les occupations illégales de ponts ou de bâtiments, et des perturbations ciblées dans des lieux stratégiques. L’objectif est de forcer l’agenda climatique par la rupture non violente. Ces actions ont généré une forte visibilité médiatique et ont contribué à inscrire l’urgence climatique dans le débat public. Cependant, XR a également fait face à une répression accrue, à des arrestations massives et à des débats internes sur la légitimité et l’efficacité de ces tactiques.
+Au-delà de ses évolutions des répertoires d'action les États utilise un autre levier bien étudié celle de jouer tout au moins de faire attention aux **structures d'opportunité politique (POS)**. L'État pour réagir à un mouvement ou à des tactiques en fermant les opportunités politiques. Par exemple la criminalisation de de certaines tactiques, le durcissement juridique générale, recentraliser le pouvoir ou faire des alliances inter-institutionnel est un ensemble d'options à disposition de l'État pour lutter contre une stratégie. Des leviers sur lequel les mouvements ont très peu de pouvoir. *Sidney Tarrow décrit ce mécanisme<sup>1</sup>* <note>1. Voir Tarrow — Power in Movement (1998) ; Meyer (2004)</note> comme une fermeture structurelle des opportunités politiques et qui rend les mobilisations futures bien moins efficace notamment d'un coût et d'une pression sur les structures de mobilisation.
 
-**Limites sociologiques :**  
-- Risque de **basculement vers la violence** selon la dynamique d’escalade.  
-- **Isolement** du mouvement si la transgression est perçue comme illégitime.  
-- **Répression accrue** et surveillance policière renforcée.  
-- Difficulté à maintenir un **cadrage moral positif** face aux critiques médiatiques.
+Les opposants d'un mouvement ont également comme outil leur influence sur la perception publique et médiatique d'un conflit. *La première arme est de délégitimer ses adversaires<sup>1</sup>* <note>1. Gamson (1992), Snow & Benford (1988).</note>, le répertoire d'action, autrement dit leur tactique, ainsi que d'isoler sur la scène médiatique ces opposants notamment pour préparer l'opinion à accepter la répression. En France cela passe par des discours évoquant la "radicalisation", la "violence", parfois avec un goût amer de colonialisme "d'ensauvagement", et enfin un préféré des médias et des forces de l'ordre le fameux "trouble à l'ordre public". Ce mécanisme porte le nom de **contre cadrage (counter-frames)**. *Une fois ces contre cadrage mis en œuvre la répression devient plus acceptable et peut être normalisé. Les dispositifs positifs, les tactiques et le répertoire d'action utilisé pour réprimer, et les outils juridiques concocté pour l'occasion sont testés puis normalisé.<sup>1</sup>* <note>1. Fillieule (2010), della Porta (1996).</note>
 
-**Sources :**  
-- Graeme Hayes, *Disobedient Youth* (2022)  
-- Donatella Della Porta, *Protest in Time of Crisis* (2015)  
-- Tilly & Tarrow, *Contentious Politics* (2015)
+La symétrie au niveau des moyens technologiques notamment de surveillance n'est pas simplement une donnée préexistant un conflit mais un élément *qui bénéficie des mobilisation et de mouvement d'opposition<sup>1</sup>* <note>1. Roché (2020)</note>. Les travaux modernes en sociologie portant sur cet aspect de la contre-insurgence montre comment *les états saisissent l'opportunité pour tester et perfectionner de nouveaux outils technologiques<sup>1</sup>* <note>1. Lyon (2007)</note>. Que ce soit les drones, l'espionnage numérique, l'OSINT, la reconnaissance faciale, ou le traçage digital ces dispositifs sont testés et leur intégration dans les répertoires d'action est raffiner. Chaque confrontation alimente les données, leur exploitation et leurs judiciarisation. Dans ce cas on va parler d'immunité technologique de l'adversaire.
 
-<!-- Répertoire violent   -->
-**Définition :**  
-Actions impliquant des dommages physiques, des menaces ou une destruction ciblée. Elles visent à imposer un coût direct par la force.  
-**Exemples :** sabotage lourd, affrontements, guérilla, terrorisme, insurrection armée.
+Le cas des gilets jaunes est un exemple particulièrement frappant de comment les différentes échelles d'immunisation permet de mettre à mal un mouvement. L'ampleur des premières mobilisation en novembre 2018 prends l'État par surprise. L'absence d'organisation centrale, la tactique de l'occupation des ronds-points, les actions diffuse et simultané sur le territoire, ainsi qu'une majorité de manifestations non déclarées crée un rapport de force initiale. Les tactiques de répression à peine 6 semaines plus tard vont s'adapter et se durcir. L'état sort l'arsenal complet et une répression agressive à base d'un usage intensif de LBD, de nasses, de force de l'ordre comme la BRAV-M ainsi que des outils judiciaires comme des arrestations préventives et des interdictions administratives. En 2019, l'imunisation bondit gràce a la loi dit "anti‑casseurs". *Grâce à cette adaptation de la part de l'État le mouvement est rapidement neutralisé<sup>1</sup>* <note>1. Fillieule (2020), Roché (2020)</note> et ne représente plus en danger malgré les actions qui se poursuit sur le terrain.
 
-**Exemple réel : L’IRA (Irish Republican Army)**  
-*(Note : L’IRA est responsable de violences graves, d’attentats et de pertes humaines importantes. Cet exemple est présenté dans un cadre strictement analytique et historique.)*
+Il est important de voir l'immunisation comme un processus qui cumule les différents mécanismes que nous venons de voir. Si l'apprentissage répressif, l'adaptation tactique, la fermeture des opportunités politiques, la normalisation de la répression notamment par les contrecadrages médiatique, et enfin la consolidation technologique vont être utilisés de manière combinée. À chaque cycle de manifestation, de mobilisation ou plus généralement de mise en œuvre d'un répertoire d'action menaçant l'État est une occasion pour ce dernier de renforcer ses défenses et de consolider son pouvoir. L'asymétrie se creuse.
 
-L’IRA a mobilisé un répertoire violent incluant attentats à la bombe, assassinats ciblés, sabotage lourd et guérilla urbaine. Son objectif était de mettre fin à la présence britannique en Irlande du Nord et d’imposer un coût politique et militaire à l’État britannique. Dans les années 1970, une partie de la population catholique/nationaliste percevait l’IRA comme un acteur de défense communautaire face à la répression policière et paramilitaire. Cependant, cette légitimité a fluctué au fil du temps : les attentats visant des civils, comme celui de Birmingham (1974) ou d’Omagh (1998, commis par une dissidence), ont entraîné une chute massive du soutien public. Cette évolution illustre un point central de la sociologie des mouvements violents : **la légitimité publique est instable, fragile, et peut s’effondrer après un seul événement perçu comme moralement inacceptable**. L’IRA a finalement participé au processus politique menant à l’Accord du Vendredi Saint (1998), marquant un passage progressif du répertoire violent au répertoire institutionnel.
+| **Levier d’immunisation** | **Mécanisme** | **Effet sur le mouvement** | **Références clés** |
+|---------------------------|---------------|-----------------------------|----------------------|
+| **Repression learning** | L’État apprend des cycles de protestation et ajuste doctrines, dispositifs juridiques et outils de contrôle. | Répression plus rapide, plus ciblée, plus efficace à chaque cycle. | Davenport (2007) ; della Porta (1995) ; Earl (2011) |
+| **Cycles d’innovation–contre‑innovation** | Chaque tactique militante produit une contre‑tactique étatique, plus rapide et mieux dotée. | Les tactiques efficaces deviennent obsolètes après quelques usages. | McAdam, Tarrow & Tilly (2001) |
+| **Fermeture des opportunités politiques (POS)** | Criminalisation, durcissement juridique, recentralisation, alliances institutionnelles. | Mobilisations futures plus coûteuses, moins efficaces, plus risquées. | Tarrow (1998) ; Meyer (2004) |
+| **Contre‑cadrage médiatique** | Délégitimation, isolement symbolique, construction d’un récit justifiant la répression. | Réduction du soutien public, acceptabilité accrue de la répression. | Gamson (1992) ; Snow & Benford (1988) |
+| **Normalisation de la répression** | Les dispositifs exceptionnels deviennent routiniers et intégrés dans le répertoire policier. | Répression plus systématique, plus précoce, plus institutionnalisée. | Fillieule (2010) ; della Porta (1996) |
+| **Immunité technologique** | Tests et perfectionnement de technologies de surveillance lors des mobilisations. | Surveillance accrue, identification facilitée, judiciarisation renforcée. | Lyon (2007) ; Roché (2020) |
+| **Immunisation juridique** | Lois ad hoc, interdictions individuelles, élargissement des pouvoirs préfectoraux. | Réduction drastique des marges d’action légales des militants. | Earl (2011) ; Jobard & Maillard (2015) |
+| **Immunisation organisationnelle** | Coordination inter‑services, centralisation du renseignement, protocoles unifiés. | Réactivité accrue, anticipation des tactiques, neutralisation précoce. | della Porta (2019) ; Roché (2020) |
+| **Immunisation culturelle** | Construction d’un imaginaire où la contestation = menace. | Dépolitisation, isolement, fragmentation des soutiens. | Gamson (1992) ; Boltanski & Chiapello (1999) |
 
-**Limites sociologiques :**  
-- Risque de **perte totale de légitimité** après des actions jugées moralement inacceptables.  
-- **Répression massive** et durable, pouvant détruire les structures de mobilisation.  
-- **Fragmentation interne** (scissions, dissidences, radicalisation).  
-- Difficulté à transformer une **victoire militaire** en **victoire politique** durable.  
-- Risque de **spirale violence–répression** auto‑entretenue.
+#### L'illusion du status-quo
 
-**Sources :**  
-- Donatella Della Porta, *Social Movements, Political Violence, and the State* (1995)  
-- Stathis Kalyvas, *The Logic of Violence in Civil War* (2006)  
-- Richard English, *Armed Struggle: The History of the IRA* (2003)  
-- McAdam, Tarrow & Tilly, *Dynamics of Contention* (2001)
+C'est constat et ses outils nous amènent à l'élément crucial de notre vision qui est l'erreur de penser que en cas d'échec notre impact est au pire un maintien du status quo. Autrement de dire que l'échèc ne coûte rien. Cette idée sous-tend pourtant la réflexion de nombreux militants et de mouvement. Comme nous l'avons vu ci-dessus combattre veut parfois dire renforcer l'immunité de notre ennemi et donc d'accroître l'asymétrie. La notion d'asymétrie ou d'immunité peut sembler théorique mais la manifestation très concrète de ces notions et que en militant on peut empirer la situation et rendre le combat bien plus difficile pour les mouvements futurs. En cela le Mallouestan s'oppose à l'idée promis par des militants comme Derek Jensen qu'il faut militer même en cas d'échec si ce n'est pas pour nous mais pour les générations futures. Une idée plus générale étant que militer à défaut d'accomplir ses objectifs développe une culture et un terreau qui favoriserait le succès par la suite. 
 
-<!-- Conclusion   -->
-Les répertoires disruptifs, transgressifs et violents permettent de créer des ruptures que les répertoires conventionnels ne peuvent pas produire. Ils sont souvent mobilisés lorsque les institutions sont fermées, lorsque les asymétries de pouvoir sont trop fortes, ou lorsque les réformes sont jugées insuffisantes. Cependant, chacun comporte des limites structurelles : dépendance à la répression, fragilité de la légitimité, risques d’escalade, fragmentation interne et difficultés d’institutionnalisation.
+De notre grille de lecture, des nombreuses exemples historiques ainsi que les travaux académiques nous voyons effectivement pas comment cela peut être possible. Ce n'est pas en fermant les opportunités politiques, en renforçant les tactiques et les moyens technologiques de nos adversaires que le succès devient plus accessible. Du mouvement contre la loi travail en 2016 illustre cette réalité. En 2016 les mobilisations d'ampleur national non seulement choux à atteindre leurs objectifs mais aggravent durablement la symétrie en renforçant les capacités répressives, juridique et médiatique de l'État. L'État met en place les différents mécanismes que nous avons vu aussi dessus. Un contre cadrage médiatique un peu maladroit est mis en œuvre. Des unités motorisées sont testées et seront l'ancêtre de la BRAV-M, sur le plan judiciaire des arrestations préventives et des restrictions de parcours sont expérimentés à une échelle inédite. Par 49,3 la loi est est validé juridiquement signons l'échec du mouvement. Mais l'analyse ne doit pas s'arrêter là. C'est ce répertoire d'action et tester sur le terrain en 2016 mais devient la norme par la suite. Le travail des sociologues Fillieule et Roché cité précédemment montre le rôle décisif de ces mécanismes dans la neutralisation du mouvement mais aussi de la consolidation durable de l'appareil répressif.
 
-**Sources générales :**  
-- Tilly & Tarrow, *Contentious Politics* (2015)  
-- Della Porta & Diani, *Social Movements* (2020)
+#### Prédation et réactions
 
-#### Synthèse des répertoires d’action
-
-| Répertoire | Objectif stratégique | Avantages | Limites               |
-|-----------|----------------------|-----------|------------------------|
-| **Conventionnel** | Influencer les institutions par des moyens reconnus et légitimes. | Forte légitimité publique ; faible répression ; accès aux décideurs ; stabilité. | Faible capacité de rupture ; filtrage institutionnel ; asymétrie de ressources ; lenteur des réformes. |
-| **Disruptif** | Créer un coût économique, politique ou symbolique pour forcer une négociation. | Forte visibilité ; pression directe ; mobilisation large ; capacité de blocage. | Dépendance à la tolérance policière ; risque de délégitimation ; fatigue militante ; criminalisation possible. |
-| **Transgressif** | Rompre les règles pour imposer un débat ou contourner les blocages institutionnels. | Capacité de rupture élevée ; visibilité médiatique ; contournement des cadres légaux. | Isolement du mouvement ; répression accrue ; surveillance ; difficulté à maintenir une image positive. |
-| **Violent** | Imposer un coût direct par la force lorsque les institutions sont fermées ou hostiles. | Capacité de contrainte maximale ; efficacité dans contextes de domination extrême. | Perte de légitimité ; répression massive ; fragmentation interne ; spirale violence–répression ; difficulté à convertir la violence en gains politiques. |
-
-
-### La question de l'asymétrie
-
-Les exemples ci-dessus peuvent être généralisés et doivent être généralisé à toutes les formes de lutte. Tout d'abord la puissance d'un outil n'est pas suffisant pour justifier une stratégie surtout si l'ennemi a de multiples avantages sur l'outil en question. Combattre le feu avec le feu ne marche pas très bien quand l'ennemi a un lance-flamme et nous une allumette. Surtout quand l'ennemi est celui qui nous fournit la lunette. Mais au-delà des outils l'asymétrie doit être un élément pris en compte au sein des stratégies militantes. En effet n'importe quel système qui en a la capacité cherchera à se défendre lors d'attaque. Dans le cadre d'asymétrie attaquer pour attaquer n'est pas très pertinent quand l'asymétrie joue en notre défaveur. Au-delà d'être annihilé le risque et de permettre à nos ennemis de s'habituer ou de mieux se préparer à ses attaques. Il est possible de prendre par surprise un ennemi mais si nous ne réussissons pas l'objectif cela et d'autant plus difficile une deuxième fois. 
-
-Autrement dit nous pouvons faire le parallèle avec un organisme. Si l'organisme est attaqué et qu'il réussit à repousser l'attaque il pourra construire des défenses plus efficaces pour l'avenir. C'est le principe des vaccins qui va " entraîner" un organisme à se défendre contre certaines attaques. Les stratégies doivent donc pour réussir prendre en compte cette réalité. Elles doivent donc éviter d'immuniser ces ennemis. Dans un contexte d'asymétrie il faut viser à submerger, prendre par surprise, ou attaquer un système fragilisé par ailleurs. Pour cela il faut les moyens de le faire est un élément essentiel à figurer dans une stratégie. Les stratégies doivent faire figurer aussi les moyens d'évolution permettant de contourner l'immunisation de ses ennemis. 
-
-#### Autres limites externes
-
-Il est aussi nécessaire au sein de nos mouvements de prendre en compte les outils que nous ennemis mettront en place dans cette optique d'immunisation [PARRALELE STRAT DIMUNISATION]. L'appareil répressif judiciaire de l'État doit être pris en compte. Cela peut sembler une évidence mais de nombreux collectifs continuent à envoyer des militants dans des actions ou ces derniers sont fichés tout en ayant une stratégie à long terme que ce fichage entrave. Il faut également se mettre à la place de son ennemi et réfléchir à quel outil l'ennemi peut mobiliser pour résister et s'immuniser. Voici quelques exemples: 
-
-- La criminalisation du mouvement 
-- l'appareil judiciaire (procès, amendes, détournement de lois, interdiction de territoire ...) 
-- l'intelligentia comme la surveillance numérique (OSINT, caméra, reconnaissance faciale, infiltration) 
-
-Un autre point crucial souvent oublié est la multitude d'ennemis annexe. D'autres groupes rôde en cherchant également à asseoir leur vision du monde. On peut prendre deux cas qui illustrent l'importance de prendre en compte ces acteurs externes:
+Un autre point souvent oublié est la multitude d'ennemis annexe. D'autres groupes rôde en cherchant également à asseoir leur vision du monde. On peut prendre deux cas qui illustrent l'importance de prendre en compte ces acteurs externes:
 
 - ***Tiers prédateur<sup>1</sup>* <note>1. Voir Subra, Philippe. “Géopolitique locale : territoires, acteurs, conflits”</note> / ou "*spoiler groups<sup>1</sup>* <note>1. Stedman, Stephen John. “Spoiler Problems in Peace Processes.” International Security, vol. 22</note>":** Le tier prédateur correspond à l'intervention d'un acteur externe profitant des avancé d'une lutte, comme la fragilisation de l'ennemi, pour intervenir et faire valoir ses intérêts. Cela est particulièrement fréquent dans les conflits militaire. On l’a vu en Syrie, où la révolution démocratique a été supplantée par des groupes djihadistes ; en Égypte, où l’armée a récupéré la chute de Moubarak ; ou encore en Iran, où les islamistes ont capté l’énergie révolutionnaire de 1979.
 - **La coalition réactive:** La coalition réactive (regroupant nottamenet la notion de *"coalition de maintien"<sup>1</sup>* <note>1. Voir McAdam, Doug ; Tarrow, Sidney ; Tilly, Charles. Dynamics of Contention. Cambridge University Press, 2001</note> ainsi que *"countermovements"<sup>1</sup>* <note>1. Voir Meyer & Staggenborg — “Movements, Countermovements, and the Structure of Political Opportunity” (1996)</note>) correspond au fait que des acteurs externes, qui ne sont pas forcément d'accord avec l'ennemi initial, se rallient à ce dernier par peur d'être les prochains ciblés par le mouvement ou par peur de perdre des avantages liés à leur position dans le système. Cela à était étudié dans une oeuvre clef par Susan Faludi, Susan Faludi — Backlash: The Undeclared War Against American Women (1991).
@@ -336,7 +212,27 @@ Un exemple particulièrement éclairant est celui de Notre‑Dame‑des‑Landes
 
 ### L'état des lieux des luttes proactives
 
-#### Retour sur les résultats
+Nous commençons à dépeindre une image décourageantes des luttes. L'intérêt des sections qui vont suivre est d'étayer effectivement notre scepticisme à l'égard de nombreux mouvements et stratégie mise en avant aujourd'hui dans les milieux militants. Sortons un peu de la sociologie et de la théorie pour regarder sur le terrain les échecs et succès des mouvement important dans différents domaines menant des combats sur divers fronts. 
+
+#### La lutte écologique
+
+Près de 70 ans de lutte contre le réchauffement climatique par de nombreuses associations mobilisant des répertoires d'action variés sera notre premier cas d'étude en termes de résultats. En cette année 2026 ou l'intelligence artificielle a eu un impact visible sur l'augmentation des gaz à effet de serre il est difficile de crier victoire ou de se satisfaire de l'ensemble des efforts cumulés de ses 70 ans. De nombreux pays réinvestissent dans l'énergie fossile après des promesses et des accords juridiques piétiner. Les États-Unis vois en 2 ans son investissement dans les énergies fossiles *quadruplé<sup>1</sup>* <note>1. [Voir https://www.carbonbrief.org/ai-boom-means-us-is-now-investing-more-in-fossil-fuel-power-than-china/](https://www.carbonbrief.org/ai-boom-means-us-is-now-investing-more-in-fossil-fuel-power-than-china/)</note>. De nombreux pays dont la France font marche arrière sur des normes environnementales. En 2026 plus de 1/3 de la population française est considérée comme climato-sceptique. La déforestation s'accèlère. Les indicateurs et les tendences à l'égard de l'environment n'ont globalement pas était endigué et dans tout les cas sont loin des objectifs des millieux militants qui sont perte d'inertie.
+
+En France, les Soulèvements de la Terre après une séquence d’actions spectaculaires (Sainte‑Soline, actions contre les méga‑bassines, sabotages d’infrastructures), l’État a *déployé une combinaison d’immunisation juridique<sup>1</sup>* <note>1. Mediapart, « Dissoudre les Soulèvements de la Terre : une stratégie politique », 2023.</note> (tentative de dissolution), policière (doctrine de confrontation frontale), et médiatique (cadrage en “ultra‑violence”), ce qui a réduit la capacité du mouvement à maintenir son rythme d’action. Les actions sont maintenus mais à des echelles locales après une transition d’un répertoire d’action "événementiel" à un répertoire "territorial"/"furtif" De même, Extinction Rebellion France, après une phase initiale d’innovation tactique (occupations prolongées, actions de désobéissance civile de masse), a vu ses marges d’action se réduire drastiquement lorsque les forces de l’ordre ont appris à neutraliser rapidement les blocages, tandis que les préfectures multipliaient interdictions et arrestations préventives. On remarque des dynamique simmilaires chez les d'autres collectifs qui peinent à maintenir une intensité initiale mais surtout un rapport de force avec leurs ennemis.
+
+Par exemple avec Dernière Rénovation, dont l’inertie a rapidement décliné après une phase initiale d’innovation tactique. Les blocages routiers et perturbations d’événements, d’abord difficiles à anticiper, ont été intégrés en quelques mois dans le répertoire policier : évacuations rapides, interpellations systématiques, équipes spécialisées* pour neutraliser les militants collés<sup>1</sup>* <note>1. Libération, « Les militants collés : la police a désormais ses techniques », 2023</note>. Parallèlement, l’État a activé une *immunisation juridique (poursuites systématiques, interdictions administratives)<sup>1</sup>* <note>1. Mediapart, « Dernière Rénovation : la répression judiciaire s’intensifie », 2023</note> et médiatique (cadrage en “prise d’otage”, “radicalisation”), réduisant le soutien public et augmentant le coût individuel de l’action. Comme pour Extinction Rebellion, cette combinaison d’immunisation policière, juridique et symbolique a produit un *épuisement organisationnel<sup>1</sup>* <note>1. Mediapart, « L’usure militante dans les mouvements climat », 2024</note>, entraînant une perte d’inertie malgré la persistance d’un noyau militant déterminé mais peu nombreux.
+
+Les mouvements qui se limitent à des répertoires d’action conventionnels — pétitions, plaidoyer, interpellations institutionnelles, marches déclarées — n’obtiennent pas davantage de résultats. La sociologie des mouvements sociaux montre même que ces formes d’action, parce qu’elles ne créent ni rupture ni coût politique, sont les plus faciles à neutraliser. En France, les campagnes climatiques institutionnelles menées par ANV‑COP21, Alternatiba, ou les grandes ONG environnementales (WWF, Greenpeace France dans leurs volets non‑désobéissants) ont obtenu une visibilité importante mais aucune victoire structurelle sur les projets qu’elles ciblaient : ni sur les autoroutes (A69, A133‑A134), ni sur les méga‑bassines, ni sur les zones logistiques, ni sur les politiques nationales de rénovation thermique. De même, les mobilisations massives mais strictement conventionnelles comme les marches pour le climat (2018–2021), malgré des millions de participants cumulés, n’ont produit aucun infléchissement majeur des politiques publiques, précisément parce que l’État a pu absorber ces mobilisations sans coût, sans perturbation et sans pression directe.
+
+Que ce soit les mouvements en perte d'inertie ou le constat de l'absence de résultats au niveau des indicatuers montre de nombreux échecs (ou réussite de la part des ennemis). Malgré cet effort il n'y a pas de "terreau favorable" bien au contraire le paysage militant est marqué par une fermeture des structure des opportunités politiques.
+
+#### Autre lutte pour les droits sociaux
+
+parlé assez des gillets jaune
+
+Echecs de la majorité de lutte [Full spectrum résistance ]- exeption Lutte LGBTQIA. victoire juridique plûtot que culturelle qui les rendent fragile exemple trump ...;
+
+
 
 #### Militantisme libérale
 
@@ -345,5 +241,12 @@ Un exemple particulièrement éclairant est celui de Notre‑Dame‑des‑Landes
 ### En attendant 
 
 #### Militantisme réactif
+
+
+#### Culture alternative
+
+Conclure sur la nécéssité au niveau de la culture d'un hermétisme avec la culture dominante pour ne pas être assimilé et pour pouvoir créer une culture alternative.
+
+
 
 ### Conclusion
