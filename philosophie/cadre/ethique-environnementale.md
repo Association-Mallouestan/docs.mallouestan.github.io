@@ -7,6 +7,12 @@ tags:
   - vision
 image: /images/ressources/sauvage.jpg
 author: mallouestan
+
+playlist: 
+  name: Textes théoriques
+  by_tag:
+    - fondamentaux
+    - vision
 ---
 
 ## Avant propos 
