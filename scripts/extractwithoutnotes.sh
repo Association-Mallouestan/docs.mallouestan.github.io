@@ -4,4 +4,4 @@
 
 INPUT="$1"
 
-ssed -E 's/<note>[^<]*<\/note>//g' "$INPUT"
+sed -E 's/ ?<note>.*?<\/note>//g' "$INPUT"
