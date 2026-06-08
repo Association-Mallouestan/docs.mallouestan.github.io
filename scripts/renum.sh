@@ -15,9 +15,10 @@ while IFS= read -r line; do
         h4_count[$h3_count]=0
 
         # Supprimer ancienne numérotation éventuelle
-        clean_title=$(echo "$line" | sed -E 's/^###[ ]*[0-9]+[.]?[ ]*//')
+        clean_title=$(echo "$line" | sed -E 's/^###[ ]*[0-9]*\.?[ ]*//')
 
-        echo "### ${h3_count}. ${clean_title#### }" >> "$tmp"
+        echo "### ${h3_count}. ${clean_title}" >> "$tmp"
+        echo "### ${h3_count}. ${clean_title}"
         continue
     fi
 
@@ -27,9 +28,10 @@ while IFS= read -r line; do
         letter=$(printf "%b" "$(printf '\\%03o' $((96 + h4_count[$h3_count])) )")
 
         # Supprimer ancienne numérotation éventuelle
-        clean_title=$(echo "$line" | sed -E 's/^####[ ]*[0-9]+[a-z]?[.]?[ ]*//')
+        clean_title=$(echo "$line" | sed -E 's/^####[ ]*[0-9]*[a-z]?\.?[ ]*//')
 
-        echo "#### ${h3_count}${letter}. ${clean_title##### }" >> "$tmp"
+        echo "#### ${h3_count}${letter}. ${clean_title}" >> "$tmp"
+        echo "#### ${h3_count}${letter}. ${clean_title}"
         continue
     fi
 
