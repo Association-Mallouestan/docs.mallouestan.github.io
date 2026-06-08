@@ -301,7 +301,7 @@ Nous invitons les mouvements contestataires en attendant à investir la question
 
 Enfin, nous sommes convaincus que cette autonomie et résilience ne peut qu'être accrue et plus pertinente si elle englobe les personnes périphériques comme les voisins, personnes de passage ou sympathisants. Une culture de la solidarité n'est que plus censée si elle inclut ces personnes extérieures. Évidemment cela est limité par les moyens mais il suffit que ces derniers soient dimensionnés dans une optique plus large. Cette solidarité permet une résilience et porte un militantisme réactif qui investit l'axiologie que nous voulons développer.
 
-## Notes
+### Notes
 
 1. Voir <u>Régimes et répertoires</u> de Charles Tilly
 2. Gramsci le décrit dans ses carnets de prison
