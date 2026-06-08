@@ -133,7 +133,7 @@ Les stratégies de guerre culturelle doivent donc être évaluées à l'aune des
 
 Dans les milieux militants, il y a de *nombreux documentaristes, cinéastes ou d'autres artistes<sup>4</sup>* <note>4. Les études montrent que l'impact principal de ces artistes est très faible car le contenu reste dans un entre-soi et un public déjà converti. Voir <u>Out of the Theaters and Into the Streets.</u> de David Whiteman</note> cherchant également à participer à cette guerre culturelle. Au travers des réseaux sociaux, des plateformes de diffusion, et souvent au travers du système marchand, ils et elles cherchent à peser dans la guerre culturelle. Ces dynamiques sont militantes et doivent être analysées en tant que telles. Leurs objectifs et tactiques sont assez transparents : soit inscrire autant que possible les valeurs qu'ils ou elles portent dans le sens commun au travers de la sensibilisation et de l'éducation. Comme nous l'avons vu ci-dessus, pour apprécier l'intérêt de ces stratégies, il faut inclure une analyse des conditions matérielles et de fait la faisabilité de ses approches. Commençons par une analyse d'autres artistes, acteurs et actrices de la guerre culturelle.
 
-#### 3b.Culture alternatives et contre-culture
+#### 3b. Culture alternatives et contre-culture
 
 Les cultures alternatives et les contre-cultures sont une autre source de résistance à la culture dominante. Ce sont des cultures qui naissent souvent dans des contextes contestataires portant les valeurs des milieux d'origine et devenant un élément identitaire de ces milieux. Prenons par exemple le punk qui apparaît dans les années 1970 en rejetant l'ordre social de l'époque, la marchandisation, les normes sociales, et l'hiérarchie. Les valeurs dans les textes des groupes comme Crass appellent à une rupture radicale avec le système en rejetant le consumérisme, en critiquant la police et l'État, en critiquant la laxiologie [les valeurs] bourgeoise et en refusant l'industrie notamment culturelle. Le punk est à l'origine une contre-culture qui cherche à valoriser dans une guerre culturelle les valeurs que nous venons de citer.
 
@@ -271,7 +271,7 @@ La question de l'efficacité se pose aussi pour ces mouvements. Quelques points 
 
 Au contraire la définition même des mouvements réactifs permet une évaluation de l'efficacité un peu différente des mouvements proactifs. Un mouvement réactif qui cherche à aider ou à entraver a une efficacité dès la première personne aidée ou dès le premier jour d'un retard créé. Cette efficacité doit être mesurée certes par les conséquences sur le long terme notamment l'immunisation mais comme nous venons de le voir les mouvements réactifs sont moins sujet à ces mécanismes de par leur petite échelle. Par exemple une zone à défendre qui a abouti dans l'abandon d'un projet a une certaine efficacité malgré le fait que, ailleurs, le capitalisme grignote. Ce n'est sûrement pas une efficacité suffisante pour apporter les changements à la dynamique globale mais pour les individus ou écosystèmes concernés cela a une valeur tout de même.
 
-#### 5b.Périnisation défensive
+#### 5b. Périnisation défensive
 
 L'efficacité de nombreux mouvements réactifs va dépendre de leur capacité à pérenniser la résistance. La pérennité d'un projet militant réactif dépend principalement des structures de mobilisation ainsi que de l'évolution de ces structures. C'est-à-dire que la pérennité de ces mouvements dépend principalement des moyens matériels et humains nécessaires à la mise en œuvre du militantisme que le mouvement porte. La plupart du temps, ce sont les moyens financiers et humains qui sont les plus critiques. La perte d'une subvention, le recul des dons dans des contextes économiques défavorables ou une crise du point de vue des dépenses (inflation, coût d'un produit nécessaire) met en difficulté de nombreux collectifs. L'exemple en 2025 des Restos du cœur déclarant publiquement leur situation de crise montre que même les grandes structures sont soumises à ces dangers. Le facteur humain, souvent dans des structures de petite taille, amène son lot de défis. Les conflits au sein d'un petit groupe, le départ d'une personne indispensable, ou l'épuisement global de l'équipe sont des exemples de ce qui a coûté l'existence de nombreux collectifs. Le turnover dans des associations notamment porté par une jeunesse étudiante qui se font rattraper par les contraintes d'une vie post diplôme participe aussi à cette tension. 
 
@@ -301,7 +301,7 @@ Nous invitons les mouvements contestataires en attendant à investir la question
 
 Enfin, nous sommes convaincus que cette autonomie et résilience ne peut qu'être accrue et plus pertinente si elle englobe les personnes périphériques comme les voisins, personnes de passage ou sympathisants. Une culture de la solidarité n'est que plus censée si elle inclut ces personnes extérieures. Évidemment cela est limité par les moyens mais il suffit que ces derniers soient dimensionnés dans une optique plus large. Cette solidarité permet une résilience et porte un militantisme réactif qui investit l'axiologie que nous voulons développer.
 
-### Notes
+### 7. ### Notes
 
 1. Voir <u>Régimes et répertoires</u> de Charles Tilly
 2. Gramsci le décrit dans ses carnets de prison
