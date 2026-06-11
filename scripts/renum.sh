@@ -18,7 +18,7 @@ while IFS= read -r line; do
         clean_title=$(echo "$line" | sed -E 's/^###[ ]*[0-9]*\.?[ ]*//')
 
         echo "### ${h3_count}. ${clean_title}" >> "$tmp"
-        echo "### ${h3_count}. ${clean_title}"
+        echo "${h3_count}. ${clean_title}"
         continue
     fi
 
@@ -31,7 +31,7 @@ while IFS= read -r line; do
         clean_title=$(echo "$line" | sed -E 's/^####[ ]*[0-9]*[a-z]?\.?[ ]*//')
 
         echo "#### ${h3_count}${letter}. ${clean_title}" >> "$tmp"
-        echo "#### ${h3_count}${letter}. ${clean_title}"
+        echo "  ${h3_count}${letter}. ${clean_title}"
         continue
     fi
 
