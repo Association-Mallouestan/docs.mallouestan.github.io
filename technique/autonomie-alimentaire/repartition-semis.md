@@ -1,14 +1,16 @@
 ---
-date: 2026-04-22 2:00:00
+date: 2026-03-22 2:00:00
 title: Répartition de semis (Mathématique)   
 description: Comment répartir les semis avec une fonction de densité
 tags:
+  - technique
   - maraichage
   - maths
 folders:
   - charpente-4j-debutant-e
 image: /images/technique/maths/fonctions-densite.svg
 author: mallouestan
+maths: true
 ---
 
 ### Le problème

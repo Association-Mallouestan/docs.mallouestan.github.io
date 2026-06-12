@@ -1,5 +1,5 @@
 ---
-date: 2026-04-25 2:00:00
+date: 2026-03-25 2:00:00
 title: Bases en trigonométrie
 description: Des outils mathématiques utiles pour la construction
 tags:

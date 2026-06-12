@@ -37,7 +37,7 @@ try {
     }
 
     try {
-        const noteListingPattern = /## Notes[\s\S]*/g
+        const noteListingPattern = /## .*? Notes[\s\S]*/g
         const fullMatch = noteListingPattern.exec(updatedContent)?.[0];
 
         if(fullMatch) {
