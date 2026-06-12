@@ -6,7 +6,7 @@ description: >-
 tags:
   - fondamentaux
   - vision
-image: /images/ressources/galaxy.jpg
+image: /images/ressources/cadre/fist.svg
 author: mallouestan
 
 message:
