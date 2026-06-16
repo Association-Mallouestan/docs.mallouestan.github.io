@@ -4,8 +4,11 @@ title: S’organiser politiquement à l’ère du libéralisme
 description: S’organiser politiquement à l’ère du libéralisme
 folders:
   - festival-ete-2026
-image: /images/logo.png
+image: /images/logo.jpg
 author: mallouestan
+hidden-from:
+  - ressources
+  - front
 ---
 
 ## Présentation de la table ronde
