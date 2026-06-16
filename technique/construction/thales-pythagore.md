@@ -1,5 +1,5 @@
 ---
-date: 2026-04-25 2:00:00
+date: 2026-03-25 2:00:00
 title: Thales et pythagore
 description: Apprendre ces outils mathématiques fondamentaux
 tags:
