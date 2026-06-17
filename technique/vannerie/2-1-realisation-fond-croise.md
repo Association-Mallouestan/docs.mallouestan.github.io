@@ -12,16 +12,16 @@ author: mallouestan
 ---
 
 
-# Réalisation du fond croisé
+## Réalisation du fond croisé
 
-## Usages
+### Usages
 
 Le fond croisé est une technique incontounable pour réaliser de nombreux types d'ouvrages.
 On le trouve en effet dans la plupart des corbeilles et des paniers que l'on peut réaliser.
 
 Mais le fond croisé peut servir en tant que tel, par exemple, comme dessous de plat.
 
-## Réalisation
+### Réalisation
 
 La réalisation du fond croisé se fait en 5 étapes.
 
@@ -29,7 +29,7 @@ Vous aurez besoin d'un couteau (pas besoin d'un aiguisage rasoir, vous n'aurez p
 
 Concernant le matériau utilisé, il s'agit ici de noisetier pour l'armature et de la ronce pour le tressage. Mais vous pouvez utiliser de l'osier, du saule sauvage, du cornouiller, de la clématite, et tous les matériaux aptes au tressage "à plein" (qui n'ont pas été fendus pour les assouplir). Vous pouvez aussi utiliser des éclisses. Pour plus de détails, voir notre ressource sur les matériaux de la vannerie (à paraître).
 
-### Faire une croix avec 6 brins de grosse taille
+#### Faire une croix avec 6 brins de grosse taille
 
 Ici, le matériau utilisé n'est pas de grande importance. Certaines essences sont préférables pour des critères de torsion, de durabilité, de solidité, de résistance à la fente, mais beaucoup d'essences remplissent ces critères. Pour aller au plus simple, prenez du cornouiller, du saule ou du noisetier, si on veut rester dans des espèces fréquentes.
 
@@ -63,7 +63,7 @@ Tordez les 4 bâtons extérieurs autant que faire se peut sans les casser. Le bu
 
 😉 Astuce : si l'un des bâtons ou plusieurs casse(nt) partiellement mais pas complètement (qu'ils sont toujours en un morceau et pas deux), vous pouvez toujours les utiliser pour réaliser votre fond croisé. Il sera seulement moins solide et moins esthétique.
 
-### Le début du tressage (faire un carré autour du centre)
+#### Le début du tressage (faire un carré autour du centre)
 
 Prenez les 2 brins les plus fins de votre récolte. Ils doivent être assez longs. N'hésitez pas à les assouplir en les frottant sur votre genou comme expliqué plus haut pour les bâtons.
 
@@ -93,7 +93,7 @@ Et ainsi de suite jusqu'à avoir effectué 3 tours.
 
 😉 Astuce : le secret d'une vannerie bien faite, c'est de serrer ! Il faut serrer dans le sens du brin, ainsi que vers l'intérieur de votre fond croisé. 
 
-### Continuation du tressage "en super"
+#### Continuation du tressage "en super"
 
 Continuez ensuite ce tressage, mais cette fois-ci autour de 1 bâton à la fois et non pas 3.
 
@@ -107,7 +107,7 @@ Petit à petit, continuez d'écarter vos bâtons.
 
 😉 Astuce : une bonne chose à faire, surtout quand vous faites le fond d'une corbeille ou d'un panier, contrairement à un dessous de plat, consiste à bomber votre structure vers le haut sur votre genou. Votre fond croisé sera ainsi plus résistant à la force qu'exerceront les montants, qui auront tendance à bomber la structure vers le bas.
 
-#### Le raboutage
+##### Le raboutage
 
 😖 Aïe, vous arrivez à la fin de votre brin !
 
@@ -121,27 +121,20 @@ En toute logique, vous êtes arrivé au pied du brin que vous venez de finir de 
 
 😉 Astuce : faites en sorte que les parties en trop qui dépassent soient toutes du même côté. La dernière étape consiste à les couper et votre fond croisé sera plus beau d'un côté que de l'autre : ce sera la partie visible.
 
-### Finir le tressage
+#### Finir le tressage
 
 Pour finir votre fond croisé, fichez les derniers brins dans les interstices le long des bâtons.
 
 ![fin tressage](./images/FC24.jpg)
 
-### Epluchage
+#### Epluchage
 
 L'épluchage consiste à enlever les parties non voulues qui résultent du travail de l'ouvrage. On coupe ainsi les parties trop longues des bâtons, les parties de brins qui dépassent, les parties qui s'effilochent.
 
 🥳 Bravo ! Vous avez réalisé un fond croisé !
 
-## Poursuivre
+### Poursuivre
 
 Vous pouvez tout à fait vous arrêter là pour avoir déjà un objet utile. 
 
 Mais vous pouvez poursuivre vers la réalisation d'une corbeille ou d'un panier ici : (à paraître)
-
-
-
-
-
-
-
