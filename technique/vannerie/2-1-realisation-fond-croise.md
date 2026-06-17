@@ -1,3 +1,17 @@
+---
+date: 2026-06-16 2:00:00
+title: Réalisation du fond croisé 
+description: Toutes les étapes pour réaliser un fond croisé
+tags:
+  - techniques
+  - vannerie
+folders:
+  - vannerie-2h-debutant-e
+image: /images/technique/charpente/images/FC24.jpg
+author: mallouestan
+---
+
+
 # Réalisation du fond croisé
 
 ## Usages
@@ -29,7 +43,7 @@ Fendez dans le milieu le plus gros bâton.
 
 Passez un 1er bâton fendu autour d'un 1er bâton non fendu à l'aide de votre couteau.
 
-😉 Astuce : aidez-vous de votre couteau pour écater la fente et faire la place pour le 1er bâton.
+😉 Astuce : aidez-vous de votre couteau pour écarter la fente et faire la place pour le 1er bâton.
 
 ![bâton écarté](./images/FC11.jpg)
 
@@ -53,7 +67,7 @@ Tordez les 4 bâtons extérieurs autant que faire se peut sans les casser. Le bu
 
 Prenez les 2 brins les plus fins de votre récolte. Ils doivent être assez longs. N'hésitez pas à les assouplir en les frottant sur votre genou comme expliqué plus haut pour les bâtons.
 
-⚠️ Si vous utilisez de la ronce, veillez à les épépiner [enlever les épines, qui sont en fait des aiguillons au sens botanique]. Le plus simple est de le faire avec le dos du couteau (comme sur le photo), mais vous pouvez aussi le faire avec la lame posée à plat sur la ronce et couper les aiguillons. La première méthode a l'avantage d'être moins risquée et vous pouvez faire des va-et-vient rapides et forts sur la ronce sans risquer de la couper. La deuxième méthode requiert plus d'attention.
+⚠️ Si vous utilisez de la ronce, veillez à les épépiner [enlever les épines, qui sont en fait des aiguillons au sens botanique]. Le plus simple est de le faire avec le dos du couteau (comme sur la photo), mais vous pouvez aussi le faire avec la lame posée à plat sur la ronce et couper les aiguillons. La première méthode a l'avantage d'être moins risquée et vous pouvez faire des va-et-vient rapides et forts sur la ronce sans risquer de la couper. La deuxième méthode requiert plus d'attention mais va plus vite si elle est bien maîtrisée.
 
 ![épépiner les ronces](./images/FC17.jpg)
 
