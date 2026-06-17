@@ -1,7 +1,4 @@
-
-
-
-# Réalisation de la torche à 3 brins 2 devant 1
+## Réalisation de la torche à 3 brins 2 devant 1
 
 Si vous êtes ici, c'est que vous avez déjà mis en place les montants.
 
@@ -9,7 +6,7 @@ Cette ressource technique est facultative pour poursuivre votre panier mais il e
 
 📖 Définition : la torche est un tressage souvent réalisé avec 3 ou 4 brins qui permet de solidifier la structure. On la réalise à la base des montants pour solidifier la position leur positionnement, ainsi que sous la bordure pour niveler et en quelques sortes verrouiller votre tressage. Vous pouvez aussi réaliser des torches intermédiaires, par exemple, entre plusieurs tressages en crocane.
 
-## Réalisation 
+### Réalisation 
 
 Prenez 3 brins de taille équivalente, plus fins que vos montants. Ils doivent être suffisamment longs, de telle sorte qu'ils puissent faire un tour de panier.
 
@@ -47,7 +44,7 @@ Pour ce faire, prenez 3 nouveaux brins, et faites un raboutage pied sur pied (do
 
 Vous pouvez continuer ainsi de suite pour faire plus que 2 tours de torche, en pensant bien à rabouter la cime (l'extrémité la plus fine de vos brins) si vous avez fini un tressage avec les cimes de vos trois brins, ou avec les pieds si vous avez fini votre tressage avec les pieds de vos brins.
 
-## Poursuivre
+### Poursuivre
 
 Si vous êtes sur un torche à la base de votr structure, ou que vous avez fait une torche intermédiaire, vous pouvez continuer avec un tressage en crocane (à paraître), à brin perdu ou brin suivi (à paraître), en super (voir le tressage du fond croisé), en planchettes (à paraître).
 
