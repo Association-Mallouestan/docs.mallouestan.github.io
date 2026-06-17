@@ -1,4 +1,18 @@
-# Mise en place des montants
+---
+date: 2026-06-16 2:00:00
+title: Mise en place des montants 
+description: Un guide étape par étape de la mise en place des montants en vannerie hélicoïdale à montants parallèles.
+tags:
+  - techniques
+  - vannerie
+folders:
+  - vannerie-2j-debutant-e
+image: /images/technique/vannerie/images/montants08.jpg
+author: mallouestan
+---
+
+
+## Mise en place des montants
 
 Si vous en êtes là, c'est probablement que vous avez déjà fait votre fond croisé.
 
@@ -6,9 +20,9 @@ La suite pour réaliser un panier ou une corbeille consiste à mettre en place l
 
 Il y a 2 étapes.
 
-## Réalisation
+### Réalisation
 
-Le matériau utilisé ici est de l'osier. C'est un matériau idéal pour ce type de vannerie. L'usage de cornouiller, de saule sauvage ou de noisetier est possible, mais ils peuvent vous demander plus de travail d'assouplissement ou même de fente des brins en 2.
+Le matériau utilisé ici est de l'osier. C'est un matériau idéal pour ce type de vannerie. L'usage de cornouiller, de grosse ronce, de saule sauvage ou de noisetier est possible, mais ils peuvent vous demander plus de travail d'assouplissement ou même de fente des brins en 2.
 
 Sélectionnez soit 12, soit 24 brins parmi les plus gros de votre récolte.
 
@@ -19,7 +33,7 @@ Sélectionnez soit 12, soit 24 brins parmi les plus gros de votre récolte.
 -La raison de prendre parmi les plus gros brins pour les montants est que l'une des règles d'or de la vannerie est de toujours faire en sorte que le squelette de votre ouvrage (ici les montants) soit plus "fort" que les brins avec lesquels vous allez tresser.
 
 
-## Piquage des montants
+### Piquage des montants
 
 Taillez vos brins en biseau à la base. Cela servira à les faire rentrer plus facilement et plus loin dans votre fond croisé.
 
@@ -31,7 +45,7 @@ Rpétez cette opération pour tous les montants.
 
 ![poinçon dans fond](./images/montants04.jpg)
 
-## Montage des montants
+### Montage des montants
 
 Commencez par mettre un poids sur votre fonde croisé. Il vous facilitera le travail pour la suite.
 
@@ -53,7 +67,7 @@ Attachez vos montants par le haut à l'aide d'une ficelle (ou d'un bout d'écorc
 
 Ré-enfoncer les montants dans le fond croisé car certains ont pu se retirer un peu suite à toutes les manipulations.
 
-## Poursuivre
+### Poursuivre
 
 La suite ici : (lien à paraître)
 
