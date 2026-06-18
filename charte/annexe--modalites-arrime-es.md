@@ -37,7 +37,7 @@ L'absence cumulée des arrimé·es ne doit pas excéder 42 jours (soit 6 semaine
 
 ### Absences BIC
 
-Par défaut une absence du lieu est considérée comme du loisir ou des vacances. Les modalités de mutualisation encouragent également des "breaks d'intérêt collectif" appelés absences BIC. Formations, temps sur d'autres écolieux, ou d'autres activités permettant une rupture avec le quotidien du lieu tout en ayant un apport ou un intérêt pour le collectif tombent dans cette catégorie. 14 jours (soit deux semaines) d'absences BIC sont un droit pour tout arrimé·e. Si le collectif ne fournit pas d'opportunités pour ces absences et qu'il a refusé les propositions d'une personne, cette dernière jouit de ses jours BIC restants en tant que vacances avec les modalités associées. 
+Par défaut une absence du lieu est considérée comme du loisir ou des vacances. Les modalités de mutualisation encouragent également des "breaks d'intérêt collectif" appelés absences BIC. Formations, temps sur d'autres écolieux, ou d'autres activités permettant une rupture avec le quotidien du lieu tout en ayant un apport ou un intérêt pour le collectif tombent dans cette catégorie. 14 jours (soit deux semaines) d'absences BIC sont un droit pour tout arrimé·e. Si le collectif ne fournit pas d'opportunités pour ces absences et qu'il a refusé les propositions d'une personne, cette dernière jouit de ses jours BIC restants en tant que vacances avec les modalités associées.
 
 > Si le nombres d'arrimé·es sur le lieu est inférieur à quatre le nombre de jours est réduit à 7 (soit une semaine).
 
@@ -64,7 +64,7 @@ Comme expliqué dans l'annexe économie partagée la mutualisation inclut les bi
 | **Affaires pers** |   |   |   |
 | Sac à dos >70L    | x | x |   |
 | Vétements pers    | x | x |   |
-| Chaussures x3      | x | x |   |
+| Chaussures x3     | x | x |   |
 | Trousse de toil.  | x | x |   |
 | Dumbphone         | x | x |   |
 | Smartphone ou tab |   |   |   |
@@ -77,20 +77,21 @@ Comme expliqué dans l'annexe économie partagée la mutualisation inclut les bi
 | Couverts          | x | x |   |
 | Gamelle           | x | x |   |
 | Gourde            | x | x |   |
-| **Outils**        |   |   |   |
-| Couteau           | x | x |   |
-| Fer de hache      | x | x |   |
-| Manches           |   |   |   |
-| Serpe             | x | x |   |
-| Fer de houe       | x | x |   |
-| Pierres d'afut.x3 | x | x |   |
-| Limes             |   |   |   |
-| Graisse           | x | x |   |
-| Embouts visseuse  | x | x |   |
-| Graisse           | x | x |   |
-| Lame scie à cadre | x | x |   |
-| Burrin            | x | x |   |
-| **Rouleau outils**     |   |   |   |
+| **Outils**             |   |   |   |
+| Couteau                | x | x |   |
+| Fer de hache           | x | x |   |
+| Manches                |   |   |   |
+| Fer de Serpe           | x | x |   |
+| Fer de houe            | x | x |   |
+| Pierres d'afut.x3      | x | x |   |
+| Limes                  |   |   |   |
+| Graisse                | x | x |   |
+| Embouts visseuse       | x | x |   |
+| Equerre                | x | x |   |
+| Lame scie à cadre      | x | x |   |
+| Maillet bois           |   |   |   |
+| E.P.I                  | x |   |   |
+| Burrin de maçon        | x | x |   |
 | Pince anglaise         | x |   |   |
 | Pince multiple         | x |   |   |
 | Clef à molette         | x |   |   |
