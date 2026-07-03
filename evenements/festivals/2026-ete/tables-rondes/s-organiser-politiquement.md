@@ -21,12 +21,12 @@ Cette table ronde de 2h permettra de se questionner sur le rôle néfaste ou non
 
 2. **Qu’entend-on par “libéralisme” aujourd’hui ?** (3 min environ par pers.)
 
-3. **De nombreux termes sont parfois utilisés avec ou à la place du libéralisme. Comment distinguez-vous la différence entre libéralisme, néolibéralisme, capitalisme et individualisme ?** (3 min environ par pers.)
+3. **De nombreux termes sont parfois utilisés avec ou à la place du libéralisme. Comment faites-vous la différence entre libéralisme, néolibéralisme, capitalisme et individualisme ?** (3 min environ par pers.)
 
 4. **Selon vous, quel est le rôle du libéralisme dans le cadrage contemporain des questions politiques ? Quelles conséquences positives ou négatives de tels cadrages ?** (3 min environ par pers., suivi de 5 min d'échanges entre participants)
 
 5. **Quel impact a le libéralisme sur notre capacité à nous organiser politiquement ?** (3 min environ par pers., suivi de 5 min d'échanges entre participants)
 
-6. **Quelles alternatives au libéralisme ? Quel pourrait être un horizon politique post‑libéral ?** (3 min environ par pers., suivi de 5 min d'échanges entre participants)
+6. **Quelles alternatives au libéralisme ? Quel pourrait être un horizon politique post-libéral ?** (3 min environ par pers., suivi de 5 min d'échanges entre participants)
 
 7. **Questions-réponses avec le public** (45 min)
