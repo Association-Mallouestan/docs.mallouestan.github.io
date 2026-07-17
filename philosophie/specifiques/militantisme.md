@@ -4,11 +4,17 @@ title: Le militantisme
 description: >-
   Notre vision du militantisme, de la lutte et de la résistance face à nos ennemi·es politiques.
 tags:
-  - specifique
-  - vision
+  - archive
 image: /images/ressources/cloture.jpg
 author: mallouestan
+
+message:
+  content: Archivé
+  icon: archive
+  color: 2F394D
 ---
+
+> Ce texte est archivé il a étais remplacer par le texte plus exhaustif et plus récent : [Pouvoir d'agir](https://mallouestan.org/r/philosophie-cadre-pouvoir-d-agir)
 
 ### Pourquoi écrire ce texte ?
 

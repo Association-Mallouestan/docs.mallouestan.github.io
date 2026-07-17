@@ -2,11 +2,18 @@
 title: Industrie et médias
 date: 2024-10-05 00:00:00
 tags:
-  - vision
-  - specifique
+  - archive
 image: /images/ressources/guide.jpg
 author: mallouestan
+
+message:
+  content: Archivé
+  icon: archive
+  color: 2F394D
 ---
+
+> Ce texte est archivé il a étais remplacer par le texte plus exhaustif et plus récent : [Pouvoir d'agir](https://mallouestan.org/r/philosophie-cadre-pouvoir-d-agir)
+
 ## Réponse concernant la musique, les vidéos/cinéma, et les réseaux sociaux
 
 ### Pourquoi écrire ce texte ?

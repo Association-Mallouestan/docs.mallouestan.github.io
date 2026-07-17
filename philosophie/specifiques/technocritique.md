@@ -5,15 +5,20 @@ description: >-
   Notre rapport au monde et à la civilisation technologique
 
 tags:
-  - specifique
-  - vision
+  - archive
 
 image: /images/ressources/cameras.jpg
 author: mallouestan
 
+message:
+  content: Archivé
+  icon: archive
+  color: 2F394D
 ---
 
-## Le Mallouestan et la position Anti-Technologique
+> Ce texte est archivé pour des raisons de clarté. Notre position technocritique est compatible avec ce texte mais ce texte pourrait être mal interprété. Il seras remplacé par un texte plus exhaustif.
+
+## Le Mallouestan et la position technocritique
 
 ### Pourquoi ce texte
 
@@ -56,7 +61,7 @@ Après avoir essayé de montrer l’existence du système techno-industriel, dif
 
 Dans cette partie, nous développons les réponses théoriques, pratiques et stratégiques que nous faisons à cet état de fait.
 
-Compte tenu du fait que le système exerce une emprise totalisante et totalitaire sur nos vies et sur les terres, il serait illusoire de penser que le déserter en vivant sur un écolieu tel que le Mallouestan est ce qui le mènera à sa chute. Toutefois, dans la mesure des possibilités offertes par le contexte dans lequel nous vivons, nous tâchons de développer une culture anti-technologies, ainsi qu’une culture de résistance contre le système technologique. 
+Compte tenu du fait que le système exerce une emprise totalisante et totalitaire sur nos vies et sur les terres, il serait illusoire de penser que le déserter en vivant sur un écolieu tel que le Mallouestan est ce qui le mènera à sa chute. Toutefois, dans la mesure des possibilités offertes par le contexte dans lequel nous vivons, nous tâchons de développer une culture technocritique, ainsi qu’une culture de résistance contre le système technologique. 
 
 Nous faisons du Mallouestan un espace pour se réapproprier les moyens de subsistance, qu’ils soient alimentaires, habitatifs ou énergétiques. Nous effectuons des recherches historiques et empiriques sur les techniques de maraîchage et de construction. Ces savoirs réappropriés petit à petit ne sont pas gardés pour nous, mais nous les partageons avec toutes les personnes en visite qui le souhaitent. De plus, nous organisons des formations à ce sujet et nous écrivons des ressources techniques en accès libre sur notre site internet. Notre démarche de recherche s’inscrit aussi dans le cadre d’un apprentissage de la vie en communauté, chose autrefois normale pour assurer la subsistance car un maillon plus efficace que la famille mononucléaire [composée seulement de deux parents et des enfants, une norme actuellement en Occident mais qui n’a pas toujours été une évidence]. Nous faisons du Mallouestan un centre de recherches pratiques et théoriques dont l’un des volets est celui des technologies. Par exemple, nous avons accueilli en 2024 et accueillerons encore des Universités d’Eté où il était question des limites de la possibilité de la coexistence de la vie sauvage et des technologies. Enfin, nous tendons à une reconfiguration des imaginaires via notre approche de l’art, de la culture et de l’esthétique centré autour du monde sauvage. En plus de ce versant culturel technocritique, nous créons des liens concrets de camaraderie avec d'autres collectifs technocritique et anti-industriels.
 

@@ -4,11 +4,19 @@ title: Risques et périls
 description: >-
   Présentation de notre vision des risques et périls 
 tags:
-  - specifique
-  - vision
+  - archive
 image: /images/ressources/pollution.jpg
 author: mallouestan
+
+message:
+  content: Archivé
+  icon: archive
+  color: 2F394D
 ---
+
+
+
+> Ce texte est archivé il a étais remplacer par les textes objectifs moins ambigue, plus exhaustif et plus récent : [Textes objectifs](https://www.mallouestan.org/t/objectifs/)
 
 ## Pourquoi écrire ce texte ?
 
