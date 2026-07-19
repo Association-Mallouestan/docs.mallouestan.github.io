@@ -16,7 +16,7 @@ hidden-from:
 
 ## Questions
 
-1. Pouvez-vous présenter votre projet ou votre collectif; vos objectifs, vos valeurs, votre génèses?
+1. Pouvez-vous présenter votre projet ou votre collectif; vos objectifs, vos valeurs, votre génèse?
 
 2. Quel est là structure ou l'organisation juridique de votre collectif?
 
@@ -24,10 +24,10 @@ hidden-from:
 
 4. Comment les nouveaux membres rejoignent votre collectif? Quels sont les critères d'adhésion?
 
-5. Quels difficultés avez-vous rencontrées dans l'accueil de nouveaux membres et comment les avez-vous surmontées?
+5. Quelles difficultés avez-vous rencontré dans l'accueil de nouveaux membres et comment les avez-vous surmontées?
 
 6. Comment gérez-vous les départs de vos membres? Avez-vous des procédures pour cela?
 
 7. Comment gérez-vous la répartition des tâches et des responsabilités au sein de votre collectif? Avez-vous des outils pour cela?
 
-8. Quels étaits, ou quels sont les principaux défis auxquels votre collectif a été confronté en ce qui concerne les thèmes évoqués dans cette table ronde (accueil de nouveaux membres, départs, répartition des tâches et responsabilités, prise de décision, etc.)? Quels conseils donneriez-vous à d'autres collectifs pour surmonter ou éviter ces défis?
+8. Quels étaient, ou quels sont les principaux défis auxquels votre collectif a été confronté en ce qui concerne les thèmes évoqués dans cette table ronde (accueil de nouveaux membres, départs, répartition des tâches et responsabilités, prise de décision, etc.)? Quels conseils donneriez-vous à d'autres collectifs pour surmonter ou éviter ces défis?
