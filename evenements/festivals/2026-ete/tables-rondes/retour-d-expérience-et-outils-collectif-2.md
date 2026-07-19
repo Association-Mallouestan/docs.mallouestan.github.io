@@ -16,13 +16,13 @@ hidden-from:
 
 ## Questions
 
-1. Pouvez-vous présenter votre projet ou votre collectif; vos objectifs, vos valeurs, votre génèses?
+1. Pouvez-vous présenter votre projet ou votre collectif; vos objectifs, vos valeurs, votre génèse?
 
-2. Quels sont les principaux outils que vous utilisez pour la vie en collectif? Comment les avez-vous choisis et mis en place?
+2. Quels sont les principaux outils que vous utilisez pour la vie en collectif? Comment les avez-vous choisi et mis en place?
 
 3. Comment gérez-vous les conflits/médiations au sein de votre collectif? Avez-vous des outils ou des méthodes spécifiques pour cela?
 
-4. Comment gérez-vous la communication, notament en cas d'absence, au sein de votre collectif? Quels outils utilisez-vous pour cela?
+4. Comment gérez-vous la communication, notamment en cas d'absence, au sein de votre collectif? Quels outils utilisez-vous pour cela?
 
 5. Quels outils avez vous concernant la santé mentale et le bien-être de vos membres? Comment les avez-vous mis en place?
 
