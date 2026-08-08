@@ -44,7 +44,7 @@ L'objectif principal du collectif est de créer un contexte où les membres peuv
 8. **Adopter une culture des techniques démocratiques** (plus de détails dans le texte ["Une culture des techniques démocratiques"](https://www.mallouestan.org/r/philosophie-objectifs-techniques-democratiques))
 
 
->La notion d'écologie n'est pas abordée directement dans cette liste. Pour autant, elle cadre nos objectifs soutenant notre projet politique qui est intimement et fondamentalement un projet écologique.   
+> La notion d'écologie n'est pas abordée directement dans cette liste. Pour autant, elle sous tend et cadre nos objectifs. Notre projet politique est intimement et fondamentalement un projet écologique.   
 
 ## Prérequis
 
@@ -59,7 +59,7 @@ Nous sommes conscient·es que chacun·e est déconstruit·e à des niveaux varia
 3. Aucune promotion de religions ou de spiritualités ésotériques telles que les soins énergétiques, l'anthroposophie, la biodynamie, l'astrologie, la sorcellerie, le chamanisme, etc. Tous les sujets peuvent évidemment être abordés, mais ils doivent être traités en tant qu'idée et non comme des vérités universelles ;
 4. Le respect des espaces et de leurs signalisations ;
 5. Un minimum de communication active (initiée par la personne détenant l'information) et de présence comme défini dans la section "Accueil de visiteuse•eures" ci-dessous ; 
-6. Les aliments suivants ne sont pas tolérés au sein des espaces communs et partagés : Nova 4 et Nova 3 de score nutritionnel D ou E (système de catégories https://fr.openfoodfacts.org/nova) ;
+6. La consommation d'aliments ultra-transformés ne sont pas tolérés ainsi que les aliments transformés de faible qualité nutritionnelle. Pour éviter la subjectivité nous utilisons l'application OpenFoodFacts ainsi que leur catégorisation Nova: https://fr.openfoodfacts.org/nova où n'est pas tolérée la catégorie Nova 4, ainsi que la catégorie Nova 3 de score nutritionnel D ou E;
 7. La consommation d'alcool, de nicotine, de drogues et d'autres substances (hors: alimentaires ou médicales) addictives ne sont pas tolérées. Il n'est pas toléré non plus que la consommation de ces produits soit activement encouragée sur le lieu ; **Tout état d'ébriété ou état sous influence (hors contexte médical) n'est pas toléré** lors des événements ponctuels ou durant les moments partagés du quotidien.
 8. La consommation d'énergie fossile (gaz, pétrole, charbon, etc.) est prohibée (hors briquet) ;
 9. L'usage de nos infrastructures collectives (solaire, internet, eau) est limité à un cadre de nécessité (administrative, médicale, scolaire ou académique, activité associative/professionnelle ponctuelle). Les jeux vidéos, le streaming, le scrolling ou tout autre usage intense de ces infrastructures hors nécessité n'est pas toléré ;
@@ -71,25 +71,24 @@ Nous sommes conscient·es que chacun·e est déconstruit·e à des niveaux varia
 
 Dans une optique de minimisation de pouvoir sur le lieu, les rôles suivants sont définis pour permettre à chacun·e de mieux appréhender leurs responsabilités et devoirs.
 
-Il y a quatre rôles sur le lieu :
+Il y a trois rôles sur le lieu :
 
 1. Visiteuse•eur
 2. Résident•e
 3. Arrimé•e
-4. Résident•e non-autonome
 
 Ci-dessous, les responsabilités et droits des visiteuse•eurs. Pour l'ensemble des rôles voir l'[Annexe: responsabilités et droits des différents rôles](/r/charte-annexe-responsabilites-droits).
 
 | Droits visiteuse•eurs                                                              |
 | ---------------------------------------------------------------------------------- | 
-| De véto limité (1 mois) sur le contexte commun (pour plus de détails voir l'annexe citée ci-dessus)  |
+| Droit de véto limité (1 mois) lors des décisions communes (pour plus de détails voir l'annexe citée ci-dessus)  |
 | D'égalité d'opportunités à l'égard des activités du lieu                           |   
 
 | Responsabilité visiteuse•eurs                                                                                                                                                                                                                                        |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
 | Garant de ses actes et gestes sur le lieu. Il ou elle est la•e garant•e de son quotidien et de sa communication avec l'ensemble du collectif.                                                                                                                          |
 | Responsable de l'entretien (nettoyage, changer une ampoule ...) des locaux et de tout équipement qu'il ou elle utilise sur le lieu, dans la limite de ses capacités, dans le cas contraire il ou elle doit notifier l'ensemble du collectif.                         |
-| De tout faire pour ne pas représenter une charge financière ou de travail pour le reste du collectif                                                                                                                                                                 |
+| De faire son possible pour ne pas représenter une charge financière ou de travail pour le reste du collectif                                                                                                                                                                 |
 | De garantir le respect, par toustes, de la charte. Pour éviter un contexte de délation, seules les situations interpersonnelles, où le bien-être d'une autre personne du lieu serait en jeu, oblige une intervention ou une notification de l'ensemble du collectif. |
 
 ## Gouvernance

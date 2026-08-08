@@ -44,7 +44,22 @@ author: mallouestan
 | Le droit de décision sur l'argent des pots réservés aux dépenses exceptionnelles                                                                                       |    Non    |    Non    |   Oui   |
 | De participer aux décisions concernant les droits des autres rôles                                                                                                     |    Non    |    Non    |   Oui   |
 
-### Résident·e non-autonome
+### Rôles liés à l'autonomie
+
+Nous ne partageons pas tous les mêmes privilèges. Pour les personnes qui pour des raisons psychiques, physiques ou sociales ne peuvent pas assumer les responsabilités des rôles de résident·e ou d'arrimé·e, d'autre configurations sont possibles. Ces configurations ou rôles particuliers sont avons tout des outils d'inclusion et de soutien, de fait en aucun cas ces rôles ne sont des rôles de second ordre ou peuvent être utilisés pour discriminer.
+
+#### Arrimé·e en jauge
+
+Dans le cas d'une personne dans le rôle d'arrimé·e qui ne peut pas assumer pleinement ses responsabilités, elle peut être placée "en jauge". Cette décision est prise par le collectif **ainsi que par la personne concernée**.
+
+Le rôle à comme objectif de permettre à la personne de récupérer ses capacités et d'aller mieux; il est donc temporaire. Pour permettre à la personne de prendre soin d'elle-même et de recevoir le soutient du reste du collectif, elle est déchargée de certaines responsabilités.
+
+| Changements des responsabilités et droits |
+| ------ |
+| N'est plus tenue de participer pleinement au travail collectif un régime est définit collectivement auquel la personne concernée ne doit pas dépasser |
+| Doit communiquer au moins une fois par semaine avec le collectif sur son état de santé et ses besoins |
+
+#### Résident·e non-autonome
 
 Ce rôle est défini par l'incapacité à satisfaire les prérequis des autres rôles. Une personne qui ne serait pas suffisamment autonome pour être « arrimée » peut obtenir le rôle de résident. Si elle n'est pas suffisamment autonome pour être résident, elle se voit attribuer le rôle de Résident non-autonome. L’autonomie est privilégiée par rapport à la notion de validité, pour diverses raisons expliquées notamment dans le texte Travail et Liberté.
 
@@ -54,13 +69,55 @@ Ce rôle est défini par l'incapacité à satisfaire les prérequis des autres r
 | Jouir d'un espace personnel                               |
 | D'être pris·e en charge en cas de problèmes de santé physiques et mentales dans la limite du cadre éthique collectif |
 
-### Remarques transversales aux différents rôles
+### Accès et transitions aux rôles
 
-1. La période d'essai d'un·e résident·e est d'au moins 4 mois et est discutée plus en détail avec toustes les résident·es et arrimé·es. La période d'essai est initiée sur demande et nécessite un accord unanime.
-2. La période d'essai d'un·e arrimé-e est d'un an. Pendant cette période, seuls les revenus de la personne sont mutualisés. La personne ne peut devenir arrimé·e tant que son filet de sécurité n'est pas constitué (par elle ou par le collectif) 
-3. En cas d'injoignabilité, le ou la résident·e ou l'arrimé·e a deux semaines pour partager sa décision.
-4. En cas d'opposition à une décision de la part d'un·e résident·e ou d'un·e visiteuse·eurs un report de la décision a lieu. Cette échéance est maintenue tant que l'opposition existe. 
-5. En cas d'opposition de résident·e(s), à la fin de l'échéance, la décision est reprise sans que leur accord soit nécessaire. Cette échéance a comme objectifs de permettre le temps de pousuivre les échanges tant collectifs qu'interpersonnels et de laisser le temps de se préparer à la mise en place de telle ou telle décision.
-6. En cas d'opposition de résident·e(s), la décision est reportée à un an s'il y a unanimité ou au moins trois résident-es s'opposent. Dans le cas oú un·e seul·e résident·e s'oppose, ou dans tout autre cas, la décision est reportée à six mois. 
-7. Les motifs de refus d'accès au rôle, étayés si possible d'exemples et de pistes, doivent être communiqués aux personnes concernées.
-8. Un résident·e ou un·e arrimé·e peut évidement être victime d'accidents ou de problèmes de santé ayant un impact sur sa capacité à assumer ses responsabilités. Si le collectif estime que la personne n'est pas en mesure d'assumer ses responsabilités et que cela as était constaté par le collectif sur une période de quatre mois, la personne peut être dégradée à un rôle correspondant à ses capacités. Cela est une décision collective de la part des arrimé·es et doit être utilisé si il n'y as pas de perspective de changements dans les 24 mois a venir. Elle doit être précédée d'échanges collectifs avec la personne concernée. Dans le cas ou la personne concernée est un·e arrimé·e, elle as, pendant 4 ans, un accès privilégié a son ancien rôle. Cet acces est conditionné par la capacité de la personne sur une période de 4 mois d'assumer les responsabilités des arrimé qui lui ont étaits reaccorder temporairement et tant qu`elle les assume.
+#### Période d'intégration au rôle de résident·e
+
+Toute personne ayant passé au moins un mois cumulé sur le lieu peut demander à devenir résident·e. Sur accord unanime du collectif, la personne peut entamer une période d'intégration d'au moins 4 mois. Pendant cette période, la personne est considérée comme résident·e et bénéficie de tous les droits et responsabilités liés à ce rôle.
+
+Une période de transition de 6 mois est possible pour les résidents·es lors de leur intégration. Cette période permet un allègement des responsabilités et de certaines règles du lieu. La personne en transition est considérée comme résident·e et bénéficie de tous les droits et responsabilités liés à ce rôle. Par exemple, la personne peut être en transition si elle a besoin de temps pour s'adapter au mode de vie, à la vie collective ou si elle a des difficultés à assumer certaines responsabilités. La période de transition est définie conjointement par le collectif et la personne concernée.
+
+#### Période d'arrimage
+
+Toute personne résidente peut demander à devenir arrimé·e à partir de 6 mois suivant son intégration. La période d'arrimage est d'au moins un an. Pendant cette période, la personne est considérée comme arrimé·e et bénéficie de tous les droits et responsabilités liés à ce rôle à l'exception de la mutualisation du patrimoine. 
+
+La personne ne peut devenir arrimé·e tant que son filet de sécurité n'est pas constitué (par elle ou par le collectif). Le filet de sécurité est constitué sur la base d'un budget fourni par la personne en arrimage et validé par le collectif.
+
+Les périodes où un·e personne en arrimage est en jauge ne compte pas dans le calcul de la période d'arrimage.
+
+#### Suivi des personnes en intégration ou en arrimage
+
+Des réunions de suivi sont organisées tous les mois pour les personnes en intégration ou en arrimage. Ces réunions permettent de faire un point sur la situation et de discuter des difficultés rencontrées. Elles sont ouvertes à toutes les personnes du collectif et sont l'occasion d'échanger sur les besoins et les attentes des parties concernées (résident·e(s), arrimé·e(s), personne en intégration ou en arrimage).
+
+#### Refus de rôle
+
+Les motifs de refus d'accès au rôle, étayés si possible d'exemples et de pistes, doivent être communiqués aux personnes concernées. Ces motifs ont normalement été discutés en amont lors des suivis mensuels.
+
+#### Dégraduation de rôle
+
+Une personne peut être dégradée de son rôle si elle ne respecte plus les responsabilités et droits liés à ce rôle. Cette décision est prise dans les contextes suivants :
+
+1. par le collectif suite à une gestion de conflit et après avoir tenté de trouver d'autres solutions.
+2. par le collectif suite à une incapacité de la personne à assumer ses responsabilités sur une période de 6 mois ou suite à une période de jauge où pendant 6 mois la personne ne peut pas assumer 75% du régime de travail.
+3. par la personne elle-même si elle estime ne plus pouvoir assumer ses responsabilités ou si elle souhaite changer de rôle pour des raisons personnelles.
+
+Dans le cas 2 et 3, la personne à un accès privilégié à son ancien rôle pendant 4 ans. Cet accès est conditionné par la capacité de la personne sur une période de 4 mois d'assumer pleinement les responsabilités de son ancien rôle.
+
+#### Resumé des périodes d'intégration et d'arrimage
+
+| Période | Durée |
+| ------ | ----- |
+| Période de visite préalable | 1 mois minimum |
+| Intégration au rôle de résident·e | 4 mois minimum |
+| Transition au rôle de résident·e | 6 mois maximum |
+| Période de résidence préalable | 6 mois minimum |
+| Période d'arrimage | 1 an minimum |
+| **Total** | 23 mois minimum |
+
+### Rôles et gouvernance
+
+1. En cas d'injoignabilité, le ou la résident·e ou l'arrimé·e a deux semaines pour partager sa décision sur des décisions en attentes.
+2. En cas d'opposition à une décision de la part d'un·e résident·e ou d'un·e visiteuse·eurs un report de la décision a lieu. Cette échéance est maintenue tant que l'opposition existe. 
+3. En cas d'opposition de résident·e(s), à la fin de l'échéance, la décision est reprise sans que leur accord soit nécessaire. Cette échéance a comme objectifs de permettre le temps de pousuivre les échanges tant collectifs qu'interpersonnels et de laisser le temps de se préparer à la mise en place de telle ou telle décision.
+4. En cas d'opposition de résident·e(s), la décision est reportée à un an s'il y a unanimité ou au moins trois résident-es s'opposent. Dans le cas oú un·e seul·e résident·e s'oppose, ou dans tout autre cas, la décision est reportée à six mois.
+
