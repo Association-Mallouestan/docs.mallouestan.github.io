@@ -75,11 +75,11 @@ Ce rôle est défini par l'incapacité à satisfaire les prérequis des autres r
 
 Toute personne ayant passé au moins un mois cumulé sur le lieu peut demander à devenir résident·e. Sur accord unanime du collectif, la personne peut entamer une période d'intégration d'au moins 4 mois. Pendant cette période, la personne est considérée comme résident·e et bénéficie de tous les droits et responsabilités liés à ce rôle.
 
-Une période de transition de 6 mois est possible pour les résidents·es lors de leur intégration. Cette période permet un allègement des responsabilités et de certaines règles du lieu. La personne en transition est considérée comme résident·e et bénéficie de tous les droits et responsabilités liés à ce rôle. Par exemple, la personne peut être en transition si elle a besoin de temps pour s'adapter au mode de vie, à la vie collective ou si elle a des difficultés à assumer certaines responsabilités. La période de transition est définie conjointement par le collectif et la personne concernée.
+Une période de transition de 6 mois est possible pour les résidents·es lors de leur intégration. Cette période permet un allègement des responsabilités et de certaines règles du lieu. La personne en transition est considérée comme résident·e et bénéficie de tous les droits et responsabilités liés à ce rôle. Par exemple, la personne peut être en transition si elle a besoin de temps pour s'adapter au mode de vie, à la vie collective ou si elle a des difficultés à assumer certaines responsabilités. La période de transition est définie conjointement par le collectif et la personne concernée. Elle peut être renouvelée si nécessaire, mais doit présenter une progression vers l'intégration complète au rôle de résident·e.
 
 #### Période d'arrimage
 
-Toute personne résidente peut demander à devenir arrimé·e à partir de 6 mois suivant son intégration. La période d'arrimage est d'au moins un an. Pendant cette période, la personne est considérée comme arrimé·e et bénéficie de tous les droits et responsabilités liés à ce rôle à l'exception de la mutualisation du patrimoine. 
+Toute personne résidente peut demander à devenir arrimé·e à partir de 6 mois suivant son intégration hors période de transition. La période d'arrimage est d'au moins un an. Pendant cette période, la personne est considérée comme arrimé·e et bénéficie de tous les droits et responsabilités liés à ce rôle à l'exception de la mutualisation du patrimoine. 
 
 La personne ne peut devenir arrimé·e tant que son filet de sécurité n'est pas constitué (par elle ou par le collectif). Le filet de sécurité est constitué sur la base d'un budget fourni par la personne en arrimage et validé par le collectif.
 
