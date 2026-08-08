@@ -104,7 +104,9 @@ Une personne peut être dégradée de son rôle si elle ne respecte plus les res
 2. par le collectif suite à une incapacité de la personne à assumer ses responsabilités sur une période de 6 mois ou suite à une période de jauge où pendant 6 mois la personne ne peut pas assumer 75% du régime de travail.
 3. par la personne elle-même si elle estime ne plus pouvoir assumer ses responsabilités ou si elle souhaite changer de rôle pour des raisons personnelles.
 
-Dans le cas 2 et 3, la personne à un accès privilégié à son ancien rôle pendant 4 ans. Cet accès est conditionné par la capacité de la personne sur une période de 4 mois d'assumer pleinement les responsabilités de son ancien rôle.
+> Dans le cas 2 et 3, la personne à un accès privilégié à son ancien rôle pendant 4 ans. Cet accès est conditionné par la capacité de la personne sur une période de 4 mois d'assumer pleinement les responsabilités de son ancien rôle.
+
+> La jauge est un outil de soutien et d'inclusion. Une personne en jauge ne peut pas être dégradée de son rôle si le collectif n'as pas tenté de trouver d'autres solutions pour l'aider à assumer ses responsabilités notamment définir du travail, si ce travail existe, adapté à ses capacités.
 
 #### Resumé des périodes d'intégration et d'arrimage
 
