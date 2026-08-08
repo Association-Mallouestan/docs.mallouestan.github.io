@@ -56,8 +56,11 @@ Le rôle à comme objectif de permettre à la personne de récupérer ses capaci
 
 | Changements des responsabilités et droits |
 | ------ |
-| N'est plus tenue de participer pleinement au travail collectif un régime est définit collectivement auquel la personne concernée ne doit pas dépasser |
+| N'est plus tenue de participer pleinement au travail collectif; un régime est définit collectivement auquel la personne est tenue |
 | Doit communiquer au moins une fois par semaine avec le collectif sur son état de santé et ses besoins |
+| Ne peut pas prendre de décisions sur l'organisation du travail collectif si son régime est inférieur à 75% |
+
+Le collectif doit essayer d'adapter le travail collectif pour permettre à la personne de participer à hauteur de ses capacités. Par exemple, si une personne s'est cassée le bras, elle peut être déchargée de certaines tâches physiques et participer à d'autres tâches qui ne nécessitent pas l'usage de ses bras. Si une personne n'est pas en mesure de participer au tâches demandeuses socialement, le collectif peut lui proposer de participer à d'autres tâches qui ne nécessitent pas d'interaction sociale.
 
 #### Résident·e non-autonome
 
@@ -109,7 +112,7 @@ Dans le cas 2 et 3, la personne à un accès privilégié à son ancien rôle pe
 | ------ | ----- |
 | Période de visite préalable | 1 mois minimum |
 | Intégration au rôle de résident·e | 4 mois minimum |
-| Transition au rôle de résident·e | 6 mois maximum |
+| Transition au rôle de résident·e | 6 mois renouvelable |
 | Période de résidence préalable | 6 mois minimum |
 | Période d'arrimage | 1 an minimum |
 | **Total** | 23 mois minimum |
