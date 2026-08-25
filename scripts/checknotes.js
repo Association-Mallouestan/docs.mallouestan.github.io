@@ -37,16 +37,16 @@ try {
     }
 
     try {
-        const noteListingPattern = /## .*? Notes[\s\S]*/g
+        const noteListingPattern = /### .*? Notes[\s\S]*/g
         const fullMatch = noteListingPattern.exec(updatedContent)?.[0];
 
         if(fullMatch) {
             console.log('Updating existing notes listing.');
-            const updatedNotesListing = `## Notes\n${notesSection}\n`;
+            const updatedNotesListing = `### Notes\n${notesSection}\n`;
             updatedContent = updatedContent.replace(fullMatch, updatedNotesListing);
         } else {
             console.log('No existing notes listing found, adding new one.');
-            updatedContent += `\n## Notes\n${notesSection}\n`;
+            updatedContent += `\n### Notes\n${notesSection}\n`;
         }
     } catch (e) {
         // No notes section found
