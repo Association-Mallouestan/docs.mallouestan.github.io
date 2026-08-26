@@ -161,22 +161,3 @@ Nous avons également vu les limites de notre capacité à percevoir le réel. P
 11. Voir <u>La logique de la découverte scientifique</u> de Karl Popper
 12. Voir sur le site du CNRS https://www.cnrs.fr/fr/actualite/la-science-est-percue-comme-un-principe-de-transformation-socio-economique
 13. Le fenêtrage est un outil de traitement du signal et de l'information voir <a target="_blank" href="https://fr.wikipedia.org/wiki/Fen%C3%AAtrage">la page wikipedia</a>
-
-
----
-date: 2025-06-26 02:00:00
-title: Spiritualité et croyance
-description: >-
-  Comment concilié croyances et matérialisme ?
-tags:
-  - fondamentaux
-  - vision
-image: /images/ressources/galaxy.jpg
-author: mallouestan
-
-playlist: 
-  name: Textes théoriques
-  by_tag:
-    - fondamentaux
-    - vision
----
