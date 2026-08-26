@@ -1,3 +1,21 @@
+---
+date: 2025-06-26 02:00:00
+title: Spiritualité et croyance
+description: >-
+  Comment concilié croyances et matérialisme ?
+tags:
+  - fondamentaux
+  - vision
+image: /images/ressources/galaxy.jpg
+author: mallouestan
+
+playlist: 
+  name: Textes théoriques
+  by_tag:
+    - fondamentaux
+    - vision
+---
+
 ### Sommaire
 
 1. Avant propos
