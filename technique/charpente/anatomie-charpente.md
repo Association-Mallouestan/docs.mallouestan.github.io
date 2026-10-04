@@ -34,11 +34,11 @@ En plus de ces pièces principales, une ferme peut comporter d'autres éléments
 - **L'étrier** : C'est une pièce métallique qui entoure l'entrait et qui est fixée au poinçon. L'étrier permet au poinçon de porter l'entrait et évite que l'entrait ne fléchisse sous son propre poids.
 - **Les échantignoles** : Ce sont des pièces permettant à la ferme de venir acceuillir des pîèces de bois reliant la ferme à d'autres éléments de la charpente.
 
-#### Entre les fermes
+#### Entre les fermes: les pièces dites passantes
 
 ![medium](https://www.mallouestan.org/images/technique/charpente/anatomie-ferme-traditionnelle.svg)
 
-Les fermes sont généralement espacées de manière régulière le long de la charpente, et elles sont reliées entre elles et recouvertes par les pièces suivantes:
+Les fermes sont généralement espacées de manière régulière le long de l'ouvrage, et elles sont reliées entre elles et recouvertes par les pièces suivantes (dites passantes):
 
 - **Les pannes** : Ce sont des pièces horizontales qui suivent souvent la longueur de la charpente et de la structure. Elles sont posées sur les arbalétriers et servent à soutenir les chevrons et la couverture de la toiture. Il existe différents types de pannes, notamment :
   - **Panne faîtière** : C'est la panne située au sommet de la charpente, le long du faîtage. Elle soutient les chevrons qui se rejoignent au faîtage.
