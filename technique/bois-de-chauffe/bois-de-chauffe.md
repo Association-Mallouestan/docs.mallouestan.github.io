@@ -6,7 +6,7 @@ tags:
   - techniquesLes pièces d'une charpente
 folders:
   - bois-de-chauffe-debutant-e-2j
-image: /images/technique/charpente/anatomie-aretier.svg
+image: /images/plants/arbres-collines.svg
 author: mallouestan
 ---
 
