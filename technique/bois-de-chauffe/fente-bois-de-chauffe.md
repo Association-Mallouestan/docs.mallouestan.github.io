@@ -23,9 +23,17 @@ author: mallouestan
   
 ### Tois méthodes globales
 
+![Image d'une gestion de bois](https://www.mallouestan.org/images/technique/arbres-bois/buche.svg)
+
 #### Méthode "radiale"
+
+![Image d'une gestion de bois](https://www.mallouestan.org/images/technique/arbres-bois/buche-fente-radial.svg)
 
 #### Méthode "tranches"
 
+![Image d'une gestion de bois](https://www.mallouestan.org/images/technique/arbres-bois/buche-fente-tranche.svg)
+
 #### Méthode "par couche"
+
+![Image d'une gestion de bois](https://www.mallouestan.org/images/technique/arbres-bois/buche-fente-couche.svg)
 
