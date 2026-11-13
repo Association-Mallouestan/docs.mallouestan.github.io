@@ -4,6 +4,7 @@ title: Bois de chauffe
 description: Présentation de quelques bases autour du chauffage à base de bois
 tags:
   - techniques
+  - foresterie
 folders:
   - bois-de-chauffe-debutant-e-2j
 image: /images/technique/arbres-bois/arbres-trognes-cepees.svg

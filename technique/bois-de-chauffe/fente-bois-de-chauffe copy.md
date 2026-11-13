@@ -4,6 +4,7 @@ title: La fente - Bois de chauffe
 description: Quelques techniques de fente de bois 
 tags:
   - techniques
+  - foresterie
 folders:
   - bois-de-chauffe-debutant-e-2j
 image: /images/technique/arbres-bois/buche-fente-tranche.svg
