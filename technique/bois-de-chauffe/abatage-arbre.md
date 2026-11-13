@@ -7,7 +7,7 @@ tags:
   - foresterie
 folders:
   - bois-de-chauffe-debutant-e-2j
-image: /images/technique/arbres-bois/buche-fente-tranche.svg
+image: /images/technique/arbres-bois/gestion-ressources.svg
 author: mallouestan
 
 message:

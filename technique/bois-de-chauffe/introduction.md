@@ -17,7 +17,7 @@ On entend souvent dire que le chauffage au bois est polluant et émet beaucoup d
 
 ### Comment ça, un impact faible ?
 
-Le carbone que l'arbre émet en brûlant ne vient pas de nulle part. Il *l'a absorbé tout au long de sa vie* <sup>1</sup> <note>Tout au moins, la partie de sa vie où le bois en question a poussé</note>. Il émet en fait qu'une partie de ce qu'il a absorbé, car il a développé ses racines, par exemple. D'un point de vue climatique, planter un arbre, le laisser pousser, l'abattre et le brûler est en fait positif d'un point de vue climatique.
+Le carbone que l'arbre émet en brûlant ne vient pas de nulle part. Il *l'a absorbé tout au long de sa vie <sup>1</sup>* <note>Tout au moins, la partie de sa vie où le bois en question a poussé</note>. Il émet en fait qu'une partie de ce qu'il a absorbé, car il a développé ses racines, par exemple. D'un point de vue climatique, planter un arbre, le laisser pousser, l'abattre et le brûler est en fait positif d'un point de vue climatique.
 
 Mais le climat est une échelle globale. Il y a aussi la question locale et notamment des particules fines émises. Ces particules n'ont pas d'impact à une échelle globale, mais peuvent nuire aux habitants à proximité directe de leurs émissions. Ces particules peuvent être considérablement réduites avec des systèmes de combustion optimisés (double combustion, par exemple), des filtres, et du bois sec au moment de la combustion.
 
