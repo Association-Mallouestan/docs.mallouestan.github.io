@@ -1,6 +1,6 @@
 ---
-date: 2026-11-10 2:00:00
-title: Guide de gestion de bois de chauffe à la hache
+date: 2026-11-10 3:00:00
+title: Guide de tronçonnage à la hache
 description: Guide de gestion de bois de chauffe à la hache
 tags:
   - techniques

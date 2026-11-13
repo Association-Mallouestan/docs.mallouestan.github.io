@@ -1,6 +1,6 @@
 ---
-date: 2026-11-10 2:00:00
-title: Bois de chauffe  
+date: 2026-11-10 1:00:00
+title: Introduction
 description: Présentation de quelques bases autour du chauffage à base de bois
 tags:
   - techniques

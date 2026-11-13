@@ -1,5 +1,5 @@
 ---
-date: 2026-11-10 2:00:00
+date: 2026-11-10 4:00:00
 title: Notes sur le tronçonage  
 description: Notes lié à la ressources de la Frontière 
 tags:

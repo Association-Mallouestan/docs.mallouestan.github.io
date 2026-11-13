@@ -1,5 +1,5 @@
 ---
-date: 2026-11-10 2:00:00
+date: 2026-11-10 4:00:00
 title: La fente - Bois de chauffe  
 description: Quelques techniques de fente de bois 
 tags:
