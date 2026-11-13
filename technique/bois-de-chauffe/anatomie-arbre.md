@@ -15,7 +15,7 @@ author: mallouestan
 
 Nous avons certainement toustes observé beaucoup d'arbres, et pourtant leur fonctionnement et leur anatomie reste souvent obscur. Notamment, leurs racines constitue une importante part de leur masse qui nous est le plus souvent invisible. De même, les échanges entre les arbres et leur environnement ne sont pas immédiatement visibles : pourtant l'arbre tire des éléments du sol et produit sa nourriture ; des champignons et des insectes vivent dans son bois ou sous son écorce. Pour nos activités autour des arbres, approfondir nos connaissances sur ces derniers permet de mieux comprendre comment les planter, les tailler, ou même comment fendre ou brûler leur bois. 
 
-On ne verra pas tout de ces interactions dans cette ressource technique, mais d'autres ressources déjà disponibles ou en cours d'écriture couvriront une partie des sujets précédemment évoqués. Le but de cette introduction est d'arriver à identifier et décrire les différentes parties observables d'un arbre. 
+On ne verra pas tout de ces interactions dans cette ressource technique, mais d'autres ressources déjà disponibles ou en cours d'écriture couvriront une partie des sujets précédemment évoqués. Le but de cette introduction est d'arriver à un langage commun pour identifier et décrire les différentes parties aériennes et sous-terraines d'un arbre. 
 
 # Un peu de vocabulaire et bases de l'anatomie des arbres et de leur bois
 
