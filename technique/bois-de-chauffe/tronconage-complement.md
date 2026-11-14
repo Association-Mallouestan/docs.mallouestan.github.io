@@ -22,3 +22,7 @@ Dans la ressource de La Frontière, il est présenté une technique où une perc
 ### Les copeaux
 
 Il ne faut pas oublier qu'en coupant un arbre ou en le trognant, nous enlevons localement à l'écosystème un ensemble de ressources. Comme quand on cueille des plantes sauvages, une pratique responsable consiste surtout à en laisser pour les autres personnes et dynamiques qui en ont besoin. Certaines méthodes de tronçonnage permettent d'éviter de produire trop de copeaux difficilement gérables par la suite. Dans tous les cas, il y a toujours de petites chutes, notamment au moment des entailles. Ces chutes ne doivent pas être vues uniquement comme de la ressource gâchée. C'est aussi une contribution à l'écosystème, notamment à l'humus autour de l'arbre, ce qui est très bénéfique. Les champignons et insectes vous remercieront.
+
+### Ecorcage partiel
+
+On peut écorcer partiellement la perche pour favoriser le séchage.
