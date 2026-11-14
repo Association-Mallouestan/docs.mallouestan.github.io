@@ -21,7 +21,7 @@ La fente du bois n'est pas seulement un domaine réservé (ou utilisé) pour le 
 
 ### Outils
 
-Il y a trois outils principaux utilisés lors de la fente du bois. Le premier est une hache de fente ou un merlin, permettant de fendre les sections les plus importantes. Le deuxième est une hache courte ou une hachette pour refendre les petites pièces appelé bâtonnage. Enfin, des coins en bois ou en métal servent à fendre (ou pour fendre) les morceaux les plus récalcitrants.
+Il y a trois outils principaux utilisés lors de la fente du bois. Le premier est une hache de fente ou un merlin, permettant de fendre les sections les plus importantes. Le deuxième est une hache courte ou une hachette pour refendre les petites pièces appelé bâtonnage. Enfin, des coins en bois ou en métal servent à fendre (ou pourfendre) les morceaux les plus récalcitrants.
 
 - hache de fente ou merlin
 - hache courte
@@ -29,7 +29,7 @@ Il y a trois outils principaux utilisés lors de la fente du bois. Le premier es
   
 ### Tois méthodes globales
 
-En bois de chauffage on fend des billots ou billes qui résulte de l'étape de tronçonnage.
+En bois de chauffage on fend des billots ou billes qui résultent de l'étape de tronçonnage.
 
 ![Image d'une gestion de bois](https://www.mallouestan.org/images/technique/arbres-bois/buche.svg)
 
