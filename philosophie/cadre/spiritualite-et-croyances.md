@@ -1,5 +1,5 @@
 ---
-date: 2025-06-26 02:00:00
+date: 2025-06-24 02:00:00
 title: Spiritualité et croyance
 description: >-
   Comment concilié croyances et matérialisme ?

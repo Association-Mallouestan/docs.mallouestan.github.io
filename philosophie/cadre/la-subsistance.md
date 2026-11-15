@@ -1,12 +1,12 @@
 ---
-date: 2025-06-26 02:00:00
+date: 2025-06-30 02:00:00
 title: La subsistance
 description: >-
   L'ennemie du capitalisme 
 tags:
   - fondamentaux
   - vision
-image: /images/ressources/galaxy.jpg
+image: /images/ressources/objectifs/vie-saine.jpg
 author: mallouestan
 
 playlist: 

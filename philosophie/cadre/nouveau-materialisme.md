@@ -1,5 +1,5 @@
 ---
-date: 2025-06-26 02:00:00
+date: 2025-06-25 02:00:00
 title: Le nouveau matérialisme
 description: >-
   Un outil pour refaire groupe

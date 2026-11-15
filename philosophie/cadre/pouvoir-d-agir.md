@@ -1,5 +1,5 @@
 ---
-date: 2025-06-26 02:00:00
+date: 2025-06-22 02:00:00
 title: Notre pouvoir d'agir
 description: >-
   Que faire face au monde qui nous entoure ? Que pouvons-nous faire ?
