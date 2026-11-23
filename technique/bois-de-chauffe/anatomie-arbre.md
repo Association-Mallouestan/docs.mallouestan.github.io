@@ -7,8 +7,14 @@ tags:
   - arbres
 folders:
   - bois-de-chauffe-debutant-e-2j
-image: /images/technique/charpente/anatomie-aretier.svg
+image: /images/plants/arbres/dual--autumn.svg
 author: mallouestan
+
+
+message:
+  content: En cours d'écriture
+  icon: warning-outline
+  color: 218380
 ---
 
 # Introduction à l'anatomie du bois
@@ -80,6 +86,27 @@ Le vocabulaire est listé de l'intérieur vers l'extérieur de l'arbre vu en cou
 - *Buche* :
 - *Noeud* : Trace d'une ancienne branche que le tronc a englobé lors de sa croissance. C'est une zone ronde ou ovale dont la couleur peut être différente du bois autour, et dont les fibres du bois sont sur un plan différent du reste de la bille, pouvant compliquer la coupe ou la fente.
 - *Déchets de taille* (terme courant en fruticulture)
+
+### Ports des arbres
+
+![alt](https://mallouestan.org/images/plants/arbres/dual--round.svg)
+
+![alt](https://mallouestan.org/images/plants/arbres/dual--egg-shaped.svg)
+
+![alt](https://mallouestan.org/images/plants/arbres/dual--umbrella.svg)
+
+![alt](https://mallouestan.org/images/plants/arbres/dual--vase.svg)
+
+![alt](https://mallouestan.org/images/plants/arbres/dual--tiered.svg)
+
+![alt](https://mallouestan.org/images/plants/arbres/dual--columnar.svg)
+
+![alt](https://mallouestan.org/images/plants/arbres/dual--conical.svg)
+
+![alt](https://mallouestan.org/images/plants/arbres/dual--multi.svg)
+
+![alt](https://mallouestan.org/images/plants/arbres/dual--branches.svg)
+
 
 # Conclusion
 
