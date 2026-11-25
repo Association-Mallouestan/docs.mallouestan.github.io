@@ -127,7 +127,7 @@ Plusieurs ultimatums exceptionnels s'appliquent à tous les membres du lieu. Leu
 
 Parmi nos objectifs, nous avons toujours valorisé l'accueil de visiteuse•eurs, dans diverses optiques notamment : de solidarité, de transmission, et d'ouverture à l'extérieur évitant un entre-soi. Notre collectif vise une émancipation qui se veut collective et qui voit cette autonomie autant que possible par une organisation qui est collective également. Ainsi, les visiteuse•eurs que nous accueillons sont tenu•es de participer a minima à notre vie quotidienne (moments collectifs et tâches) ou de nous communiquer l'incapacité de le faire. Dans tout les cas un minimum de temps partagé est attendu quand cela est possible. Pour toute les raisons citées ci-dessus, nous nous accordons la possibilité de demander aux personnes qui ne s'inscrivent pas dans une telle démarche de partir.
 
-Pour plus d'informations sur la vie collective sur le lieu, il est encouragé de lire l'annexe correspondante.
+Pour plus d'informations sur l'accueil sur le lieu, il est encouragé de lire l'annexe correspondante [disponible içi](https://www.mallouestan.org/r/charte-annexe-accueil).
 
 ### Annexes
 - [Vie collective](/r/charte-annexe-vie-collective)

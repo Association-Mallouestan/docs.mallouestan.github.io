@@ -12,19 +12,6 @@ author: mallouestan
 
 > Cette annexe est un document vivant et évolutif. Elle est à lire et à respecter comme la charte elle-même. Elle est à compléter, modifier ou corriger par le collectif du Mallouestan.
 
-### Communication sur le lieu
-
-Les événements ponctuels ou quotidiens qui sont destinés à être collectifs (repas, réunions...) nécessitent une communication claire et fonctionnelle passant par des moyens de communication ubiquitaires (partagés par toustes). L'objectif de cette communication est de permettre à chacun·e de participer ou d'être informé·e afin que toustes soit inclus·es dans la vie collective.
-
-> Exemple: Pour les repas, prévenir toutes les personne du lieu
-
-La communication est intrinsèquement complexe et varie en fonction des individus. Il est important de s'adapter au mieux à ces différences, que ce soit à l'oral, par écrit ou autrement. Malgré cela, une communication minimale active (initiée par la personne détenant l'information) est nécessaire en ce qui concerne le contexte commun et la vie quotidienne collective du lieu. Nous demandons donc une communication claire sur les points suivants :
-
-- Les tâches quotidiennes, hebdomadaires et les chantiers
-- La présence ou l'absence des personnes hébergées sur le lieu
-- Tout état de santé entraînant un risque ou un danger
-- Tout élément mettant en danger la santé d'autrui (humain·es comme non-humain·es)
-
 ### Occupation d'espaces
 
 #### Espaces réservés
@@ -55,11 +42,12 @@ ZERO (Zéro Écrans récréatifs ou ordinaires) : Espace de protection de la san
 Le lieu est séparé en plusieurs pôles. Ces pôles servent principalement à décrire les différentes activités du lieu et de les adresser ou les organiser. À ce jour, les pôles suivants sont définis :
 
 - Culturel
-- Subsistance alimentaire et Horticulture
+- Autonomie alimentaire
+- Accueil
 - Gestion des ressources premières
 - Construction
 - Soins aux animaux non-humains
-- Vie co
+- Vie collective
 - Autocritique et stratégie
 - Faune et flore sauvages
 
@@ -86,4 +74,3 @@ Toute communication au nom du Mallouestan se doit d'être en accord avec cette c
 En vue de la taille et des ressources à disposition, certaines limites et certains quotas ont été définis: 
 
 - Un nombre maximum de 6 espaces personnels est fixé sur le lieu, à ce jour, permettant à 6 personnes/couples/familles de vivre sur le lieu. 
-- Un nombre maximum de 16 visiteuse·eurs à la fois est fixé pour passer une nuit sur le lieu
