@@ -7,7 +7,15 @@ tags:
   - arboriculture
 image: 
 author: mallouestan
+
+message:
+  content: En cours d'écriture
+  icon: warning-outline
+  color: 218380
 ---
+
+# ATTENTION
+Cette ressource technique est à l'état de brouillon : sa structure et son contenu évolueront prochainement. Certaines sections peuvent ne pas être fiables ou contenir des coquilles.
 
 ### Réaction à la coupe
 
@@ -17,12 +25,9 @@ Lorsqu'un arbre est touché, il ne "cicatrise" pas, mais il *compartimente* ses 
 
 Le cale de recouvrement est *produit à partir du cambium* : c'est pourquoi il est important d'*apporter un soin final aux blessures*, lorsqu'on veut prendre soin d'un arbre que l'on taille, que l'on trogne, ou qui a été cassé par une tempête. Ce soin consiste à reprendre la coupe d'abord grossièrement, par exemple une coupe sur une branche qui a été fendue sous l'effet de son propre poids, on va couper en dessous du point d'arrêt (le plus bas) de la fente. La coupe est faite *en biseau* pour que l'eau ruisselle et ne stagne pas sur la coupe d'une branche, ou en cone pointant vers le ciel sur les coupes de tronc principal. Souvent, cette opération laisse le crénelage caractéristiques des coups de serpe ou de hache, ou, à la scie, de petites déchirures sur l'extérieur de la coupe. Alors, on vient avec un *outil bien affuté* (comme une hachette ou un couteau) reprendre les bords de la coupe en procédant *de l'extérieur vers l'intérieur* du bois, afin de presser contre le bois pour ne pas arracher la couche extérieur dont l'intégrité permettra à l'arbre de soigner sa blessure.
 
-## Production et circulation de la sève
-
-Schéma 
+//////Schéma///////
 
 Malgré les capacités qu'ont les arbres de compartimenter leur bois et de recouvrir leurs blessures, il est relativement facile de tuer un arbre avec peu d'efforts. Une blessure pourtant superficielle sur une portion du pourtour de l'arbre peut endommager voire même tuer un arbre si tout le tour de l'arbre est endommagé, ne serait-ce que sur quelques centimètres de hauteur, car la circulation de la sève élaborée ne peut se faire en l'absence des canaux qui la contiennent. Des lapin-es qui rongent les premières couches superficielles ou des herbivores se frottant sur des jeunes arbres peuvent causer leur mort très rapidement.
-
 
 
 ### A quelle saison tailler ou trogner ?
@@ -31,7 +36,7 @@ Tailler ou trogner un arbre n'est jamais anondin pour lui. Les blessures de tail
 
 Lorsqu'une plaie récente est exposée au gel, alors que la sève s'en écoule encore, cette partie de l'arbre peut plus facilement nécroser. En effet, la sève gèle dans les tissus exposées au gel, faisant éclater les cellules, notamment celles du cambium. Il faut donc éviter de tailler lorsqu'on peut anticiper qu'il gèlera dans les jours suivants. On attend souvent la fin de l'hiver, après les Saint de glace, pour tailler la plupart des fruitiers, dont les frutiers à pépins, et notamment pour la taille dite "de restauration" qui concerne de vieux arbres peu entretenus par le passé sur lesquels on prévoir de tailler des branches d'un diamètre assez gros (1,5-7 cm).
 
-En dehors de ce cas, la taille dite d'entretien se pratique en toutes saisons, et le mieux pour la cicatrisation étant le printemps ou l'été où la circulation de sève est maximale et permet une meilleure défense de l'arbre. On peut alors utiliser le sécateur comme référence : tout ce qui est trop gros pour le sécateur attendra la fin de l'hiver. //////////////////////////////////////
+En dehors de ce cas, la taille dite d'entretien se pratique en toutes saisons, et le mieux pour la cicatrisation étant le printemps ou l'été où la circulation de sève est maximale et permet une meilleure défense de l'arbre. Comme règle générale, on peut utiliser le sécateur comme référence : tout ce qui est trop gros pour le sécateur devrait attendre la fin de l'hiver, sauf quand le but est de réduire la vigueur d'un arbre, de supprimer du bois mort (hors coupe dans une partie vivante/verte) ou dans d'autres cas particuliers dont on verra quelques exemples dans cette ressource.
 
 L'automne est la saison de *fructification des champignons* : leurs spores sont présentes dans l'air ambiant, et les pluies d'automne associées à un climat assez doux favorise l'entrée de champignons au niveau des plaies de taille. Il est donc *déconseillé de tailler* de grosses sectionsà l'automne. 
 

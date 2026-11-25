@@ -28,6 +28,5 @@ Exception : les cases sur fond noir concernant la vigne signifient
  - Raisin : fructification
  - Noeud : palissage  
  - Ciseaux : taille
- - 
 
 

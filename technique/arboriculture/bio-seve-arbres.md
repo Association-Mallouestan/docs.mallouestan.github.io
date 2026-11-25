@@ -7,7 +7,16 @@ tags:
   - arboriculture
 image: 
 author: mallouestan
+
+message:
+  content: En cours d'écriture
+  icon: warning-outline
+  color: 218380
 ---
+
+# ATTENTION
+Cette ressource technique est à l'état de brouillon : sa structure et son contenu évolueront prochainement. Certaines sections peuvent ne pas être fiables ou contenir des coquilles.
+
 
 # Introduction : pourquoi comprendre le fonctionnement des arbres ?
 
@@ -16,14 +25,38 @@ De nombreuses activités de subsistance demandent une connaissance de l'environn
 Les arbres qui nous entourent ont un fonctionnement complexe est parfois obscur : notamment, leurs racines constitue une grande part de leur masse qui nous est invisible - sauf après des tempêtes qui les déracinent. De même, les échanges entre les arbres et leur environnement nous est la plupart du temps caché : les échanges de gaz, les champignons et les insectes qui vivent dans le bois ou sous l'écorce. On ne verra pas tout de ces interactions dans cette ressources, mais une introduction pour mieux comprendre les arbres afin de mieux comprendre comment les planter, les tailler, ou comment fendre ou brûler leur bois.
 
 
+# Qu'est-ce que la sève et comment est-elle produite ?
+
+- Sève brute (eau + minéraux)
+- Sève élaborée (produit de la photosynthèse)
+
+# Où et comment circule la sève dans un arbre ?
+
+## Vue en coupe du bois 
+
+Cette section comportera un schéma d'arbre vu en coupe, plus détaillé que dans la ressource anatomie-arbre.md. 
+
+## description des tissus nommés ci-dessus
+
+Ici, on décrira principalement les tissus principalement impliqués dans la production, la circulation et la consommation de la sève. Cette ressource n'est pas exhaustive. D'autres ressources, soit déjà disponibles soit en cours d'écriture, décrivent d'autres tissus, organes ou phénomènes lié-es au fonctionnement des arbres. 
+
+## Que se passe-t-il quand l'arbre grandit en diamètre et en longueur de branches ? 
+
+Dans cette section, on verra comment la sève peut continuer de circuler alors que l'arbre croît en diamètre ; comment se créent de nouvelles cellules ; le rôle des méristèmes, du cambium, du liber, etc... De quelle manière (processus et nature des changements) les différentes couches vues ci-dessus se "déplacent"-elles et changent de matière et de fonction ?
+
+
+# Diversité et particularités notables relatives à la sève selon les essences d'arbres
+
 ## Circulation de sève dans les fruitiers à noyau 
 
 Certains arbres, comme les fruitiers à noyau (pêcher, abricotier, cerisier), produisent une gomme en réaction aux blessures de grosses branches. Ces arbres risquent la gommose, qui est un écoulement de gomme trop important qui vient étouffer les plaies de taille ou autres blessures, et qui en empêchant la circulation de la sève peut entraîner la nécrose des tissus. L'origine géographique des fruitiers à noyaux est l'Asie du Sud-Est c'est-à-dire une zone de climat plus doux que les pommiers, par exemple, originaires du Kazakhstan, donc d'Asie centrale au climat plus froid. Ainsi, la sève circule plus dans les fruitiers à noyaux en été (ils n'entrent pas en dormance de la même manière que les fruitiers à noyaux) ce qui en conjonction avec leur production de gomme augmente le risque d'écoulements en hiver qui les affaiblit. La récolte des fruits, en fin d'été, est souvent un moment conseillé pour tailler ces fruitiers.
 
+# Bibliographie et renvois à des ressources externes
+
 Pour plus d'info sur les circulation de sève, voir https://plantes-et-eau.fr/documentation/etats-et-transferts-hydriques-dans-et-a-travers-la-plante/26-les-flux-de-seve-dans-la-plante-couplage-entre-xyleme-et-phloeme-modelisation/65-la-double-circulation-des-seves
 
 
-# Vocabulaire et schémas
+# Vocabulaire (notions à intégrer au corps de la ressource)
 
 ## Vocabulaire spécifique à la croissance des arbres
 - *Méristèmes*
@@ -36,7 +69,6 @@ Pour plus d'info sur les circulation de sève, voir https://plantes-et-eau.fr/do
 - Pour en savoir plus sur la *sève*, voir https://fr.wikipedia.org/wiki/S%C3%A8ve 
 - *Sève brute* : solution minérale dont la composition est très proche de l'eau trouvée par l'arbre dans le sol. Circule depuis les radicelles, globalement vers le haut et à fort débit, grâce à l'évapotranspiration et à la poussée racinaire, par capillarité, dans le xylème qui se situe dans l'aubier.
 - *Sève élaborée* : visqueuse et chargée en sucres et en acides aminés notamment, issus de la photosynthèse. Circule depuis les feuilles, globalement vers le bas et à faible débit, dans le phloème secondaire ou liber, situé entre le cambium et le périderme.
-
 
 ## Vocabulaire des couches de tissus de l'arbres (voir schéma vue en coupe)
 - Phloème : tubes criblés, tissus conducteurs de sève élaborée, vaiseaux très fin, cellules vivantes.
