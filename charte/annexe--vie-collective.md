@@ -45,11 +45,13 @@ Le lieu est séparé en plusieurs pôles. Ces pôles servent principalement à d
 - Autonomie alimentaire
 - Accueil
 - Gestion des ressources premières
-- Construction
+- Infrastructures
 - Soins aux animaux non-humains
 - Vie collective
 - Autocritique et stratégie
-- Faune et flore sauvages
+- Formation
+- Solidarité (humaine et non-humaine)
+- Arrimé-es
 
 Les décisions sont prises collectivement au moment de planification pour chaque pôle où un budget et des objectifs sont définis pour le trimestre suivant. 
 
