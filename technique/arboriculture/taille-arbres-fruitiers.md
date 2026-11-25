@@ -14,10 +14,10 @@ message:
   color: 218380
 ---
 
-# ATTENTION
+### ATTENTION
 Cette ressource technique est à l'état de brouillon : sa structure et son contenu évolueront prochainement. Certaines sections peuvent ne pas être fiables ou contenir des coquilles.
 
-### Réaction à la coupe
+##### Réaction à la coupe
 
 Certaines coupes et blessures sont résultent d'une interaction de l'environnement non-humain avec l'arbre. Par exemple, des herbivores peuvent manger des feuilles ou des rameaux ou se frotter à l'écorce. Les arbres sont heureusement assez résilients pour résister à ces agressions qui ne sont pas le seul fait des tronçonneuses.
 
@@ -30,7 +30,7 @@ Le cale de recouvrement est *produit à partir du cambium* : c'est pourquoi il e
 Malgré les capacités qu'ont les arbres de compartimenter leur bois et de recouvrir leurs blessures, il est relativement facile de tuer un arbre avec peu d'efforts. Une blessure pourtant superficielle sur une portion du pourtour de l'arbre peut endommager voire même tuer un arbre si tout le tour de l'arbre est endommagé, ne serait-ce que sur quelques centimètres de hauteur, car la circulation de la sève élaborée ne peut se faire en l'absence des canaux qui la contiennent. Des lapin-es qui rongent les premières couches superficielles ou des herbivores se frottant sur des jeunes arbres peuvent causer leur mort très rapidement.
 
 
-### A quelle saison tailler ou trogner ?
+##### A quelle saison tailler ou trogner ?
 
 Tailler ou trogner un arbre n'est jamais anondin pour lui. Les blessures de taille sont des zones qui demandent de la gestion à l'arbre et sont autant de portes d'entrées pour les maladies (notamment champignons et bactéries). Selon la circulation de sève, c'est-à-dire selon la saison et selon l'essence de l'arbre, les blessures sont recouvertes plus ou moins rapidement. Connaître ces variations permet de savoir pourquoi on conseille de tailler les arbres spécifiquement à certaines saisons. 
 
@@ -43,7 +43,7 @@ L'automne est la saison de *fructification des champignons* : leurs spores sont 
 Pour la plupart des arbres trognés ou pour restaurer un verger, la fin de l'hiver est une période propice. Une fois le risque de gelées passé, et avant le débourrage, lorsque les arbres sont encore en dormance et que ses réserves sucrées sont stockées dans son tronc et ses racines : on lui laisse ainsi ses réserves pour débourrer, pousser et gérer ses blessures au printemps.
 
 
-### Mastiquer les plaies ?
+##### Mastiquer les plaies ?
 
 Il existe des mastics et des goudrons vendus pour protéger les plaies de taille. L'argile peut également être utilisée, associée à un purin parfois (macérat de plantes).
 En toute saison *par temps pluvieux, l'application d'un mastic est déconseillée* pour éviter d'enfermer l'humidité entre le bois et le mastic, ce qui fournirait un lieu idéal bien humide et abrité pour qu'un champignon puisse se développer.
