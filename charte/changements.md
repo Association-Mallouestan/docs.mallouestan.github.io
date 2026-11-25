@@ -10,6 +10,10 @@ author: mallouestan
 
 ## Registre de changements de la charte
 
+### 25 novembre 2026
+
+- Mise à jour de la présentation du collectif
+
 ### 20 avril 2026 (Majeur)
 
 - Mise à jour de la liste d'objectifs
