@@ -118,6 +118,7 @@ Comme expliqué dans l'annexe économie partagée la mutualisation inclut les bi
 | EPI Lunette            | ✔ | ✔ | ▢ |
 | EPI Casque             | ✔ | ✔ | ▢ |
 | Embouts visseuse       | ✔ | ✔ | ▢ |
+| Maillet                |   |   | ▢ |
 
 
 | **Camp et dodo** | Garantie par la mutualisation | Entretient garantie par la mutualisation | Checklist       |
