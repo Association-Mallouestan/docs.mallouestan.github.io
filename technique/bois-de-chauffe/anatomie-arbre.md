@@ -1,6 +1,6 @@
 ---
 date: 2026-11-10 2:00:00
-title: 
+title: Anatomie du bois
 description: Une présentation de l'anatomie des arbres pour comprendre les bases de leur fonctionnement interne et leurs interaction avec l'environnement.
 tags:
   - techniques
@@ -17,7 +17,7 @@ message:
   color: 218380
 ---
 
-# Introduction à l'anatomie des arbres et du bois : vocabulaire de base pour se comprendre.
+### Introduction à l'anatomie des arbres et du bois : vocabulaire de base pour se comprendre.
 
 Nous avons certainement toustes observé beaucoup d'arbres, et pourtant leur fonctionnement et leur anatomie restent souvent obscures. Notamment, leurs racines constituent une importante part de leur masse qui nous est le plus souvent invisible. Pour nos activités autour des arbres, approfondir nos connaissances sur ces derniers permet de mieux comprendre comment les planter, les tailler, ou comment fendre ou brûler leur bois. 
 
@@ -26,7 +26,7 @@ Le but de cette introduction est d'arriver à un langage commun pour identifier 
 Le vocabulaire donné ici peut différer selon les spécialisations autour du bois : le vocabulaire diffère selon qu'on se situe dans le domaines de la sylviculture, ou de l'exploitation du bois, ou de la réglementation étatique sur les forêts, par exemple. De même, des charpentièr-es, bucheron-nes ou élagueur-ses, selon leur parcours, ne parlent pas des arbres exactement de la même manière.
 
 
-# Quelques mots du vocabulaire général forestier
+### Quelques mots du vocabulaire général forestier
 
 - *Arbre* : Végétal vivace et ligneux, à tige simple et sans branche jusqu’à une certaine hauteur, pouvant atteindre au moins 5 mètres de hauteur. 
 - *Essence* :  Terme forestier correspondant à l’*espèce botanique* d’un arbre.
@@ -47,9 +47,9 @@ Le vocabulaire donné ici peut différer selon les spécialisations autour du bo
 - *Couvert* : Proportion de la surface couverte par la projection verticale au sol des houppiers de l’ensemble des arbres d’un peuplement. 
 - *Chablis* : Arbre ou ensemble d’arbres renversés ou brisés sans intervention de l’homme, le plus souvent à la suite d’accidents climatiques (vent, neige…).
 
-# Parties d'un arbre sur pied vu de face
+### Parties d'un arbre sur pied vu de face
 
-## Décrire des zones sur un arbre
+#### Décrire des zones sur un arbre
 
   On parle de *système/partie sous-terraine/racinaire* pour désigner la même zone sur un arbre : l'ensemble des racines. Le système permet plus souvent de parler des échanges entre l'arbre et son environnement (les autres éléments et organismes vivants et inertes). Même chose pour les termes *système/partie aérienne* qui désigne toute la partie non enterrée d'un arbre.
 
@@ -65,17 +65,17 @@ Le vocabulaire donné ici peut différer selon les spécialisations autour du bo
 
 - *Bourgeon* : Petite excroissance qui peut donner naissance aux nouvelles pousses, dans laquelle se situent déjà en miniature les différents organes de la future jeune pousse : rameau, feuilles, pétioles, fleurs, etc. On trouve des bourgeons sur les côtés et l'extrémité des rameaux, *mais aussi sur le tronc et les branches maîtresses* (ces derniers sont souvent dormants et peu visibles, peu renflés). Les bourgeons peuvent être visiblement différenciés, en bourgeon à bois versus bourgeon floral par exemple. Voir la *ressource technique sur les bourgeons*.
 
-## Décrire des points et lignes sur un arbre
+#### Décrire des points et lignes sur un arbre
 
 - **Cime** ou **flèche** : Point le plus haut d'un arbre (son sommet).
 - **Collet** : Ligne de jonction entre la partie sous-terraine (ou système racinaire) et la partie aérienne (système aérien) de l'arbre
 - **Couronne** : Désigne la ligne de jonction entre le fût d'un arbre et son houppier. Dans certains usages cependant, couronne et houppier sont parfois confondu-es.
 
-# Décrire les ramifications aériennes et racinaires
+### Décrire les ramifications aériennes et racinaires
 
 - *Ramifications* : /////////////////////////////////////////////
 
-## Les ramifications aériennes
+#### Les ramifications aériennes
 
 Par ordre de taille, depuis la souche vers la cime : 
   Tronc > Branche > 
@@ -97,7 +97,7 @@ Par ordre de taille, depuis la souche vers la cime :
 - *Fourche* : Zone de ramification entre deux branches de tout type.
 - *Fourche maîtresse* : Zone de ramification entre deux branches maîtresses/principales.
 
-## Les ramifications racinaires / sous-terraines
+#### Les ramifications racinaires / sous-terraines
 
 - Racine pivot : ///////////////////////////////////////////
 - Racine traçante : ///////////////////////////////////////////
@@ -106,9 +106,9 @@ Par ordre de taille, depuis la souche vers la cime :
 - *Chevelu racinaire* : Ensemble de ces petits poils, que l'on peut imaginer comme une sorte de tapis de contact avec le sol. (Le chevelu désigne l'ensemble des radicelles, comme la chevelure d'une personne désigne l'ensemble des cheveux de cette personne.)
 
 
- ## Distinction entre rejet et drageon
+#### Distinction entre rejet et drageon
 
- Rejets et drageons sont tous deux des types de nouvelles pousses, ou tiges. Un *_rejet_* est une tige issue d’un bourgeon qui s’est *développé sur la souche* généralement suite à un recépage. Un *drageon* est un rejet *_émis par une racine_* superficielle. 
+Rejets et drageons sont tous deux des types de nouvelles pousses, ou tiges. Un *_rejet_* est une tige issue d’un bourgeon qui s’est *développé sur la souche* généralement suite à un recépage. Un *drageon* est un rejet *_émis par une racine_* superficielle. 
 
 
 ### Vocabulaire de l'arbre vu en coupe 
@@ -150,13 +150,13 @@ Le vocabulaire est listé de l'intérieur vers l'extérieur de l'arbre vu en cou
 ![alt](https://mallouestan.org/images/plants/arbres/dual--branches.svg)
 
 
-# Conclusion
+### Conclusion
 
 Cette ressource nous a permis de voir un ensemble de termes de base du lexique sylvicole pour se comprendre quand nous travaillons ensemble sur des arbres, que ce soit pour faire du bois du chauffe, pour la production frutière, pour l'élagage, etc. 
 
 Pour aller plus loin sur la compréhension des arbres et de leurs interactions avec leur écosystème, d'autres ressources sont disponibles ou en cours d'écriture sur notre site. Ces ressources sont des introductions qui peuvent être complétées par bien d'autres ressources, notamment numériques et papier, mais aussi par des connaissances associatives et de terrain, par l'observation et par nombre de pratiques autour des arbres.
 
-# Bibliographie
+### Bibliographie
 
 _Guide d’implantation et des normes_, Chapitre "Foresterie", Section I. "Glossaire et Lexique", Alberta Learning, Alberta, Canada, 2001. En ligne à l'adresse : https://fr.scribd.com/document/721631806/foresterie-glossaire-lexique
 

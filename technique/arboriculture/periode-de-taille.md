@@ -9,11 +9,11 @@ image: /images/technique/arboriculture/calendrier-reperes-taille-fruitiers.jpg
 author: mallouestan
 ---
 
-## Période de taille
+### Période de taille
 
 ![Tableau indiquant les périodes de taille d'abres et d'arbustes fruitiers](/images/technique/arboriculture/calendrier-reperes-taille-fruitiers.jpg)
 
-### Notes
+#### Notes
 
 La colonne du tableau avec des émoticones sur fond noir signifie les repères visuels à prendre sur l'arbres pour savoir quand il est plus propice de le tailler. 
  - Flèche vers la gauche : tailler avant 
