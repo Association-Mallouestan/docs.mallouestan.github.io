@@ -33,7 +33,7 @@ Les arrimé·es ont évidemment le droit de prendre des vacances et sont encoura
 
 L'absence cumulée des arrimé·es ne doit pas excéder 42 jours (soit 6 semaines) par an et par arrimé·e dont on soustrait les jours dit de déplacements qand le séjour est plus long que une journée. Par exemple un séjour de 6 jours au total compte pour 5 (6 jours d'absence - 1 jour de déplacement) ou dans le cas d'un WE de deux jours compte comme 1. Les demi-journées passé dans le collectif (participation chantiers ou tâches le reste du temps) juste avant ou après sont exclues du calcul.
 
-> Quand le nombre d'arrimé·es est inférieur à 4, les vacances ne peuvent dépasser 14 jours.
+> Quand le nombre d'arrimé·es est inférieur à 4, les vacances ne peuvent dépasser 14 jours consécutifs.
 
 ### Absences BIC
 
@@ -49,66 +49,88 @@ Dans le cas d'aide ou d'urgence, familiale par exemple, une absence peut relever
 
 Comme expliqué dans l'annexe économie partagée la mutualisation inclut les biens matériels. La liste suivante de biens est considérée comme exclue de la mutualisation en vue du caractère essentiel ou personnel de ces biens :
 
-| Bien | Garantie par la mutualisation | Entretient garantie par la mutualisation | Checklist       |
+| **Transport** | Garantie par la mutualisation | Entretient garantie par la mutualisation | Checklist       |
 |-------------------|---|---|---|
-| **Transport**     |   |   |   |
-| Vélo              | x | x |   |
-| Sacoches AV       | x | x |   |
-| Sacoches AR       | x | x |   |
-| Remorque          | x | x |   |
-| Lumières          | x | x |   |
-| Accessoires cadre |   |   |   |
-| Outils entretient | x | x |   |
-| 3xChambres à airs | x | x |   |
-| Bidon             |   |   |   |
-| **Affaires pers** |   |   |   |
-| Sac à dos >70L    | x | x |   |
-| Vétements pers    | x | x |   |
-| Chaussures x3      | x | x |   |
-| Trousse de toil.  | x | x |   |
-| Dumbphone         | x | x |   |
-| Smartphone ou tab |   |   |   |
-| Trousse couture   | x | x |   |
-| Trousse secours   | x | x |   |
-| Carnets/papeterie | x |   |   |
-| **Subsistence**   |   |   |   |
-| Réchaud           | x | x |   |
-| Gaz               | x | x |   |
-| Couverts          | x | x |   |
-| Gamelle           | x | x |   |
-| Gourde            | x | x |   |
-| **Outils**        |   |   |   |
-| Couteau           | x | x |   |
-| Fer de hache      | x | x |   |
-| Manches           |   |   |   |
-| Serpe             | x | x |   |
-| Fer de houe       | x | x |   |
-| Pierres d'afut.x3 | x | x |   |
-| Limes             |   |   |   |
-| Graisse           | x | x |   |
-| Embouts visseuse  | x | x |   |
-| Graisse           | x | x |   |
-| Lame scie à cadre | x | x |   |
-| Burrin            | x | x |   |
-| **Rouleau outils**     |   |   |   |
-| Pince anglaise         | x |   |   |
-| Pince multiple         | x |   |   |
-| Clef à molette         | x |   |   |
-| Jeu de clefs allen     | x |   |   |
-| Tournevis pour embouts | x |   |   |
-| Mêtre (cm & in)        | x |   |   |
-| Marteau à griffe       | x |   |   |
-| Ciseaux charp. 20mm    | x |   |   |
-| Cordeau à 13 noeuds    | x |   |   |
-| 2x Cordeau > 12 pied   | x |   |   |
-| Règlet de >4 pouces    | x |   |   |
-| Crayon                 | x |   |   |
-| **Camp et dodo**  |   |   |   |
-| Tarp ou bivy      | x | x |   |
-| Sac couchage 0°   | x | x |   |
-| **Vêtements tech** |  |   |   |
-| Parka -5° min     | x | x |   |
-| Sur-pantalon imp. | x | x |   |
-| Gants ou moufles  | x | x |   |
+| Vélo                                             | ✔ | ✔ | ▢ |
+| Remorque                                         | ✔ | ✔ | ▢ |
+| Sacoches AV                                      | ✔ | ✔ | ▢ |
+| Sacoches AR                                      | ✔ | ✔ | ▢ |
+| Lumières                                         | ✔ | ✔ | ▢ |
+| Accessoires cadre                                |   |   | ▢ |
+| Outils multiple (dont chasse-goupille de chaîne) | ✔ |   | ▢ |
+| Outils pneu                                      | ✔ |   | ▢ |
+| 3xChambres à airs                                | ✔ | ✔ | ▢ |
+| Bidon                                            |   |   | ▢ |
+
+
+| **Affaires pers** | Garantie par la mutualisation | Entretient garantie par la mutualisation | Checklist       |
+|-------------------|---|---|---|
+| Sac à dos >70L    | ✔ | ✔ | ▢ |
+| Vétements pers    | ✔ | ✔ | ▢ |
+| Chaussures x3      | ✔ | ✔ | ▢ |
+| Trousse de toil.  | ✔ | ✔ | ▢ |
+| Dumbphone         | ✔ | ✔ | ▢ |
+| Smartphone ou tab |   |   | ▢ |
+| Trousse couture   | ✔ | ✔ | ▢ |
+| Trousse secours   | ✔ | ✔ | ▢ |
+| Carnets/papeterie | ✔ |   | ▢ |
+
+
+| **Subsistence** | Garantie par la mutualisation | Entretient garantie par la mutualisation | Checklist       |
+|-------------------|---|---|---|
+| Réchaud           | ✔ | ✔ | ▢ |
+| Gaz               | ✔ | ✔ | ▢ |
+| Couverts          | ✔ | ✔ | ▢ |
+| Gamelle           | ✔ | ✔ | ▢ |
+| Gourde 1L         | ✔ | ✔ | ▢ |
+
+
+| **Outils** | Garantie par la mutualisation | Entretient garantie par la mutualisation | Checklist       |
+|-------------------|---|---|---|
+| Couteau           | ✔ | ✔ | ▢ |
+| Fer de hache      | ✔ | ✔ | ▢ |
+| Manches           |   |   | ▢ |
+| Serpe             | ✔ | ✔ | ▢ |
+| Fer de houe       | ✔ | ✔ | ▢ |
+| Pierres d'afut.x3 | ✔ | ✔ | ▢ |
+| Limes             |   |   | ▢ |
+| Graisse           | ✔ | ✔ | ▢ |
+| Lame scie à cadre | ✔ | ✔ | ▢ |
+
+
+| **Boite à outils** | Garantie par la mutualisation | Entretient garantie par la mutualisation | Checklist       |
+|-------------------|---|---|---|
+| Pince anglaise         | ✔ |   | ▢ |
+| Pince multiple         | ✔ |   | ▢ |
+| Clef à molette         | ✔ |   | ▢ |
+| Jeu de clefs allen     | ✔ |   | ▢ |
+| Tournevis pour embouts | ✔ |   | ▢ |
+| Mêtre (cm & in)        | ✔ |   | ▢ |
+| Marteau à griffe       | ✔ |   | ▢ |
+| Ciseaux charp. 20mm    | ✔ |   | ▢ |
+| Burrin                 | ✔ | ✔ | ▢ |
+| Graisse                | ✔ | ✔ | ▢ |
+| Cordeau à 13 noeuds    | ✔ |   | ▢ |
+| 2x Cordeau > 12 pied   | ✔ |   | ▢ |
+| Règlet de >4 pouces    | ✔ |   | ▢ |
+| Crayon                 | ✔ |   | ▢ |
+| EPI Masque             | ✔ |   | ▢ |
+| EPI Lunette            | ✔ | ✔ | ▢ |
+| EPI Casque             | ✔ | ✔ | ▢ |
+| Embouts visseuse       | ✔ | ✔ | ▢ |
+| Maillet                |   |   | ▢ |
+
+
+| **Camp et dodo** | Garantie par la mutualisation | Entretient garantie par la mutualisation | Checklist       |
+|-------------------|---|---|---|
+| Tarp ou bivy      | ✔ | ✔ | ▢ |
+| Sac couchage 0°   | ✔ | ✔ | ▢ |
+
+
+| **Vêtements tech** | Garantie par la mutualisation | Entretient garantie par la mutualisation | Checklist       |
+|-------------------|---|---|---|
+| Parka -5° min     | ✔ | ✔ | ▢ |
+| Sur-pantalon imp. | ✔ | ✔ | ▢ |
+| Gants ou moufles  | ✔ | ✔ | ▢ |
 
 En plus de cette liste chaque arrimé·e peut déclarer des biens personnels qu'il·elle souhaite exclure de la mutualisation. Cette demande doit être validée par l'ensemble des arrimé·es. Cette liste est appelée "Liste d'affaires supplémentaire non mutualisée" et est tenue à jour par les arrimé·es.

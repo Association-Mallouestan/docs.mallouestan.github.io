@@ -11,18 +11,15 @@ author: mallouestan
 
 # Charte du Mallouestan
 
-## Préface
+## Présentation
 
-Tendre vers un idéal est complexe. C’est pourquoi nous sommes contraint·es d’établir une charte de vie commune.
+Le Mallouestan est une communauté en Basse-Normandie accès autour de la subsistance. Cette notion éco-féministe viens de différentes penseuses appeler féministes de la subsistance. Ces féministe ont notamment analysé le capitalisme au travers de cette notion. Elles mettent avant l'exploitation inhérente au capitalisme ainsi que les mode de vie standard du Nord global, le délitement du tissu social, la perte de nombreuses autonomie, et enfin une idée, qui pourrait sembler anecdotique mais qui est crucial, l'aliénation structurelle à l'égard de la subsistance des sujets du capitalisme. Ce dernier point est une des raisons les plus importantes de cette prise en charge. Malgré l'envie de renouer avec une subsistance organique notre incompétence à l'égard de  celle çi nous oblige d'accepter une certaine technicité ou vivre ensemble et aux autonomies souhaitées. Cette charte fait partie de ces outils mais la communauté du Mallouestan utilise au quotidien les suivants également: 
 
-Le Mallouestan est un lieu fondé notamment sur les piliers suivants:
-
-- **l'anarcho-communisme** (voir le texte sur notre position "Anarcho-communisme")
-- **un écocentrisme vegan opposé à la domestication** (texte "Ethique environnementale")
-- **un rejet du libéralisme** (texte "Anti-libéralisme")
-- **une vision technocritique**
-
-Nos positions et valeurs ne sont pas dépendantes d'une romantisation du passé ou d'une autarcie absolue. Elles sont le fruit d'un travail critique, basé sur les discussions, les expériences et les connaissances des membres du lieu et des visiteuse·eurs. Cette charte n'est donc pas un support dogmatique ou sectaire, mais un repère pour un collectif anarcho-communiste. Il est destiné à évoluer régulièrement.
+- une vision de travail valorisant et mutualisant le travail de reproduction et domestique
+- une organisation à anarcho-communiste 
+- un rejet du libéralisme et de l'individualisme 
+- un rapport à l'environnement non centré sur l'homme et minimisant la domestication 
+- une analyse matérialiste
 
 > Cette charte n'est pas le règlement intérieur de l'association loi 1901 Le Mallouestan qui est l'organe public permettant de réaliser les différentes missions sociales et solidaires du collectif de même nom.
 
@@ -44,7 +41,7 @@ L'objectif principal du collectif est de créer un contexte où les membres peuv
 8. **Adopter une culture des techniques démocratiques** (plus de détails dans le texte ["Une culture des techniques démocratiques"](https://www.mallouestan.org/r/philosophie-objectifs-techniques-democratiques))
 
 
->La notion d'écologie n'est pas abordée directement dans cette liste. Pour autant, elle cadre nos objectifs soutenant notre projet politique qui est intimement et fondamentalement un projet écologique.   
+> La notion d'écologie n'est pas abordée directement dans cette liste. Pour autant, elle cadre nos objectifs soutenant notre projet politique qui est intimement et fondamentalement un projet écologique.   
 
 ## Prérequis
 
@@ -130,7 +127,7 @@ Plusieurs ultimatums exceptionnels s'appliquent à tous les membres du lieu. Leu
 
 Parmi nos objectifs, nous avons toujours valorisé l'accueil de visiteuse•eurs, dans diverses optiques notamment : de solidarité, de transmission, et d'ouverture à l'extérieur évitant un entre-soi. Notre collectif vise une émancipation qui se veut collective et qui voit cette autonomie autant que possible par une organisation qui est collective également. Ainsi, les visiteuse•eurs que nous accueillons sont tenu•es de participer a minima à notre vie quotidienne (moments collectifs et tâches) ou de nous communiquer l'incapacité de le faire. Dans tout les cas un minimum de temps partagé est attendu quand cela est possible. Pour toute les raisons citées ci-dessus, nous nous accordons la possibilité de demander aux personnes qui ne s'inscrivent pas dans une telle démarche de partir.
 
-Pour plus d'informations sur la vie collective sur le lieu, il est encouragé de lire l'annexe correspondante.
+Pour plus d'informations sur l'accueil sur le lieu, il est encouragé de lire l'annexe correspondante [disponible içi](https://www.mallouestan.org/r/charte-annexe-accueil).
 
 ### Annexes
 - [Vie collective](/r/charte-annexe-vie-collective)
