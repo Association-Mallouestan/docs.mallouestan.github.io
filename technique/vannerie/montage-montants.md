@@ -7,7 +7,7 @@ tags:
   - vannerie
 folders:
   - vannerie-2j-debutant-e
-image: /images/technique/vannerie/images/montants08.webp
+image: /images/technique/vannerie/montants08.webp
 author: mallouestan
 ---
 
