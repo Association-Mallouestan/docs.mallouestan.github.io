@@ -1,5 +1,5 @@
 ---
-date: 2026-06-16 2:00:00
+date: 2026-11-26 2:00:00
 title: Mise en place des montants 
 description: Un guide étape par étape de la mise en place des montants en vannerie hélicoïdale à montants parallèles.
 tags:
@@ -7,14 +7,11 @@ tags:
   - vannerie
 folders:
   - vannerie-2j-debutant-e
-image: /images/technique/vannerie/images/montants08.jpg
+image: /images/technique/vannerie/images/montants08.webp
 author: mallouestan
 ---
 
-
-## Mise en place des montants
-
-Si vous en êtes là, c'est probablement que vous avez déjà fait votre fond croisé.
+Si vous en êtes là, c'est probablement que vous avez déjà fait votre fond croisé [expliqué ici](/r/technique-vannerie-realisation-fond-croise).
 
 La suite pour réaliser un panier ou une corbeille consiste à mettre en place les montants. C'est ce que nous allons voir dans cette ressource technique.
 
@@ -37,39 +34,32 @@ Sélectionnez soit 12, soit 24 brins parmi les plus gros de votre récolte.
 
 Taillez vos brins en biseau à la base. Cela servira à les faire rentrer plus facilement et plus loin dans votre fond croisé.
 
-![biseau montants](./images/montants03.jpg)
+![biseau montants](https://www.mallouestan.org/images/technique/vannerie/montants03.webp)
 
 Piquez vos montants dans le fond croisé le long des bâtons servant à la structure du fond. N'hésitez pas à utiliser le poinçon pour écarter le tressage de votre fond croisé et faire passer les montants plus facilement. Piquez le plus loin possible vers le centre.
 
 Rpétez cette opération pour tous les montants.
 
-![poinçon dans fond](./images/montants04.jpg)
+![poinçon dans fond](https://www.mallouestan.org/images/technique/vannerie/montants04.webp)
 
 ### Montage des montants
 
 Commencez par mettre un poids sur votre fonde croisé. Il vous facilitera le travail pour la suite.
 
-![poids dans fond](./images/montants05.jpg)
+![poids dans fond](https://www.mallouestan.org/images/technique/vannerie/montants05.webp)
 
 Préparez vos montants à la torsion vers le haut. Il faut s'imaginer qu'il faudra les ficeler ensemble en haut. Il faut donc replier les montants suffisemment pour les attacher ensemble. Pour aider les montants à se plier, il est bon d'utiliser la pointe d'un couteau.
 
-![replier montants au couteau](./images/montants06.jpg)
+![replier montants au couteau](https://www.mallouestan.org/images/technique/vannerie/montants06.webp)
 
 😉 Astuce : cette torsion à quasiment 90° peut être violente pour certains matériaux. Si vous travaillez avec un matériau cassant, très gros ou peu souple, vous pouvez d'abord assouplir vos brins en les frottant sur le genou ou en le tordant petit à petit à l'aide de vos doigts. Sinon, vous pouvez aussi tout à fait utiliser des brins fendus en 2 et affinés au couteau à la base. Vous pouvez voir la technique dans la ressource technique associée à la réalisation des éclisses (à paraître).
 
 Remontez vos montants en prenant les brins opposés ensemble (ou les paires opposées si vous avez utilisé 24 montants). Cette manière de procéder aide à la manutention des brins.
 
-![montants opposés](./images/montants07.jpg)
+![montants opposés](https://www.mallouestan.org/images/technique/vannerie/montants07.webp)
 
 Attachez vos montants par le haut à l'aide d'une ficelle (ou d'un bout d'écorce ou d'une éclisse).
 
-![ficelage montants](./images/montants08.jpg)
+![ficelage montants](https://www.mallouestan.org/images/technique/vannerie/montants08.webp)
 
 Ré-enfoncer les montants dans le fond croisé car certains ont pu se retirer un peu suite à toutes les manipulations.
-
-### Poursuivre
-
-La suite ici : (lien à paraître)
-
-
-

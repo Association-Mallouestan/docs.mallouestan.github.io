@@ -1,6 +1,21 @@
-# La ronce (_rubus fruticosus_)
+<!-- ---
+date: 2026-11-25 2:00:00
+title: La ronce en vannerie
+description: Petite présentation de la ronce en vannerie
+tags:
+  - techniques
+  - vannerie
+hidden-from:
+  - front
+image: /images/technique/vannerie/ronce1.jpg
+author: mallouestan
+--- -->
 
-(image)
+RESSOURCE PAS PRETE MANQUE DEXPLICATION SUR LES ECLISSES NOTAMENT
+RESSOURCE NON FINIT
+PHOTOS MANQUANTE
+
+# La ronce (_rubus fruticosus_)
 
 Le premier matériau que nous vous conseillons de travailler pour faire un tressage, c'est la ronce !
 
@@ -14,7 +29,7 @@ On l'utilise pour faire des liens entre des bottes de chaume, pour faire des pai
 
 ## La ronce pour la vannerie
 
-La ronce est un matériau combinant souplesse et solidité. Tout ce qu'on veut pour vanner ! Elle et très recommandée pour débuter.
+La ronce est un matériau combinant souplesse et solidité. Tout ce qu'on veut pour vanner ! Elle est très recommandée pour débuter.
 
 On peut la récolter toute l'année, bien que l'hiver soit une période plus propice pour la récolte.
 
@@ -24,7 +39,7 @@ Vous pouvez utiliser des ronces de l'année encore jeunes et souples pour du tre
 
 Dans tous les cas, il faut que votre ronce soit lignifiée, c'est-à-dire qu'elle ait commencé à faire du bois.
 
-(photos de 2 ronces)
+> Image à venir
 
 ## Usages
 
@@ -34,13 +49,13 @@ La ronce a différents usages pour la vannerie.
 
 Il faut pour cela qu'elle soit souple et fine (la finesse dépend du serrage du tressage).
 
-(photo)
+> Image à venir
 
 2) On peut aussi l'utiliser pour faire du tressage avec des éclisses.
 
 Il faut pour cela des ronces plus vieilles, idéalement qu'elles aient presque fait du bois.
 
-(photo)
+> Image à venir
 
 La ronce peut, en outre, servir pour faire le **squelette** de votre ouvrage.
 
@@ -54,16 +69,16 @@ Plusieurs techniques existent pour ce faire. Toutes demandent d'abord de se cré
 
 - La technique avec la lame du couteau à plat sur la ronce
 
-Posez votre couteau à plat sur la ronce et coupez les épines. Si vous débutez, allez-y mollo et enlevez les épines une à une. Une fois que vous aurez pris de l'expérience, vous pourrez essayer d'en enlever plusieurs à la fois.
+Posez votre couteau à plat sur la ronce et coupez les épines. Si vous débutez, allez-y doucement et enlevez les épines une à une. Une fois que vous aurez pris de l'expérience, vous pourrez essayer d'en enlever plusieurs à la fois.
 
 Vous n'avez pas besoin de tenir fermement votre couteau, au risque de couper votre ronce.
 
-(photo)
+![alt](https://www.mallouestan.org/images/technique/vannerie/ronce2.jpg)
 
 Si vous pénétrez un peu dans votre ronce, ce n'est peut-être pas grave. Ce qui nous intéresse le plus dans la ronce, ce sont les fibres, la partie verte sur la photo ci-dessous. Tant que vous ne voyez pas le blanc de la moelle, 
 
 - La technique avec le dos du couteau à 90°
 
-Posez votre couteau à 90° par rapport à votre ronce et raclez les épines. L'avantage de cette technique par rapport à la suivante, c'est que v
+Posez votre couteau à 90° par rapport à votre ronce et raclez les épines. L'avantage de cette technique par rapport à la suivante, c'est que vous risquez de abimer accidentellement la ronce .
 
-(photo)
+> Image à venir
