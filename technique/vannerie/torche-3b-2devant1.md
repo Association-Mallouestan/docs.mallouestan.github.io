@@ -14,33 +14,35 @@ Placez la cime (la partie la plus fine) de votre premier brin et placez-le en le
 
 😉 Astuce : Plutôt que de faire passer vos brins devant 2 montants puis derrière le prochain montant sur leur droite (pour les droitiers), vous pouvez vous faciliter la tâche en faisant d'abord passer vos brins derrière 1 montant puis devant les 2 montants sur la gauche et coincer votre brin derrière le montant suivant.
 
-(photo)
+![alt](https://www.mallouestan.org/images/technique/vannerie/torche3b01.webp)
 
 Placez ensuite le deuxième brin en le faisant commencer sous le brin que vous venez de placer, puis par-dessus ce dernier, toujours en passant devant 2 montants puis derrière 1. Il doit normalement sortir un montant plus à droite que le précédent.
 
-(photo)
+![alt](https://www.mallouestan.org/images/technique/vannerie/torche3b02.webp)
 
 Placez votre troisième brin de la même façon. 
 
-(photo)
+![alt](https://www.mallouestan.org/images/technique/vannerie/torche3b03.webp)
 
 Vous venez de placer vos brins dans leur position de départ. Maintenant, vous devez prendre le montant le plus à gauche pour le faire passer devant 2 montants puis derrière 1. Ce brin doit donc logiquement se trouver à un montant plus à droite que le précédent.
 
-(photo)
+![alt](https://www.mallouestan.org/images/technique/vannerie/torche3b04.webp)
+
+![alt](https://www.mallouestan.org/images/technique/vannerie/torche3b05.webp)
 
 Vous vous apercevez que vous vous retrouvez dans la même disposition des brins qu'à l'étape précédente. Recommencez dans la même idée : prenez le brin de gauche, faites-le passer devant 2 montants puis derrière 1, et recommencez ainsi de suite.
 
-(photo)
+![alt](https://www.mallouestan.org/images/technique/vannerie/torche3b06.webp)
 
 😉 Astuce : n'hésitez pas à "battre" vos brins avec un objet lourd pour resserrer votre structure lors du tressage.
-
-(photo)
 
 Après avoir fait ce premier tour, vous pouvez soit vous arrêter là et couper vos brins qui dépassent pour enchaîner sur un tressage différent, faire votre bordure haute ou refaire un tour de torche. Cette deuxième option renforce la solidité de votre panier.
 
 Pour ce faire, prenez 3 nouveaux brins, et faites un raboutage pied sur pied (donc avec la partie la plus épaisse des brins) et placez-les devant 2 derrière 1 comme si vous continuez le tressage avec vos brins précédents.
 
-(photo)
+<!-- //Photo manquante  -->
+
+<!-- ![alt](https://www.mallouestan.org/images/technique/vannerie/torche3b05.webp) -->
 
 Vous pouvez continuer ainsi de suite pour faire plus que 2 tours de torche, en pensant bien à rabouter la cime (l'extrémité la plus fine de vos brins) si vous avez fini un tressage avec les cimes de vos trois brins, ou avec les pieds si vous avez fini votre tressage avec les pieds de vos brins.
 
